@@ -20,7 +20,7 @@
 | **Nombre**                         | **Código** |
 | ---------------------------------- | ---------- |
 | Manuel Fernando, Joao Castro Picón | U20231G159 |
-|     |  |
+| Sebastián De Las Casa Latour       | U202213553 |
 |          |  |
 |    |  |
 |           |  |
@@ -176,7 +176,9 @@ Descripcion
   <p><img src="assets/md-images/members/Eduardo.png" alt="Eduardo" width="150px" /></p>
 </div>
 
-### 1.1.2.1. estudiante 5
+### 1.1.2.1. Sebastián De Las Casa Latour
+
+Descripcion
 
 <div>
   <p><img src="assets/md-images/members/Sebastián.png" alt="Sebastián" width="150px" /></p>
