@@ -157,7 +157,7 @@ Mi nombre es Joao Castro Picón tengo 19 anos, actualmente estoy cursando el 5to
 Descripcion
 
 <div>
-  <p><img src="assets/md-images/members/Valentino.png" alt="Valentino" width="150px" /></p>
+  <p><img src="assets/md-images/members/Juan.png" alt="Juan" width="150px" /></p>
 </div>
 
 ### 1.1.2.1. estudiante 3
@@ -165,7 +165,7 @@ Descripcion
 Descripcion
 
 <div>
-  <p><img src="assets/md-images/members/Miguel.png" alt="Miguel" width="150px" /></p>
+  <p><img src="assets/md-images/members/Brooklyn.png" alt="Brooklyn" width="150px" /></p>
 </div>
 
 ### 1.1.2.1. estudiante 4
@@ -173,13 +173,13 @@ Descripcion
 Descripcion
 
 <div>
-  <p><img src="assets/md-images/members/Diego.png" alt="Diego" width="150px" /></p>
+  <p><img src="assets/md-images/members/Eduardo.png" alt="Eduardo" width="150px" /></p>
 </div>
 
 ### 1.1.2.1. estudiante 5
 
 <div>
-  <p><img src="assets/md-images/members/JuanCarlos.png" alt="JuanCarlos" width="150px" /></p>
+  <p><img src="assets/md-images/members/Sebastián.png" alt="Sebastián" width="150px" /></p>
 </div>
 
 ## 1.2. Solution Profile
