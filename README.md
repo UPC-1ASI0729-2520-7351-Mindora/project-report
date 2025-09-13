@@ -21,9 +21,9 @@
 | ---------------------------------- | ---------- |
 | Manuel Fernando, Joao Castro Picón | U20231G159 |
 | Sebastián De Las Casa Latour       | U202213553 |
-|          |  |
-|    |  |
-|           |  |
+| Eduardo Fabián Chacaliaza Minaya   | U202324129 |
+| Fabricio Fabián Quispe Barzola     | U202320442 |
+| Juan Jose Meza Huanacune           | U202320574 |
 
 <div>
   <p align="center"><b>Ciclo 2025 - 2</b></p>
@@ -152,7 +152,7 @@ Mi nombre es Joao Castro Picón tengo 19 anos, actualmente estoy cursando el 5to
   <p><img src="assets/md-images/members/Joao.png" alt="Joao" width="150px" /></p>
 </div>
 
-### 1.1.2.1. estudiante 2
+### 1.1.2.1. Juan Jose Meza Huanacune
 
 Descripcion
 
@@ -160,7 +160,7 @@ Descripcion
   <p><img src="assets/md-images/members/Juan.png" alt="Juan" width="150px" /></p>
 </div>
 
-### 1.1.2.1. estudiante 3
+### 1.1.2.1. Fabricio Fabián Quispe Barzola
 
 Descripcion
 
@@ -168,7 +168,7 @@ Descripcion
   <p><img src="assets/md-images/members/Brooklyn.png" alt="Brooklyn" width="150px" /></p>
 </div>
 
-### 1.1.2.1. estudiante 4
+### 1.1.2.1. Eduardo Fabián Chacaliaza Minaya
 
 Descripcion
 
