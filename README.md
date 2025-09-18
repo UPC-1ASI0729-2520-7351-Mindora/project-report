@@ -416,3 +416,148 @@ agudo en sus actividades personales y laborales (Estudio LATAM, 2020). Este grup
 #### Segmento objetivo #2: Adultos entre 20 y 50 años de edad:
 
 Este segmento incluye personas que no necesariamente sean trabajadores formales. A menudo, son las que más experimentan grados de estrés, ya que no se rigen a un horario de trabajo, sino que su trabajo está presente a todas horas del día. Según un estudio realizado a 250 trabajadores informales se expresa que el 56% de ellos muestran nivel medio de estrés, mientras que el 33.3% está en un nivel bajo y solo el 10.6% está en un nivel alto (Porcayo, 2022). Este grupo obtendrá los mismos beneficios que el otro segmento objetivo, pero este tiene más potencial de expandir el tema del estrés laboral y por consecuencia el uso de esta plataforma.
+
+# 2. Capítulo II: Requirements Elicitation & Analysis
+
+---
+
+## 2.1 Competidores
+
+En este apartado analizaremos las posibles competencias para nuestra página web,
+viendo en ello sus descripciones y planes de negocios.
+
+| Competidores | Características                                                                                                                                                                                                                                                                              | Diferencias                                                                                                                                                                                              | Limitaciones                                                                                                                                                          |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Calm**     | - Contiene un ejercicio de respiración para reducir el estrés.<br>- Cursos de 10 minutos al día para reducir el estrés.<br>- Ejercicios físicos tipo meditaciones para relajar el cuerpo.<br>- Historias en audiolibro para dormir mejor.                                                    | - Enfoque multimedia de alta producción con audios narrados por celebridades y música profesional.<br>- Contenido especializado por necesidad (estrés, concentración, sueño).                            | - La mayoría del contenido requiere suscripción de pago.<br>- No tiene controles parentales para gestionar el uso infantil.                                           |
+| **Wysa**     | - Chatbot de apoyo emocional impulsado por IA.<br>- Ejercicios como respiraciones guiadas, meditaciones y relajación muscular.<br>- Privacidad: no requiere nombre real y las conversaciones son anónimas.<br>- Versión de pago con acceso a terapeutas profesionales.                       | - Interfaz conversacional con IA (diferente a Calm con audio y Equoo con juegos).<br>- Incorpora técnicas de CBT y DBT guiadas.<br>- Modelo freemium claro (chatbot gratuito + coaching humano de pago). | - No puede atender emergencias de salud mental ni sustituir atención profesional.<br>- Limitaciones técnicas para comprender lenguaje complejo y matices emocionales. |
+| **Equoo**    | - Usa Terapia Cognitiva Conductual y psicología positiva para enseñar habilidades emocionales.<br>- Juego con 52 niveles sobre neuroticismo, amabilidad y reciprocidad.<br>- Chatbot personalizado de apoyo.<br>- Estudios clínicos respaldan su eficacia para reducir ansiedad y depresión. | - Experiencia gamificada con misiones y recompensas.<br>- Orientación a jóvenes con narrativa adaptada.<br>- Progresión tipo “nivel” con estadísticas, ausente en Calm y Wysa.                           | - Variedad limitada de juegos emocionales, lo que puede volverse repetitivo.<br>- El enfoque gamificado puede no resonar con quienes prefieren métodos más directos.  |
+
+### 2.1.1. Análisis competitivo
+
+| Criterio                                          | Calm                                                                                                                                                                                                      | Wysa                                                                                                                                                                          | Equoo                                                                                                                             |
+| :------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| **Perfil: Descripción**                           | Aplicación de bienestar mental para relajarse, dormir mejor y reducir el estrés. Ofrece meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración y clases de mindfulness. | Asistente de bienestar emocional basado en IA que ofrece terapia cognitivo-conductual (CBT), terapia dialéctica conductual (DBT), journaling y meditaciones, disponible 24/7. | Plataforma gamificada que desarrolla inteligencia emocional mediante juegos interactivos basados en psicología.                   |
+| **Ventaja Competitiva**                           | Diversidad de maneras para relajarse; efectivo para cualquier necesidad.                                                                                                                                  | Combina un chatbot accesible 24/7 con técnicas terapéuticas validadas, y la opción de coaching humano para apoyo más profundo.                                                | Combina entretenimiento con técnicas psicológicas efectivas, aumentando la adherencia y el compromiso en el desarrollo emocional. |
+| **Perfil de Marketing: Mercado Objetivo**         | Adultos entre 30 y 35 años con ingresos medio-altos que puedan pagar una suscripción.                                                                                                                     | Adultos jóvenes (18-35) y empresas que buscan herramientas de salud mental accesibles 24/7.                                                                                   | Adultos jóvenes (18-35), profesionales estresados, empresas e instituciones educativas.                                           |
+| **Perfil de Marketing: Estrategias de marketing** | Modelo freemium, marketing con celebridades y alianzas con empresas.                                                                                                                                      | Marketing de contenidos, alianzas B2B y ASO con campañas en Instagram y LinkedIn.                                                                                             | Contenido educativo, partnerships B2B, campañas en redes sociales y pruebas gratuitas.                                            |
+| **Perfil de Producto: Productos & Servicios**     | Meditaciones guiadas, historias para dormir, música relajante, ejercicios de respiración, clases de movimientos.                                                                                          | Chatbot gratuito con CBT/DBT y "pathways" temáticos; sesiones premium con coaches humanos.                                                                                    | App de entrenamiento emocional, versión empresarial y evaluaciones personalizadas.                                                |
+| **Perfil de Producto: Precios & Costos**          | **Freemium**; plan mensual **15 USD**, anual **70 USD**, familiar **100 USD**, de por vida **400 USD**.                                                                                                   | **Freemium**; plan mensual **12 USD**, anual **19 USD**; tarifas corporativas variables.                                                                                      | **Freemium**; plan individual **$5-10/mes**, planes corporativos por volumen.                                                     |
+| **Perfil de Producto: Canales de Distribución**   | App móvil (iOS/Android); plataforma web para empresas y coaching.                                                                                                                                         | App móvil (iOS/Android); plataforma web para empresas y coaching.                                                                                                             | Apps móviles (iOS/Android); plataforma web; integración con sistemas corporativos.                                                |
+| **Análisis SWOT: Fortalezas**                     | Disponible 24/7, diversidad de opciones en la aplicación.                                                                                                                                                 | Disponible 24/7, técnicas terapéuticas validadas e interfaz intuitiva.                                                                                                        | Base científica sólida, formato atractivo, enfoque preventivo.                                                                    |
+| **Análisis SWOT: Debilidades**                    | Precio elevado, no ofrece sesiones en vivo, enfoque principal para angloparlantes.                                                                                                                        | No reemplaza terapia presencial, contenido gratuito limitado, calidad dependiente de la IA.                                                                                   | Alta competencia, creación continua de contenido, percepción de ser una solución "ligera".                                        |
+| **Análisis SWOT: Oportunidades**                  | Expansión internacional, integración con servicios de salud mental profesional.                                                                                                                           | Expansión en nuevos mercados, alianzas con telemedicina y wearables, localización cultural.                                                                                   | Creciente interés en salud mental, expansión internacional, integraciones tecnológicas.                                           |
+| **Análisis SWOT: Amenazas**                       | Competencia intensa, precios más asequibles en otras apps.                                                                                                                                                | Competencia intensa, regulaciones de salud digital, preocupaciones por privacidad de datos.                                                                                   | Saturación del mercado, cambios en políticas de privacidad, escepticismo sobre la eficacia digital.                               |
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+**FODA de nuestra empresa: "NeuroZen"**
+
+F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a
+profesionales de salud mental.
+
+O: Creciente conciencia sobre salud mental en empresas y mayor disposición a invertir en bienestar
+laboral.
+
+D: Posible resistencia de los usuarios a reconocer problemas de estrés y dependencia de la honestidad
+en las respuestas al test.
+
+A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos
+sensibles de salud mental.
+
+Para aprovechar las fortalezas y oportunidades de "NeuroZen", y al mismo tiempo enfrentar las
+debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes
+estrategias y tácticas:
+
+● Desarrollar programas de implementación corporativa que incluyan talleres de sensibilización
+sobre la importancia de la salud mental.
+
+● Establecer alianzas con empresas de seguros médicos para ofrecer descuentos a
+organizaciones que implementen nuestro sistema preventivo.
+
+● Implementar tecnología de análisis de comportamiento que complemente las respuestas
+subjetivas del test con indicadores objetivos.
+
+● Crear un sólido programa de certificación en privacidad de datos y comunicarlo claramente a
+usuarios y empresas clientes.
+
+● Generar reportes anónimos agregados para departamentos de RR.HH. que muestren el ROI en
+términos de reducción de ausentismo y mejora de productividad.
+
+## 2.2. Entrevistas.
+
+---
+
+## 2.2.1. Diseño de entrevistas.
+
+**Segmento: Personas activas en el ámbito laboral con jornadas extendidas**
+
+Para evaluar las necesidades y experiencias de profesionales con horarios laborales extensos que
+enfrentan altos niveles de estrés, hemos desarrollado una serie de preguntas enfocadas en comprender
+su rutina diaria, factores estresantes, y estrategias actuales para manejar la presión laboral. Esta
+información nos permitirá identificar oportunidades para que nuestra plataforma ofrezca soluciones
+efectivas que mejoren su calidad de vida y rendimiento profesional.
+
+Introducción:
+
+Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos
+desarrollando una plataforma destinada a ayudar a profesionales con horarios laborales extensos a
+manejar mejor el estrés y mejorar su calidad de vida. Nos gustaría conocer más sobre tu experiencia
+laboral y los desafíos que enfrentas en tu día a día. Tu perspectiva será muy valiosa para desarrollar
+una solución que realmente responda a las necesidades de personas como tú.
+
+Preguntas:
+
+1. Para comenzar, ¿podrías presentarte y contarnos brevemente sobre tu profesión y el sector en
+   el que trabajas?
+2. ¿Cómo describirías una jornada laboral típica para ti? ¿Cuántas horas trabajas habitualmente?
+3. ¿Qué aspectos de tu trabajo consideras que generan mayor presión o estrés?
+4. ¿Has notado cambios en tu salud física o mental que atribuyas al estrés laboral?
+5. ¿Cómo suele afectar el estrés laboral a tu rendimiento en el trabajo y a tu vida personal?
+6. ¿Qué estrategias utilizas actualmente para manejar el estrés relacionado con tu trabajo?
+7. ¿Tu empresa o lugar de trabajo ofrece algún programa o recurso para ayudar a los empleados
+   a manejar el estrés?
+8. En los momentos de mayor presión laboral, ¿qué tipo de apoyo o herramientas te resultarían
+   más útiles?
+9. ¿Utilizas actualmente alguna aplicación o plataforma digital para gestionar el estrés o mejorar
+   tu bienestar? Si es así, ¿cuál y qué te parece?
+10. ¿Qué características o funcionalidades consideras importantes en una plataforma diseñada
+    para ayudar a reducir el estrés laboral?
+
+**Segmento: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con
+horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus
+tiempos, los factores estresantes específicos de su situación laboral y sus mecanismos actuales para
+gestionar el estrés. Esta información nos permitirá adaptar nuestra plataforma para ofrecer soluciones
+que respondan a las características particulares de este segmento, que según estudios, experimenta
+niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
+
+Introducción:
+
+Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una
+plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar
+mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una
+solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad
+en esta conversación.
+
+Preguntas:
+
+1. Para empezar, ¿podrías contarnos a qué te dedicas y cómo es tu rutina de trabajo habitual?
+2. ¿Cómo organizas tu tiempo entre el trabajo y otras actividades? ¿Tienes algún método para
+   establecer límites?
+3. ¿Sientes que tu trabajo "te sigue a todas partes"? ¿Puedes describir cómo es esa experiencia?
+4. ¿Cuáles son los principales factores que te generan estrés en tu trabajo?
+5. ¿Cómo describirías el nivel de estrés que experimentas habitualmente (bajo, medio, alto)?
+   ¿Varía mucho dependiendo de las temporadas o circunstancias?
+6. ¿De qué manera crees que el no tener un horario fijo afecta tu nivel de estrés, en comparación
+   con trabajos formales con horarios establecidos?
+7. ¿Has notado algún impacto en tu salud física o mental debido al estrés relacionado con tu
+   trabajo?
+8. ¿Qué estrategias o métodos utilizas actualmente para manejar el estrés cuando sientes que el
+   trabajo invade todos los aspectos de tu vida?
+9. ¿Utilizas alguna aplicación, plataforma o recurso digital para ayudarte a organizar tu trabajo o
+   manejar el estrés? ¿Cuál ha sido tu experiencia?
+10. ¿Qué momentos del día considerarías más apropiados para dedicar tiempo a actividades para
+    reducir el estrés?
+
+## 2.2.2. Registro de entrevistas
