@@ -561,3 +561,252 @@ Preguntas:
     reducir el estrés?
 
 ## 2.2.2. Registro de entrevistas
+
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+
+Entrevista N°1
+
+● Nombre: 
+
+● Sexo: 
+
+● Edad: 
+
+● Estado Civil: 
+
+● Labor: 
+
+Detalles de la entrevista:
+
+● Duración: 
+
+[● Link: ]()
+
+Resumen de los puntos clave en la entrevista:
+
+
+
+Entrevista N°2
+
+● Nombre: 
+
+● Sexo: 
+
+● Edad: 
+
+● Estado Civil: 
+
+● Labor: 
+
+Detalles de la entrevista:
+
+● Duración: 
+
+[● Link: ]()
+
+Resumen de los puntos clave en la entrevista:
+
+
+
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+Entrevista N°3
+
+● Nombre: 
+
+● Sexo: 
+
+● Edad: 
+
+● Estado Civil: 
+
+● Labor: 
+
+Detalles de la entrevista:
+
+● Duración: 
+
+[● Link: ]()
+
+Resumen de los puntos clave en la entrevista:
+
+
+
+Entrevista N°4
+
+● Nombre: Laura Méndez
+
+● Sexo: Mujer
+
+● Edad: 24 años
+
+● Estado Civil: Soltera
+
+● Labor: Freelancer diseñadora gráfica y fotógrafa de eventos
+
+Detalles de la entrevista:
+
+● Duración: 8 minutos con 39 segundos
+
+[● Link: ]()
+
+Resumen de los puntos clave en la entrevista:
+
+La entrevista con Laura Méndez, una diseñadora gráfica freelance y fotógrafa de 24 años,
+revela los desafíos únicos que enfrenta como trabajadora con horarios irregulares. Su
+situación laboral se caracteriza por la ausencia de límites entre vida personal y profesional,
+con un teléfono que funciona como "oficina móvil" y clientes que esperan disponibilidad
+constante. Los principales factores de estrés identificados incluyen la inestabilidad económica
+que la lleva a sobrecargarse de trabajo, las expectativas poco realistas de los clientes, y la
+imposibilidad de desconectar completamente, resultando en un nivel de estrés medio-alto con
+picos que afectan su salud física y creatividad. Aunque intenta implementar estrategias como
+yoga o ejercicio, estas prácticas son inconsistentes debido a su carga laboral, por lo que
+necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas rápidas
+accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos
+efectivos para "apagar" su mente al finalizar la jornada.
+
+## 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+
+Hallazgos:
+
+
+Conclusión:
+
+
+
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+Hallazgos:
+
+● Ausencia de límites trabajo-vida personal: Ambos experimentan una fusión entre su
+vida laboral y personal, con el teléfono móvil como vínculo constante al trabajo.
+
+● Horarios irregulares: Ninguno tiene un horario fijo, organizándose según demanda y
+necesidades económicas.
+
+● Principales factores de estrés: Comparten preocupaciones por la inestabilidad
+económica, las expectativas de disponibilidad constante y la dificultad para
+desconectar.
+
+● Impacto en la salud: Ambos reportan efectos negativos como dolores físicos,
+cansancio e irritabilidad.
+
+● Estrategias de afrontamiento inconsistentes: Aunque intentan aplicar métodos para
+manejar el estrés (música, ejercicio, yoga), no logran mantenerlos de forma regular.
+
+● Necesidad de herramientas adaptables: Los dos expresan interés en explorar
+soluciones que se ajusten a sus horarios variables.
+
+Conclusión:
+
+Los testimonios de --- y Laura revelan una realidad laboral cada vez más común:
+trabajadores con horarios flexibles que enfrentan una constante disponibilidad laboral
+mediada por dispositivos móviles, generando una difuminación de límites entre trabajo y vida
+personal que impacta negativamente su bienestar. Esta situación crea un ciclo donde la
+inestabilidad económica los impulsa a aceptar más trabajo, intensificando el estrés y
+deteriorando su salud física y mental. Sus casos evidencian la necesidad urgente de
+desarrollar herramientas y estrategias específicamente diseñadas para trabajadores con
+horarios irregulares, que sean accesibles desde dispositivos móviles, requieran poco tiempo
+de implementación y ayuden efectivamente a establecer límites saludables sin comprometer
+su sustento económico.
+
+## 2.3. Needfinding
+
+Al recopilar toda la información de los segmentos objetivo y realizar las entrevistas se hará
+un análisis de estos mismos haciendo uso de User Persona, Task Matrix, Journey Mapping,
+Empathy Mapping y As-Is Scenario Mapping.
+
+### 2.3.1. User Personas.
+
+<div>
+  <p align="center"><img src="assets/md-images/user-persona/laura.png" alt="User persona for Laura" width="700px" /></p>
+</div>
+
+
+### 2.3.2. User Task Matrix.
+
+| Tareas                                                     | Laura Méndez |             | ---------|             |
+| :--------------------------------------------------------- | :----------- | :---------- | :----------- | :---------- |
+|                                                            | Frecuencia   | Importancia | Frecuencia   | Importancia |
+| **Registrar señales corporales de estrés**                 | Media        | Media       | Alta         | Alta        |
+| **Completar autoevaluación de niveles de estrés**          | Media        | Alta        | Alta         | Media       |
+| **Consultar análisis de patrones de estrés**               | Alta         | Media       | Media        | Alta        |
+| **Acceder a recomendaciones personalizadas**               | Media        | Alta        | Alta         | Alta        |
+| **Registrar seguimiento de implementación de estrategias** | Media        | Alta        | Alta         | Alta        |
+
+### 2.3.3. User Journey Mapping.
+
+<div>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-1.png" alt="Journey mapping part 1" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-2.png" alt="Journey mapping part 2" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-3.png" alt="Journey mapping part 3" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/journey-map/Journey-4.png" alt="Journey mapping part 4" width="700px" /></p>
+</div>
+
+### 2.3.4. Empathy Mapping.
+
+<div>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-1.png" alt="Empathy mapping part 1" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-2.png" alt="Empathy mapping part 2" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-3.png" alt="Empathy mapping part 3" width="700px" /></p>
+</div>
+
+<div>
+  <p align="center"><img src="assets/md-images/empathy-map/Empathy-4.png" alt="Empathy mapping part 4" width="700px" /></p>
+</div>
+
+### 2.3.5. As-is Scenario Mapping.
+
+**As-is Scenario Mapping de Laura Méndez**
+
+| Phases       | Registrar señales corporales de estrés                | Completar autoevaluación de niveles de estrés   | Consultar análisis de patrones de estrés            | Acceder a recomendaciones personalizadas                         | Registrar seguimiento de implementación de estrategias                |
+| :----------- | :---------------------------------------------------- | :---------------------------------------------- | :-------------------------------------------------- | :--------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **Doing**    | Toma fotos de su postura durante horas de trabajo.    | Completa cuestionarios rápidos entre proyectos. | Revisa los gráficos semanales de estrés.            | Accede a recomendaciones desde su teléfono móvil.                | Registra la efectividad de las técnicas implementadas.                |
+| **Thinking** | Duda si está estresada o solo cansada.                | Evalúa si está aceptando demasiados proyectos.  | Busca patrones relacionados con ciertos clientes.   | Cuestiona si las recomendaciones se adaptan a su estilo de vida. | Se pregunta si está siendo constante con las técnicas.                |
+| **Feeling**  | Se siente abrumada al notar signos físicos de estrés. | Siente alivio al cuantificar su estrés.         | Muestra curiosidad al descubrir patrones de estrés. | Experimenta esperanza al recibir nuevas estrategias.             | Siente orgullo cuando logra implementar estrategias consistentemente. |
+
+**As-is Scenario Mapping de -------**
+
+## 2.4. Ubiquitous Language.
+
+Este glosario define los términos clave que usamos en el proyecto para mantener un lenguaje común entre el equipo de desarrollo y los expertos en salud mental.
+
+| Término                            | Definición                                                                                                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Usuario**                        | Persona adulta (20–50 años) que utiliza la app para evaluar, monitorear y gestionar su estrés laboral.                         |
+| **Perfil biométrico**              | Conjunto de datos físicos iniciales del usuario (postura, rostro, respiración) que sirven como línea base.                     |
+| **Test de autoevaluación**         | Cuestionario digital que mide síntomas y sensaciones de estrés percibidas por el usuario.                                      |
+| **Análisis biométrico**            | Proceso de escaneo mediante la cámara/sensores para detectar señales físicas de estrés.                                        |
+| **Síntomas físicos**               | Manifestaciones registradas por el usuario, como dolores de cabeza, insomnio, tensión muscular.                                |
+| **Nivel de estrés**                | Clasificación automática (bajo, medio, alto) que combina datos de tests y biometría.                                           |
+| **Recomendaciones personalizadas** | Consejos, ejercicios o pausas sugeridas por la app en base al estado actual del usuario.                                       |
+| **Ejercicios de respiración**      | Actividad guiada por la app para reducir la tensión y ansiedad en pocos minutos.                                               |
+| **Pausas activas**                 | Recordatorios programados que invitan al usuario a descansar o hacer micro ejercicios durante la jornada laboral.              |
+| **Dashboard personal**             | Panel con estadísticas, tendencias y patrones de estrés en el tiempo.                                                          |
+| **Desencadenante de estrés**       | Evento o situación registrada por el usuario que provoca incremento de su estrés (ej. exceso de trabajo, conflictos, tráfico). |
+| **Informe de progreso**            | Documento generado con evolución de estrés y hábitos del usuario, que puede compartirse con un psicólogo.                      |
+| **Especialista en salud mental**   | Psicólogo disponible en la plataforma para consultas y tratamiento profesional.                                                |
+| **Cita**                           | Agendamiento de una sesión con un especialista, virtual o presencial.                                                          |
+| **Grupo de apoyo**                 | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés.                                |
+| **Biblioteca de recursos**         | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés.                          |
+
+# Capítulo III: Requirements Specification
+
+---
