@@ -450,7 +450,7 @@ viendo en ello sus descripciones y planes de negocios.
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-**FODA de nuestra empresa: "NeuroZen"**
+**FODA de nuestra empresa: "MinDora"**
 
 F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a
 profesionales de salud mental.
@@ -464,7 +464,7 @@ en las respuestas al test.
 A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos
 sensibles de salud mental.
 
-Para aprovechar las fortalezas y oportunidades de "NeuroZen", y al mismo tiempo enfrentar las
+Para aprovechar las fortalezas y oportunidades de "MinDora", y al mismo tiempo enfrentar las
 debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes
 estrategias y tácticas:
 
@@ -534,7 +534,7 @@ niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 
 Introducción:
 
-Buenos días/tardes, soy [...], representante de NeuroZen. Estamos desarrollando una
+Buenos días/tardes, soy [...], representante de MinDora. Estamos desarrollando una
 plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar
 mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una
 solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad
