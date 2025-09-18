@@ -721,7 +721,7 @@ Empathy Mapping y As-Is Scenario Mapping.
 ### 2.3.1. User Personas.
 
 <div>
-  <p align="center"><img src="assets/md-images/user-persona/laura.png" alt="User persona for Laura" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/user laura.png" alt="User persona for Laura" width="700px" /></p>
 </div>
 
 
@@ -739,37 +739,37 @@ Empathy Mapping y As-Is Scenario Mapping.
 ### 2.3.3. User Journey Mapping.
 
 <div>
-  <p align="center"><img src="assets/md-images/journey-map/Journey-1.png" alt="Journey mapping part 1" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Journey-1.png" alt="Journey mapping part 1" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/journey-map/Journey-2.png" alt="Journey mapping part 2" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Journey-2.png" alt="Journey mapping part 2" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/journey-map/Journey-3.png" alt="Journey mapping part 3" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Journey-3.png" alt="Journey mapping part 3" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/journey-map/Journey-4.png" alt="Journey mapping part 4" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Journey-4.png" alt="Journey mapping part 4" width="700px" /></p>
 </div>
 
 ### 2.3.4. Empathy Mapping.
 
 <div>
-  <p align="center"><img src="assets/md-images/empathy-map/Empathy-1.png" alt="Empathy mapping part 1" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Empathy-1.png" alt="Empathy mapping part 1" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/empathy-map/Empathy-2.png" alt="Empathy mapping part 2" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Empathy-2.png" alt="Empathy mapping part 2" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/empathy-map/Empathy-3.png" alt="Empathy mapping part 3" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Empathy-3.png" alt="Empathy mapping part 3" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/empathy-map/Empathy-4.png" alt="Empathy mapping part 4" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/Empathy-4.png" alt="Empathy mapping part 4" width="700px" /></p>
 </div>
 
 ### 2.3.5. As-is Scenario Mapping.
