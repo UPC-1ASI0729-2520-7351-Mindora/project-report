@@ -1034,7 +1034,7 @@ El logo de MinDora combina un perfil humano con un cerebro estilizado y ondas su
 
 Tipografía
 
-•	Se emplean fuentes sans-serif, modernas y legibles en cualquier dispositivo.
+•	Se emplean fuentes sans-serif, modernas y legibles en cualquier dispositivo.  
 •	Jerarquía visual clara: títulos en seminegrita y tamaño destacado, subtítulos medianos, texto base en peso regular.
 
 Paleta de colores
