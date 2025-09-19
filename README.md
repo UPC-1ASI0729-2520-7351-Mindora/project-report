@@ -1082,3 +1082,11 @@ Impact Mapping - Segmento 2
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
+# 6. Conclusiones
+
+## 6.1. Conclusiones
+## 6.2. Recomendaciones
+
+# 7. Bibliografía
+
+# 8. Anexos
