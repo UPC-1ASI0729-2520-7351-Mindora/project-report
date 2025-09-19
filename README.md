@@ -1070,16 +1070,19 @@ Paleta de colores
 </div>
 
 Spacing
-•	Uso de espacios en blanco para evitar saturación visual.
-•	Márgenes amplios: 40px en desktop, 24px en móvil
-•	Espacios entre párrafos: 16–20px
-•	Paddings uniformes en botones y tarjetas
-Tono de comunicación
+
+•	Uso de espacios en blanco para evitar saturación visual.  
+•	Márgenes amplios: 40px en desktop, 24px en móvil  
+•	Espacios entre párrafos: 16–20px  
+•	Paddings uniformes en botones y tarjetas  
+
+Tono de comunicación  
 Las dimensiones adoptadas para el lenguaje aplicado en MinDora son:
-•	Serio (no divertido): transmite profesionalismo y confianza en un tema sensible como el estrés laboral.
-•	Formal (no casual): mantiene rigurosidad científica sin perder claridad.
-•	Respetuoso (no irreverente): cuida el trato con los usuarios, evitando minimizar sus emociones.
-•	Sereno (más que entusiasta): busca inspirar calma y tranquilidad en lugar de euforia.
+
+•	Serio (no divertido): transmite profesionalismo y confianza en un tema sensible como el estrés laboral.  
+•	Formal (no casual): mantiene rigurosidad científica sin perder claridad.  
+•	Respetuoso (no irreverente): cuida el trato con los usuarios, evitando minimizar sus emociones.  
+•	Sereno (más que entusiasta): busca inspirar calma y tranquilidad en lugar de euforia.  
 
 ### 4.1.1. General Style Guidelines
 
