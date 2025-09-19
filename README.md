@@ -1036,7 +1036,79 @@ Tipografía
 Paleta de colores
 •	Turquesa Oscuro (#1B6F77): innovación y confianza. 
 
+<div>
+  <p align="center"><img src="assets/md-images/1styleguidelines.png" alt="1styleguidelines" width="700px" /></p>
+</div>
+
+•	Azul Celeste (#4DB6C3): calma y frescura. 
+
+<div>
+  <p align="center"><img src="assets/md-images/2styleguidelines.png" alt="2styleguidelines" width="700px" /></p>
+</div>
+
+•	Verde Azulado (#2E8B92): equilibrio emocional. 
+
+<div>
+  <p align="center"><img src="assets/md-images/3styleguidelines.png" alt="3styleguidelines" width="700px" /></p>
+</div>
+
+•	Degradado Azul–Turquesa: dinamismo y fluidez. 
+
+<div>
+  <p align="center"><img src="assets/md-images/4styleguidelines.png" alt="4styleguidelines" width="700px" /></p>
+</div>
+
+•	Fondo Oscuro (#0F1F21): contraste y profesionalismo. 
+
+<div>
+  <p align="center"><img src="assets/md-images/5styleguidelines.png" alt="5styleguidelines" width="700px" /></p>
+</div>
+
+Spacing
+•	Uso de espacios en blanco para evitar saturación visual.
+•	Márgenes amplios: 40px en desktop, 24px en móvil
+•	Espacios entre párrafos: 16–20px
+•	Paddings uniformes en botones y tarjetas
+Tono de comunicación
+Las dimensiones adoptadas para el lenguaje aplicado en MinDora son:
+•	Serio (no divertido): transmite profesionalismo y confianza en un tema sensible como el estrés laboral.
+•	Formal (no casual): mantiene rigurosidad científica sin perder claridad.
+•	Respetuoso (no irreverente): cuida el trato con los usuarios, evitando minimizar sus emociones.
+•	Sereno (más que entusiasta): busca inspirar calma y tranquilidad en lugar de euforia.
+
 ### 4.1.1. General Style Guidelines
+
+Las guías de estilo web de MinDora definen cómo se aplican los estándares visuales e interactivos en interfaces responsivas (desktop, tablet, móvil), asegurando coherencia y accesibilidad.
+Logo y branding
+•	Posición en la esquina superior izquierda.
+•	Área de seguridad para no comprometer su visibilidad.
+Colores en la interfaz
+•	Turquesa Oscuro: barra de navegación.
+•	Azul Celeste: botones principales.
+•	Verde Azulado: detalles secundarios.
+•	Fondo Oscuro: base de la interfaz.
+Tipografía
+•	Uso de sans-serif en toda la web.
+•	Jerarquía: títulos en mayúscula o seminegrita, botones con texto centrado, cuerpo regular.
+Spacing
+•	Márgenes amplios para resaltar secciones clave.
+•	Consistencia en paddings internos de contenedores y botones.
+•	Espacios uniformes entre imágenes y texto.
+Navegación
+•	Menú fijo en la parte superior con enlaces simples.
+•	Ícono hamburguesa en dispositivos móviles.
+Botones e interacción
+•	Botones rectangulares redondeados en Azul Celeste.
+•	Hover con tono más intenso del mismo color.
+•	Tamaños amplios, accesibles en pantallas táctiles.
+Fondo e identidad visual
+•	Fondo en degradado azul–turquesa sobre negro, reforzando calma y tecnología.
+•	Elementos gráficos abstractos (ondas y cerebro iluminado) como parte de la identidad neurocientífica.
+
+<div>
+  <p align="center"><img src="assets/md-images/fondostyleguidelines.png" alt="fondostyleguidelines" width="700px" /></p>
+</div>
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
