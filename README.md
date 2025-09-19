@@ -573,7 +573,6 @@ Detalles de la entrevista:
 [● Link: https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view ](https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view)
 
 Resumen de los puntos clave en la entrevista:
-
 - El entrevistado trabaja entre 10 y 12 horas diarias.
 - Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que
   requieren tiempo.
