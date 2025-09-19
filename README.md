@@ -534,21 +534,21 @@ Preguntas:
 
 Entrevista N°1
 
-● Nombre: 
+● Nombre: Xin Yu Shi Lin
 
-● Sexo: 
+● Sexo: Masculino
 
-● Edad: 
+● Edad: 25
 
-● Estado Civil: 
+● Estado Civil: Soltero
 
-● Labor: 
+● Labor: Mesero
 
-Detalles de la entrevista:
+Detalles de la entrevista: 
 
-● Duración: 
+● Duración: 4 minutos con 23 segundos
 
-[● Link: ]()
+[● Link: https://drive.google.com/file/d/1ZJEtWCAmNASaxGq7_rgHlA0-Sl0VK9p4/view?usp=sharing](https://drive.google.com/file/d/1ZJEtWCAmNASaxGq7_rgHlA0-Sl0VK9p4/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
 
@@ -568,7 +568,7 @@ Entrevista N°2
 
 Detalles de la entrevista:
 
-● Duración: 3 minutos coon 34 segundos
+● Duración: 3 minutos con 34 segundos
 
 [● Link: https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view ](https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view)
 
