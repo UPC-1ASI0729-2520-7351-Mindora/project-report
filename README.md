@@ -1023,7 +1023,9 @@ Impact Mapping - Segmento 2
 ## 4.1. Style Guidelines
 
 En esta sección se definen las bases visuales y de comunicación de MinDora. Se establecen los principios de branding, tipografía, colores, spacing y tono de comunicación, los cuales guiarán todo el diseño de la plataforma.
+
 Branding
+
 El logo de MinDora combina un perfil humano con un cerebro estilizado y ondas suaves. Representa la unión entre ciencia, tecnología y bienestar emocional
 
 <div>
