@@ -1080,8 +1080,11 @@ Las dimensiones adoptadas para el lenguaje aplicado en MinDora son:
 
 Las guías de estilo web de MinDora definen cómo se aplican los estándares visuales e interactivos en interfaces responsivas (desktop, tablet, móvil), asegurando coherencia y accesibilidad.
 Logo y branding
+
 •	Posición en la esquina superior izquierda.
+
 •	Área de seguridad para no comprometer su visibilidad.
+
 Colores en la interfaz
 •	Turquesa Oscuro: barra de navegación.
 •	Azul Celeste: botones principales.
