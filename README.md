@@ -1033,9 +1033,13 @@ El logo de MinDora combina un perfil humano con un cerebro estilizado y ondas su
 </div>
 
 Tipografía
+
 •	Se emplean fuentes sans-serif, modernas y legibles en cualquier dispositivo.
+
 •	Jerarquía visual clara: títulos en seminegrita y tamaño destacado, subtítulos medianos, texto base en peso regular.
+
 Paleta de colores
+
 •	Turquesa Oscuro (#1B6F77): innovación y confianza. 
 
 <div>
