@@ -544,15 +544,28 @@ Entrevista N°1
 
 ● Labor: Mesero
 
-Detalles de la entrevista: 
+Detalles de la entrevista:
+Xin Yu Shi Lin es un joven de 25 años que vive en Lima, Perú, junto a su familia. Está soltero y ha sido diagnosticado con epilepsia desde hace varios años. A lo largo de su experiencia, ha recibido tratamiento médico y consultas con neurólogos, aunque no de forma continua ni digitalizada. Normalmente depende de apuntes en papeles o de su memoria para registrar información sobre sus crisis, lo que considera un método poco confiable. Además, conoce y valora la existencia de grupos de apoyo, como la Asociación Peruana de Epilepsia, donde los pacientes comparten experiencias y reciben información útil.
+Su rutina laboral está marcada por su empleo como mesero en un restaurante chifa, un trabajo físicamente exigente que requiere muchas horas de pie y trato directo con clientes. Una de sus mayores preocupaciones es sufrir una crisis en el trabajo y no poder avisar a nadie, lo cual también repercute en su familia, que vive con la angustia constante de que pueda ocurrirle algo en cualquier momento.
+En cuanto al control de su enfermedad, Xin Yu Shi enfrenta dificultades para recordar datos importantes de cada crisis, como la hora de inicio, la duración o los síntomas específicos. Aunque intenta anotarlos, con frecuencia pierde la información, lo que impide tener un historial confiable que pueda compartir con sus médicos. Por eso considera que contar con un sistema que envíe alertas tempranas sería de gran ayuda, ya que le otorgaría mayor seguridad personal y permitiría que su familia o compañeros pudieran reaccionar de inmediato.
+Respecto a sus competencias digitales, describe su nivel como básico en el uso de smartphones y medio en el manejo de laptops, aunque se desenvuelve con facilidad en aplicaciones de mensajería como WhatsApp y SMS. Generalmente se autentica en plataformas mediante su correo Gmail, mensajes SMS y WhatsApp. Su dispositivo principal es un celular Android, y también utiliza una laptop con Windows para actividades simples como navegar en internet o revisar correos electrónicos.
+Cuando piensa en una aplicación que pueda apoyarlo en el manejo de su enfermedad, le gustaría que incluyera un registro digital sencillo y confiable de sus crisis, con información sobre fechas, duración y síntomas. También considera importante disponer de gráficos que reflejen su evolución y recordatorios de medicación que le ayuden a mantener la constancia en el tratamiento.
+Está abierto al uso de dispositivos IoT como relojes inteligentes o sensores que puedan registrar información sobre su salud y compartirla con su médico. Ha escuchado sobre dispositivos como el Fitbit Ionic y cree que podrían ser útiles para mejorar el seguimiento de su condición. Sin embargo, expresa dos preocupaciones centrales: la posibilidad de que los dispositivos fallen en un momento crítico y la necesidad de que sus datos personales estén protegidos. Para él, la confianza y la seguridad son requisitos indispensables en cualquier tecnología que decida utilizar.
 
 ● Duración: 4 minutos con 23 segundos
 
 [● Link: https://drive.google.com/file/d/1ZJEtWCAmNASaxGq7_rgHlA0-Sl0VK9p4/view?usp=sharing](https://drive.google.com/file/d/1ZJEtWCAmNASaxGq7_rgHlA0-Sl0VK9p4/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
-
-
+- El entrevistado se llama Xin Yu Shi Lin, tiene 25 años, vive en Lima con su familia y está diagnosticado con epilepsia desde hace varios años.
+- Ha recibido tratamiento médico y consultas con neurólogos, aunque de manera intermitente y sin un registro digital confiable; suele depender de apuntes en papeles y conoce grupos de apoyo como la Asociación Peruana de Epilepsia.
+- Trabaja como mesero en un chifa, lo que le genera preocupación por sufrir una crisis en el trabajo sin poder avisar a nadie, mientras su familia vive con la constante inquietud de que algo le ocurra.
+- Sus principales dificultades para llevar un control de la enfermedad son recordar la hora, duración y síntomas de las crisis, ya que pierde la información fácilmente y carece de un historial confiable.
+- Considera que un sistema de alertas tempranas sobre crisis sería muy útil, ya que le daría mayor seguridad y permitiría a su familia o compañeros actuar de inmediato.
+- Su habilidad tecnológica es básica en smartphones y media en laptops, aunque maneja con soltura aplicaciones de mensajería como WhatsApp y SMS; suele autenticarse con correo Gmail, SMS y WhatsApp.
+- Le gustaría contar con una aplicación que registre de manera simple y confiable sus crisis, incluya un historial digital con fechas, duración y síntomas, gráficos para seguir su evolución y recordatorios de medicación.
+- Está dispuesto a usar dispositivos IoT como relojes inteligentes o sensores que registren datos y los compartan con su médico, y considera que eso le daría mayor tranquilidad.
+- Sus principales preocupaciones respecto a esta tecnología son la posibilidad de fallas en momentos críticos y la falta de protección de sus datos personales, por lo que necesita que sea confiable y segura.
 
 Entrevista N°2
 
@@ -567,19 +580,28 @@ Entrevista N°2
 ● Labor: Rector(USL)
 
 Detalles de la entrevista:
+Andrés Luján Carrión tiene 40 años, es soltero y se desempeña como rector de la Universidad San Lorenzo. Su rutina laboral está marcada por una fuerte exigencia, ya que dedica entre diez y doce horas diarias a su trabajo. La mayor parte de ese tiempo lo invierte en reuniones, coordinación de equipos y toma de decisiones estratégicas para la institución. Esta carga de responsabilidad y extensión horaria le deja poco espacio para su vida personal.
+En cuanto a la organización de su tiempo, Andrés comenta que intenta priorizar las tareas más urgentes, aunque reconoce que no cuenta con un método fijo para establecer límites claros entre lo laboral y lo personal. Esta dificultad provoca que el trabajo termine imponiéndose sobre otros aspectos de su vida. Incluso fuera de la oficina, se mantiene constantemente conectado al celular, respondiendo mensajes y pensando en asuntos pendientes, lo que le impide desconectarse realmente.
+La principal fuente de estrés para él es la presión de obtener resultados inmediatos. Como rector, debe impulsar cambios académicos e institucionales que requieren tiempo para implementarse y consolidarse, pero las expectativas de ver avances rápidos generan un nivel de tensión constante. Según relata, su nivel de estrés es alto y sostenido en el tiempo, pues no depende de la temporada sino de la magnitud de sus responsabilidades.
+La ausencia de un horario fijo contribuye a incrementar esta carga. A diferencia de otros trabajos en los que la jornada concluye al salir de la oficina, en su caso siempre hay algo pendiente, lo que refuerza la sensación de que nunca puede desconectarse completamente.
+Este ritmo ha tenido un impacto significativo en su salud, ya que ha experimentado síntomas como fatiga mental, insomnio y tensión muscular, todos asociados al nivel constante de estrés. En un intento por manejarlo, Andrés recurre a pequeñas pausas, intenta desconectarse en ciertos momentos y conversa con personas de confianza. Sin embargo, reconoce que estas estrategias resultan insuficientes y que necesita métodos más efectivos para cuidar su bienestar.
+Respecto al uso de tecnología, actualmente no utiliza aplicaciones específicas para el manejo del estrés, aunque considera que sería muy útil contar con plataformas digitales o coaching personalizado que le ofrezcan herramientas prácticas. En este sentido, identifica que los momentos más adecuados para actividades de autocuidado serían en la mañana, antes de iniciar su jornada, y al final del día, cuando puede reservar tiempo para sí mismo.
+Finalmente, expresa lo que le gustaría encontrar en una aplicación enfocada en manejo del estrés: un servicio de coaching emocional, un sistema que le permita llevar un seguimiento de sus niveles de estrés y una comunidad de apoyo para compartir experiencias con otras personas en situaciones similares. Para él, estas características serían clave para mejorar su calidad de vida y encontrar un equilibrio más saludable entre su exigente rol profesional y su bienestar personal.
 
 ● Duración: 3 minutos con 34 segundos
 
 [● Link: https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view ](https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view)
 
 Resumen de los puntos clave en la entrevista:
-- El entrevistado trabaja entre 10 y 12 horas diarias.
-- Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que
-  requieren tiempo.
-- Ha notado fatiga mental, insomnio y tensión muscular.
-- Le parecerían útiles herramientas como coaching personalizado y plataformas digitales.
-- Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una
-  comunidad de apoyo.
+- El entrevistado trabaja entre diez y doce horas diarias, principalmente en reuniones, coordinación de equipos y toma de decisiones.
+- Tiene dificultades para equilibrar su vida personal y laboral, ya que el trabajo lo acompaña incluso fuera de la oficina mediante llamadas, mensajes y pendientes constantes.
+- La principal fuente de estrés es la presión por obtener resultados inmediatos frente a procesos académicos e institucionales que requieren más tiempo para consolidarse.
+- La falta de un horario fijo incrementa la sensación de no poder desconectarse y eleva aún más su nivel de estrés.
+- Ha experimentado consecuencias físicas y mentales derivadas del estrés, como fatiga mental, insomnio y tensión muscular de manera recurrente.
+- Reconoce que sus estrategias actuales, como tomar pausas breves o conversar con personas de confianza, no son suficientes y necesita métodos más efectivos.
+- Considera que herramientas digitales podrían ser de gran ayuda, especialmente aquellas que ofrezcan coaching personalizado para el manejo del estrés.
+- Identifica la mañana, antes de iniciar la jornada, y la noche, al finalizar el día, como los momentos más adecuados para realizar actividades de autocuidado y relajación.
+- Le gustaría que una aplicación incluyera coaching emocional, un sistema de monitoreo de sus niveles de estrés y una comunidad de apoyo donde compartir experiencias con otras personas.
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
