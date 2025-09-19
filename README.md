@@ -588,25 +588,31 @@ Resumen de los puntos clave en la entrevista:
 
 Entrevista N°2
 
-● Nombre: 
+● Nombre: Andrés Luján Carrión
 
-● Sexo: 
+● Sexo: Masculino
 
-● Edad: 
+● Edad: 40
 
-● Estado Civil: 
+● Estado Civil: Soltero
 
-● Labor: 
+● Labor: Rector(USL)
 
 Detalles de la entrevista:
 
-● Duración: 
+● Duración: 3 minutos coon 34 segundos
 
-[● Link: ]()
+[● Link: https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view ](https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view)
 
 Resumen de los puntos clave en la entrevista:
 
-
+- El entrevistado trabaja entre 10 y 12 horas diarias.
+- Su principal fuente de estrés son la necesidad de resultados rápidos frente a cambios que
+  requieren tiempo.
+- Ha notado fatiga mental, insomnio y tensión muscular.
+- Le parecerían útiles herramientas como coaching personalizado y plataformas digitales.
+- Le gustaría que la aplicación contase con coaching emocional, seguimiento de estrés y una
+  comunidad de apoyo.
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
@@ -671,10 +677,34 @@ efectivos para "apagar" su mente al finalizar la jornada.
 
 Hallazgos:
 
+● Los profesionales experimentan jornadas laborales extendidas de 10-12 horas diarias,
+sin límites claros entre vida laboral y personal.
+
+● Enfrentan presión constante por resultados inmediatos ante cambios que requieren
+tiempo.
+
+● Presentan síntomas físicos y emocionales similares: fatiga mental, insomnio, tensión
+muscular, irritabilidad y dolores de cabeza.
+
+● Las empresas ofrecen poco o nulo apoyo real para el manejo del estrés laboral.
+
+● Aunque intentan implementar técnicas de manejo del estrés, la carga laboral impide
+ser constantes.
+
+● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados.
 
 Conclusión:
 
-
+Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés
+crónico debido a la combinación de largas horas de trabajo, disponibilidad permanente y
+presión por resultados inmediatos. Sus intentos individuales de manejar el estrés mediante
+técnicas convencionales resultan insuficientes ante la falta de límites laborales claros y apoyo
+institucional. Este grupo necesita soluciones tecnológicas personalizadas que se integren
+fácilmente a su rutina, ofrezcan intervenciones breves pero efectivas, y proporcionen tanto
+seguimiento automatizado como acceso a apoyo profesional cuando sea necesario. La
+aplicación debe enfocarse en crear micro hábitos de bienestar que puedan sostenerse incluso
+en entornos laborales exigentes, permitiéndoles recuperar el equilibrio sin comprometer su
+desempeño profesional.
 
 **Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
 
