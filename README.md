@@ -1022,6 +1022,15 @@ Impact Mapping - Segmento 2
 
 ## 4.1. Style Guidelines
 
+Las Style Guidelines de MinDora funcionan como un repositorio central para el equipo, donde se concentran assets, tipografías, colores y componentes. Su propósito es mantener una presentación consistente en todos los productos (web y móvil).  
+  
+Este apartado se divide en:  
+  
+4.1.1 General Style Guidelines: lineamientos de branding, tipografía, colores, spacing y tono de comunicación.  
+4.1.2 Web Style Guidelines: estándares visuales e interacción para interfaces web responsivas.  
+  
+### 4.1.1. General Style Guidelines
+
 En esta sección se definen las bases visuales y de comunicación de MinDora. Se establecen los principios de branding, tipografía, colores, spacing y tono de comunicación, los cuales guiarán todo el diseño de la plataforma.
 
 Branding
@@ -1084,43 +1093,52 @@ Las dimensiones adoptadas para el lenguaje aplicado en MinDora son:
 •	Respetuoso (no irreverente): cuida el trato con los usuarios, evitando minimizar sus emociones.  
 •	Sereno (más que entusiasta): busca inspirar calma y tranquilidad en lugar de euforia.  
 
-### 4.1.1. General Style Guidelines
+### 4.1.2. Web Style Guidelines
 
-Las guías de estilo web de MinDora definen cómo se aplican los estándares visuales e interactivos en interfaces responsivas (desktop, tablet, móvil), asegurando coherencia y accesibilidad.
+Las guías de estilo web de MinDora definen cómo se aplican los estándares visuales e interactivos en interfaces responsivas (desktop, tablet, móvil), asegurando coherencia y accesibilidad.  
+
 Logo y branding
 
-•	Posición en la esquina superior izquierda.
+•	Posición en la esquina superior izquierda.  
+•	Área de seguridad para no comprometer su visibilidad.  
+  
+Colores en la interfaz  
 
-•	Área de seguridad para no comprometer su visibilidad.
+•	Turquesa Oscuro: barra de navegación.  
+•	Azul Celeste: botones principales.  
+•	Verde Azulado: detalles secundarios.  
+•	Fondo Oscuro: base de la interfaz.  
 
-Colores en la interfaz
-•	Turquesa Oscuro: barra de navegación.
-•	Azul Celeste: botones principales.
-•	Verde Azulado: detalles secundarios.
-•	Fondo Oscuro: base de la interfaz.
-Tipografía
-•	Uso de sans-serif en toda la web.
-•	Jerarquía: títulos en mayúscula o seminegrita, botones con texto centrado, cuerpo regular.
-Spacing
-•	Márgenes amplios para resaltar secciones clave.
-•	Consistencia en paddings internos de contenedores y botones.
-•	Espacios uniformes entre imágenes y texto.
-Navegación
-•	Menú fijo en la parte superior con enlaces simples.
-•	Ícono hamburguesa en dispositivos móviles.
-Botones e interacción
-•	Botones rectangulares redondeados en Azul Celeste.
-•	Hover con tono más intenso del mismo color.
-•	Tamaños amplios, accesibles en pantallas táctiles.
-Fondo e identidad visual
-•	Fondo en degradado azul–turquesa sobre negro, reforzando calma y tecnología.
-•	Elementos gráficos abstractos (ondas y cerebro iluminado) como parte de la identidad neurocientífica.
+Tipografía  
+
+•	Uso de sans-serif en toda la web.  
+•	Jerarquía: títulos en mayúscula o seminegrita, botones con texto centrado, cuerpo regular.  
+
+Spacing  
+
+•	Márgenes amplios para resaltar secciones clave.  
+•	Consistencia en paddings internos de contenedores y botones.  
+•	Espacios uniformes entre imágenes y texto.  
+
+Navegación  
+
+•	Menú fijo en la parte superior con enlaces simples.  
+•	Ícono hamburguesa en dispositivos móviles.  
+
+Botones e interacción  
+
+•	Botones rectangulares redondeados en Azul Celeste.  
+•	Hover con tono más intenso del mismo color.  
+•	Tamaños amplios, accesibles en pantallas táctiles.  
+
+Fondo e identidad visual  
+
+•	Fondo en degradado azul–turquesa sobre negro, reforzando calma y tecnología.  
+•	Elementos gráficos abstractos (ondas y cerebro iluminado) como parte de la identidad neurocientífica.  
 
 <div>
   <p align="center"><img src="assets/md-images/fondostyleguidelines.png" alt="fondostyleguidelines" width="700px" /></p>
 </div>
-
-### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
