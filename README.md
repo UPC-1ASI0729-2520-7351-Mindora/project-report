@@ -845,11 +845,11 @@ Empathy Mapping y As-Is Scenario Mapping.
 ### 2.3.1. User Personas.
 
 <div>
-  <p align="center"><img src="assets/md-images/user laura.png" alt="User persona for Laura" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/PedroLuisSegmento1.png" alt="User persona for Laura" width="700px" /></p>
 </div>
 
 <div>
-  <p align="center"><img src="assets/md-images/user andres.png" alt="User persona for Andres" width="700px" /></p>
+  <p align="center"><img src="assets/md-images/DiegoAlonsoSegmento2.png" alt="User persona for Andres" width="700px" /></p>
 </div>
 
 
