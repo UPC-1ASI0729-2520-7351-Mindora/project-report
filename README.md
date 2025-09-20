@@ -273,58 +273,42 @@ Hemos observado que un gran número de adultos entre 20 y 50 años experimenta n
 
 #### 1.2.2.2. Lean UX Assumptions
 
-**Feature:** Sistema de identificación y gestión del estrés laboral en MinDora
+**Feature:** Sistema de identificación y gestión del estrés laboral en mindora  
 
-**Registro Bio-métrico y Perfil del Usuario:**
-Creemos que nuestros usuarios (adultos de 20 a 50 años en el ámbito laboral) necesitan una forma sencilla y segura de registrar sus parámetros bio-métricos (por medio de la cámara o sensores de sus dispositivos móviles) junto con información de salud y comportamiento. Esto permitirá personalizar el seguimiento y el manejo del estrés en función de las características individuales.
+**Registro biométrico y perfil del usuario**  
+Creemos que nuestros usuarios, adultos de 20 a 50 años en el ámbito laboral, necesitan una forma sencilla y segura de registrar sus parámetros biométricos (a través de la cámara o sensores de sus dispositivos móviles), junto con información de salud y comportamiento. Esto permitirá personalizar el seguimiento y la gestión del estrés en función de las características individuales.  
 
-**Detección Temprana de Estrés mediante Patrones Físicos:**
-Creemos que la identificación de señales bio-métricas observables (postura, tensión muscular, patrones de respiración y sudoración) permitirá detectar de forma temprana niveles de estrés. Esto facilitará la intervención oportuna antes de que se agraven los síntomas, impactando positivamente en la salud mental y física de los usuarios.
+**Detección temprana de estrés mediante patrones físicos**  
+Creemos que la identificación de señales biométricas observables (postura, tensión muscular, patrones de respiración y sudoración) permitirá detectar de forma temprana niveles de estrés. Esto facilitará la intervención oportuna antes de que los síntomas se agraven, impactando positivamente en la salud mental y física de los usuarios.  
 
-**Integración de Evaluaciones Psicológicas y Recomendaciones Personalizadas:**
-Creemos que los usuarios se beneficiarán al combinar la autoevaluación bio-métrica con tests emocionales y recomendaciones personalizadas (ejercicios de respiración, pausas activas, contacto con especialistas). Esta integración permitirá al usuario conocer su estado en tiempo real y acceder a soluciones prácticas y adaptadas a su contexto.
+**Integración de evaluaciones psicológicas y recomendaciones personalizadas**  
+Creemos que los usuarios se beneficiarán al combinar la autoevaluación biométrica con tests emocionales y recomendaciones personalizadas (ejercicios de respiración, pausas activas y contacto con especialistas). Esta integración permitirá conocer el estado en tiempo real y acceder a soluciones prácticas adaptadas a su contexto.  
 
-**Seguimiento y Análisis de Datos de Estrés:**
-Creemos que disponer de un registro histórico del nivel de estrés y obtener estadísticas personalizadas ayudará al usuario a identificar patrones y cambios en su salud, promoviendo acciones preventivas y
-mejoras en su entorno laboral y personal.
+**Seguimiento y análisis de datos de estrés**  
+Creemos que disponer de un registro histórico del nivel de estrés y obtener estadísticas personalizadas ayudará a los usuarios a identificar patrones y cambios en su salud, promoviendo acciones preventivas y mejoras en su entorno laboral y personal.  
 
-**Business Outcomes (Resultados del negocio)**
+**Business outcomes (resultados del negocio)**  
+- Aumentar la productividad laboral y reducir el ausentismo, ya que los trabajadores podrán identificar y gestionar su estrés de manera proactiva.  
+- Generar ingresos a través de planes de suscripción individuales y acuerdos corporativos con empresas interesadas en el bienestar de sus empleados.  
+- Posicionar a mindora como una herramienta innovadora y confiable para la salud mental en el ámbito laboral, ampliando su alcance en el mercado latinoamericano.  
 
-- Se aumentará la productividad laboral y se reducirá el ausentismo, ya que los trabajadores podrán identificar y gestionar su estrés de manera proactiva.
+**Users (usuarios)**  
+- Profesionales y empleados de 20 a 50 años que desarrollan sus actividades en ambientes laborales exigentes y de alta presión.  
+- Personas que desean mejorar su bienestar integral mediante el monitoreo de señales físicas y emocionales.  
+- Usuarios que utilizan dispositivos móviles y buscan soluciones digitales para la autogestión de su salud mental.  
 
-- Se generarán ingresos a través de planes de suscripción individuales y acuerdos corporativos con empresas interesadas en el bienestar de sus empleados.
+**User outcomes (beneficios para el usuario)**  
+- Identificar sus niveles de estrés de manera temprana y objetiva mediante el análisis de patrones biométricos.  
+- Acceder a recomendaciones personalizadas que les ayuden a manejar y reducir los síntomas de estrés.  
+- Visualizar estadísticas y tendencias de su bienestar, facilitando el seguimiento en el tiempo.  
+- Mejorar su calidad de vida laboral y personal gracias a estrategias adaptadas a sus necesidades específicas.  
 
-- MinDora se posicionará como una herramienta innovadora y confiable para la salud mental en el ámbito laboral, ampliando su alcance en el mercado latinoamericano.
-
-**Users (Usuarios)**
-
-- Profesionales y empleados de 20 a 50 años que desarrollan sus actividades en ambientes laborales exigentes y de alta presión.
-
-- Personas que desean mejorar sus niveles de bienestar integral mediante el monitoreo de señales físicas y emocionales.
-
-- Usuarios que utilizan dispositivos móviles y buscan soluciones digitales para la autogestión de su salud mental.
-
-**User Outcomes (Beneficios para el usuario)**
-
-- Identificar sus niveles de estrés de manera temprana y objetiva, mediante el análisis de patrones bio-métricos.
-
-- Acceder a recomendaciones personalizadas que les ayuden a manejar y reducir los síntomas de estrés.
-
-- Visualizar estadísticas y tendencias de su bienestar, facilitando el seguimiento a lo largo del tiempo.
-
-- Mejorar su calidad de vida laboral y personal gracias a estrategias adaptadas a sus necesidades específicas.
-
-**Features (Características)**
-
-- **Registro de Datos Biométricos:** Herramienta de captura de señales físicas a través de la cámara y sensores del móvil.
-
-- **Autoevaluación Integral:** Tests combinados que evalúan tanto aspectos emocionales como físicos del estrés.
-
-- **Recomendaciones Personalizadas:** Sugerencias de ejercicios, pausas activas y consejos de salud mental basados en el perfil del usuario.
-
-- **Historial y Seguimiento:** Dashboard interactivo que muestra evolución, tendencias y alertas de niveles de estrés.
-
-- **Integración con Profesionales:** Opción de contactar con psicólogos o especialistas en bienestar para intervenciones personalizadas.
+**Features (características de la solución)**  
+- Registro de datos biométricos a través de la cámara y sensores del dispositivo móvil.  
+- Autoevaluación integral que combine aspectos emocionales y físicos del estrés.  
+- Recomendaciones personalizadas de ejercicios, pausas activas y consejos de salud mental basados en el perfil del usuario.  
+- Historial y dashboard interactivo que muestre evolución, tendencias y alertas de niveles de estrés.  
+- Integración con profesionales de la salud mental y bienestar para intervenciones personalizadas.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
