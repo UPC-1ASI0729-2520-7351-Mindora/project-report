@@ -264,16 +264,12 @@ Según un estudio en seis países de Latinoamérica, hasta el 63% de los trabaja
 
 #### 1.2.2.1. Lean UX Problem Statement
 
-Nuestra app permite a los usuarios identificar y gestionar su estrés laboral mediante un
-test de autoevaluación y la observación de señales físicas visibles como la postura, la
-respiración y la tensión facial. Además, brinda acceso a psicólogos y actividades
-prácticas para mejorar el bienestar.
-Hemos observado que muchos adultos entre 20 y 50 años sufren niveles elevados de
-estrés en el trabajo, pero no cuentan con herramientas simples, accesibles y efectivas
-para reconocer estos niveles a tiempo ni saber cómo actuar al respecto.
-¿Cómo pueden los trabajadores detectar y manejar su estrés de forma temprana y
-efectiva en su entorno laboral, usando una herramienta accesible, fácil de usar e
-integrada en su rutina diaria?
+Nuestra aplicación busca ayudar a los trabajadores a identificar y gestionar su estrés laboral a través de un test de autoevaluación y la observación de señales físicas como la postura, la respiración y la tensión facial. Asimismo, ofrece acceso a psicólogos y actividades prácticas orientadas a mejorar el bienestar.  
+
+Hemos observado que un gran número de adultos entre 20 y 50 años experimenta niveles elevados de estrés en sus entornos laborales, pero carece de herramientas simples, accesibles y efectivas que les permitan reconocer estos niveles a tiempo y actuar de manera adecuada.  
+
+**Pregunta guía:**  
+¿Cómo podemos facilitar que los trabajadores detecten y manejen su estrés de forma temprana y efectiva en su entorno laboral, mediante una solución accesible, intuitiva y que se integre en su rutina diaria?
 
 #### 1.2.2.2. Lean UX Assumptions
 
