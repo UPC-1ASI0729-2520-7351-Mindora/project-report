@@ -534,7 +534,7 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
 
 ### 📷 Registro visual de la entrevista  
 
-![Entrevista 1](img/entrevista1.jpeg)
+![Entrevista 1](assets/md-images/entrevista1.jpeg)
 
 
 Entrevista N°2
