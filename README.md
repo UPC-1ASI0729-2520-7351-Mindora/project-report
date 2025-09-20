@@ -532,9 +532,11 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
 - Considera que las empresas deberían apoyar a los trabajadores con subsidios para acceder a estas herramientas y ofrecer **flexibilidad horaria** para reducir la sobrecarga.
   ---
 
-### 📷 Registro visual de la entrevista  
+### Registro visual de la entrevista 
 
-![Entrevista 1](assets/md-images/entrevista1.jpeg)
+<p align="center">
+  <img src="assets/md-images/entrevista1.jpeg" alt="Entrevista 1" width="450"/>
+</p>
 
 
 Entrevista N°2
