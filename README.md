@@ -48,7 +48,37 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | 1.7         | 2025-09-20  | Sebastián De Las Casas & Fabricio Quispe | Se añadió Style Guidelines (tipografía, colores, íconos) y primeras secciones de Product Design.|
 
 ## Project Report Collaboration Insights
-> (Se añadirán capturas y enlaces a contribuciones: commits, PRs, issues por integrante.)
+
+El equipo ha trabajado de manera colaborativa en el repositorio de GitHub, registrando avances constantes en la construcción del informe.  
+A continuación, se presentan las evidencias de participación y colaboración de los integrantes:
+
+- Cada integrante del grupo realizó **commits**, modificaciones y carga de archivos en distintas secciones del informe.  
+- Se refleja la **división de tareas** entre redacción, correcciones de estilo, incorporación de imágenes y ajustes técnicos en Markdown.  
+- Todos los miembros participaron en mayor o menor medida, garantizando que el documento evolucionara de forma colaborativa y transparente.  
+- La evidencia gráfica incluye la vista de **contribuciones**, así como el **historial de actividad** donde se observa el detalle de commits y cambios en el repositorio.
+
+### Contribuciones por integrante
+
+<div align="center">
+  <img src="assets/md-images/Insights.png" alt="Contribuciones de los integrantes" width="700px"/>
+</div>
+
+En esta vista se observa la cantidad de commits realizados por cada integrante, junto con el balance de líneas añadidas y eliminadas.  
+
+### Historial de actividad del repositorio
+
+<div align="center">
+  <img src="assets/md-images/activity1.png" alt="Actividad reciente del repositorio" width="700px"/>
+</div>
+
+<div align="center">
+  <img src="assets/md-images/activity2.png" alt="Actividad extendida del repositorio" width="700px"/>
+</div>
+
+---
+
+En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaboración: **participación activa de todos los integrantes**, registro claro de los aportes, y una evolución continua y transparente del informe del proyecto.
+
 
 # Contenido
 
