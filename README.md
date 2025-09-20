@@ -1534,7 +1534,7 @@ A continuación se presentan los commits más importantes para la Landing Page, 
 | Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) |
 |---------------------------------|-----------------------|------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | Dev1/LandingPageMindora  | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205857 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 10/9/2025           |
-| Dev3/LandingPageMindora  | feature-subcripciones | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f51 | feat: added subscription section | added subscription section with user feedback                                                                                                       | 10/9/2025           |
+| Dev3/LandingPageMindora  | feature-subcripciones | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f51 | feat: added benefits section | added benefits section with user feedback                                                                                                       | 10/9/2025           |
 | Dev2/LandingPageMindora  | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2l | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 10/9/2025           |
 | Dev2/LandingPageMindora  | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743p | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 10/9/2025           |
 | Dev1/LandingPageMindora  | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea985 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 10/9/2025           |
@@ -1545,11 +1545,14 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 
 En esta entrega, el equipo de desarrolladores de Mindora ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
-![Evidencia1](img_graficas/Evidencia1.png)
-![Evidencia2](img_graficas/Evidencia2.png)
-![Evidencia3](img_graficas/Evidencia3.png)
-![Evidencia4](img_graficas/Evidencia4.png)
-![Evidencia5](img_graficas/Evidencia5.png)
+![Evidencia1](assets/md-images/Landing1.png)
+![Evidencia2](assets/md-images/Landing2.png)
+![Evidencia3](assets/md-images/Landing3.png)
+![Evidencia4](assets/md-images/Landing4.png)
+![Evidencia5](assets/md-images/Landing5.png)
+![Evidencia5](assets/md-images/Landing6.png)
+![Evidencia5](assets/md-images/Landing7.png)
+![Evidencia5](assets/md-images/Landing8.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
@@ -1560,7 +1563,7 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
-![team-collab-ins-sprint1](img_graficas/Evidencia6.png))
+![team-collab-ins-sprint1](assets/md-images/Insight.png))
 
 
 # 6. Conclusiones
