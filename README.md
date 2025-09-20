@@ -334,7 +334,7 @@ Creemos que disponer de un registro histórico del nivel de estrés y obtener es
 
 #### 1.2.2.4. Lean UX Canvas
 
-Lean UX Canvas es una de las herramientas que hemos utilizado para conmprender a nuestros posibles usuarios y sus necesidades. Esta es usada en el campo del diseño centrado en el usuario y la metodología Lean con la intención de desarrollar productos de forma eficientes y práctica para los usuarios. A su vez, esta puede ser utilizada por equipos multidisciplinarios para que colaboración de forma ordenada dentro un marco estructurado.
+El Lean UX Canvas es una de las herramientas empleadas para comprender mejor a los posibles usuarios y sus necesidades. Esta técnica, propia del diseño centrado en el usuario y de la metodología Lean, permite estructurar de manera clara el problema, las hipótesis y los resultados esperados. Además, facilita el trabajo colaborativo en equipos multidisciplinarios, asegurando que el desarrollo del producto se realice de forma eficiente y orientada a generar valor para los usuarios.  
 
 <div>
   <p align="center"><img src="assets/md-images/ux_canvas.png" alt="Canvas" width="700px" /></p>
