@@ -1208,12 +1208,76 @@ Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares
 </p>  
 
 
-## 4.2. Information Architecture
-### 4.2.1. Organization Systems
-### 4.2.2. Labeling Systems
-### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
+## 4.2. Information Architecture  
+
+En esta sección se detallan las decisiones de arquitectura de la información que guían la organización y presentación del contenido en la plataforma NeuroDora, considerando tanto la Landing Page como las páginas internas (Registro, Ingreso, Test interactivo y Directorio de psicólogos). El objetivo es garantizar que los usuarios encuentren de manera rápida y sencilla las funciones principales de la aplicación, facilitando la navegación y promoviendo una experiencia digital clara y accesible.  
+
+---
+
+### 4.2.1. Organization Systems  
+
+La información en NeuroDora se organiza en un modelo jerárquico y secuencial:  
+- En la Landing Page se presenta de forma jerárquica la propuesta de valor, con secciones que destacan el propósito de la plataforma, beneficios y llamados a la acción (CTA) hacia el registro o inicio de sesión.  
+- En las páginas de Registro e Ingreso, el contenido se organiza de manera secuencial, ya que el usuario sigue un flujo paso a paso para autenticarse o crear una nueva cuenta.  
+- En el Test interactivo, se aplica una organización matricial/secuencial, pues el usuario responde preguntas en orden predefinido y el sistema procesa los resultados para ofrecer un diagnóstico inicial.  
+- En el Directorio de psicólogos, se plantea un esquema categórico, en el que los especialistas pueden agruparse por especialidad o área de apoyo (estrés laboral, ansiedad, etc.).  
+
+Este enfoque combina jerarquía, secuencia y categorización, con el propósito de simplificar la experiencia y guiar al usuario en su recorrido dentro de la aplicación.  
+
+---
+
+### 4.2.2. Labeling Systems  
+
+Los sistemas de etiquetado en NeuroDora se enfocan en la simplicidad y la claridad para evitar ambigüedades. Los botones y menús utilizan términos directos y familiares para los usuarios:  
+- "Ingresar" y "Registrarse" en los formularios de autenticación.  
+- "Iniciar Test" y "Resultados" en la sección del test interactivo.  
+- "Psicólogos" para acceder al directorio de especialistas.  
+- "Cerrar Sesión" para finalizar la navegación.  
+
+Las etiquetas de los campos en formularios (nombre, correo, contraseña) se mantienen cortas y claras, con validaciones en tiempo real para evitar errores. Además, se emplean íconos visuales en menús y botones que refuerzan la comprensión del contenido.  
+
+---
+
+### 4.2.3. SEO Tags and Meta Tags  
+
+Para mejorar la visibilidad de la plataforma en buscadores y garantizar un correcto posicionamiento, se incluyen etiquetas SEO y metaetiquetas en la estructura del sitio:  
+
+- **Title:** "NeuroDora – Plataforma de detección y gestión del estrés laboral"  
+- **Meta Description:** "NeuroDora ayuda a trabajadores a identificar, prevenir y gestionar el estrés laboral mediante test interactivos y apoyo de psicólogos especializados."  
+- **Keywords:** "estrés laboral, salud mental digital, psicólogos online, bienestar laboral, NeuroDora".  
+- **Author:** Equipo NeuroDora.  
+- **Viewport:** Configurado para garantizar la adaptación responsive en dispositivos móviles.  
+- **Open Graph Tags:** Para mejorar la compartición en redes sociales.
+
+De esta manera, se asegura que tanto la Landing Page como las páginas internas sean indexadas de manera óptima, mejorando el alcance y la accesibilidad del producto.  
+
+---
+
+### 4.2.4. Searching Systems  
+
+El sistema de búsqueda de NeuroDora está diseñado para ser comprensible y práctico para los usuarios, ofreciendo una herramienta intuitiva que facilite el acceso a información relacionada con la gestión del estrés laboral. A continuación, se describen las principales funcionalidades contempladas:  
+
+| **Funcionalidad de búsqueda** | **Descripción** | **Usuario Destinado** | **Tipo de Filtro/Soporte** |  
+|-------------------------------|-----------------|-------------------------|-----------------------------|  
+| Búsqueda de resultados de test | Permite al usuario revisar sus resultados previos del test de estrés, con fecha y nivel de riesgo detectado. | Paciente | Filtro por fecha y nivel de estrés |  
+| Búsqueda de actividades de apoyo | El usuario puede consultar ejercicios de relajación, respiración y meditación asociados a su nivel de estrés. | Paciente | Filtro por categoría de actividad (respiración, física, mindfulness) |  
+| Búsqueda de psicólogos | Acceso al directorio de psicólogos especializados en salud laboral y mental. | Paciente / Profesional de RR.HH. | Filtro por especialidad, disponibilidad y modalidad (online/presencial) |  
+| Búsqueda de informes de progreso | Consulta de reportes gráficos que muestran la evolución del estrés a lo largo del tiempo. | Paciente / Psicólogo | Selector de fecha (semanal, mensual, trimestral) |  
+| Búsqueda de contenidos educativos | Acceso a recursos que explican consejos prácticos sobre gestión del estrés laboral. | Paciente | Palabras clave (ejemplo: ansiedad, concentración, pausas activas) |  
+
+---
+
+### 4.2.5. Navigation Systems  
+
+La navegación en NeuroDora se basa en un sistema intuitivo y accesible, con elementos comunes en cada página para garantizar coherencia visual y facilidad de uso.  
+
+- En la Landing Page se emplea un menú principal en la parte superior, con enlaces directos a Registro, Ingreso y Test.  
+- En dispositivos móviles, se utiliza un menú hamburguesa, optimizado mediante JavaScript para mostrar u ocultar secciones.  
+- Los formularios de Registro e Ingreso siguen un flujo lineal, evitando sobrecarga cognitiva al usuario.  
+- En el Test interactivo, la navegación es secuencial, con botones claros de "Siguiente" y "Finalizar".  
+- Se incluyen llamados a la acción (CTA) en botones destacados que guían al usuario hacia las acciones principales (realizar test, contactar psicólogo, suscribirse).  
+
+La arquitectura de navegación fue diseñada para garantizar que los usuarios logren sus objetivos (detección y gestión temprana del estrés) con el menor esfuerzo posible, mejorando así la experiencia global en la plataforma.  
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
