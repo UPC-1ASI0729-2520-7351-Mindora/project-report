@@ -2191,9 +2191,9 @@ Stickdorn, M., Hormess, M. E., Lawrence, A., & Schneider, J. (2018). *This is se
 Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/case-study-research-and-applications/book250150
 
 
-## 8. Anexos  
+# 8. Anexos  
 
-### Anexo A. Estructura para la sección Objetivo del Estudiante (Student Outcome)  
+## Anexo A. Estructura para la sección Objetivo del Estudiante (Student Outcome)  
 
 El curso contribuye al cumplimiento del Student Outcome ABET:  
 **ABET – EAC - Student Outcome 3**  
@@ -2209,7 +2209,7 @@ En el siguiente cuadro se describen las acciones realizadas y conclusiones por p
 
 ---
 
-### Anexo B. Estructura para el Informe de participación  
+## Anexo B. Estructura para el Informe de participación  
 
 El **Final Project Individual Member Performance Report** resume la participación de cada integrante del equipo.  
 
@@ -2223,7 +2223,7 @@ El **Final Project Individual Member Performance Report** resume la participaci�
 
 ---
 
-### Anexo C. Indicaciones para secciones que incluyen Videos  
+## Anexo C. Indicaciones para secciones que incluyen Videos  
 
 Se generaron y presentaron los siguientes videos como evidencia del trabajo realizado:  
 
@@ -2237,7 +2237,7 @@ Cada video fue subido a **Microsoft Stream** y vinculado en el repositorio del p
 
 ---
 
-### Anexo D. Formato para Evaluación de User Experience según Heurísticas  
+## Anexo D. Formato para Evaluación de User Experience según Heurísticas  
 
 Durante la validación del prototipo se aplicaron heurísticas de usabilidad, arquitectura de información y diseño inclusivo.  
 
@@ -2254,12 +2254,12 @@ Las observaciones fueron registradas en un informe y discutidas para mejorar la 
 
 ---
 
-### Anexo E. Integrantes del Equipo  
+## Anexo E. Integrantes del Equipo  
 
 | Foto | Nombre | Código | Carrera | Aporte principal |
 |------|--------|--------|---------|------------------|
 | ![Manuel](assets/md-images/joao.jpg) | Manuel Fernando Joao Castro Picón | U20231G159 | Ingeniería de Software | Desarrollo de lógica de negocio y soporte técnico. |
-| ![Sebastián](assets/md-images/sebastian.jpg) | Sebastián De Las Casa Latour | U202213553 | Ingeniería de Software | Implementación de interfaces y experiencia de usuario. |
+| ![Sebastián](assets/md-images/sebastián.jpg) | Sebastián De Las Casa Latour | U202213553 | Ingeniería de Software | Implementación de interfaces y experiencia de usuario. |
 | ![Eduardo](assets/md-images/eduardo.jpg) | Eduardo Fabián Chacaliza Minaya | U202324129 | Ingeniería de Software | Desarrollo frontend y control de versiones en GitHub. |
 | ![Fabricio](assets/md-images/fabricio.jpg) | Fabricio Fabián Quispe Barzola | U202320442 | Ingeniería de Software | Prototipado en Figma, validación y análisis de datos. |
 | ![Juan José](assets/md-images/juan.jpg) | Juan José Meza Huanacune | U202320574 | Ingeniería de Software | Desarrollo backend, pruebas y calidad de software. |  
