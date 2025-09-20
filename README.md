@@ -2191,5 +2191,76 @@ Stickdorn, M., Hormess, M. E., Lawrence, A., & Schneider, J. (2018). *This is se
 Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications. https://us.sagepub.com/en-us/nam/case-study-research-and-applications/book250150
 
 
-# 8. Anexos
-No se presenta en este sprint.
+## 8. Anexos  
+
+### Anexo A. Estructura para la sección Objetivo del Estudiante (Student Outcome)  
+
+El curso contribuye al cumplimiento del Student Outcome ABET:  
+**ABET – EAC - Student Outcome 3**  
+
+**Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*  
+
+En el siguiente cuadro se describen las acciones realizadas y conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.  
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|----------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Los integrantes realizaron presentaciones orales en cada sprint para exponer los avances, entrevistas y prototipos del proyecto MinDora. Además, explicaron las funcionalidades desarrolladas y respondieron preguntas técnicas y de negocio. | La exposición clara y ordenada permitió que la audiencia comprendiera tanto los aspectos técnicos como los de valor para el usuario. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | Se elaboraron documentos en Markdown y reportes que incluyen requisitos, entrevistas, diseños UX/UI, diagramas C4 y UML. Todo el material fue estructurado y presentado en GitHub para asegurar trazabilidad. | El equipo logró transmitir la información de manera efectiva, con un nivel de detalle técnico adecuado y resúmenes comprensibles para una audiencia no técnica. |  
+
+---
+
+### Anexo B. Estructura para el Informe de participación  
+
+El **Final Project Individual Member Performance Report** resume la participación de cada integrante del equipo.  
+
+| Item | Estudiante | Responsabilidades | Cumplió a tiempo | Cumplió a destiempo | No cumplió | Calificación asignada |
+|------|-------------|--------------------|------------------|---------------------|------------|-----------------------|
+| 1 | Manuel Fernando Joao Castro Picón | Desarrollo de backend y soporte técnico. | X |  |  | 20 |
+| 2 | Sebastián De Las Casa Latour | Implementación de interfaces y mejora UX/UI. | X |  |  | 20 |
+| 3 | Eduardo Fabián Chacaliza Minaya | Desarrollo frontend y control de versiones. | X |  |  | 20 |
+| 4 | Fabricio Fabián Quispe Barzola | Prototipado en Figma y validación de ideas. | X |  |  | 20 |
+| 5 | Juan José Meza Huanacune | Desarrollo backend y pruebas de software. | X |  |  | 20 |  
+
+---
+
+### Anexo C. Indicaciones para secciones que incluyen Videos  
+
+Se generaron y presentaron los siguientes videos como evidencia del trabajo realizado:  
+
+- **Needfinding Interviews**: Registro de entrevistas con usuarios para identificar necesidades sobre gestión del estrés.  
+- **Prototypes Navigation / Product Navigation**: Demostración del flujo de navegación en la landing page y la aplicación web.  
+- **Validation Interviews**: Entrevistas con usuarios finales validando los prototipos y la usabilidad.  
+- **About the Product**: Video promocional presentando MinDora, su propuesta de valor y beneficios.  
+- **About the Team**: Video del equipo explicando el proceso de trabajo, testimonios y aprendizajes obtenidos.  
+
+Cada video fue subido a **Microsoft Stream** y vinculado en el repositorio del proyecto.  
+
+---
+
+### Anexo D. Formato para Evaluación de User Experience según Heurísticas  
+
+Durante la validación del prototipo se aplicaron heurísticas de usabilidad, arquitectura de información y diseño inclusivo.  
+
+**Tareas evaluadas:**  
+1. Registro de un usuario nuevo.  
+2. Inicio de sesión y recuperación de contraseña.  
+3. Realización de test de estrés.  
+4. Visualización de psicólogos disponibles.  
+5. Acceso a recomendaciones y actividades de relajación.  
+6. Uso de agenda para contacto con psicólogos.  
+7. Realización de pagos de suscripción.  
+
+Las observaciones fueron registradas en un informe y discutidas para mejorar la experiencia del usuario.  
+
+---
+
+### Anexo E. Integrantes del Equipo  
+
+| Foto | Nombre | Código | Carrera | Aporte principal |
+|------|--------|--------|---------|------------------|
+| ![Manuel](assets/md-images/joao.jpg) | Manuel Fernando Joao Castro Picón | U20231G159 | Ingeniería de Software | Desarrollo de lógica de negocio y soporte técnico. |
+| ![Sebastián](assets/md-images/sebastian.jpg) | Sebastián De Las Casa Latour | U202213553 | Ingeniería de Software | Implementación de interfaces y experiencia de usuario. |
+| ![Eduardo](assets/md-images/eduardo.jpg) | Eduardo Fabián Chacaliza Minaya | U202324129 | Ingeniería de Software | Desarrollo frontend y control de versiones en GitHub. |
+| ![Fabricio](assets/md-images/fabricio.jpg) | Fabricio Fabián Quispe Barzola | U202320442 | Ingeniería de Software | Prototipado en Figma, validación y análisis de datos. |
+| ![Juan José](assets/md-images/juan.jpg) | Juan José Meza Huanacune | U202320574 | Ingeniería de Software | Desarrollo backend, pruebas y calidad de software. |  
+
