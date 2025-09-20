@@ -1018,127 +1018,108 @@ Impact Mapping - Segmento 2
 | 20        | US20          | Recibir recordatorios de ergonomía         | 2            |
 
 ---
-# 4. Capítulo IV: Product Design
+# 4. Capítulo IV: Product Design  
 
-## 4.1. Style Guidelines
+## 4.1. Style Guidelines  
 
-Las Style Guidelines de MinDora funcionan como un repositorio central para el equipo, donde se concentran assets, tipografías, colores y componentes. Su propósito es mantener una presentación consistente en todos los productos (web y móvil).  
-  
+Las *Style Guidelines* de **MinDora** funcionan como un repositorio central para el equipo, donde se concentran **assets, tipografías, colores y componentes**. Su propósito es mantener una presentación consistente en todos los productos (web y móvil).  
+
 Este apartado se divide en:  
-  
-4.1.1 General Style Guidelines: lineamientos de branding, tipografía, colores, spacing y tono de comunicación.  
-4.1.2 Web Style Guidelines: estándares visuales e interacción para interfaces web responsivas.  
-  
-### 4.1.1. General Style Guidelines
+- **4.1.1 General Style Guidelines:** lineamientos de branding, tipografía, colores, spacing y tono de comunicación.  
+- **4.1.2 Web Style Guidelines:** estándares visuales e interacción para interfaces web responsivas.  
 
-En esta sección se definen las bases visuales y de comunicación de MinDora. Se establecen los principios de branding, tipografía, colores, spacing y tono de comunicación, los cuales guiarán todo el diseño de la plataforma.
+---
 
-Branding
+### 4.1.1 General Style Guidelines  
 
-El logo de MinDora combina un perfil humano con un cerebro estilizado y ondas suaves. Representa la unión entre ciencia, tecnología y bienestar emocional
+En esta sección se definen las bases visuales y de comunicación de *MinDora*. Se establecen los principios de **branding, tipografía, colores, spacing y tono de comunicación**, los cuales guiarán todo el diseño de la plataforma.  
 
-<div>
-  <p align="center"><img src="assets/md-images/MINDORALOGO.png" alt="MINDORALOGO" width="700px" /></p>
-</div>
+#### Branding  
+El logo de *MinDora* combina un perfil humano con un cerebro estilizado y ondas suaves, representando la unión entre ciencia, tecnología y bienestar emocional.  
 
-Tipografía
+<p align="center">
+  <img src="assets/md-images/MINDORALOGO.png" alt="MINDORALOGO" width="500px" />
+</p>  
 
-•	Se emplean fuentes sans-serif, modernas y legibles en cualquier dispositivo.  
-•	Jerarquía visual clara: títulos en seminegrita y tamaño destacado, subtítulos medianos, texto base en peso regular.
+#### Tipografía  
+- Fuentes **sans-serif**, modernas y legibles en cualquier dispositivo.  
+- Jerarquía visual clara: títulos en seminegrita y tamaño destacado, subtítulos medianos, texto base en peso regular.  
 
-Paleta de colores
+#### Paleta de colores  
 
-•	Turquesa Oscuro (#1B6F77): innovación y confianza. 
+- **Turquesa Oscuro (#1B6F77):** innovación y confianza.  
+<p align="center"><img src="assets/md-images/1styleguidelines.png" alt="Turquesa Oscuro" width="500px" /></p>  
 
-<div>
-  <p align="center"><img src="assets/md-images/1styleguidelines.png" alt="1styleguidelines" width="700px" /></p>
-</div>
+- **Azul Celeste (#4DB6C3):** calma y frescura.  
+<p align="center"><img src="assets/md-images/2styleguidelines.png" alt="Azul Celeste" width="500px" /></p>  
 
-•	Azul Celeste (#4DB6C3): calma y frescura. 
+- **Verde Azulado (#2E8B92):** equilibrio emocional.  
+<p align="center"><img src="assets/md-images/3styleguidelines.png" alt="Verde Azulado" width="500px" /></p>  
 
-<div>
-  <p align="center"><img src="assets/md-images/2styleguidelines.png" alt="2styleguidelines" width="700px" /></p>
-</div>
+- **Degradado Azul–Turquesa:** dinamismo y fluidez.  
+<p align="center"><img src="assets/md-images/4styleguidelines.png" alt="Degradado Azul-Turquesa" width="500px" /></p>  
 
-•	Verde Azulado (#2E8B92): equilibrio emocional. 
+- **Fondo Oscuro (#0F1F21):** contraste y profesionalismo.  
+<p align="center"><img src="assets/md-images/5styleguidelines.png" alt="Fondo Oscuro" width="500px" /></p>  
 
-<div>
-  <p align="center"><img src="assets/md-images/3styleguidelines.png" alt="3styleguidelines" width="700px" /></p>
-</div>
+#### Spacing  
+- Uso de espacios en blanco para evitar saturación visual.  
+- Márgenes amplios: **40px en desktop, 24px en móvil**.  
+- Separación entre párrafos: **16–20px**.  
+- Paddings uniformes en botones y tarjetas.  
 
-•	Degradado Azul–Turquesa: dinamismo y fluidez. 
+#### Tono de comunicación  
+Las dimensiones adoptadas en *MinDora* son:  
+- **Serio (no divertido):** transmite profesionalismo y confianza en un tema sensible como el estrés laboral.  
+- **Formal (no casual):** mantiene rigurosidad científica sin perder claridad.  
+- **Respetuoso (no irreverente):** cuida el trato con los usuarios, evitando minimizar sus emociones.  
+- **Sereno (más que entusiasta):** busca inspirar calma y tranquilidad en lugar de euforia.  
 
-<div>
-  <p align="center"><img src="assets/md-images/4styleguidelines.png" alt="4styleguidelines" width="700px" /></p>
-</div>
+---
 
-•	Fondo Oscuro (#0F1F21): contraste y profesionalismo. 
+### 4.1.2 Web Style Guidelines  
 
-<div>
-  <p align="center"><img src="assets/md-images/5styleguidelines.png" alt="5styleguidelines" width="700px" /></p>
-</div>
+Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares visuales e interactivos** en interfaces responsivas (desktop, tablet y móvil), asegurando coherencia y accesibilidad.  
 
-Spacing
+#### Logo y branding  
+- Posición en la esquina superior izquierda.  
+- Área de seguridad que evita comprometer la visibilidad.  
 
-•	Uso de espacios en blanco para evitar saturación visual.  
-•	Márgenes amplios: 40px en desktop, 24px en móvil  
-•	Espacios entre párrafos: 16–20px  
-•	Paddings uniformes en botones y tarjetas  
+#### Colores en la interfaz  
+- **Turquesa Oscuro:** barra de navegación.  
+- **Azul Celeste:** botones principales.  
+- **Verde Azulado:** detalles secundarios.  
+- **Fondo Oscuro:** base de la interfaz.  
 
-Tono de comunicación  
-Las dimensiones adoptadas para el lenguaje aplicado en MinDora son:
+#### Tipografía  
+- Fuentes sans-serif en toda la web.  
+- Jerarquía visual clara:  
+  - Títulos en mayúscula o seminegrita.  
+  - Botones con texto centrado.  
+  - Texto base en peso regular.  
 
-•	Serio (no divertido): transmite profesionalismo y confianza en un tema sensible como el estrés laboral.  
-•	Formal (no casual): mantiene rigurosidad científica sin perder claridad.  
-•	Respetuoso (no irreverente): cuida el trato con los usuarios, evitando minimizar sus emociones.  
-•	Sereno (más que entusiasta): busca inspirar calma y tranquilidad en lugar de euforia.  
+#### Spacing  
+- Márgenes amplios para resaltar secciones clave.  
+- Consistencia en paddings de contenedores y botones.  
+- Espacios uniformes entre texto e imágenes.  
 
-### 4.1.2. Web Style Guidelines
+#### Navegación  
+- Menú fijo en la parte superior con enlaces simples.  
+- Ícono hamburguesa para dispositivos móviles.  
 
-Las guías de estilo web de MinDora definen cómo se aplican los estándares visuales e interactivos en interfaces responsivas (desktop, tablet, móvil), asegurando coherencia y accesibilidad.  
+#### Botones e interacción  
+- Botones rectangulares redondeados en **Azul Celeste**.  
+- *Hover* con un tono más intenso del mismo color.  
+- Tamaños amplios, accesibles en pantallas táctiles.  
 
-Logo y branding
+#### Fondo e identidad visual  
+- Fondo en **degradado azul–turquesa sobre negro**, transmitiendo calma y tecnología.  
+- Elementos gráficos abstractos (ondas y cerebro iluminado) como parte de la identidad neurocientífica.  
 
-•	Posición en la esquina superior izquierda.  
-•	Área de seguridad para no comprometer su visibilidad.  
-  
-Colores en la interfaz  
+<p align="center">
+  <img src="assets/md-images/fondostyleguidelines.png" alt="Fondo Style Guidelines" width="700px" />
+</p>  
 
-•	Turquesa Oscuro: barra de navegación.  
-•	Azul Celeste: botones principales.  
-•	Verde Azulado: detalles secundarios.  
-•	Fondo Oscuro: base de la interfaz.  
-
-Tipografía  
-
-•	Uso de sans-serif en toda la web.  
-•	Jerarquía: títulos en mayúscula o seminegrita, botones con texto centrado, cuerpo regular.  
-
-Spacing  
-
-•	Márgenes amplios para resaltar secciones clave.  
-•	Consistencia en paddings internos de contenedores y botones.  
-•	Espacios uniformes entre imágenes y texto.  
-
-Navegación  
-
-•	Menú fijo en la parte superior con enlaces simples.  
-•	Ícono hamburguesa en dispositivos móviles.  
-
-Botones e interacción  
-
-•	Botones rectangulares redondeados en Azul Celeste.  
-•	Hover con tono más intenso del mismo color.  
-•	Tamaños amplios, accesibles en pantallas táctiles.  
-
-Fondo e identidad visual  
-
-•	Fondo en degradado azul–turquesa sobre negro, reforzando calma y tecnología.  
-•	Elementos gráficos abstractos (ondas y cerebro iluminado) como parte de la identidad neurocientífica.  
-
-<div>
-  <p align="center"><img src="assets/md-images/fondostyleguidelines.png" alt="fondostyleguidelines" width="700px" /></p>
-</div>
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
