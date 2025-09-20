@@ -760,7 +760,7 @@ Los entrevistados también coinciden en que, a pesar de tener acceso a recursos 
 
 Respecto a las soluciones digitales, los tres manifestaron una clara disposición a usar una aplicación como **NeuroDora**, siempre que cumpla con tres condiciones clave: **precio accesible, facilidad de uso y seguridad/confidencialidad de datos personales**. Consideran especialmente útiles los **test interactivos de estrés**, actividades guiadas rápidas (como ejercicios de respiración) y la posibilidad de acceder a **psicólogos en línea**.  
 
-### 🔹 Sustento estadístico (basado en 3 entrevistas)  
+### Sustento estadístico (basado en 3 entrevistas)  
 
 - **100%** indicó que el estrés laboral impacta negativamente en su salud física y mental.  
 - **100%** trabaja más horas de las establecidas, excediendo la jornada oficial.  
@@ -769,20 +769,20 @@ Respecto a las soluciones digitales, los tres manifestaron una clara disposició
 - **100%** usa intensivamente **herramientas digitales laborales** (Outlook, Excel, Teams, Slack, Analytics) y, a nivel personal, aplicaciones de entretenimiento como Spotify, Netflix, YouTube y WhatsApp.  
 - **100%** está dispuesto a usar una app como **NeuroDora**, con énfasis en test, psicólogos en línea y accesibilidad.  
 
-### 🔹 Desafíos comunes identificados  
+### Desafíos comunes identificados  
 
 - **Sobrecarga laboral y plazos ajustados**, que generan agotamiento físico y mental.  
 - **Falta de tiempo personal y familiar**, debido a jornadas extendidas.  
 - **Dificultad para desconectarse digitalmente**, ya que las herramientas laborales los mantienen pendientes todo el tiempo.  
 - **Falta de reconocimiento empresarial**, lo que genera frustración y desmotivación.  
 
-### 🔹 Propuestas y mejoras señaladas por los entrevistados  
+### Propuestas y mejoras señaladas por los entrevistados  
 
 - **Implementar horarios más flexibles** para evitar la sobrecarga laboral.  
 - **Fomentar pausas activas y capacitaciones en salud mental** dentro de la jornada.  
 - **Establecer convenios empresariales con plataformas como NeuroDora** para ofrecer apoyo psicológico accesible.  
 
-### 🔹 Arquetipo – “El profesional exhausto pero resiliente”  
+### Arquetipo – “El profesional exhausto pero resiliente”  
 
 - **Demografía:** Hombre joven (27–29 años), soltero, residente en Lima, con estudios universitarios, empleo estable en empresas corporativas.  
 - **Personalidad y habilidades:** Responsable, organizado, con alta concentración; busca estabilidad y reconocimiento profesional.  
@@ -803,7 +803,7 @@ Los entrevistados coinciden en que el estrés proviene principalmente de la **in
 
 En lo digital, el **celular es la herramienta principal** para todos los entrevistados. Lo utilizan tanto para trabajar (apps de delivery, WhatsApp, redes sociales) como para distraerse. NeuroDora es percibida como una herramienta atractiva, siempre que sea **económica, ligera y práctica**, adaptada a su contexto.  
 
-### 🔹 Sustento estadístico (basado en 3 entrevistas)  
+### Sustento estadístico (basado en 3 entrevistas)  
 
 - **100%** indicó que la **inestabilidad de ingresos** es su mayor fuente de estrés.  
 - **100%** reconoció que el estrés afecta su salud física y mental.  
@@ -813,21 +813,21 @@ En lo digital, el **celular es la herramienta principal** para todos los entrevi
 - **100%** mostró disposición a usar **NeuroDora**, con énfasis en accesibilidad, practicidad y seguridad.  
 - **33%** (Jesús) priorizó la necesidad de contar con **psicólogos en línea**; los otros dos valoraron más los **test rápidos y ejercicios prácticos**.  
 
-### 🔹 Patrones comunes identificados  
+### Patrones comunes identificados  
 
 - **Fuentes de estrés:** ingresos inestables, largas jornadas, competencia, incertidumbre económica.  
 - **Estrategias de afrontamiento:** escuchar música, hacer deporte ocasional, socializar con amigos, entretenimiento digital.  
 - **Frustraciones:** falta de seguridad laboral, ausencia de horarios definidos, dificultad para desconectarse del celular.  
 - **Necesidades:** apoyo rápido y accesible en el celular, actividades prácticas de relajación, acompañamiento psicológico remoto.  
 
-### 🔹 Propuestas y mejoras sugeridas por los entrevistados  
+### Propuestas y mejoras sugeridas por los entrevistados  
 
 - Un modelo de **suscripción económica y flexible**, adaptado a ingresos variables.  
 - Una **app móvil ligera**, optimizada para celulares con pocos recursos.  
 - **Soporte inmediato**, con psicólogos disponibles en línea o consejería rápida.  
 - **Actividades breves y efectivas**, como recordatorios, ejercicios de respiración y meditaciones cortas.  
 
-### 🔹 Arquetipo – “El trabajador independiente bajo presión económica”  
+### Arquetipo – “El trabajador independiente bajo presión económica”  
 
 - **Demografía:** Hombre joven-adulto (20–32 años), soltero, residente en Lima, ocupaciones independientes (delivery, comercio ambulante, oficios flexibles).  
 - **Personalidad y habilidades:** Adaptable, persistente, con alta dependencia de la tecnología móvil.  
