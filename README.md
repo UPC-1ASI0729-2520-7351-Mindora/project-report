@@ -1236,6 +1236,10 @@ Los sistemas de etiquetado en NeuroDora se enfocan en la simplicidad y la clarid
 
 Las etiquetas de los campos en formularios (nombre, correo, contraseña) se mantienen cortas y claras, con validaciones en tiempo real para evitar errores. Además, se emplean íconos visuales en menús y botones que refuerzan la comprensión del contenido.  
 
+<p align="center">
+  <img src="assets/md-images/hamburguesa.png" alt="PanelHamburguesa" width="500px" />
+</p>  
+
 ---
 
 ### 4.2.3. SEO Tags and Meta Tags  
