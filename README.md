@@ -160,12 +160,12 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestro startup llamado NeuroDora está enfocado en una rápida detección del estrés en el ámbito
-laboral de personas entre 20 a 50 años de edad. Abarcando temas como salud mental, presión laboral
-y servicios, el software facilita el tratamiento del estrés laboral.
-Los usuarios pueden realizar un test que recabará información de salud, comportamiento, actitudes y
-patrones en la persona. La plataforma permite el contacto con un psicólogo. Además, fomenta
-diversas actividades para complementar el tratamiento contra el estrés.
+Nuestro startup llamado NeuroDora está enfocado en la rápida detección y apoyo en el tratamiento del estrés en el ámbito laboral de personas entre 20 y 50 años de edad. La solución aborda temas relacionados con la salud mental, la presión laboral y la necesidad de contar con servicios accesibles y confiables para mejorar el bienestar de los trabajadores.  
+
+A través de un test interactivo, la plataforma recopila información sobre el estado de salud, el comportamiento, las actitudes y los patrones de cada usuario, identificando tempranamente señales de estrés. Con base en estos resultados, el sistema facilita el contacto directo con un psicólogo especializado y ofrece diversas actividades de apoyo para complementar el tratamiento y la gestión del estrés.  
+
+NeuroDora se proyecta como un modelo de negocio independiente y sostenible, ofreciendo un esquema de suscripción para usuarios individuales y convenios con empresas interesadas en promover la salud mental de sus colaboradores. De esta manera, el proyecto combina la tecnología con un enfoque de impacto social positivo, contribuyendo a mejorar la calidad de vida en el entorno laboral.
+
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 
