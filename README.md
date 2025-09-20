@@ -385,43 +385,25 @@ El análisis competitivo se organiza siguiendo el formato *Competitive Analysis 
 | **Análisis SWOT – Oportunidades** | Creciente interés en salud mental laboral en LATAM; alianzas con empresas y programas de bienestar corporativo. | Expansión internacional, integración con servicios de salud mental profesional. | Expansión en nuevos mercados, alianzas con telemedicina y wearables, localización cultural. | Creciente interés en salud mental, expansión internacional, integraciones tecnológicas. |
 | **Análisis SWOT – Amenazas** | Competencia global consolidada; barreras de confianza en adopción de soluciones digitales en salud mental. | Competencia intensa, precios más asequibles en otras apps. | Competencia intensa, regulaciones de salud digital, preocupaciones por privacidad de datos. | Saturación del mercado, cambios en políticas de privacidad, escepticismo sobre la eficacia digital. |
 
-## 2.1.2. Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores  
 
-**FODA de nuestra empresa: MinDora**
+Las estrategias y tácticas de MinDora se construyen tomando como base el análisis SWOT presentado en la tabla comparativa. A continuación, se detallan las combinaciones FO, DO, FA y DA que permitirán aprovechar las oportunidades del mercado, reforzar nuestras fortalezas y mitigar tanto debilidades como amenazas frente a la competencia.  
 
-| **Fortalezas (F)** | **Debilidades (D)** |
-|--------------------|---------------------|
-| F1: Sistema de detección rápida de estrés laboral con biometría y tests personalizados. | D1: Dependencia de la honestidad del usuario en la autoevaluación. |
-| F2: Conexión directa con profesionales de salud mental. | D2: Posible resistencia cultural a reconocer problemas de salud mental. |
-| F3: Enfoque en el mercado laboral latinoamericano. | D3: Necesidad de demostrar la precisión y confiabilidad del sistema biométrico. |
-| F4: Integración de herramientas digitales en una sola plataforma. | D4: Limitado reconocimiento de marca en el mercado global. |
+### Estrategias FO (Fortalezas + Oportunidades)  
+- Gracias a nuestro **enfoque innovador en biometría y autoevaluación (F)** y al **creciente interés en la salud mental laboral en LATAM (O)**, desarrollaremos programas de bienestar corporativo que integren evaluaciones biométricas y talleres de sensibilización en empresas.  
+- Con nuestra **conexión con especialistas (F)** y el **interés de aseguradoras y áreas de RR.HH. en métricas de bienestar (O)**, diseñaremos planes empresariales que incluyan reportes agregados y anónimos para demostrar impacto en la reducción del ausentismo y mejora de la productividad.  
 
-| **Oportunidades (O)** | **Amenazas (A)** |
-|------------------------|------------------|
-| O1: Creciente conciencia sobre la importancia de la salud mental en empresas. | A1: Aparición de soluciones similares en el mercado. |
-| O2: Mayor disposición de las organizaciones a invertir en programas de bienestar laboral. | A2: Preocupaciones por la confidencialidad de los datos sensibles. |
-| O3: Avance en la aceptación social de plataformas digitales de salud. | A3: Competencia internacional consolidada con mayor presupuesto en marketing. |
-| O4: Interés de aseguradoras y áreas de RR.HH. en métricas de bienestar. | A4: Barreras legales y regulatorias sobre el uso de datos de salud. |
+### Estrategias DO (Debilidades + Oportunidades)  
+- Para enfrentar la **necesidad de precisión en biometría (D)** y aprovechar la **aceptación social creciente de plataformas digitales de salud (O)**, realizaremos pruebas piloto validadas por universidades locales que respalden científicamente la fiabilidad del sistema.  
+- Considerando la **confianza limitada de algunos usuarios en compartir datos (D)** y el **interés de las empresas en programas de bienestar (O)**, ofreceremos versiones de la aplicación con niveles diferenciados de privacidad y personalización, acompañadas de capacitaciones en salud mental.  
 
----
+### Estrategias FA (Fortalezas + Amenazas)  
+- Frente a la **competencia global consolidada (A)**, resaltaremos nuestra **orientación al mercado latinoamericano y la integración de biometría, autoevaluaciones y conexión con psicólogos (F)** como un diferencial que responde a un contexto cultural específico.  
+- Para contrarrestar las **preocupaciones sobre confidencialidad de datos (A)**, aprovecharemos nuestro **foco regional y alianzas con especialistas (F)** para implementar un sello de certificación en privacidad que fortalezca la confianza de los usuarios.  
 
-### Estrategias FO (Fortalezas + Oportunidades)
-- Debido al aumento en la **conciencia sobre la salud mental en las empresas (O1)** y gracias a nuestro **sistema de detección rápida con biometría (F1)**, desarrollaremos programas de implementación corporativa que incluyan talleres de sensibilización y pruebas piloto con métricas medibles de reducción de estrés.  
-- Para aprovechar la **disposición de las empresas a invertir en bienestar (O2)** y la **conexión directa con profesionales de salud mental (F2)**, ofreceremos planes corporativos que incluyan sesiones psicológicas periódicas y reportes de impacto.  
-
-### Estrategias DO (Debilidades + Oportunidades)
-- Dado que existe **resistencia cultural a reconocer problemas de salud mental (D2)** pero crece la **aceptación social de plataformas digitales de salud (O3)**, incluiremos campañas educativas dentro de la app que normalicen hablar del estrés y lo asocien a prevención, no a debilidad.  
-- Para superar la **dependencia de la honestidad en la autoevaluación (D1)** y considerando el **interés de RR.HH. en métricas objetivas (O4)**, incorporaremos tecnología de análisis de comportamiento y registros biométricos complementarios.  
-
-### Estrategias FA (Fortalezas + Amenazas)
-- Frente a la **aparición de soluciones similares en el mercado (A1)**, utilizaremos nuestra **integración única de biometría, autoevaluaciones y conexión con especialistas (F1, F2, F4)** como propuesta de valor diferenciada en el posicionamiento de marca.  
-- Para reducir el riesgo de **preocupaciones sobre confidencialidad de datos (A2)**, aprovecharemos nuestra **conexión con profesionales de salud mental y enfoque en LATAM (F2, F3)** para lanzar un programa de certificación en privacidad que genere confianza en el público local.  
-
-### Estrategias DA (Debilidades + Amenazas)
-- Ante el **limitado reconocimiento de marca (D4)** y la fuerte **competencia internacional consolidada (A3)**, enfocaremos las primeras campañas en el mercado local latinoamericano con casos de éxito corporativos antes de escalar a nivel global.  
-- Para mitigar el **riesgo regulatorio sobre datos de salud (A4)** y la **necesidad de demostrar confiabilidad en biometría (D3)**, implementaremos auditorías externas y alianzas con universidades locales que validen científicamente nuestro sistema.  
-
-## 2.2. Entrevistas.
+### Estrategias DA (Debilidades + Amenazas)  
+- Ante la **competencia intensa y la percepción de nuevas apps como “ligeras” (A)** y nuestro **limitado reconocimiento global (D)**, iniciaremos campañas locales en LATAM que muestren casos de éxito medibles antes de expandirnos internacionalmente.  
+- Para mitigar los **riesgos regulatorios sobre el uso de datos de salud (A)** y la **debilidad asociada a la confianza en biometría (D)**, estableceremos auditorías externas y alianzas con organismos de salud que avalen la transparencia y seguridad del sistema. 
 
 ---
 
