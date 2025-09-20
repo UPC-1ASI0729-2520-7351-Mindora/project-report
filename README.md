@@ -1665,8 +1665,39 @@ Incluye la clase `Perfil`, que se relaciona con `Preferencias`, junto a las enum
 
 <img src="assets/md-images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/>
 
-## 4.8. Database Design
-### 4.8.1. Database Diagram
+## 4.8. Database Design  
+
+En esta sección el equipo presenta y explica los **Database Diagrams** diseñados para la plataforma **MinDora**, los cuales permiten la persistencia de información para cada *bounded context*.  
+
+El diseño se basa en un modelo relacional, asegurando integridad referencial mediante **Primary Keys (PK)** y **Foreign Keys (FK)**, además de nombres estandarizados en **mayúsculas** y con prefijos que referencian a cada tabla.  
+
+### Principales características consideradas
+- Tablas normalizadas para reducir redundancia.  
+- Claves primarias en cada entidad para asegurar unicidad.  
+- Claves foráneas que evidencian las relaciones entre entidades.  
+- Consistencia en la nomenclatura: `ID_TABLA`, `ATRIBUTO_TABLA`.  
+- Escalabilidad para soportar futuras ampliaciones (nuevos módulos o bounded contexts).  
+
+---
+
+### 4.8.1. Database Diagram  
+
+El siguiente diagrama muestra las entidades principales de la base de datos y sus relaciones:  
+
+📌 **Entidades clave**  
+- **USUARIO**: tabla central, conecta con perfil, tests, actividades, suscripción e informes.  
+- **TEST_ESTRES, RESPUESTA, RESULTADO**: gestión de autoevaluaciones y niveles de estrés.  
+- **ACTIVIDAD y PLAN_ACTIVIDAD**: actividades recomendadas según resultados.  
+- **PSICOLOGO y SOLICITUD_CONTACTO**: directorio y conexión entre usuarios y especialistas.  
+- **SUSCRIPCION y PAGO**: administración de planes y transacciones.  
+- **INFORME_PROGRESO y NOTIFICACION**: reportes históricos y notificaciones enviadas.  
+
+---
+
+### 📷 Diagrama ER  
+
+<img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="600px"/>
+
 
 ---
 
