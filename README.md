@@ -1421,7 +1421,55 @@ A continuación presentamos los principales User Goals identificados y sus respe
 ---
 
 
-## 4.5. Web Applications Prototyping
+## 4.5. Web Applications Prototyping  
+
+### Introducción  
+En esta sección se presentan los prototipos interactivos de la aplicación MinDora, diseñados tanto para desktop como para mobile web browser. Estos prototipos simulan la navegación y los principales flujos de interacción, basados en los User Flow Diagrams previamente definidos.  
+
+Los criterios principales que guiaron las decisiones de interacción fueron:  
+- **Consistencia con la arquitectura de información**: se respetan los sistemas de organización, etiquetado, búsqueda y navegación definidos en la sección 4.2.  
+- **Usabilidad e inclusión**: se priorizó un diseño simple, accesible y claro, de manera que los usuarios puedan completar sus objetivos (registro, login, realización del test de estrés, contacto con psicólogos) sin fricciones.  
+- **Coherencia visual**: los prototipos mantienen el sistema de diseño propuesto en los mock-ups, con tipografía, colores y componentes reutilizables para garantizar uniformidad.  
+
+---
+
+### Prototipo Desktop  
+Los prototipos de escritorio muestran los siguientes flujos clave:  
+1. **Registro de usuario**.  
+2. **Login de usuario**.  
+3. **Acceso al landing page** con los beneficios y secciones informativas.  
+4. **Exploración de secciones de ejercicios y psicólogos**.  
+
+**Screenshot de ejemplo (Desktop):**  
+<img src="assets/md-images/prototipo-desktop.png" alt="Prototipo Desktop" width="500px"/>  
+
+**Enlace al video de simulación (Microsoft Stream):**  
+👉 [Video Prototipo Desktop](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/ESPUzlI83qlPntV3adTZ9f0BIte3WfUYWUaoJaWukbfJAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NTucih)  
+
+---
+
+### Prototipo Mobile  
+Los prototipos móviles priorizan la navegación simplificada en pantallas pequeñas, asegurando la accesibilidad de todas las funciones principales:  
+1. **Registro e inicio de sesión adaptados a mobile**.  
+2. **Visualización compacta de los beneficios y ejercicios contra el estrés**.  
+3. **Sección de psicólogos optimizada en tarjetas verticales**.  
+4. **Navegación a través del menú hamburguesa**.  
+
+**Screenshot de ejemplo (Mobile):**  
+<img src="assets/md-images/prototipo-mobile.png" alt="Prototipo Mobile" width="250px"/>  
+
+**Enlace al video de simulación (Microsoft Stream):**  
+👉 [Video Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EfQkEwTtj7tFoolk12GlXqgBNozvOzO3vjmQwn9YERoZ_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cFfbEj)  
+
+---
+
+### Conexión con los User Flow Diagrams  
+Los prototipos presentados corresponden directamente a los **User Flows** definidos en la sección 4.4:  
+- Registro de usuario.  
+- Inicio de sesión.  
+- Acceso al landing page.  
+- Contacto con psicólogos.  
+
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
