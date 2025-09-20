@@ -1280,8 +1280,46 @@ La navegación en NeuroDora se basa en un sistema intuitivo y accesible, con ele
 La arquitectura de navegación fue diseñada para garantizar que los usuarios logren sus objetivos (detección y gestión temprana del estrés) con el menor esfuerzo posible, mejorando así la experiencia global en la plataforma.  
 
 ## 4.3. Landing Page UI Design
+
+En esta sección se presenta la propuesta de interfaz de usuario (UI) para la *Landing Page* de MinDora. El diseño se elaboró siguiendo las decisiones tomadas en la Arquitectura de Información, priorizando la usabilidad, la claridad en la jerarquía visual y la experiencia del usuario.  
+
+La UI traduce dichas decisiones en un diseño coherente que combina organización de contenidos, sistemas de etiquetado y navegación intuitiva. De esta forma, el usuario puede acceder fácilmente a los beneficios, funcionalidades y herramientas que ofrece la plataforma, manteniendo un estilo visual consistente con la identidad de la aplicación.
+
+---
+
 ### 4.3.1. Landing Page Wireframe
+
+Los *wireframes* representan la estructura base de la interfaz antes de aplicar colores, imágenes o tipografía. Estos prototipos se usaron para validar la distribución de los elementos clave:  
+
+- **Landing Page**: Presenta la propuesta de valor, beneficios ofrecidos, secciones de ejercicios, expertos y psicólogos disponibles.  
+- **Login**: Permite a los usuarios registrados acceder de manera rápida y segura.  
+- **Registro**: Ofrece un formulario simple y claro para crear una cuenta en la plataforma.  
+
+**Wireframes utilizados:**
+
+- ![Wireframe Landing](assets/md-images/wireframelanding.png)  
+- ![Wireframe Login](assets/md-images/wireframelogin.png)  
+- ![Wireframe Register](assets/md-images/wireframeregister.png)  
+
+---
+
 ### 4.3.2. Landing Page Mock-up
+
+Los *mockups* trasladan la estructura planteada en los *wireframes* a un diseño visual final, incorporando paleta de colores, tipografía, imágenes y estilo gráfico característico de MinDora.  
+
+En estos diseños se buscó transmitir profesionalismo, confianza y bienestar, con un estilo moderno y minimalista que facilita la navegación del usuario.  
+
+**Mockups finales:**
+
+- ![Mockup Landing](assets/md-images/mockuplanding.png)  
+- ![Mockup Login](assets/md-images/mockuplogin.png)  
+- ![Mockup Register](assets/md-images/mockupregister.png)  
+
+---
+
+### Conclusión
+
+La propuesta de UI refleja la aplicación de los principios de diseño centrado en el usuario, combinando claridad, accesibilidad y estética visual. La integración entre wireframes y mockups asegura que la plataforma cumpla con los objetivos de facilidad de uso, atractividad y funcionalidad.
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
