@@ -137,24 +137,21 @@
 ---
 # Student Outcome
 
-Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado. Esto se complementa con lo reflejado en los testimonios expuestos que forman parte del video About The Team.
+El curso contribuye al cumplimiento del **Student Outcome ABET – EAC – Outcome 3**  
 
-La sección inicia en una nueva página. Debe incluir el párrafo introductorio y el cuadro de Student Outcome tal como se indica en la sección de Anexos de este documento. En las celdas **Acciones realizadas**, debe especificarse cada participante: *Apellidos, Nombres* y a continuación, cada entrega (TB1, TP1, TB2, TF1) con las acciones específicas realizadas que se relacionen con el criterio del Outcome al que corresponda la celda. Esta celda se irá expandiendo en cada entrega. Las celdas **Conclusiones** se llenan de forma grupal y son acumulables, es decir, se van expandiendo en cada entrega. 
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
 
 ---
 
 ## Cuadro de Student Outcome 3 – Comunicación efectiva (TB1)
 
-| Integrante                        | Acciones realizadas (TB1) | Conclusiones |
-|----------------------------------|----------------------------|--------------|
-| Manuel Fernando Joao Castro Picón | Contribuyó en la elaboración de la **carátula** y en la redacción de la **descripción del startup**. |              |
-| Sebastián De Las Casa Latour      | Apoyó en la organización del **índice de contenidos** y en la estructura inicial del **Solution Profile**. |              |
-| Eduardo Fabián Chacaliaza Minaya  | Coordinó la integración de los aportes en el **repositorio GitHub** y preparó el **formato de entrega**. |              |
-| Fabricio Fabián Quispe Barzola    | Participó en la redacción de la **problemática inicial** y en la **identificación de segmentos objetivos**. |              |
-| Juan Jose Meza Huanacune          | Aportó en la **revisión ortográfica** y en la **redacción del Student Outcome**. |              |
+| **Criterio específico** | **Acciones realizadas (TB1)** | **Conclusiones (TB1)** |
+|-------------------------|-------------------------------|-------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- *Sebastián De Las Casa*: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- *Eduardo Chacaliaza*: Explicó el apartado de **Solution Profile** durante la exposición.<br>- *Fabricio Quispe*: Presentó la problemática y segmentos objetivos.<br>- *Juan Meza*: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redacción de la **carátula** y parte de la descripción del startup.<br>- *Sebastián De Las Casa*: Contribuyó en el **índice de contenidos** y organización del documento.<br>- *Eduardo Chacaliaza*: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- *Fabricio Quispe*: Redactó los apartados de antecedentes y problemática.<br>- *Juan Meza*: Revisó ortografía y estilo en el Student Outcome. | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
 
-> **Conclusiones grupales (TB1):**  
-> En esta primera entrega logramos comunicar de manera escrita y organizada los elementos iniciales del proyecto (carátula, índice, descripción del startup y problemática). Esto evidencia nuestra capacidad para estructurar y transmitir información de forma clara, en línea con el Student Outcome 3 de ABET sobre comunicación efectiva.
 
 ---
 # 1. Capítulo I: Introducción
