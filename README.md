@@ -1,4 +1,4 @@
-# Informe del Trabajo Final
+<img width="1600" height="541" alt="image" src="https://github.com/user-attachments/assets/ee60a38f-6b51-44ef-ba11-3e51357b5a3f" /># Informe del Trabajo Final
 
 <div>
   <p align="center"><img src="assets/md-images/upc-logo.png" alt="Logo UPC" width="150px" /></p>
@@ -910,6 +910,15 @@ En conclusión, la matriz evidencia que, aunque ambos segmentos comparten tareas
 </div>
 
 ## 2.4. Big Picture Event Storming.
+
+En la sesión de Big Picture Event Storming, el equipo plasmó los eventos significativos del dominio y sus relaciones, explorando de manera visual el panorama general del negocio. Se representaron los procesos clave y se integraron los sistemas externos que interactúan con la solución, identificando además dudas, problemas y oportunidades de mejora. Esta primera aproximación permitió comprender mejor el landscape del negocio y sentar las bases para un análisis más detallado en etapas posteriores.  
+
+### Big Picture Event Storming - Mapa General
+![Big Picture Event Storming](assets/md-images/Bigpicture1.png)
+
+### Big Picture Event Storming - Leyenda de Colores
+![Big Picture Event Storming Colores](assets/md-images/Bigpicture2.png)
+
 
 ## 2.5. Ubiquitous Language.
 
