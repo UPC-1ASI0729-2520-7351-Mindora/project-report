@@ -32,6 +32,17 @@
 
 ---
 
+## Registro de Versiones del Informe
+
+| **Versión** | **Fecha**     | **Descripción de cambios**                    | **Responsable**        |
+| ----------- | ------------- | --------------------------------------------- | ---------------------- |
+| 0.1         | 05/09/2025    | Creación de la carátula inicial               | Equipo NeuroDora       |
+| 0.2         | 10/09/2025    | Agregado índice preliminar y capítulos base   | Eduardo Chacaliaza     |
+| 1.0         | 15/09/2025    | Versión final entregada para TF1              | Todo el equipo         |
+
+---
+## Project Report Collaboration Insights
+
 # Contenido
 
 1. **[Capítulo I: Introducción](#1-capítulo-i-introducción)**  
