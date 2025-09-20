@@ -1609,7 +1609,7 @@ La propuesta refleja las clases, interfaces, enumeraciones y sus relaciones, inc
 Este diagrama modela el proceso de registro, autenticación y gestión de sesiones.  
 Incluye las clases principales `Usuario`, `Sesion`, y las interfaces de autenticación. Se refleja el uso de `EstadoUsuario` como enumeración para controlar el estado de cada cuenta.  
 
-<img src="../images/identityclass.png" alt="Identity & Access UML" width="700px"/>
+<img src="assets/md-images/identityclass.png" alt="Identity & Access UML" width="700px"/>
 
 ---
 
@@ -1618,7 +1618,7 @@ Incluye las clases principales `Usuario`, `Sesion`, y las interfaces de autentic
 El diagrama de **Notificaciones** modela cómo se generan, envían y marcan como enviadas o fallidas las notificaciones al usuario.  
 Se incluyen enumeraciones para `Canal` y `EstadoEnvio`, así como la relación con el `ServicioCorreo` y el `SMTPProvider`.  
 
-<img src="../images/notificationsclass.png" alt="Notifications UML" width="700px"/>
+<img src="assets/md-images/notificationsclass.png" alt="Notifications UML" width="700px"/>
 
 ---
 
@@ -1627,7 +1627,7 @@ Se incluyen enumeraciones para `Canal` y `EstadoEnvio`, así como la relación c
 Este diagrama describe la gestión de planes de suscripción, pagos y la interacción con la pasarela de pagos.  
 Las entidades `Suscripcion`, `Pago` y `RespuestaPago` se relacionan con enumeraciones como `EstadoSuscripcion`, `EstadoPago` y `MetodoPago`.  
 
-<img src="../images/subscriptionsclass.png" alt="Subscriptions & Payments UML" width="900px"/>
+<img src="assets/md-images/subscriptionsclass.png" alt="Subscriptions & Payments UML" width="900px"/>
 
 ---
 
@@ -1636,7 +1636,7 @@ Las entidades `Suscripcion`, `Pago` y `RespuestaPago` se relacionan con enumerac
 Este diagrama representa la gestión del directorio de psicólogos, incluyendo la relación entre `Psicologo`, `SolicitudContacto`, `Agenda` y `Slot`.  
 Las enumeraciones `Especialidad` y `EstadoSolicitud` permiten organizar la lógica del directorio.  
 
-<img src="../images/professionalsclass.png" alt="Professionals Directory UML" width="800px"/>
+<img src="assets/md-images/professionalsclass.png" alt="Professionals Directory UML" width="800px"/>
 
 ---
 
@@ -1645,7 +1645,7 @@ Las enumeraciones `Especialidad` y `EstadoSolicitud` permiten organizar la lógi
 Este diagrama modela la creación y seguimiento de planes de actividades recomendadas para los usuarios.  
 Incluye las clases `PlanActividad` y `Actividad`, con las enumeraciones `TipoActividad` y `EstadoActividad` para clasificar las tareas y su progreso.  
 
-<img src="../images/recommendationsclass.png" alt="Recommendations & Activities UML" width="400px"/>
+<img src="assets/md-images/recommendationsclass.png" alt="Recommendations & Activities UML" width="400px"/>
 
 ---
 
@@ -1654,7 +1654,7 @@ Incluye las clases `PlanActividad` y `Actividad`, con las enumeraciones `TipoAct
 El diagrama de **Stress Test & Support** refleja el modelado de pruebas psicológicas y el cálculo de resultados.  
 Las entidades principales son `TestEstres`, `Respuesta` y `Resultado`, con la enumeración `NivelEstres` para categorizar los niveles obtenidos.  
 
-<img src="../images/stressclass.png" alt="Stress Test & Support UML" width="400px"/>
+<img src="assets/md-images/stressclass.png" alt="Stress Test & Support UML" width="400px"/>
 
 ---
 
@@ -1663,7 +1663,7 @@ Las entidades principales son `TestEstres`, `Respuesta` y `Resultado`, con la en
 Este diagrama presenta la gestión de perfiles de usuario y sus preferencias de notificación.  
 Incluye la clase `Perfil`, que se relaciona con `Preferencias`, junto a las enumeraciones `Genero` y `CanalNotificacion`.  
 
-<img src="../images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/>
+<img src="assets/md-images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/>
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
