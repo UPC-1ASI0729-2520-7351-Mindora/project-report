@@ -173,10 +173,9 @@ NeuroDora se proyecta como un modelo de negocio independiente y sostenible, ofre
 |------|---------------------|--------|---------|-------------|
 | ![Joao](assets/md-images/joao.jpg) | Manuel Fernando Joao Castro Picón | U20231G159 | Ingeniería de Software | Posee conocimientos en programación con Java y bases de datos, además de experiencia en buenas prácticas de desarrollo. Aporta en la construcción de la lógica de negocio y en el soporte técnico del proyecto. |
 | ![Sebastián](assets/md-images/sebastián.jpg) | Sebastián De Las Casa Latour | U202213553 | Ingeniería de Software | Tiene habilidades en programación web y diseño de software, con interés en el aprendizaje de nuevas tecnologías. Contribuye en la implementación de interfaces y en la mejora de la experiencia de usuario. |
-| ![Eduardo](assets/md-images/eduardo.jpg) | Eduardo Fabián Chacaliaza Minaya | U202324129 | Ingeniería de Software | Se enfoca en el desarrollo frontend y la creación de interfaces intuitivas y accesibles. Maneja herramientas de control de versiones y trabajo colaborativo en GitHub, aportando organización y documentación técnica al equipo. |
+| ![Eduardo](assets/md-images/eduardo.jpg) | Eduardo Fabian Chacaliaza Minaya | U202324129 | Ingeniería de Software | Se enfoca en el desarrollo frontend y la creación de interfaces intuitivas y accesibles. Maneja herramientas de control de versiones y trabajo colaborativo en GitHub, aportando organización y documentación técnica al equipo. |
 | ![Fabricio](assets/md-images/fabricio.jpg) | Fabricio Fabián Quispe Barzola | U202320442 | Ingeniería de Software | Cuenta con experiencia en prototipado en Figma, validación de ideas y análisis de datos. Aporta en la investigación de usuarios y en la elaboración de artefactos de UX que guían el desarrollo del proyecto. |
 | ![Juan](assets/md-images/juan.jpg) | Juan José Meza Huanacune | U202320574 | Ingeniería de Software | Tiene experiencia en desarrollo backend con Java, C# y Python, además de bases de datos relacionales. También posee conocimientos en pruebas de software, contribuyendo a la calidad del sistema y al desarrollo de componentes del proyecto. |
-
 
 ## 1.2. Solution Profile
 
