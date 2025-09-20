@@ -78,7 +78,6 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
       2.3.2. [User Task Matrix](#232-user-task-matrix)  
       2.3.3. [User Journey Mapping](#233-user-journey-mapping)  
       2.3.4. [Empathy Mapping](#234-empathy-mapping)  
-      2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)  
    2.4. [Ubiquitous Language](#24-ubiquitous-language)
 
 3. [Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)  
@@ -112,7 +111,6 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
       4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
    4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)  
       4.7.1. [Class Diagrams](#471-class-diagrams)  
-      4.7.2. [Class Dictionary](#472-class-dictionary)  
    4.8. [Database Design](#48-database-design)  
       4.8.1. [Database Diagram](#481-database-diagram)
 
