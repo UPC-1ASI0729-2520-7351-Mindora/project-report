@@ -33,15 +33,10 @@
 ---
 
 ## Registro de Versiones del Informe
+> (Se completará al cierre con la línea de tiempo real de cambios.)
 
-| **Versión** | **Fecha**     | **Descripción de cambios**                    | **Responsable**        |
-| ----------- | ------------- | --------------------------------------------- | ---------------------- |
-| 0.1         | 05/09/2025    | Creación de la carátula inicial               | Equipo NeuroDora       |
-| 0.2         | 10/09/2025    | Agregado índice preliminar y capítulos base   | Eduardo Chacaliaza     |
-| 1.0         | 15/09/2025    | Versión final entregada para TF1              | Todo el equipo         |
-
----
 ## Project Report Collaboration Insights
+> (Se añadirán capturas y enlaces a contribuciones: commits, PRs, issues por integrante.)
 
 # Contenido
 
