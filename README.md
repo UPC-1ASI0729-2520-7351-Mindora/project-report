@@ -135,7 +135,28 @@
 9. **[Anexos](#8-anexos)**
 
 ---
+# Student Outcome
 
+Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado. Esto se complementa con lo reflejado en los testimonios expuestos que forman parte del video About The Team.
+
+La sección inicia en una nueva página. Debe incluir el párrafo introductorio y el cuadro de Student Outcome tal como se indica en la sección de Anexos de este documento. En las celdas **Acciones realizadas**, debe especificarse cada participante: *Apellidos, Nombres* y a continuación, cada entrega (TB1, TP1, TB2, TF1) con las acciones específicas realizadas que se relacionen con el criterio del Outcome al que corresponda la celda. Esta celda se irá expandiendo en cada entrega. Las celdas **Conclusiones** se llenan de forma grupal y son acumulables, es decir, se van expandiendo en cada entrega. 
+
+---
+
+## Cuadro de Student Outcome 3 – Comunicación efectiva (TB1)
+
+| Integrante                        | Acciones realizadas (TB1) | Conclusiones |
+|----------------------------------|----------------------------|--------------|
+| Manuel Fernando Joao Castro Picón | Contribuyó en la elaboración de la **carátula** y en la redacción de la **descripción del startup**. |              |
+| Sebastián De Las Casa Latour      | Apoyó en la organización del **índice de contenidos** y en la estructura inicial del **Solution Profile**. |              |
+| Eduardo Fabián Chacaliaza Minaya  | Coordinó la integración de los aportes en el **repositorio GitHub** y preparó el **formato de entrega**. |              |
+| Fabricio Fabián Quispe Barzola    | Participó en la redacción de la **problemática inicial** y en la **identificación de segmentos objetivos**. |              |
+| Juan Jose Meza Huanacune          | Aportó en la **revisión ortográfica** y en la **redacción del Student Outcome**. |              |
+
+> **Conclusiones grupales (TB1):**  
+> En esta primera entrega logramos comunicar de manera escrita y organizada los elementos iniciales del proyecto (carátula, índice, descripción del startup y problemática). Esto evidencia nuestra capacidad para estructurar y transmitir información de forma clara, en línea con el Student Outcome 3 de ABET sobre comunicación efectiva.
+
+---
 # 1. Capítulo I: Introducción
 
 ## 1.1. Startup Profile
