@@ -490,10 +490,6 @@ niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 
 ## 2.2.2. Registro de entrevistas
 
-**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
-
-## 📌 2.2.2. Registro de entrevistas  
-
 ### Segmento 1: Personas activas en el ámbito laboral con jornadas extensas  
 
 **Entrevista N°1**  
@@ -519,7 +515,7 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
 
 ---
 
-### 📌 Resumen de los puntos clave en la entrevista  
+### Resumen de los puntos clave en la entrevista  
 
 - El entrevistado se llama **Pedro Luis Medina Vera**, tiene 28 años, vive en Lima y es ingeniero de sistemas en una empresa financiera.  
 - Suele trabajar más horas de las establecidas y pasar gran parte de la jornada frente a la computadora, lo que le genera dolores físicos y agotamiento mental.  
@@ -536,101 +532,220 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
 
 <p align="center">
   <img src="assets/md-images/entrevista1.jpeg" alt="Entrevista 1" width="450"/>
+</p> 
+
+**Entrevista N°2**  
+
+- **Nombre:** Adrián Ramírez  
+- **Sexo:** Masculino  
+- **Edad:** 24  
+- **Estado Civil:** Soltero  
+- **Labor:** Vendedor ambulante de accesorios para celulares  
+
+**Detalles de la entrevista:**  
+Adrián Ramírez es un joven de 24 años que vive en el distrito de Comas, donde ha residido toda su vida. Su trabajo principal consiste en la venta ambulante de accesorios para celulares, actividad que organiza de manera flexible según el movimiento de clientes en distintos puntos de la ciudad. Usualmente inicia sus jornadas entre las 8 y 9 de la mañana y trabaja hasta las 7 o 8 de la noche, aunque en días de baja venta se extiende más para alcanzar sus metas diarias.  
+
+Describe su rutina como intensa y variable: traslada su mercadería, busca espacios de mayor afluencia de personas, ofrece los productos directamente y aprovecha los momentos libres para publicar anuncios en Facebook Marketplace y responder consultas por WhatsApp. Señala que no tiene un horario de almuerzo fijo y, en la mayoría de los casos, come de manera rápida en la calle.  
+
+Adrián reconoce que la falta de estabilidad económica y de permisos municipales para vender son fuentes de frustración constantes. La competencia con otros ambulantes y la incertidumbre sobre las ventas diarias generan un estrés continuo que le preocupa. En su tiempo libre, intenta relajarse jugando fútbol con sus amigos los fines de semana o escuchando música mientras trabaja.  
+
+En cuanto al uso de tecnología, Adrián utiliza principalmente su celular como herramienta de trabajo. Domina aplicaciones como Facebook y WhatsApp, que le permiten mantenerse en contacto con clientes y amigos, además de ser los principales canales para promocionar sus productos.  
+
+Sobre soluciones digitales para la gestión del estrés, considera que una aplicación como **NeuroDora** sería de gran ayuda, siempre que sea fácil de usar y accesible económicamente. Le gustaría contar con test interactivos que le permitan medir su nivel de estrés y con consejos prácticos para manejar momentos de tensión durante la jornada. Además, valoraría mucho tener acceso a un psicólogo en línea, ya que nunca ha tenido la posibilidad de acudir a una consulta presencial por falta de tiempo y recursos.  
+
+- **Duración:** 6 minutos con 3 segundos  
+
+---
+
+### Resumen de los puntos clave en la entrevista  
+
+- El entrevistado se llama **Adrián Ramírez**, tiene 24 años, vive en Comas y trabaja como vendedor ambulante de accesorios para celulares.  
+- Su rutina es **flexible pero extensa**, iniciando en la mañana y extendiéndose hasta la noche, con horarios irregulares para comer.  
+- Identifica como principales **fuentes de estrés** la competencia, la falta de permisos y la inestabilidad económica.  
+- Señala síntomas como **dolores de cabeza, cansancio físico e irritabilidad**, especialmente en días de bajas ventas.  
+- Usa principalmente su **celular** para trabajar, con un manejo intensivo de **Facebook Marketplace y WhatsApp**.  
+- Sus principales actividades de relajación son **jugar fútbol con amigos** y escuchar música durante el trabajo.  
+- Está interesado en una app como **NeuroDora**, pero resalta que debe ser **accesible en precio y fácil de usar**.  
+- Considera valioso tener un **test interactivo de estrés y conexión inmediata con un psicólogo en línea** para obtener apoyo en momentos difíciles.  
+
+---
+
+### Registro visual de la entrevista  
+
+<p align="center">
+  <img src="assets/md-images/entrevista2.jpeg" alt="Entrevista 2 - Adrián Ramírez" width="450"/>
 </p>
 
+**Entrevista N°3**  
 
-Entrevista N°2
+- **Nombre:** Carlos Augusto Paredes Chávez  
+- **Sexo:** Masculino  
+- **Edad:** 29  
+- **Estado Civil:** Soltero  
+- **Labor:** Coordinador de marketing digital  
 
-● Nombre: Andrés Luján Carrión
+**Detalles de la entrevista:**  
+Carlos Augusto Paredes Chávez es un joven de 29 años que reside en Pueblo Libre desde hace cinco años. Actualmente trabaja como coordinador de marketing digital en una agencia de publicidad, donde se encarga de planificar campañas para clientes, coordinar al equipo creativo y analizar métricas de rendimiento en redes sociales y páginas web.  
 
-● Sexo: Masculino
+Su rutina laboral inicia oficialmente a las 9 a.m., pero suele conectarse antes para adelantar correos y coordinar pendientes. Aunque su horario debería terminar a las 6 p.m., con frecuencia se extiende hasta las 8 o 9 p.m., especialmente en épocas de lanzamientos de campañas. Describe su trabajo como dinámico pero altamente estresante debido a la presión constante de los clientes por obtener resultados inmediatos.  
 
-● Edad: 40
+Carlos comenta que su salud física y mental se ve afectada: presenta dolores de cabeza recurrentes, ansiedad y dificultades para conciliar el sueño. Reconoce que, en días de alta carga laboral, llega a sentir palpitaciones y un agotamiento que se extiende incluso al fin de semana. Para sobrellevar el estrés, sale a correr por las noches, se reúne con amigos los fines de semana y practica meditación guiada a través de aplicaciones móviles.  
 
-● Estado Civil: Soltero
+En lo digital, maneja a diario herramientas como Google Ads, Meta Business Suite, Analytics, además de correo y Slack para coordinar con su equipo. Para relajarse, recurre a Spotify, Netflix y YouTube.  
 
-● Labor: Rector(USL)
+Respecto a una solución como **NeuroDora**, se muestra abierto y considera que una aplicación que combine test interactivos, ejercicios prácticos y contacto con psicólogos sería una herramienta muy útil. Señala como factores clave para su suscripción la facilidad de uso, la seguridad de la información y un costo accesible. Además, opina que las empresas deberían promover la salud mental implementando pausas activas, capacitaciones y convenios con plataformas digitales que ofrezcan este tipo de servicios.  
 
-Detalles de la entrevista:
-Andrés Luján Carrión tiene 40 años, es soltero y se desempeña como rector de la Universidad San Lorenzo. Su rutina laboral está marcada por una fuerte exigencia, ya que dedica entre diez y doce horas diarias a su trabajo. La mayor parte de ese tiempo lo invierte en reuniones, coordinación de equipos y toma de decisiones estratégicas para la institución. Esta carga de responsabilidad y extensión horaria le deja poco espacio para su vida personal.
-En cuanto a la organización de su tiempo, Andrés comenta que intenta priorizar las tareas más urgentes, aunque reconoce que no cuenta con un método fijo para establecer límites claros entre lo laboral y lo personal. Esta dificultad provoca que el trabajo termine imponiéndose sobre otros aspectos de su vida. Incluso fuera de la oficina, se mantiene constantemente conectado al celular, respondiendo mensajes y pensando en asuntos pendientes, lo que le impide desconectarse realmente.
-La principal fuente de estrés para él es la presión de obtener resultados inmediatos. Como rector, debe impulsar cambios académicos e institucionales que requieren tiempo para implementarse y consolidarse, pero las expectativas de ver avances rápidos generan un nivel de tensión constante. Según relata, su nivel de estrés es alto y sostenido en el tiempo, pues no depende de la temporada sino de la magnitud de sus responsabilidades.
-La ausencia de un horario fijo contribuye a incrementar esta carga. A diferencia de otros trabajos en los que la jornada concluye al salir de la oficina, en su caso siempre hay algo pendiente, lo que refuerza la sensación de que nunca puede desconectarse completamente.
-Este ritmo ha tenido un impacto significativo en su salud, ya que ha experimentado síntomas como fatiga mental, insomnio y tensión muscular, todos asociados al nivel constante de estrés. En un intento por manejarlo, Andrés recurre a pequeñas pausas, intenta desconectarse en ciertos momentos y conversa con personas de confianza. Sin embargo, reconoce que estas estrategias resultan insuficientes y que necesita métodos más efectivos para cuidar su bienestar.
-Respecto al uso de tecnología, actualmente no utiliza aplicaciones específicas para el manejo del estrés, aunque considera que sería muy útil contar con plataformas digitales o coaching personalizado que le ofrezcan herramientas prácticas. En este sentido, identifica que los momentos más adecuados para actividades de autocuidado serían en la mañana, antes de iniciar su jornada, y al final del día, cuando puede reservar tiempo para sí mismo.
-Finalmente, expresa lo que le gustaría encontrar en una aplicación enfocada en manejo del estrés: un servicio de coaching emocional, un sistema que le permita llevar un seguimiento de sus niveles de estrés y una comunidad de apoyo para compartir experiencias con otras personas en situaciones similares. Para él, estas características serían clave para mejorar su calidad de vida y encontrar un equilibrio más saludable entre su exigente rol profesional y su bienestar personal.
+- **Duración:** 6 minutos con 45 segundos  
 
-● Duración: 3 minutos con 34 segundos
+---
 
-[● Link: https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view ](https://drive.google.com/file/d/1eKdY2-Hij9APvgmxEu2_W3FjyVKDvfZC/view)
+### Resumen de los puntos clave en la entrevista  
 
-Resumen de los puntos clave en la entrevista:
-- El entrevistado trabaja entre diez y doce horas diarias, principalmente en reuniones, coordinación de equipos y toma de decisiones.
-- Tiene dificultades para equilibrar su vida personal y laboral, ya que el trabajo lo acompaña incluso fuera de la oficina mediante llamadas, mensajes y pendientes constantes.
-- La principal fuente de estrés es la presión por obtener resultados inmediatos frente a procesos académicos e institucionales que requieren más tiempo para consolidarse.
-- La falta de un horario fijo incrementa la sensación de no poder desconectarse y eleva aún más su nivel de estrés.
-- Ha experimentado consecuencias físicas y mentales derivadas del estrés, como fatiga mental, insomnio y tensión muscular de manera recurrente.
-- Reconoce que sus estrategias actuales, como tomar pausas breves o conversar con personas de confianza, no son suficientes y necesita métodos más efectivos.
-- Considera que herramientas digitales podrían ser de gran ayuda, especialmente aquellas que ofrezcan coaching personalizado para el manejo del estrés.
-- Identifica la mañana, antes de iniciar la jornada, y la noche, al finalizar el día, como los momentos más adecuados para realizar actividades de autocuidado y relajación.
-- Le gustaría que una aplicación incluyera coaching emocional, un sistema de monitoreo de sus niveles de estrés y una comunidad de apoyo donde compartir experiencias con otras personas.
+- El entrevistado se llama **Carlos Augusto Paredes Chávez**, tiene 29 años, vive en Pueblo Libre y trabaja como coordinador de marketing digital.  
+- Su rutina laboral excede el horario oficial, extendiéndose hasta 9 p.m. en días de lanzamientos.  
+- Las principales **fuentes de estrés** son la presión de clientes y la sobrecarga laboral.  
+- Reconoce síntomas como **ansiedad, insomnio, dolores de cabeza y palpitaciones** en jornadas de alta exigencia.  
+- Utiliza herramientas digitales avanzadas (Google Ads, Analytics, Slack), pero también plataformas de entretenimiento como Spotify y Netflix.  
+- Sus métodos de relajación incluyen **correr, meditación guiada y reuniones con amigos**.  
+- Considera útil una aplicación como **NeuroDora** con test de estrés, ejercicios prácticos y psicólogos en línea.  
+- Factores determinantes para suscribirse: **precio accesible, facilidad de uso y confidencialidad**.  
+- Recomienda que las empresas fomenten el bienestar mediante **pausas activas, capacitaciones y convenios en salud mental**.  
 
-**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+---
 
-Entrevista N°3
+### Registro visual de la entrevista  
 
-● Nombre: 
+<p align="center">
+  <img src="assets/md-images/entrevista3.jpeg" alt="Entrevista 3 - Carlos Augusto Paredes Chávez" width="450"/>
+</p>
 
-● Sexo: 
+### Segmento 2: Trabajadores informales o con horarios flexibles  
 
-● Edad: 
+**Entrevista N°1**  
 
-● Estado Civil: 
+- **Nombre:** Jesús Antonio Manrique Meza  
+- **Sexo:** Masculino  
+- **Edad:** 32  
+- **Estado Civil:** Soltero  
+- **Labor:** Repartidor de aplicaciones de delivery  
 
-● Labor: 
+**Detalles de la entrevista:**  
+Jesús Antonio Manrique Meza es un hombre de 32 años que vive en San Martín de Porres desde hace ocho años. Su trabajo principal es como repartidor en aplicaciones de delivery como Rappi y Uber Eats. Sus horarios son variables y dependen de la demanda diaria: normalmente comienza a las 11 de la mañana y termina entre las 10 y 11 de la noche, aunque los fines de semana extiende sus jornadas porque hay más pedidos.  
 
-Detalles de la entrevista:
+Describe su rutina como demandante y poco estructurada. Pasa la mayor parte del día en su motocicleta recorriendo la ciudad. Señala que a veces no tiene tiempo para almorzar adecuadamente y termina comiendo de forma rápida en la calle. Los ratos libres los aprovecha estacionando en lugares seguros mientras espera nuevos pedidos.  
 
-● Duración: 
+Jesús manifiesta que la **inseguridad en las calles** y la **inestabilidad de ingresos** son las principales fuentes de estrés en su vida laboral. Explica que, al no tener un sueldo fijo, siempre vive con la incertidumbre de cuánto logrará ganar en el día. En cuanto a su salud, menciona que suele terminar con dolores de espalda, cansancio extremo e irritabilidad después de largas jornadas.  
 
-[● Link: ]()
+Para manejar la presión, suele escuchar música y ver series al llegar a casa, y los fines de semana intenta jugar fútbol con sus amigos como una manera de despejarse. En lo digital, su celular es su principal herramienta: utiliza aplicaciones de delivery y Google Maps como soporte de trabajo, además de WhatsApp para comunicarse con clientes y amigos.  
 
-Resumen de los puntos clave en la entrevista:
+En relación con soluciones digitales para la gestión del estrés, Jesús considera que una app como **NeuroDora** sería de gran ayuda. Resalta que el valor está en que sea accesible y práctica, ya que no cuenta con el tiempo ni los recursos para acudir a consultas presenciales. Le interesaría especialmente contar con un **test interactivo para medir su nivel de estrés**, ejercicios rápidos de relajación y la posibilidad de acceder a un **psicólogo en línea** en momentos de crisis.  
 
+- **Duración:** 5 minutos con 40 segundos  
 
+---
 
-Entrevista N°4
+### Resumen de los puntos clave en la entrevista  
 
-● Nombre: Laura Méndez
+- El entrevistado se llama **Jesús Antonio Manrique Meza**, tiene 32 años, vive en San Martín de Porres y trabaja como repartidor en aplicaciones de delivery.  
+- Su rutina laboral es **larga y variable**, dependiendo de la demanda, con jornadas que suelen superar las 10 horas.  
+- Sus principales fuentes de estrés son la **inseguridad en las calles** y la **inestabilidad económica**.  
+- Señala síntomas como **dolores de espalda, cansancio extremo e irritabilidad** tras largas jornadas.  
+- Sus principales métodos de relajación son **escuchar música, ver series y jugar fútbol** los fines de semana.  
+- Usa su **celular como herramienta principal de trabajo**, apoyándose en apps de delivery, Google Maps y WhatsApp.  
+- Está interesado en una app como **NeuroDora** siempre que sea **fácil de usar, accesible y con funciones prácticas** como test, ejercicios rápidos y psicólogos en línea.  
+- Considera que este tipo de plataforma le permitiría tener apoyo en tiempo real sin necesidad de acudir a un consultorio físico.  
 
-● Sexo: Mujer
+---
 
-● Edad: 24 años
+### Registro visual de la entrevista  
 
-● Estado Civil: Soltera
+<p align="center">
+  <img src="assets/md-images/entrevista4.jpeg" alt="Entrevista 1 - Jesús Antonio Manrique Meza" width="450"/>
+</p> 
 
-● Labor: Freelancer diseñadora gráfica y fotógrafa de eventos
+**Entrevista N°2**  
 
-Detalles de la entrevista:
+- **Nombre:** Adrián Ramírez  
+- **Sexo:** Masculino  
+- **Edad:** 24  
+- **Estado Civil:** Soltero  
+- **Labor:** Vendedor ambulante de accesorios para celulares  
 
-● Duración: 8 minutos con 39 segundos
+**Detalles de la entrevista:**  
+Adrián Ramírez es un joven de 24 años que vive en Comas, donde ha residido toda su vida. Trabaja como vendedor ambulante de accesorios para celulares y organiza sus jornadas de forma flexible según el movimiento de clientes. Generalmente comienza a trabajar a las 8 o 9 de la mañana y se queda hasta las 7 u 8 de la noche, aunque en días de baja venta extiende el horario para alcanzar su meta.  
 
-[● Link: ]()
+Su rutina diaria es intensa: traslada la mercadería, busca los mejores puntos de venta, ofrece los productos directamente y aprovecha los tiempos libres para publicar anuncios en Facebook Marketplace o responder mensajes por WhatsApp. Reconoce que no tiene un horario fijo para comer y, por lo general, almuerza de manera rápida en la calle.  
 
-Resumen de los puntos clave en la entrevista:
+Adrián señala que la falta de permisos municipales para vender y la competencia con otros ambulantes son sus mayores fuentes de frustración. Además, la inestabilidad de ingresos le genera ansiedad, pues nunca sabe con certeza cuánto podrá ganar en un día. En cuanto a su salud, menciona dolores de cabeza, cansancio físico y episodios de irritabilidad.  
 
-La entrevista con Laura Méndez, una diseñadora gráfica freelance y fotógrafa de 24 años,
-revela los desafíos únicos que enfrenta como trabajadora con horarios irregulares. Su
-situación laboral se caracteriza por la ausencia de límites entre vida personal y profesional,
-con un teléfono que funciona como "oficina móvil" y clientes que esperan disponibilidad
-constante. Los principales factores de estrés identificados incluyen la inestabilidad económica
-que la lleva a sobrecargarse de trabajo, las expectativas poco realistas de los clientes, y la
-imposibilidad de desconectar completamente, resultando en un nivel de estrés medio-alto con
-picos que afectan su salud física y creatividad. Aunque intenta implementar estrategias como
-yoga o ejercicio, estas prácticas son inconsistentes debido a su carga laboral, por lo que
-necesita soluciones flexibles que se adapten a su ritmo caótico: herramientas rápidas
-accesibles desde el móvil, técnicas para establecer límites sin perder clientes y métodos
-efectivos para "apagar" su mente al finalizar la jornada.
+Para relajarse, juega fútbol con sus amigos los fines de semana y escucha música mientras trabaja en el puesto. Su celular es la herramienta principal para gestionar su negocio: usa Facebook Marketplace para promocionar productos y WhatsApp para comunicarse con clientes y amigos.  
+
+Sobre la idea de una aplicación como **NeuroDora**, comenta que sería una solución muy valiosa siempre que sea sencilla y accesible en costo. Le interesan los **test interactivos para medir su nivel de estrés** y los **consejos prácticos de relajación**, además de contar con la opción de hablar con un psicólogo en línea, dado que nunca ha tenido acceso a uno por falta de tiempo y dinero.  
+
+- **Duración:** 6 minutos con 3 segundos  
+
+---
+
+### Resumen de los puntos clave en la entrevista  
+
+- El entrevistado se llama **Adrián Ramírez**, tiene 24 años, vive en Comas y trabaja como vendedor ambulante de accesorios para celulares.  
+- Su rutina es **flexible pero extensa**, iniciando a las 8–9 a.m. y terminando alrededor de las 8 p.m., con horarios irregulares para comer.  
+- Sus principales **fuentes de estrés** son la **competencia**, la **falta de permisos** y la **inestabilidad económica**.  
+- Presenta síntomas como **dolores de cabeza, cansancio físico e irritabilidad** en días de baja venta.  
+- Sus actividades de relajación incluyen **jugar fútbol con amigos** y escuchar música.  
+- Utiliza su **celular como herramienta clave** en el trabajo, principalmente con **Facebook Marketplace y WhatsApp**.  
+- Considera útil una app como **NeuroDora** siempre que sea **fácil de usar y económica**, con test, consejos prácticos y acceso a psicólogos en línea.  
+
+---
+
+### Registro visual de la entrevista  
+
+<p align="center">
+  <img src="assets/md-images/entrevista5.jpeg" alt="Entrevista 2 - Adrián Ramírez" width="450"/>
+</p>
+
+**Entrevista N°3**  
+
+- **Nombre:** Diego Alonso Cacho Seminario 
+- **Sexo:** Masculino  
+- **Edad:** 20  
+- **Estado Civil:** Soltero  
+- **Labor:** Diseñador gráfico freelance  
+
+**Detalles de la entrevista:**  
+Diego Alonso Cacho Seminario es un hombre de 20 años que vive en Magdalena. Se desempeña como diseñador gráfico independiente, trabajando a través de plataformas digitales como Upwork y Fiverr. Su rutina es irregular: organiza su jornada según los proyectos que tenga, pero reconoce que muchas veces termina trabajando hasta la madrugada para cumplir con las entregas rápidas que piden sus clientes.  
+
+La mayor parte de su tiempo la pasa frente a la computadora, usando programas como Photoshop e Illustrator. Afirma que, aunque trabajar desde casa le da cierta libertad, también le genera la sensación de no tener límites claros entre lo personal y lo laboral. Esto provoca que acumule estrés y desgaste mental.  
+
+Diego explica que sus principales preocupaciones están relacionadas con la **inestabilidad económica** y los **retrasos en los pagos de clientes**, lo que incrementa su ansiedad. En cuanto a salud, menciona dolores de espalda, dificultad para concentrarse y episodios de ansiedad en periodos de alta carga laboral.  
+
+Para manejar la presión, suele salir a caminar para despejarse o tocar guitarra en sus ratos libres, lo que le ayuda a equilibrar su estado emocional. Digitalmente, utiliza de manera intensiva su laptop y aplicaciones de comunicación como correo electrónico y LinkedIn para clientes, mientras que para amigos y familia prefiere WhatsApp.  
+
+Respecto a una aplicación como **NeuroDora**, considera que sería muy beneficiosa si combina practicidad y acompañamiento humano. Le interesan los **test para detectar niveles de estrés**, actividades prácticas como ejercicios de respiración y la opción de tener acceso rápido a un psicólogo en línea. Resalta que, debido a la variabilidad de sus ingresos, un modelo de suscripción debe ser **flexible y asequible**.  
+
+- **Duración:** 7 minutos con 15 segundos  
+
+---
+
+### Resumen de los puntos clave en la entrevista  
+
+- El entrevistado se llama **Diego Alonso Cacho Seminario**, tiene 20 años, vive en Magdalena y trabaja como diseñador gráfico freelance.  
+- Su rutina es **irregular**, marcada por plazos cortos y trabajo hasta altas horas de la noche.  
+- Sus principales fuentes de estrés son la **inestabilidad económica** y los **retrasos en pagos** de clientes.  
+- Presenta síntomas como **dolores de espalda, ansiedad y dificultad para concentrarse**.  
+- Sus principales actividades de relajación son **salir a caminar** y **tocar guitarra**.  
+- Utiliza su **laptop y aplicaciones digitales** como correo electrónico y LinkedIn para clientes, y WhatsApp para amigos y familia.  
+- Considera que una app como **NeuroDora** debe ser **fácil de usar, flexible en precio y con acompañamiento humano real**.  
+- Espera que ofrezca **test interactivos, actividades prácticas de relajación y psicólogos disponibles en línea**.  
+
+---
+
+### Registro visual de la entrevista  
+
+<p align="center">
+  <img src="assets/md-images/entrevista6.jpeg" alt="Entrevista 3 - Ricardo Paredes" width="450"/>
+</p>
+
 
 ## 2.2.3. Análisis de entrevistas
 
