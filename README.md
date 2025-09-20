@@ -135,10 +135,11 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
       4.4.3. [Web Applications Mock-ups](#443-web-applications-mock-ups)  
       4.4.4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
    4.5. [Web Applications Prototyping](#45-web-applications-prototyping)  
-   4.6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)  
-      4.6.1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)  
-      4.6.2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)  
-      4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
+   4.6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture) 
+      4.6.1. [Design-Level Event Storming](#461-design-level-event-storming) 
+      4.6.2. [Software Architecture Context Diagram](#462-software-architecture-context-diagram)  
+      4.6.3. [Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)  
+      4.6.4. [Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)  
    4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)  
       4.7.1. [Class Diagrams](#471-class-diagrams)  
    4.8. [Database Design](#48-database-design)  
@@ -1528,7 +1529,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### Design-Level EventStorming
+### 4.6.1. Design-Level EventStorming
 
 **Objetivo de la sesión.** Estructurar el dominio en contextos claros, detallar el flujo principal (test de estrés → recomendaciones → contacto profesional) y los cruces entre contextos (suscripciones, notificaciones).
 
@@ -1561,7 +1562,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.1. Software Architecture Context Level Diagram
+### 4.6.2. Software Architecture Context Level Diagram
 
 **Descripción.** El sistema MinDora al centro y su relación con actores humanos y sistemas externos (pagos, correo, contenidos de ejercicios).  
 
@@ -1575,7 +1576,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.2. Software Architecture Container Level Diagram
+### 4.6.3. Software Architecture Container Level Diagram
 
 **Descripción.** Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores.
 
@@ -1598,9 +1599,9 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.3. Software Architecture Component Level Diagrams
+### 4.6.4. Software Architecture Component Level Diagrams
 
-#### 4.6.3.1. Backend API (Node.js/Express)
+#### 4.6.4.1. Backend API (Node.js/Express)
 
 **Diagrama**  
 <img src="assets/md-images/c4-3.png" alt="C4 Level 3 - Backend Components" width="1000"/>
@@ -1623,7 +1624,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-#### 4.6.3.2. Frontend Web (SPA/MPA)
+#### 4.6.4.2. Frontend Web (SPA/MPA)
 
 **Diagrama**  
 <img src="assets/md-images/frontendc4-3.png" alt="C4 Level 3 - Frontend Components" width="1000"/>
