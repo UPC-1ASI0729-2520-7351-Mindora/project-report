@@ -312,33 +312,25 @@ Creemos que disponer de un registro histórico del nivel de estrés y obtener es
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Hypothesis Statement 01
+**Hypothesis Statement 01**  
+**Creemos** que la implementación de un sistema de registro biométrico y autoevaluación permitirá a los usuarios identificar tempranamente sus niveles de estrés laboral.  
+**Sabemos** que esta hipótesis es cierta cuando se observe una correlación significativa entre los datos biométricos capturados y las autoevaluaciones realizadas por los usuarios.  
+**Cuando** al menos el 65% de los usuarios complete de forma regular las evaluaciones en la plataforma y se detecten cambios relevantes en sus patrones biométricos.  
 
-**Creemos** que la implementación de un sistema de registro biométrico y autoevaluación permitirá a los usuarios identificar tempranamente sus niveles de estrés laboral.
+---
 
-**Sabemos** la hipótesis se confirma cuando se observe una correlación significativa entre los datos bio-métricos capturados y las autoevaluaciones realizadas por los usuarios.
+**Hypothesis Statement 02**  
+**Creemos** que al ofrecer recomendaciones personalizadas basadas en el análisis del estrés, los usuarios adoptarán prácticas de autogestión más efectivas para reducir sus síntomas.  
+**Sabemos** que esta hipótesis es cierta cuando los usuarios reporten mejoras en su bienestar y se registre una disminución en los indicadores de estrés durante los seguimientos periódicos.  
+**Cuando** se logre una reducción del 20% en la frecuencia e intensidad de síntomas reportados en los primeros seis meses de uso.  
 
-**Cuando** al menos el 65% de los usuarios completen de forma regular la evaluación en la plataforma y se detecten cambios relevantes en sus patrones bio-métricos.
+---
 
-Hypothesis Statement 02
+**Hypothesis Statement 03**  
+**Creemos** que la visualización de un historial interactivo y tendencias de estrés motivará a los usuarios a llevar un control continuo de su salud mental.  
+**Sabemos** que esta hipótesis es cierta cuando se registre un aumento en la interacción con el dashboard y una mayor adherencia a las recomendaciones sugeridas.  
+**Cuando** el uso constante de las herramientas de seguimiento genere datos que indiquen una mayor consciencia y un manejo más proactivo del estrés en el entorno laboral.
 
-**Creemos** que al ofrecer recomendaciones personalizadas basadas en el análisis del estrés, los usuarios
-adoptarán prácticas de autogestión más efectivas para reducir sus síntomas.
-
-**Sabemos** que la hipótesis es correcta cuando los usuarios reporten mejoras en su bienestar y se
-registre una disminución en los indicadores de estrés en los seguimientos mensuales.
-
-**Cuando** se logre una reducción del 20% en la frecuencia e intensidad de síntomas reportados durante
-los primeros seis meses de uso.
-
-Hypothesis Statement 03
-
-**Creemos** que la visualización de un historial interactivo y tendencias de estrés motivará a los usuarios a llevar un control continuo de su salud mental.
-
-**Sabemos** que esto es cierto cuando se registre un aumento en la interacción con el dashboard y una mayor adherencia a las recomendaciones sugeridas
-
-**Cuando** el uso constante de las herramientas de seguimiento genere datos que indiquen una mayor
-consciencia y manejo proactivo del estrés en el entorno laboral.
 
 #### 1.2.2.4. Lean UX Canvas
 
