@@ -1472,9 +1472,127 @@ Los prototipos presentados corresponden directamente a los **User Flows** defini
 
 
 ## 4.6. Domain-Driven Software Architecture
-### 4.6.1. Software Architecture Context Diagram
-### 4.6.2. Software Architecture Container Diagrams
-### 4.6.3. Software Architecture Components Diagrams
+
+### Introducción
+A partir del Big Picture Event Storming se profundizó el dominio de MinDora con Domain-Driven Design (DDD) para identificar Bounded Contexts, Aggregates, Commands, Events y Queries.  
+Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Context, Container y Component. Esta sección presenta las decisiones y diagramas resultantes, alineadas con la arquitectura de información y los flujos de usuario definidos en 4.2–4.5.
+
+---
+
+### Design-Level EventStorming
+
+**Objetivo de la sesión.** Estructurar el dominio en contextos claros, detallar el flujo principal (test de estrés → recomendaciones → contacto profesional) y los cruces entre contextos (suscripciones, notificaciones).
+
+**Captura de la sesión**  
+<img src="assets/md-images/eventstorming.png" alt="Design-Level EventStorming MinDora" width="1000"/>
+
+**Bounded Contexts**
+- **Identity & Access (IAM)**: registro, login, autorización.
+- **Profiles & Preferences**: datos del usuario, preferencias de bienestar.
+- **Stress Test & Support**: sesiones de test, cálculo de score, planes sugeridos.
+- **Recommendations & Activities**: asignación y seguimiento de actividades.
+- **Professionals Directory**: psicólogos, solicitud de contacto.
+- **Subscriptions & Payments**: suscripciones y cobros.
+- **Notifications**: correos/push transaccionales.
+- **Analytics & Reporting**: métricas de uso y progreso.
+
+**Aggregates, Commands, Events, Queries (resumen)**
+- **User**: `RegisterUser`, `LoginUser` → `UserRegistered`, `LoginSucceeded/LoginFailed` → `GetUserProfile`
+- **Profile**: `UpdateProfile` → `ProfileUpdated` → `GetProfile`
+- **TestSession**: `StartTest`, `SubmitAnswers` → `TestSubmitted`, `StressScoreCalculated` → `GetLastScore`
+- **Plan/Activities**: `AssignActivities` → `ActivitiesAssigned` → `GetActivities`
+- **Psychologist**: `CreateProProfile`, `RequestContact` → `PsychologistPublished`, `PsychologistContactRequested` → `FindPsychologists`
+- **Subscription**: `StartSubscription`, `ProcessPayment` → `SubscriptionActivated`, `PaymentProcessed/PaymentFailed` → `GetSubscriptionStatus`
+- **Notification**: `SendEmail/Push` → `EmailSent/PushSent` → `GetDeliveryStatus`
+
+**Flujo principal (happy path)**
+1. Usuario **inicia test** → registra respuestas → se **calcula score**.  
+2. Si el score supera umbral, se **asignan actividades** y se **notifica** por email/push.  
+3. El usuario puede **solicitar contacto** con un psicólogo.
+
+---
+
+### 4.6.1. Software Architecture Context Level Diagram
+
+**Descripción.** El sistema MinDora al centro y su relación con actores humanos y sistemas externos (pagos, correo, contenidos de ejercicios).  
+
+**Diagrama**  
+<img src="assets/md-images/c4-1.png" alt="C4 Level 1 - Context Diagram" width="1000"/>
+
+**Explicación**
+- **Actores**: Paciente/Usuario, Psicólogo, Administrador.  
+- **Sistemas externos**: pasarela de pagos, servicio de correo (SMTP/Provider), API de ejercicios/meditación.  
+- **Interacciones clave**: los usuarios interactúan con MinDora; la plataforma se integra con servicios externos para pagos, notificaciones y contenidos.
+
+---
+
+### 4.6.2. Software Architecture Container Level Diagram
+
+**Descripción.** Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores.
+
+**Diagrama**  
+<img src="assets/md-images/c4-2.png" alt="C4 Level 2 - Container Diagram" width="1000"/>
+
+**Contenedores y decisiones tecnológicas**
+- **Web Frontend (HTML/CSS/JS)**: interfaz para landing, login/registro, test, actividades y directorio de psicólogos.
+- **Backend API (Node.js/Express)**: lógica de dominio; expone endpoints REST.
+- **MongoDB**: persistencia (usuarios, sesiones de test, actividades, psicólogos, suscripciones).
+- **Auth Service (JWT/OAuth2)**: autenticación/autorización.
+- **Notifications (Email/Push)**: envíos transaccionales.
+- **Redis (opcional)**: cache para sesiones/resultados.
+- **Integraciones**: Pasarela de pagos, API de ejercicios, SMTP/Provider.
+
+**Comunicación**
+- Frontend ↔ Backend REST.
+- Backend → Auth/Notifications/DB/Redis.
+- Backend → Pasarela de pagos, API ejercicios y SMTP vía adaptadores.
+
+---
+
+### 4.6.3. Software Architecture Component Level Diagrams
+
+#### 4.6.3.1. Backend API (Node.js/Express)
+
+**Diagrama**  
+<img src="assets/md-images/c4-3.png" alt="C4 Level 3 - Backend Components" width="1000"/>
+
+**Componentes y responsabilidades**
+- **API Gateway / Router**: roteo de endpoints, validación básica.
+- **Users Module**: registro, login, refresh token, gestión de roles.
+- **Profiles Module**: CRUD de perfil y preferencias.
+- **Test & Assessment Module**: inicio/guardado de respuestas, cálculo de score.
+- **Recommendations Module**: asignación/listado de actividades, progreso.
+- **Professionals Module**: directorio/búsqueda de psicólogos, solicitud de contacto.
+- **Subscriptions & Payments Module**: planes, checkout, webhooks de pago.
+- **Notifications Module**: cola y envío de correos/push.
+- **Analytics Module**: métricas, reporting.
+
+**Interacciones internas relevantes**
+- `Test & Assessment` → `Recommendations` (asignación en base al score).  
+- `Subscriptions & Payments` → `Notifications` (confirmaciones/recordatorios).  
+- `Recommendations` → `Notifications` (envío de plan).
+
+---
+
+#### 4.6.3.2. Frontend Web (SPA/MPA)
+
+**Diagrama**  
+<img src="assets/md-images/frontendc4-3.png" alt="C4 Level 3 - Frontend Components" width="1000"/>
+
+**Vistas/Componentes**
+- **Header & Navigation**: navegación global (desktop/mobile).
+- **Landing/Home**: beneficios, ejercicios destacados, psicólogos.
+- **Auth (Login/Registro)**: formularios, validaciones, almacenamiento de token.
+- **Stress Test UI**: formulario del test, feedback de score.
+- **Activities & Exercises**: plan sugerido, tarjetas de ejercicios.
+- **Psychologists Directory**: ficha/listado de profesionales.
+- **User Profile**: datos y preferencias.
+- **UI Kit / Shared Components**: botones, inputs, tarjetas, modales, toasts.
+
+**Notas de implementación**
+- Accesibilidad (labels, foco visible, contraste AA/AAA).
+- Estado y persistencia ligera (Storage para token).
+- Rutas: `/`, `/login`, `/registro`, `/test`, `/actividades`, `/psicologos`, `/perfil`.
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
