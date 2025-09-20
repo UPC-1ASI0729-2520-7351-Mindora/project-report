@@ -433,7 +433,7 @@ efectivas que mejoren su calidad de vida y rendimiento profesional.
 ### Preguntas principales
 - ¿Cómo percibe el impacto del estrés laboral en su salud física y mental?  
 - ¿Qué señales de estrés reconoce en usted mismo después de una jornada extensa?  
-- ¿Qué tan dispuesto estaría a usar una plataforma digital como **NeuroDora** para detectar y gestionar tempranamente el estrés?  
+- ¿Qué tan dispuesto estaría a usar una plataforma digital como **MinDora** para detectar y gestionar tempranamente el estrés?  
 - ¿Qué tipo de apoyo le resultaría más útil en una aplicación? (ejemplo: test interactivos, conexión directa con psicólogos, actividades guiadas)  
 - ¿Qué factores influirían en su decisión de suscribirse a un servicio de salud mental digital?  
 - ¿De qué manera cree que su empresa debería involucrarse en la promoción de la salud mental de los trabajadores?  
@@ -487,7 +487,7 @@ Pedro identifica un impacto considerable del estrés laboral en su salud física
 
 En cuanto a competencias digitales, Pedro tiene un nivel avanzado. Maneja a diario herramientas como Outlook, Teams y Slack, y utiliza Spotify y YouTube como medios de distracción. Sin embargo, admite que la sobreconexión digital lo mantiene siempre pendiente del trabajo y le dificulta desconectarse en sus tiempos libres.  
 
-Respecto a soluciones digitales de salud mental, Pedro se muestra muy receptivo a una plataforma como **NeuroDora**. Considera que un sistema que ofrezca test rápidos, actividades prácticas de relajación y conexión directa con psicólogos sería muy útil para gestionar su estrés. Para él, factores como el costo accesible, la facilidad de uso y la seguridad de la información personal son determinantes para decidirse a suscribirse.  
+Respecto a soluciones digitales de salud mental, Pedro se muestra muy receptivo a una plataforma como **MinDora**. Considera que un sistema que ofrezca test rápidos, actividades prácticas de relajación y conexión directa con psicólogos sería muy útil para gestionar su estrés. Para él, factores como el costo accesible, la facilidad de uso y la seguridad de la información personal son determinantes para decidirse a suscribirse.  
 
 Finalmente, opina que las empresas deben involucrarse más en la salud mental de sus empleados mediante subsidios a plataformas digitales, programas de bienestar y políticas de horarios más flexibles que permitan conciliar la vida laboral y personal.  
 
@@ -531,7 +531,7 @@ Carlos comenta que el estrés laboral afecta tanto su salud física como mental.
 
 Para sobrellevar la carga laboral, realiza actividad física tres veces por semana, principalmente salir a correr en las noches. Además, en casa escucha música, juega videojuegos y conversa con amigos para relajarse. Sus herramientas digitales principales son Excel, Outlook y Teams para el trabajo, mientras que en lo personal utiliza WhatsApp, Spotify y Netflix.  
 
-En relación con soluciones digitales para la gestión del estrés, Carlos se muestra abierto a usar una aplicación como **NeuroDora**, destacando la importancia de los **test interactivos**, ejercicios prácticos como técnicas de respiración, y la posibilidad de acceder a psicólogos en línea. Considera que factores como el **precio accesible, la seguridad de los datos y la calidad profesional de los psicólogos** influirían en su decisión de suscribirse. Además, opina que las empresas deberían involucrarse más en la salud mental de sus empleados mediante horarios flexibles, pausas activas y convenios con plataformas digitales de bienestar.  
+En relación con soluciones digitales para la gestión del estrés, Carlos se muestra abierto a usar una aplicación como **MinDora**, destacando la importancia de los **test interactivos**, ejercicios prácticos como técnicas de respiración, y la posibilidad de acceder a psicólogos en línea. Considera que factores como el **precio accesible, la seguridad de los datos y la calidad profesional de los psicólogos** influirían en su decisión de suscribirse. Además, opina que las empresas deberían involucrarse más en la salud mental de sus empleados mediante horarios flexibles, pausas activas y convenios con plataformas digitales de bienestar.  
 
 - **Duración:** 6 minutos con 20 segundos  
 
@@ -545,7 +545,7 @@ En relación con soluciones digitales para la gestión del estrés, Carlos se mu
 - Reconoce síntomas como **dolores de cabeza, contracturas, ansiedad, irritabilidad e insomnio** tras largas jornadas.  
 - Utiliza herramientas digitales como **Excel, Outlook y Teams**; en lo personal prefiere **WhatsApp, Spotify y Netflix**.  
 - Sus actividades de relajación incluyen **correr, escuchar música, jugar videojuegos y compartir con amigos**.  
-- Considera útil una aplicación como **NeuroDora** con test de estrés, actividades guiadas y psicólogos en línea.  
+- Considera útil una aplicación como **MinDora** con test de estrés, actividades guiadas y psicólogos en línea.  
 - Factores determinantes para suscribirse: **precio accesible, seguridad de datos y calidad profesional**.  
 - Recomienda que las empresas fomenten el bienestar con **horarios flexibles, pausas activas y convenios con plataformas digitales**.  
 
@@ -574,7 +574,7 @@ Carlos comenta que su salud física y mental se ve afectada: presenta dolores de
 
 En lo digital, maneja a diario herramientas como Google Ads, Meta Business Suite, Analytics, además de correo y Slack para coordinar con su equipo. Para relajarse, recurre a Spotify, Netflix y YouTube.  
 
-Respecto a una solución como **NeuroDora**, se muestra abierto y considera que una aplicación que combine test interactivos, ejercicios prácticos y contacto con psicólogos sería una herramienta muy útil. Señala como factores clave para su suscripción la facilidad de uso, la seguridad de la información y un costo accesible. Además, opina que las empresas deberían promover la salud mental implementando pausas activas, capacitaciones y convenios con plataformas digitales que ofrezcan este tipo de servicios.  
+Respecto a una solución como **MinDora**, se muestra abierto y considera que una aplicación que combine test interactivos, ejercicios prácticos y contacto con psicólogos sería una herramienta muy útil. Señala como factores clave para su suscripción la facilidad de uso, la seguridad de la información y un costo accesible. Además, opina que las empresas deberían promover la salud mental implementando pausas activas, capacitaciones y convenios con plataformas digitales que ofrezcan este tipo de servicios.  
 
 - **Duración:** 6 minutos con 45 segundos  
 
@@ -588,7 +588,7 @@ Respecto a una solución como **NeuroDora**, se muestra abierto y considera que 
 - Reconoce síntomas como **ansiedad, insomnio, dolores de cabeza y palpitaciones** en jornadas de alta exigencia.  
 - Utiliza herramientas digitales avanzadas (Google Ads, Analytics, Slack), pero también plataformas de entretenimiento como Spotify y Netflix.  
 - Sus métodos de relajación incluyen **correr, meditación guiada y reuniones con amigos**.  
-- Considera útil una aplicación como **NeuroDora** con test de estrés, ejercicios prácticos y psicólogos en línea.  
+- Considera útil una aplicación como **MinDora** con test de estrés, ejercicios prácticos y psicólogos en línea.  
 - Factores determinantes para suscribirse: **precio accesible, facilidad de uso y confidencialidad**.  
 - Recomienda que las empresas fomenten el bienestar mediante **pausas activas, capacitaciones y convenios en salud mental**.  
 
@@ -619,7 +619,7 @@ Jesús manifiesta que la **inseguridad en las calles** y la **inestabilidad de i
 
 Para manejar la presión, suele escuchar música y ver series al llegar a casa, y los fines de semana intenta jugar fútbol con sus amigos como una manera de despejarse. En lo digital, su celular es su principal herramienta: utiliza aplicaciones de delivery y Google Maps como soporte de trabajo, además de WhatsApp para comunicarse con clientes y amigos.  
 
-En relación con soluciones digitales para la gestión del estrés, Jesús considera que una app como **NeuroDora** sería de gran ayuda. Resalta que el valor está en que sea accesible y práctica, ya que no cuenta con el tiempo ni los recursos para acudir a consultas presenciales. Le interesaría especialmente contar con un **test interactivo para medir su nivel de estrés**, ejercicios rápidos de relajación y la posibilidad de acceder a un **psicólogo en línea** en momentos de crisis.  
+En relación con soluciones digitales para la gestión del estrés, Jesús considera que una app como **MinDora** sería de gran ayuda. Resalta que el valor está en que sea accesible y práctica, ya que no cuenta con el tiempo ni los recursos para acudir a consultas presenciales. Le interesaría especialmente contar con un **test interactivo para medir su nivel de estrés**, ejercicios rápidos de relajación y la posibilidad de acceder a un **psicólogo en línea** en momentos de crisis.  
 
 - **Duración:** 5 minutos con 40 segundos  
 
@@ -633,7 +633,7 @@ En relación con soluciones digitales para la gestión del estrés, Jesús consi
 - Señala síntomas como **dolores de espalda, cansancio extremo e irritabilidad** tras largas jornadas.  
 - Sus principales métodos de relajación son **escuchar música, ver series y jugar fútbol** los fines de semana.  
 - Usa su **celular como herramienta principal de trabajo**, apoyándose en apps de delivery, Google Maps y WhatsApp.  
-- Está interesado en una app como **NeuroDora** siempre que sea **fácil de usar, accesible y con funciones prácticas** como test, ejercicios rápidos y psicólogos en línea.  
+- Está interesado en una app como **MinDora** siempre que sea **fácil de usar, accesible y con funciones prácticas** como test, ejercicios rápidos y psicólogos en línea.  
 - Considera que este tipo de plataforma le permitiría tener apoyo en tiempo real sin necesidad de acudir a un consultorio físico.  
 
 ---
@@ -661,7 +661,7 @@ Adrián señala que la falta de permisos municipales para vender y la competenci
 
 Para relajarse, juega fútbol con sus amigos los fines de semana y escucha música mientras trabaja en el puesto. Su celular es la herramienta principal para gestionar su negocio: usa Facebook Marketplace para promocionar productos y WhatsApp para comunicarse con clientes y amigos.  
 
-Sobre la idea de una aplicación como **NeuroDora**, comenta que sería una solución muy valiosa siempre que sea sencilla y accesible en costo. Le interesan los **test interactivos para medir su nivel de estrés** y los **consejos prácticos de relajación**, además de contar con la opción de hablar con un psicólogo en línea, dado que nunca ha tenido acceso a uno por falta de tiempo y dinero.  
+Sobre la idea de una aplicación como **MinDora**, comenta que sería una solución muy valiosa siempre que sea sencilla y accesible en costo. Le interesan los **test interactivos para medir su nivel de estrés** y los **consejos prácticos de relajación**, además de contar con la opción de hablar con un psicólogo en línea, dado que nunca ha tenido acceso a uno por falta de tiempo y dinero.  
 
 - **Duración:** 6 minutos con 3 segundos  
 
@@ -675,7 +675,7 @@ Sobre la idea de una aplicación como **NeuroDora**, comenta que sería una solu
 - Presenta síntomas como **dolores de cabeza, cansancio físico e irritabilidad** en días de baja venta.  
 - Sus actividades de relajación incluyen **jugar fútbol con amigos** y escuchar música.  
 - Utiliza su **celular como herramienta clave** en el trabajo, principalmente con **Facebook Marketplace y WhatsApp**.  
-- Considera útil una app como **NeuroDora** siempre que sea **fácil de usar y económica**, con test, consejos prácticos y acceso a psicólogos en línea.  
+- Considera útil una app como **MinDora** siempre que sea **fácil de usar y económica**, con test, consejos prácticos y acceso a psicólogos en línea.  
 
 ---
 
@@ -702,7 +702,7 @@ Diego explica que sus principales preocupaciones están relacionadas con la **in
 
 Para manejar la presión, suele salir a caminar para despejarse o tocar guitarra en sus ratos libres, lo que le ayuda a equilibrar su estado emocional. Digitalmente, utiliza de manera intensiva su laptop y aplicaciones de comunicación como correo electrónico y LinkedIn para clientes, mientras que para amigos y familia prefiere WhatsApp.  
 
-Respecto a una aplicación como **NeuroDora**, considera que sería muy beneficiosa si combina practicidad y acompañamiento humano. Le interesan los **test para detectar niveles de estrés**, actividades prácticas como ejercicios de respiración y la opción de tener acceso rápido a un psicólogo en línea. Resalta que, debido a la variabilidad de sus ingresos, un modelo de suscripción debe ser **flexible y asequible**.  
+Respecto a una aplicación como **MinDora**, considera que sería muy beneficiosa si combina practicidad y acompañamiento humano. Le interesan los **test para detectar niveles de estrés**, actividades prácticas como ejercicios de respiración y la opción de tener acceso rápido a un psicólogo en línea. Resalta que, debido a la variabilidad de sus ingresos, un modelo de suscripción debe ser **flexible y asequible**.  
 
 - **Duración:** 7 minutos con 15 segundos  
 
@@ -716,7 +716,7 @@ Respecto a una aplicación como **NeuroDora**, considera que sería muy benefici
 - Presenta síntomas como **dolores de espalda, ansiedad y dificultad para concentrarse**.  
 - Sus principales actividades de relajación son **salir a caminar** y **tocar guitarra**.  
 - Utiliza su **laptop y aplicaciones digitales** como correo electrónico y LinkedIn para clientes, y WhatsApp para amigos y familia.  
-- Considera que una app como **NeuroDora** debe ser **fácil de usar, flexible en precio y con acompañamiento humano real**.  
+- Considera que una app como **MinDora** debe ser **fácil de usar, flexible en precio y con acompañamiento humano real**.  
 - Espera que ofrezca **test interactivos, actividades prácticas de relajación y psicólogos disponibles en línea**.  
 
 ---
@@ -740,7 +740,7 @@ Todos los entrevistados coinciden en que sus jornadas superan las 8 horas diaria
 
 Los entrevistados también coinciden en que, a pesar de tener acceso a recursos digitales avanzados, la **dificultad para desconectarse** del trabajo es una constante, lo que agrava la sensación de agotamiento. Para afrontar el estrés, recurren a estrategias personales como hacer ejercicio, escuchar música, practicar meditación, ver series o jugar videojuegos, aunque reconocen que no siempre son suficientes.  
 
-Respecto a las soluciones digitales, los tres manifestaron una clara disposición a usar una aplicación como **NeuroDora**, siempre que cumpla con tres condiciones clave: **precio accesible, facilidad de uso y seguridad/confidencialidad de datos personales**. Consideran especialmente útiles los **test interactivos de estrés**, actividades guiadas rápidas (como ejercicios de respiración) y la posibilidad de acceder a **psicólogos en línea**.  
+Respecto a las soluciones digitales, los tres manifestaron una clara disposición a usar una aplicación como **MinDora**, siempre que cumpla con tres condiciones clave: **precio accesible, facilidad de uso y seguridad/confidencialidad de datos personales**. Consideran especialmente útiles los **test interactivos de estrés**, actividades guiadas rápidas (como ejercicios de respiración) y la posibilidad de acceder a **psicólogos en línea**.  
 
 ### Sustento estadístico (basado en 3 entrevistas)  
 
@@ -749,7 +749,7 @@ Respecto a las soluciones digitales, los tres manifestaron una clara disposició
 - **66%** (Pedro y Carlos Augusto) reporta **insomnio y fatiga extrema** como síntomas principales.  
 - **66%** (Carlos Marín y Carlos Augusto) utiliza el **ejercicio físico** como principal método para manejar el estrés.  
 - **100%** usa intensivamente **herramientas digitales laborales** (Outlook, Excel, Teams, Slack, Analytics) y, a nivel personal, aplicaciones de entretenimiento como Spotify, Netflix, YouTube y WhatsApp.  
-- **100%** está dispuesto a usar una app como **NeuroDora**, con énfasis en test, psicólogos en línea y accesibilidad.  
+- **100%** está dispuesto a usar una app como **MinDora**, con énfasis en test, psicólogos en línea y accesibilidad.  
 
 ### Desafíos comunes identificados  
 
@@ -762,7 +762,7 @@ Respecto a las soluciones digitales, los tres manifestaron una clara disposició
 
 - **Implementar horarios más flexibles** para evitar la sobrecarga laboral.  
 - **Fomentar pausas activas y capacitaciones en salud mental** dentro de la jornada.  
-- **Establecer convenios empresariales con plataformas como NeuroDora** para ofrecer apoyo psicológico accesible.  
+- **Establecer convenios empresariales con plataformas como MinDora** para ofrecer apoyo psicológico accesible.  
 
 ### Arquetipo – “El profesional exhausto pero resiliente”  
 
@@ -771,7 +771,7 @@ Respecto a las soluciones digitales, los tres manifestaron una clara disposició
 - **Objetivos:** Cumplir metas laborales, crecer profesionalmente y mantener estabilidad económica.  
 - **Frustraciones:** Exceso de trabajo, presión de clientes o jefes, falta de valoración del esfuerzo, poco tiempo personal.  
 - **Canales digitales:** Outlook, Teams, Slack, Excel (laborales); WhatsApp, Spotify, Netflix, YouTube (personales).  
-- **Necesidades:** Pausas activas, horarios flexibles, apoyo en salud mental mediante plataformas digitales confiables como **NeuroDora**.  
+- **Necesidades:** Pausas activas, horarios flexibles, apoyo en salud mental mediante plataformas digitales confiables como **MinDora**.  
 
 ---
 
@@ -783,7 +783,7 @@ Este segmento se caracteriza por la **inestabilidad económica**, la **incertidu
 
 Los entrevistados coinciden en que el estrés proviene principalmente de la **incertidumbre económica** y la presión por mantenerse siempre disponibles. Además, reportan dificultades para separar la vida personal de la laboral, ya que sus actividades laborales se mezclan con sus rutinas cotidianas.  
 
-En lo digital, el **celular es la herramienta principal** para todos los entrevistados. Lo utilizan tanto para trabajar (apps de delivery, WhatsApp, redes sociales) como para distraerse. NeuroDora es percibida como una herramienta atractiva, siempre que sea **económica, ligera y práctica**, adaptada a su contexto.  
+En lo digital, el **celular es la herramienta principal** para todos los entrevistados. Lo utilizan tanto para trabajar (apps de delivery, WhatsApp, redes sociales) como para distraerse. MinDora es percibida como una herramienta atractiva, siempre que sea **económica, ligera y práctica**, adaptada a su contexto.  
 
 ### Sustento estadístico (basado en 3 entrevistas)  
 
@@ -792,7 +792,7 @@ En lo digital, el **celular es la herramienta principal** para todos los entrevi
 - **66%** (Jesús y Adrián) trabaja más de **10 horas al día**, extendiendo su jornada hasta la noche.  
 - **66%** (Adrián y Diego) señaló la **competencia laboral** como un factor de presión adicional.  
 - **100%** utiliza el **celular como herramienta central de trabajo y comunicación** (WhatsApp, apps de delivery, Facebook, redes sociales).  
-- **100%** mostró disposición a usar **NeuroDora**, con énfasis en accesibilidad, practicidad y seguridad.  
+- **100%** mostró disposición a usar **MinDora**, con énfasis en accesibilidad, practicidad y seguridad.  
 - **33%** (Jesús) priorizó la necesidad de contar con **psicólogos en línea**; los otros dos valoraron más los **test rápidos y ejercicios prácticos**.  
 
 ### Patrones comunes identificados  
@@ -1115,7 +1115,7 @@ El logo de *MinDora* combina un perfil humano con un cerebro estilizado y ondas 
 </p>  
 
 #### Tipografía  
-- Fuentes **sans-serif**, modernas y legibles en cualquier dispositivo.  
+- Fuente Open Sans (familia sans-serif), legible en cualquier dispositivo.
 - Jerarquía visual clara: títulos en seminegrita y tamaño destacado, subtítulos medianos, texto base en peso regular.  
 
 #### Paleta de colores  
@@ -1165,7 +1165,7 @@ Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares
 - **Fondo Oscuro:** base de la interfaz.  
 
 #### Tipografía  
-- Fuentes sans-serif en toda la web.  
+- Fuente principal: **Open Sans** (familia sans-serif), utilizada en toda la web para asegurar legibilidad en cualquier dispositivo.  
 - Jerarquía visual clara:  
   - Títulos en mayúscula o seminegrita.  
   - Botones con texto centrado.  
@@ -1196,13 +1196,13 @@ Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares
 
 ## 4.2. Information Architecture  
 
-En esta sección se detallan las decisiones de arquitectura de la información que guían la organización y presentación del contenido en la plataforma NeuroDora, considerando tanto la Landing Page como las páginas internas (Registro, Ingreso, Test interactivo y Directorio de psicólogos). El objetivo es garantizar que los usuarios encuentren de manera rápida y sencilla las funciones principales de la aplicación, facilitando la navegación y promoviendo una experiencia digital clara y accesible.  
+En esta sección se detallan las decisiones de arquitectura de la información que guían la organización y presentación del contenido en la plataforma MinDora, considerando tanto la Landing Page como las páginas internas (Registro, Ingreso, Test interactivo y Directorio de psicólogos). El objetivo es garantizar que los usuarios encuentren de manera rápida y sencilla las funciones principales de la aplicación, facilitando la navegación y promoviendo una experiencia digital clara y accesible.  
 
 ---
 
 ### 4.2.1. Organization Systems  
 
-La información en NeuroDora se organiza en un modelo jerárquico y secuencial:  
+La información en MinDora se organiza en un modelo jerárquico y secuencial:  
 - En la Landing Page se presenta de forma jerárquica la propuesta de valor, con secciones que destacan el propósito de la plataforma, beneficios y llamados a la acción (CTA) hacia el registro o inicio de sesión.  
 - En las páginas de Registro e Ingreso, el contenido se organiza de manera secuencial, ya que el usuario sigue un flujo paso a paso para autenticarse o crear una nueva cuenta.  
 - En el Test interactivo, se aplica una organización matricial/secuencial, pues el usuario responde preguntas en orden predefinido y el sistema procesa los resultados para ofrecer un diagnóstico inicial.  
@@ -1214,7 +1214,7 @@ Este enfoque combina jerarquía, secuencia y categorización, con el propósito 
 
 ### 4.2.2. Labeling Systems  
 
-Los sistemas de etiquetado en NeuroDora se enfocan en la simplicidad y la claridad para evitar ambigüedades. Los botones y menús utilizan términos directos y familiares para los usuarios:  
+Los sistemas de etiquetado en MinDora se enfocan en la simplicidad y la claridad para evitar ambigüedades. Los botones y menús utilizan términos directos y familiares para los usuarios:  
 - "Ingresar" y "Registrarse" en los formularios de autenticación.  
 - "Iniciar Test" y "Resultados" en la sección del test interactivo.  
 - "Psicólogos" para acceder al directorio de especialistas.  
@@ -1232,9 +1232,9 @@ Las etiquetas de los campos en formularios (nombre, correo, contraseña) se mant
 
 Para mejorar la visibilidad de la plataforma en buscadores y garantizar un correcto posicionamiento, se incluyen etiquetas SEO y metaetiquetas en la estructura del sitio:  
 
-- **Title:** "NeuroDora – Plataforma de detección y gestión del estrés laboral"  
-- **Meta Description:** "NeuroDora ayuda a trabajadores a identificar, prevenir y gestionar el estrés laboral mediante test interactivos y apoyo de psicólogos especializados."  
-- **Keywords:** "estrés laboral, salud mental digital, psicólogos online, bienestar laboral, NeuroDora".  
+- **Title:** "MinDora – Plataforma de detección y gestión del estrés laboral"  
+- **Meta Description:** "MinDora ayuda a trabajadores a identificar, prevenir y gestionar el estrés laboral mediante test interactivos y apoyo de psicólogos especializados."  
+- **Keywords:** "estrés laboral, salud mental digital, psicólogos online, bienestar laboral, MinDora".  
 - **Author:** Equipo NeuroDora.  
 - **Viewport:** Configurado para garantizar la adaptación responsive en dispositivos móviles.  
 - **Open Graph Tags:** Para mejorar la compartición en redes sociales.
@@ -1245,7 +1245,7 @@ De esta manera, se asegura que tanto la Landing Page como las páginas internas 
 
 ### 4.2.4. Searching Systems  
 
-El sistema de búsqueda de NeuroDora está diseñado para ser comprensible y práctico para los usuarios, ofreciendo una herramienta intuitiva que facilite el acceso a información relacionada con la gestión del estrés laboral. A continuación, se describen las principales funcionalidades contempladas:  
+El sistema de búsqueda de MinDora está diseñado para ser comprensible y práctico para los usuarios, ofreciendo una herramienta intuitiva que facilite el acceso a información relacionada con la gestión del estrés laboral. A continuación, se describen las principales funcionalidades contempladas:  
 
 | **Funcionalidad de búsqueda** | **Descripción** | **Usuario Destinado** | **Tipo de Filtro/Soporte** |  
 |-------------------------------|-----------------|-------------------------|-----------------------------|  
@@ -1259,7 +1259,7 @@ El sistema de búsqueda de NeuroDora está diseñado para ser comprensible y pr�
 
 ### 4.2.5. Navigation Systems  
 
-La navegación en NeuroDora se basa en un sistema intuitivo y accesible, con elementos comunes en cada página para garantizar coherencia visual y facilidad de uso.  
+La navegación en MinDora se basa en un sistema intuitivo y accesible, con elementos comunes en cada página para garantizar coherencia visual y facilidad de uso.  
 
 - En la Landing Page se emplea un menú principal en la parte superior, con enlaces directos a Registro, Ingreso y Test.  
 - En dispositivos móviles, se utiliza un menú hamburguesa, optimizado mediante JavaScript para mostrar u ocultar secciones.  
@@ -1665,40 +1665,8 @@ Incluye la clase `Perfil`, que se relaciona con `Preferencias`, junto a las enum
 
 <img src="assets/md-images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/>
 
-## 4.8. Database Design  
-
-En esta sección el equipo presenta y explica los **Database Diagrams** diseñados para la plataforma **MinDora**, los cuales permiten la persistencia de información para cada *bounded context*.  
-
-El diseño se basa en un modelo relacional, asegurando integridad referencial mediante **Primary Keys (PK)** y **Foreign Keys (FK)**, además de nombres estandarizados en **mayúsculas** y con prefijos que referencian a cada tabla.  
-
-### Principales características consideradas
-- Tablas normalizadas para reducir redundancia.  
-- Claves primarias en cada entidad para asegurar unicidad.  
-- Claves foráneas que evidencian las relaciones entre entidades.  
-- Consistencia en la nomenclatura: ID_TABLA, ATRIBUTO_TABLA.  
-- Escalabilidad para soportar futuras ampliaciones (nuevos módulos o bounded contexts).  
-
----
-
-### 4.8.1. Database Diagram  
-
-El siguiente diagrama muestra las entidades principales de la base de datos y sus relaciones:  
-
-**Entidades clave**  
-- **USUARIO**: tabla central, conecta con perfil, tests, actividades, suscripción e informes.  
-- **TEST_ESTRES, RESPUESTA, RESULTADO**: gestión de autoevaluaciones y niveles de estrés.  
-- **ACTIVIDAD y PLAN_ACTIVIDAD**: actividades recomendadas según resultados.  
-- **PSICOLOGO y SOLICITUD_CONTACTO**: directorio y conexión entre usuarios y especialistas.  
-- **SUSCRIPCION y PAGO**: administración de planes y transacciones.  
-- **INFORME_PROGRESO y NOTIFICACION**: reportes históricos y notificaciones enviadas.  
-
----
-
-### Diagrama ER  
-
-<p align="center">
-  <img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="700px" />
-</p>  
+## 4.8. Database Design
+### 4.8.1. Database Diagram
 
 ---
 
