@@ -439,7 +439,7 @@ efectivas que mejoren su calidad de vida y rendimiento profesional.
 
 ## Segmento 1: Trabajadores formales con jornadas extensas
 
-### 🔹 Preguntas complementarias
+### Preguntas complementarias
 - ¿Cuál es su nombre, edad, género y estado civil?  
 - ¿En qué distrito o ciudad reside actualmente y cuánto tiempo lleva allí?  
 - ¿Cuál es su ocupación actual y en qué tipo de empresa trabaja? (ejemplo: corporativa, fábrica, call center, oficina gubernamental)  
@@ -450,7 +450,7 @@ efectivas que mejoren su calidad de vida y rendimiento profesional.
 - ¿Qué actividades realiza normalmente para desconectarse o manejar el estrés?  
 - ¿Cuáles son los principales obstáculos o frustraciones que enfrenta en su entorno laboral?  
 
-### 🔹 Preguntas principales
+### Preguntas principales
 - ¿Cómo percibe el impacto del estrés laboral en su salud física y mental?  
 - ¿Qué señales de estrés reconoce en usted mismo después de una jornada extensa?  
 - ¿Qué tan dispuesto estaría a usar una plataforma digital como **NeuroDora** para detectar y gestionar tempranamente el estrés?  
@@ -460,7 +460,7 @@ efectivas que mejoren su calidad de vida y rendimiento profesional.
 
 ---
 
-**Segmento 2: Trabajadores informales o con horarios flexibles**
+**Segmento 2: Trabajadores informales o con horarios flexibles
 
 Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con
 horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus
@@ -469,7 +469,7 @@ gestionar el estrés. Esta información nos permitirá adaptar nuestra plataform
 que respondan a las características particulares de este segmento, que según estudios, experimenta
 niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 
-### 🔹 Preguntas complementarias
+### Preguntas complementarias
 - ¿Cuál es su nombre, edad, género y estado civil?  
 - ¿En qué distrito o ciudad vive y cómo organiza sus jornadas laborales?  
 - ¿A qué se dedica actualmente? (ejemplo: vendedor independiente, repartidor, freelancer, comercio informal, artista)  
@@ -480,7 +480,7 @@ niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 - ¿Qué habilidades cree que son esenciales para mantenerse activo y competitivo en su trabajo informal?  
 - ¿Cuáles son las mayores dificultades o frustraciones que enfrenta en su vida laboral?  
 
-### 🔹 Preguntas principales
+### Preguntas principales
 - ¿Cómo afecta la presión laboral o la incertidumbre de ingresos a su bienestar emocional?  
 - ¿Qué síntomas de estrés suele experimentar en periodos de alta carga laboral o económica?  
 - ¿Qué tan atractivo le resulta tener un test interactivo que detecte tempranamente niveles de estrés?  
