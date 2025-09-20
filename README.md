@@ -529,7 +529,12 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
 - Tiene un **nivel avanzado en competencias digitales**, maneja herramientas de comunicación laboral (Outlook, Teams, Slack) y utiliza apps de entretenimiento como Spotify y YouTube.  
 - Le gustaría contar con una aplicación que combine test, actividades prácticas y acceso a psicólogos en línea, con reportes claros que le ayuden a monitorear su bienestar.  
 - Sus principales requisitos para usar una herramienta digital de salud mental son: **confidencialidad de datos, costo accesible y facilidad de uso**.  
-- Considera que las empresas deberían apoyar a los trabajadores con subsidios para acceder a estas herramientas y ofrecer **flexibilidad horaria** para reducir la sobrecarga.  
+- Considera que las empresas deberían apoyar a los trabajadores con subsidios para acceder a estas herramientas y ofrecer **flexibilidad horaria** para reducir la sobrecarga.
+  ---
+
+### 📷 Registro visual de la entrevista  
+
+![Entrevista 1](img/entrevista1.jpeg)
 
 
 Entrevista N°2
