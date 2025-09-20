@@ -1696,8 +1696,9 @@ El siguiente diagrama muestra las entidades principales de la base de datos y su
 
 ### 📷 Diagrama ER  
 
-<img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="600px"/>
-
+<p align="center">
+  <img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="700px" />
+</p>  
 
 ---
 
