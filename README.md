@@ -834,8 +834,17 @@ Empathy Mapping y As-Is Scenario Mapping.
   <p align="center"><img src="assets/md-images/DiegoAlonsoSegmento2.png" alt="User persona for Andres" width="700px" /></p>
 </div>
 
+### 2.3.2. User Task Matrix
 
-### 2.3.2. User Task Matrix.
+En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los **User Persona** realizan para cumplir sus objetivos.  
+Se consideran los siguientes segmentos:
+
+- **Laura Méndez** → representa a los **trabajadores formales con jornadas extensas**, cuyo principal desafío es manejar la sobrecarga laboral y el agotamiento físico-mental.  
+- **Andrés Luján** → representa a los **trabajadores informales o con horarios flexibles**, cuyo principal reto es enfrentar la incertidumbre de ingresos y la falta de estructura laboral.  
+
+El cuadro muestra las tareas que ambos realizan, con la valoración de **Frecuencia** (qué tan seguido realizan la tarea) e **Importancia** (qué tan crítico es para su bienestar y objetivos).
+
+---
 
 | Tareas                                                     | Laura Méndez |             | Andrés Luján |             |
 | :--------------------------------------------------------- | :----------- | :---------- | :----------- | :---------- |
@@ -845,6 +854,24 @@ Empathy Mapping y As-Is Scenario Mapping.
 | **Consultar análisis de patrones de estrés**               | Alta         | Media       | Media        | Alta        |
 | **Acceder a recomendaciones personalizadas**               | Media        | Alta        | Alta         | Alta        |
 | **Registrar seguimiento de implementación de estrategias** | Media        | Alta        | Alta         | Alta        |
+
+---
+
+### Análisis del User Task Matrix
+
+- **Tareas más críticas**:  
+  - Para **ambos segmentos**, las tareas más importantes y frecuentes son **“Acceder a recomendaciones personalizadas”** y **“Registrar seguimiento de implementación de estrategias”**, pues representan la búsqueda activa de soluciones prácticas para manejar el estrés.  
+  - **Andrés Luján** le da mayor relevancia a **“Registrar señales corporales de estrés”**, ya que su rutina inestable lo expone a síntomas físicos más evidentes.  
+  - **Laura Méndez** prioriza más la **“autoevaluación de niveles de estrés”**, alineado a su contexto corporativo donde medir su rendimiento y estado emocional es fundamental.  
+
+- **Coincidencias**:  
+  Ambos coinciden en la necesidad de contar con **recomendaciones personalizadas** y en el **seguimiento de estrategias aplicadas**, lo que resalta la importancia de una plataforma que no solo detecte el estrés, sino que acompañe en el tiempo.  
+
+- **Diferencias**:  
+  - **Laura**: más enfocada en autoevaluaciones y análisis de patrones, debido a que su entorno laboral exige métricas y resultados.  
+  - **Andrés**: más enfocado en registrar señales físicas inmediatas, pues su entorno laboral flexible e inestable le obliga a reaccionar a los síntomas del estrés más que a planificar a largo plazo.  
+
+En conclusión, la matriz evidencia que, aunque ambos segmentos comparten tareas comunes, sus prioridades varían: los formales valoran la **medición y el análisis**, mientras que los informales priorizan la **detección rápida y práctica** de síntomas.
 
 ### 2.3.3. User Journey Mapping.
 
@@ -882,25 +909,9 @@ Empathy Mapping y As-Is Scenario Mapping.
   <p align="center"><img src="assets/md-images/Empathy-4.png" alt="Empathy mapping part 4" width="700px" /></p>
 </div>
 
-### 2.3.5. As-is Scenario Mapping.
+## 2.4. Big Picture Event Storming.
 
-**As-is Scenario Mapping de Laura Méndez**
-
-| Phases       | Registrar señales corporales de estrés                | Completar autoevaluación de niveles de estrés   | Consultar análisis de patrones de estrés            | Acceder a recomendaciones personalizadas                         | Registrar seguimiento de implementación de estrategias                |
-| :----------- | :---------------------------------------------------- | :---------------------------------------------- | :-------------------------------------------------- | :--------------------------------------------------------------- | :-------------------------------------------------------------------- |
-| **Doing**    | Toma fotos de su postura durante horas de trabajo.    | Completa cuestionarios rápidos entre proyectos. | Revisa los gráficos semanales de estrés.            | Accede a recomendaciones desde su teléfono móvil.                | Registra la efectividad de las técnicas implementadas.                |
-| **Thinking** | Duda si está estresada o solo cansada.                | Evalúa si está aceptando demasiados proyectos.  | Busca patrones relacionados con ciertos clientes.   | Cuestiona si las recomendaciones se adaptan a su estilo de vida. | Se pregunta si está siendo constante con las técnicas.                |
-| **Feeling**  | Se siente abrumada al notar signos físicos de estrés. | Siente alivio al cuantificar su estrés.         | Muestra curiosidad al descubrir patrones de estrés. | Experimenta esperanza al recibir nuevas estrategias.             | Siente orgullo cuando logra implementar estrategias consistentemente. |
-
-**As-is Scenario Mapping de Andrés Luján**
-
-| Phases       | Registrar señales corporales de estrés                          | Completar autoevaluación de niveles de estrés                            | Consultar análisis de patrones de estrés                                | Acceder a recomendaciones personalizadas                                   | Registrar seguimiento de implementación de estrategias                   |
-| :----------- | :-------------------------------------------------------------- | :----------------------------------------------------------------------- | :---------------------------------------------------------------------- | :------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
-| **Doing**    | Documenta su tensión muscular después de reuniones prolongadas. | Realiza evaluaciones al final de su jornada laboral.                     | Analiza tendencias de estrés durante diferentes períodos académicos.    | Revisa el coaching emocional personalizado entre reuniones.                | Registra diariamente la efectividad de las estrategias implementadas.    |
-| **Thinking** | Se pregunta si su fatiga es visible para su equipo.             | Considera cómo los cambios institucionales afectan su nivel de estrés.   | Reflexiona sobre la relación entre sus horas de trabajo y su bienestar. | Evalúa qué recomendaciones son viables con su apretada agenda.             | Analiza qué técnicas funcionan mejor durante temporadas de alta presión. |
-| **Feeling**  | Se siente frustrado al reconocer signos físicos de agotamiento. | Experimenta preocupación al constatar altos niveles de estrés sostenido. | Siente determinación al identificar patrones problemáticos.             | Muestra optimismo al encontrar soluciones adaptadas a su rol de liderazgo. | Siente satisfacción cuando logra incorporar nuevos hábitos a su rutina.  |
-
-## 2.4. Ubiquitous Language.
+## 2.5. Ubiquitous Language.
 
 Este glosario define los términos clave que usamos en el proyecto para mantener un lenguaje común entre el equipo de desarrollo y los expertos en salud mental.
 
@@ -926,31 +937,6 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 # Capítulo III: Requirements Specification
 
 ---
-
-## 3.1. To-Be Scenario Mapping
-
-**User Journey Mapping – Laura Méndez**
-
-| Fases                                         | Doing                                                    | Thinking                                                                | Feeling                                             |
-| --------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
-| Registrar señales corporales de estrés        | La app detecta automáticamente postura y signos faciales | “Es útil que el sistema registre señales sin que yo tenga que hacerlo.” | Tranquilidad por el monitoreo pasivo                |
-| Completar autoevaluación de niveles de estrés | Recibe notificaciones de autoevaluación guiada con IA    | “Ahora sé si lo que siento es estrés o solo cansancio.”                 | Alivio por entender rápidamente su estado emocional |
-| Consultar análisis de patrones de estrés      | Visualiza resúmenes visuales con predicción de picos     | “Ya puedo ver cómo ciertos clientes o días afectan mi bienestar.”       | Curiosidad y sensación de control                   |
-| Acceder a recomendaciones personalizadas      | Recibe sugerencias integradas a su rutina diaria         | “Esto se adapta a mí y no interrumpe mi día.”                           | Esperanza al ver opciones viables                   |
-| Registrar seguimiento de estrategias          | Ve sus avances con ayuda de recordatorios motivacionales | “Estoy logrando mantener el hábito, y se nota en mi bienestar.”         | Orgullo y motivación al ver progresos               |
-
-**User Journey Mapping – Andrés Luján**
-
-| Fases                                         | Doing                                                  | Thinking                                                   | Feeling                                      |
-| --------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- | -------------------------------------------- |
-| Registrar señales corporales de estrés        | El sistema registra tensión y postura automáticamente  | “El sistema me ayuda a notar lo que mi cuerpo expresa.”    | Alivio al no depender solo de su percepción  |
-| Completar autoevaluación de niveles de estrés | Usa voz o toques rápidos para autoevaluarse            | “Esta evaluación se adapta a mis tiempos.”                 | Comodidad y sensación de autonomía           |
-| Consultar análisis de patrones de estrés      | El sistema anticipa picos de estrés según su agenda    | “Puedo prever cuándo debo cuidarme más o delegar.”         | Seguridad al planificar estratégicamente     |
-| Acceder a recomendaciones personalizadas      | Recibe recomendaciones justo después de momentos clave | “Estas estrategias están hechas para mi rol de liderazgo.” | Optimismo por la personalización del sistema |
-| Registrar seguimiento de estrategias          | Revisa un resumen mensual con IA                       | “Sé qué funcionó y qué debo ajustar para el próximo mes.”  | Satisfacción por tener una guía continua     |
-
----
-
 ## 3.2. User Stories
 
 **Epic**
@@ -1235,10 +1221,6 @@ Los sistemas de etiquetado en NeuroDora se enfocan en la simplicidad y la clarid
 - "Cerrar Sesión" para finalizar la navegación.  
 
 Las etiquetas de los campos en formularios (nombre, correo, contraseña) se mantienen cortas y claras, con validaciones en tiempo real para evitar errores. Además, se emplean íconos visuales en menús y botones que refuerzan la comprensión del contenido.  
-
-<p align="center">
-  <img src="assets/md-images/hamburguesa.png" alt="PanelHamburguesa" width="500px" />
-</p>  
 
 ---
 
