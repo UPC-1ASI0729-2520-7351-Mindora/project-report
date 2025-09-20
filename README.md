@@ -427,7 +427,7 @@ El análisis competitivo se organiza siguiendo el formato *Competitive Analysis 
 
 ## 2.2.1. Diseño de entrevistas.
 
-**Segmento: Personas activas en el ámbito laboral con jornadas extendidas**
+## Segmento 1: Trabajadores formales con jornadas extensas
 
 Para evaluar las necesidades y experiencias de profesionales con horarios laborales extensos que
 enfrentan altos niveles de estrés, hemos desarrollado una serie de preguntas enfocadas en comprender
@@ -436,8 +436,6 @@ información nos permitirá identificar oportunidades para que nuestra plataform
 efectivas que mejoren su calidad de vida y rendimiento profesional.
 
 ---
-
-## Segmento 1: Trabajadores formales con jornadas extensas
 
 ### Preguntas complementarias
 - ¿Cuál es su nombre, edad, género y estado civil?  
