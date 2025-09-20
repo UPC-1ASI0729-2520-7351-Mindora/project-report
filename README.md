@@ -27,6 +27,7 @@
 
 <div>
   <p align="center"><b>Ciclo 2025 - 2</b></p>
+  <p align="center"><b>Septiembre 2025</b></p>
 </div>
 
 ---
