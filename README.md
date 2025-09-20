@@ -52,10 +52,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 El equipo ha trabajado de manera colaborativa en el repositorio de GitHub, registrando avances constantes en la construcción del informe.  
 A continuación, se presentan las evidencias de participación y colaboración de los integrantes:
 
-- Cada integrante del grupo realizó **commits**, modificaciones y carga de archivos en distintas secciones del informe.  
-- Se refleja la **división de tareas** entre redacción, correcciones de estilo, incorporación de imágenes y ajustes técnicos en Markdown.  
+- Cada integrante del grupo realizó commits, modificaciones y carga de archivos en distintas secciones del informe.  
+- Se refleja la división de tareas entre redacción, correcciones de estilo, incorporación de imágenes y ajustes técnicos en Markdown.  
 - Todos los miembros participaron en mayor o menor medida, garantizando que el documento evolucionara de forma colaborativa y transparente.  
-- La evidencia gráfica incluye la vista de **contribuciones**, así como el **historial de actividad** donde se observa el detalle de commits y cambios en el repositorio.
+- La evidencia gráfica incluye la vista de contribuciones, así como el historial de actividad donde se observa el detalle de commits y cambios en el repositorio.
 
 ### Contribuciones por integrante
 
@@ -63,7 +63,7 @@ A continuación, se presentan las evidencias de participación y colaboración d
   <img src="assets/md-images/Insights.png" alt="Contribuciones de los integrantes" width="700px"/>
 </div>
 
-En esta vista se observa la cantidad de commits realizados por cada integrante, junto con el balance de líneas añadidas y eliminadas.  
+En esta vista se observa la cantidad de commits realizados, junto con el balance de líneas añadidas y eliminadas.  
 
 ### Historial de actividad del repositorio
 
