@@ -435,33 +435,32 @@ su rutina diaria, factores estresantes, y estrategias actuales para manejar la p
 información nos permitirá identificar oportunidades para que nuestra plataforma ofrezca soluciones
 efectivas que mejoren su calidad de vida y rendimiento profesional.
 
-Introducción:
+---
 
-Buenos días/tardes, soy [...], representante de [Nombre del Proyecto]. Estamos
-desarrollando una plataforma destinada a ayudar a profesionales con horarios laborales extensos a
-manejar mejor el estrés y mejorar su calidad de vida. Nos gustaría conocer más sobre tu experiencia
-laboral y los desafíos que enfrentas en tu día a día. Tu perspectiva será muy valiosa para desarrollar
-una solución que realmente responda a las necesidades de personas como tú.
+## Segmento 1: Trabajadores formales con jornadas extensas
 
-Preguntas:
+### 🔹 Preguntas complementarias
+- ¿Cuál es su nombre, edad, género y estado civil?  
+- ¿En qué distrito o ciudad reside actualmente y cuánto tiempo lleva allí?  
+- ¿Cuál es su ocupación actual y en qué tipo de empresa trabaja? (ejemplo: corporativa, fábrica, call center, oficina gubernamental)  
+- ¿Cómo describiría su rutina laboral diaria (horario, carga de trabajo, pausas, desplazamientos)?  
+- ¿Qué herramientas digitales utiliza con mayor frecuencia en su trabajo? (ejemplo: correo corporativo, Teams, Slack, WhatsApp)  
+- ¿Qué marcas, aplicaciones o servicios en línea son sus preferidos para comunicarse o relajarse?  
+- ¿Qué habilidades personales considera más importantes para sobrellevar su trabajo diario?  
+- ¿Qué actividades realiza normalmente para desconectarse o manejar el estrés?  
+- ¿Cuáles son los principales obstáculos o frustraciones que enfrenta en su entorno laboral?  
 
-1. Para comenzar, ¿podrías presentarte y contarnos brevemente sobre tu profesión y el sector en
-   el que trabajas?
-2. ¿Cómo describirías una jornada laboral típica para ti? ¿Cuántas horas trabajas habitualmente?
-3. ¿Qué aspectos de tu trabajo consideras que generan mayor presión o estrés?
-4. ¿Has notado cambios en tu salud física o mental que atribuyas al estrés laboral?
-5. ¿Cómo suele afectar el estrés laboral a tu rendimiento en el trabajo y a tu vida personal?
-6. ¿Qué estrategias utilizas actualmente para manejar el estrés relacionado con tu trabajo?
-7. ¿Tu empresa o lugar de trabajo ofrece algún programa o recurso para ayudar a los empleados
-   a manejar el estrés?
-8. En los momentos de mayor presión laboral, ¿qué tipo de apoyo o herramientas te resultarían
-   más útiles?
-9. ¿Utilizas actualmente alguna aplicación o plataforma digital para gestionar el estrés o mejorar
-   tu bienestar? Si es así, ¿cuál y qué te parece?
-10. ¿Qué características o funcionalidades consideras importantes en una plataforma diseñada
-    para ayudar a reducir el estrés laboral?
+### 🔹 Preguntas principales
+- ¿Cómo percibe el impacto del estrés laboral en su salud física y mental?  
+- ¿Qué señales de estrés reconoce en usted mismo después de una jornada extensa?  
+- ¿Qué tan dispuesto estaría a usar una plataforma digital como **NeuroDora** para detectar y gestionar tempranamente el estrés?  
+- ¿Qué tipo de apoyo le resultaría más útil en una aplicación? (ejemplo: test interactivos, conexión directa con psicólogos, actividades guiadas)  
+- ¿Qué factores influirían en su decisión de suscribirse a un servicio de salud mental digital?  
+- ¿De qué manera cree que su empresa debería involucrarse en la promoción de la salud mental de los trabajadores?  
 
-**Segmento: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+---
+
+**Segmento 2: Trabajadores informales o con horarios flexibles**
 
 Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con
 horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus
@@ -470,33 +469,24 @@ gestionar el estrés. Esta información nos permitirá adaptar nuestra plataform
 que respondan a las características particulares de este segmento, que según estudios, experimenta
 niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 
-Introducción:
+### 🔹 Preguntas complementarias
+- ¿Cuál es su nombre, edad, género y estado civil?  
+- ¿En qué distrito o ciudad vive y cómo organiza sus jornadas laborales?  
+- ¿A qué se dedica actualmente? (ejemplo: vendedor independiente, repartidor, freelancer, comercio informal, artista)  
+- ¿Cómo describiría su rutina diaria (horarios, clientes, tiempos libres)?  
+- ¿Qué dispositivos o aplicaciones utiliza principalmente para su trabajo? (ejemplo: celular, redes sociales, apps de delivery, plataformas freelance)  
+- ¿Qué canales digitales prefiere para comunicarse con clientes o amigos?  
+- ¿Qué actividades realiza para relajarse o manejar la presión laboral?  
+- ¿Qué habilidades cree que son esenciales para mantenerse activo y competitivo en su trabajo informal?  
+- ¿Cuáles son las mayores dificultades o frustraciones que enfrenta en su vida laboral?  
 
-Buenos días/tardes, soy [...], representante de MinDora. Estamos desarrollando una
-plataforma para ayudar a personas que trabajan sin horarios fijos o en el sector informal a manejar
-mejor el estrés y mejorar su calidad de vida. Nos interesa conocer tu experiencia para crear una
-solución que realmente funcione para personas como tú. Agradecemos mucho tu tiempo y sinceridad
-en esta conversación.
-
-Preguntas:
-
-1. Para empezar, ¿podrías contarnos a qué te dedicas y cómo es tu rutina de trabajo habitual?
-2. ¿Cómo organizas tu tiempo entre el trabajo y otras actividades? ¿Tienes algún método para
-   establecer límites?
-3. ¿Sientes que tu trabajo "te sigue a todas partes"? ¿Puedes describir cómo es esa experiencia?
-4. ¿Cuáles son los principales factores que te generan estrés en tu trabajo?
-5. ¿Cómo describirías el nivel de estrés que experimentas habitualmente (bajo, medio, alto)?
-   ¿Varía mucho dependiendo de las temporadas o circunstancias?
-6. ¿De qué manera crees que el no tener un horario fijo afecta tu nivel de estrés, en comparación
-   con trabajos formales con horarios establecidos?
-7. ¿Has notado algún impacto en tu salud física o mental debido al estrés relacionado con tu
-   trabajo?
-8. ¿Qué estrategias o métodos utilizas actualmente para manejar el estrés cuando sientes que el
-   trabajo invade todos los aspectos de tu vida?
-9. ¿Utilizas alguna aplicación, plataforma o recurso digital para ayudarte a organizar tu trabajo o
-   manejar el estrés? ¿Cuál ha sido tu experiencia?
-10. ¿Qué momentos del día considerarías más apropiados para dedicar tiempo a actividades para
-    reducir el estrés?
+### 🔹 Preguntas principales
+- ¿Cómo afecta la presión laboral o la incertidumbre de ingresos a su bienestar emocional?  
+- ¿Qué síntomas de estrés suele experimentar en periodos de alta carga laboral o económica?  
+- ¿Qué tan atractivo le resulta tener un test interactivo que detecte tempranamente niveles de estrés?  
+- ¿De qué manera le ayudaría contar con apoyo inmediato de un psicólogo a través de una plataforma digital?  
+- ¿Qué valor percibiría en un modelo de suscripción accesible para gestionar el estrés?  
+- ¿Qué expectativas tendría de una herramienta que combine tecnología y acompañamiento humano en salud mental?  
 
 ## 2.2.2. Registro de entrevistas
 
