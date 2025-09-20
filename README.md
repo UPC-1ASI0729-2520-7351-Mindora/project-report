@@ -532,39 +532,40 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
   <img src="assets/md-images/entrevista1.jpeg" alt="Entrevista 1" width="450"/>
 </p> 
 
-**Entrevista N°2**  
+**Entrevista N°2**
 
-- **Nombre:** Adrián Ramírez  
+- **Nombre:** Carlos Marín  
 - **Sexo:** Masculino  
-- **Edad:** 24  
+- **Edad:** 27  
 - **Estado Civil:** Soltero  
-- **Labor:** Vendedor ambulante de accesorios para celulares  
+- **Labor:** Analista contable en empresa corporativa de retail  
 
 **Detalles de la entrevista:**  
-Adrián Ramírez es un joven de 24 años que vive en el distrito de Comas, donde ha residido toda su vida. Su trabajo principal consiste en la venta ambulante de accesorios para celulares, actividad que organiza de manera flexible según el movimiento de clientes en distintos puntos de la ciudad. Usualmente inicia sus jornadas entre las 8 y 9 de la mañana y trabaja hasta las 7 o 8 de la noche, aunque en días de baja venta se extiende más para alcanzar sus metas diarias.  
+Carlos Marín es un joven de 27 años que reside en San Miguel desde hace cuatro años. Actualmente trabaja como analista contable en una empresa corporativa de retail, donde se encarga de revisar balances, preparar reportes financieros y dar soporte al área de auditoría.  
 
-Describe su rutina como intensa y variable: traslada su mercadería, busca espacios de mayor afluencia de personas, ofrece los productos directamente y aprovecha los momentos libres para publicar anuncios en Facebook Marketplace y responder consultas por WhatsApp. Señala que no tiene un horario de almuerzo fijo y, en la mayoría de los casos, come de manera rápida en la calle.  
+Su rutina laboral inicia oficialmente a las 9 a.m., pero suele conectarse antes para adelantar pendientes. Aunque su horario debería culminar a las 6 p.m., con frecuencia se extiende hasta después de las 7 p.m. Describe su trabajo como demandante y repetitivo, con largas horas frente a documentos en Excel y reuniones en línea. Además, señala que dispone de apenas 30 minutos para almorzar y muchas veces lo hace en su escritorio.  
 
-Adrián reconoce que la falta de estabilidad económica y de permisos municipales para vender son fuentes de frustración constantes. La competencia con otros ambulantes y la incertidumbre sobre las ventas diarias generan un estrés continuo que le preocupa. En su tiempo libre, intenta relajarse jugando fútbol con sus amigos los fines de semana o escuchando música mientras trabaja.  
+Carlos comenta que el estrés laboral afecta tanto su salud física como mental. Experimenta dolores de cabeza, contracturas en la espalda, cansancio extremo y dificultad para dormir, ya que sigue pensando en las tareas pendientes. También reconoce sentirse irritable y con ansiedad cuando enfrenta plazos ajustados y exceso de trabajo.  
 
-En cuanto al uso de tecnología, Adrián utiliza principalmente su celular como herramienta de trabajo. Domina aplicaciones como Facebook y WhatsApp, que le permiten mantenerse en contacto con clientes y amigos, además de ser los principales canales para promocionar sus productos.  
+Para sobrellevar la carga laboral, realiza actividad física tres veces por semana, principalmente salir a correr en las noches. Además, en casa escucha música, juega videojuegos y conversa con amigos para relajarse. Sus herramientas digitales principales son Excel, Outlook y Teams para el trabajo, mientras que en lo personal utiliza WhatsApp, Spotify y Netflix.  
 
-Sobre soluciones digitales para la gestión del estrés, considera que una aplicación como **NeuroDora** sería de gran ayuda, siempre que sea fácil de usar y accesible económicamente. Le gustaría contar con test interactivos que le permitan medir su nivel de estrés y con consejos prácticos para manejar momentos de tensión durante la jornada. Además, valoraría mucho tener acceso a un psicólogo en línea, ya que nunca ha tenido la posibilidad de acudir a una consulta presencial por falta de tiempo y recursos.  
+En relación con soluciones digitales para la gestión del estrés, Carlos se muestra abierto a usar una aplicación como **NeuroDora**, destacando la importancia de los **test interactivos**, ejercicios prácticos como técnicas de respiración, y la posibilidad de acceder a psicólogos en línea. Considera que factores como el **precio accesible, la seguridad de los datos y la calidad profesional de los psicólogos** influirían en su decisión de suscribirse. Además, opina que las empresas deberían involucrarse más en la salud mental de sus empleados mediante horarios flexibles, pausas activas y convenios con plataformas digitales de bienestar.  
 
-- **Duración:** 6 minutos con 3 segundos  
+- **Duración:** 6 minutos con 20 segundos  
 
 ---
 
 ### Resumen de los puntos clave en la entrevista  
 
-- El entrevistado se llama **Adrián Ramírez**, tiene 24 años, vive en Comas y trabaja como vendedor ambulante de accesorios para celulares.  
-- Su rutina es **flexible pero extensa**, iniciando en la mañana y extendiéndose hasta la noche, con horarios irregulares para comer.  
-- Identifica como principales **fuentes de estrés** la competencia, la falta de permisos y la inestabilidad económica.  
-- Señala síntomas como **dolores de cabeza, cansancio físico e irritabilidad**, especialmente en días de bajas ventas.  
-- Usa principalmente su **celular** para trabajar, con un manejo intensivo de **Facebook Marketplace y WhatsApp**.  
-- Sus principales actividades de relajación son **jugar fútbol con amigos** y escuchar música durante el trabajo.  
-- Está interesado en una app como **NeuroDora**, pero resalta que debe ser **accesible en precio y fácil de usar**.  
-- Considera valioso tener un **test interactivo de estrés y conexión inmediata con un psicólogo en línea** para obtener apoyo en momentos difíciles.  
+- El entrevistado se llama **Carlos Marín**, tiene 27 años, vive en San Miguel y trabaja como analista contable en una empresa corporativa de retail.  
+- Su rutina laboral excede el horario oficial, extendiéndose después de las 7 p.m. debido a la carga de pendientes.  
+- Las principales **fuentes de estrés** son los plazos ajustados, la sobrecarga laboral y la falta de reconocimiento.  
+- Reconoce síntomas como **dolores de cabeza, contracturas, ansiedad, irritabilidad e insomnio** tras largas jornadas.  
+- Utiliza herramientas digitales como **Excel, Outlook y Teams**; en lo personal prefiere **WhatsApp, Spotify y Netflix**.  
+- Sus actividades de relajación incluyen **correr, escuchar música, jugar videojuegos y compartir con amigos**.  
+- Considera útil una aplicación como **NeuroDora** con test de estrés, actividades guiadas y psicólogos en línea.  
+- Factores determinantes para suscribirse: **precio accesible, seguridad de datos y calidad profesional**.  
+- Recomienda que las empresas fomenten el bienestar con **horarios flexibles, pausas activas y convenios con plataformas digitales**.  
 
 ---
 
