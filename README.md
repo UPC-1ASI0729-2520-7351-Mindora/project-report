@@ -387,38 +387,39 @@ El análisis competitivo se organiza siguiendo el formato *Competitive Analysis 
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-**FODA de nuestra empresa: "MinDora"**
+**FODA de nuestra empresa: MinDora**
 
-F: Sistema de detección rápida de estrés laboral con test personalizados y conexión directa a
-profesionales de salud mental.
+| **Fortalezas (F)** | **Debilidades (D)** |
+|--------------------|---------------------|
+| F1: Sistema de detección rápida de estrés laboral con biometría y tests personalizados. | D1: Dependencia de la honestidad del usuario en la autoevaluación. |
+| F2: Conexión directa con profesionales de salud mental. | D2: Posible resistencia cultural a reconocer problemas de salud mental. |
+| F3: Enfoque en el mercado laboral latinoamericano. | D3: Necesidad de demostrar la precisión y confiabilidad del sistema biométrico. |
+| F4: Integración de herramientas digitales en una sola plataforma. | D4: Limitado reconocimiento de marca en el mercado global. |
 
-O: Creciente conciencia sobre salud mental en empresas y mayor disposición a invertir en bienestar
-laboral.
+| **Oportunidades (O)** | **Amenazas (A)** |
+|------------------------|------------------|
+| O1: Creciente conciencia sobre la importancia de la salud mental en empresas. | A1: Aparición de soluciones similares en el mercado. |
+| O2: Mayor disposición de las organizaciones a invertir en programas de bienestar laboral. | A2: Preocupaciones por la confidencialidad de los datos sensibles. |
+| O3: Avance en la aceptación social de plataformas digitales de salud. | A3: Competencia internacional consolidada con mayor presupuesto en marketing. |
+| O4: Interés de aseguradoras y áreas de RR.HH. en métricas de bienestar. | A4: Barreras legales y regulatorias sobre el uso de datos de salud. |
 
-D: Posible resistencia de los usuarios a reconocer problemas de estrés y dependencia de la honestidad
-en las respuestas al test.
+---
 
-A: Aparición de soluciones similares en el mercado y preocupaciones sobre confidencialidad de datos
-sensibles de salud mental.
+### Estrategias FO (Fortalezas + Oportunidades)
+- Debido al aumento en la **conciencia sobre la salud mental en las empresas (O1)** y gracias a nuestro **sistema de detección rápida con biometría (F1)**, desarrollaremos programas de implementación corporativa que incluyan talleres de sensibilización y pruebas piloto con métricas medibles de reducción de estrés.  
+- Para aprovechar la **disposición de las empresas a invertir en bienestar (O2)** y la **conexión directa con profesionales de salud mental (F2)**, ofreceremos planes corporativos que incluyan sesiones psicológicas periódicas y reportes de impacto.  
 
-Para aprovechar las fortalezas y oportunidades de "MinDora", y al mismo tiempo enfrentar las
-debilidades y contrarrestar las amenazas del entorno competitivo, podemos considerar las siguientes
-estrategias y tácticas:
+### Estrategias DO (Debilidades + Oportunidades)
+- Dado que existe **resistencia cultural a reconocer problemas de salud mental (D2)** pero crece la **aceptación social de plataformas digitales de salud (O3)**, incluiremos campañas educativas dentro de la app que normalicen hablar del estrés y lo asocien a prevención, no a debilidad.  
+- Para superar la **dependencia de la honestidad en la autoevaluación (D1)** y considerando el **interés de RR.HH. en métricas objetivas (O4)**, incorporaremos tecnología de análisis de comportamiento y registros biométricos complementarios.  
 
-● Desarrollar programas de implementación corporativa que incluyan talleres de sensibilización
-sobre la importancia de la salud mental.
+### Estrategias FA (Fortalezas + Amenazas)
+- Frente a la **aparición de soluciones similares en el mercado (A1)**, utilizaremos nuestra **integración única de biometría, autoevaluaciones y conexión con especialistas (F1, F2, F4)** como propuesta de valor diferenciada en el posicionamiento de marca.  
+- Para reducir el riesgo de **preocupaciones sobre confidencialidad de datos (A2)**, aprovecharemos nuestra **conexión con profesionales de salud mental y enfoque en LATAM (F2, F3)** para lanzar un programa de certificación en privacidad que genere confianza en el público local.  
 
-● Establecer alianzas con empresas de seguros médicos para ofrecer descuentos a
-organizaciones que implementen nuestro sistema preventivo.
-
-● Implementar tecnología de análisis de comportamiento que complemente las respuestas
-subjetivas del test con indicadores objetivos.
-
-● Crear un sólido programa de certificación en privacidad de datos y comunicarlo claramente a
-usuarios y empresas clientes.
-
-● Generar reportes anónimos agregados para departamentos de RR.HH. que muestren el ROI en
-términos de reducción de ausentismo y mejora de productividad.
+### Estrategias DA (Debilidades + Amenazas)
+- Ante el **limitado reconocimiento de marca (D4)** y la fuerte **competencia internacional consolidada (A3)**, enfocaremos las primeras campañas en el mercado local latinoamericano con casos de éxito corporativos antes de escalar a nivel global.  
+- Para mitigar el **riesgo regulatorio sobre datos de salud (A4)** y la **necesidad de demostrar confiabilidad en biometría (D3)**, implementaremos auditorías externas y alianzas con universidades locales que validen científicamente nuestro sistema.  
 
 ## 2.2. Entrevistas.
 
