@@ -460,7 +460,7 @@ efectivas que mejoren su calidad de vida y rendimiento profesional.
 
 ---
 
-**Segmento 2: Trabajadores informales o con horarios flexibles
+## Segmento 2: Trabajadores informales o con horarios flexibles
 
 Para evaluar las necesidades y experiencias de adultos que trabajan en el sector informal o con
 horarios no definidos, hemos desarrollado preguntas orientadas a comprender cómo manejan sus
