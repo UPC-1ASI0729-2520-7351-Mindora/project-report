@@ -185,7 +185,7 @@ El estrés laboral es reconocido como uno de los principales problemas que afect
 
 La problemática identificada es la falta de herramientas accesibles y efectivas que permitan a las personas detectar de manera temprana sus niveles de estrés y recibir orientación práctica para gestionarlo. En muchos casos, los trabajadores no cuentan con mecanismos de autoevaluación ni con recomendaciones inmediatas que puedan aplicar en su día a día, lo cual incrementa el riesgo de desarrollar problemas de salud asociados al estrés crónico.  
 
-El proyecto MinDora surge como respuesta a esta necesidad. La propuesta consiste en desarrollar un sistema de identificación y gestión del estrés laboral mediante la observación y registro de señales corporales visibles como postura, tensión muscular facial, cambios en la respiración, sudoración, temblores o rojeces en la piel. Estos datos se integran en una aplicación que permite a los usuarios auto-evaluar sus niveles de estrés, recibir recomendaciones personalizadas y acceder a estrategias prácticas de manejo, contribuyendo así a mejorar el bienestar de los trabajadores y la productividad organizacional.
+El proyecto mindora surge como respuesta a esta necesidad. La propuesta consiste en desarrollar un sistema de identificación y gestión del estrés laboral mediante la observación y registro de señales corporales visibles como postura, tensión muscular facial, cambios en la respiración, sudoración, temblores o rojeces en la piel. Estos datos se integran en una aplicación que permite a los usuarios autoevaluar sus niveles de estrés, recibir recomendaciones personalizadas y acceder a estrategias prácticas de manejo, contribuyendo así a mejorar el bienestar de los trabajadores y la productividad organizacional.
 
 #### 1.2.1.1. What  
 
@@ -258,7 +258,7 @@ Una combinación de factores externos (presión laboral, clima organizacional) e
 
 #### 1.2.1.7. How much  
 
-Según un estudio en seis países de Latinoamérica, hasta el 63% de los trabajadores sufre estrés laboral, especialmente mujeres (Mejía, 2019). De acuerdo con la Organización Mundial de la Salud, el estrés laboral es una de las principales causas de ausentismo y disminución de productividad en la población activa, además de aumentar el riesgo de enfermedades físicas y mentales. Este impacto genera altos costos tanto en salud pública como en la calidad de vida de los trabajadores.
+Según un estudio en seis países de Latinoamérica, hasta el 63% de los trabajadores sufre estrés laboral, especialmente mujeres (Mejía, 2019). De acuerdo con la Organización Mundial de la Salud (2020), el estrés laboral es una de las principales causas de ausentismo y disminución de productividad en la población activa, además de aumentar el riesgo de enfermedades físicas y mentales. Este impacto genera altos costos tanto en salud pública como en la calidad de vida de los trabajadores.
 
 ### 1.2.2. Lean UX Process
 
