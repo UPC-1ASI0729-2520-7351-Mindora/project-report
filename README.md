@@ -181,14 +181,11 @@ NeuroDora se proyecta como un modelo de negocio independiente y sostenible, ofre
 
 ### 1.2.1. Antecedentes y problemática
 
-El proyecto MinDora consiste en desarrollar un sistema de identificación y gestión del estrés laboral
-dirigido específicamente a adultos entre 20 y 50 años, mediante la observación y registro de señales
-corporales visibles como postura corporal, tensión muscular facial, cambios en la respiración,
-sudoración visible, temblores, rojeces en la piel y otros indicadores físicos detectables a simple vista,
-integrando estos datos en una aplicación que permita a los usuarios auto-evaluar sus niveles de estrés
-en el entorno laboral, recibir recomendaciones personalizadas y estrategias prácticas para la gestión
-del estrés, mejorando así el bienestar de los trabajadores y la productividad organizacional, mientras
-se previenen problemas de salud asociados al estrés crónico en la población económicamente activa.
+El estrés laboral es reconocido como uno de los principales problemas que afectan a la población económicamente activa, impactando tanto en la salud mental y física de los trabajadores como en la productividad de las organizaciones. En particular, los adultos entre 20 y 50 años son el grupo más vulnerable, ya que se encuentran en plena etapa laboral, expuestos a altos niveles de exigencia, presión por resultados y prolongadas jornadas de trabajo.  
+
+La problemática identificada es la falta de herramientas accesibles y efectivas que permitan a las personas detectar de manera temprana sus niveles de estrés y recibir orientación práctica para gestionarlo. En muchos casos, los trabajadores no cuentan con mecanismos de autoevaluación ni con recomendaciones inmediatas que puedan aplicar en su día a día, lo cual incrementa el riesgo de desarrollar problemas de salud asociados al estrés crónico.  
+
+El proyecto MinDora surge como respuesta a esta necesidad. La propuesta consiste en desarrollar un sistema de identificación y gestión del estrés laboral mediante la observación y registro de señales corporales visibles como postura, tensión muscular facial, cambios en la respiración, sudoración, temblores o rojeces en la piel. Estos datos se integran en una aplicación que permite a los usuarios auto-evaluar sus niveles de estrés, recibir recomendaciones personalizadas y acceder a estrategias prácticas de manejo, contribuyendo así a mejorar el bienestar de los trabajadores y la productividad organizacional.
 
 #### 1.2.1.1. What
 
