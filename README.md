@@ -20,7 +20,7 @@
 | **Nombre**                         | **Código** |
 | ---------------------------------- | ---------- |
 | Manuel Fernando, Joao Castro Picón | U20231G159 |
-| Sebastián De Las Casa Latour       | U202213553 |
+| Sebastián De Las Casas Latour      | U202213553 |
 | Eduardo Fabián Chacaliaza Minaya   | U202324129 |
 | Fabricio Fabián Quispe Barzola     | U202320442 |
 | Juan Jose Meza Huanacune           | U202320574 |
