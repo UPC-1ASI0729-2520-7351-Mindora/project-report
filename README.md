@@ -839,14 +839,14 @@ Empathy Mapping y As-Is Scenario Mapping.
 En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los **User Persona** realizan para cumplir sus objetivos.  
 Se consideran los siguientes segmentos:
 
-- **Laura Méndez** → representa a los **trabajadores formales con jornadas extensas**, cuyo principal desafío es manejar la sobrecarga laboral y el agotamiento físico-mental.  
-- **Andrés Luján** → representa a los **trabajadores informales o con horarios flexibles**, cuyo principal reto es enfrentar la incertidumbre de ingresos y la falta de estructura laboral.  
+- **Pedro Luis** → representa a los **trabajadores formales con jornadas extensas**, cuyo principal desafío es manejar la sobrecarga laboral y el agotamiento físico-mental.  
+- **Diego Alonso** → representa a los **trabajadores informales o con horarios flexibles**, cuyo principal reto es enfrentar la incertidumbre de ingresos y la falta de estructura laboral.  
 
 El cuadro muestra las tareas que ambos realizan, con la valoración de **Frecuencia** (qué tan seguido realizan la tarea) e **Importancia** (qué tan crítico es para su bienestar y objetivos).
 
 ---
 
-| Tareas                                                     | Laura Méndez |             | Andrés Luján |             |
+| Tareas                                                     | Pedro Luis   |             | Diego Alonso |             |
 | :--------------------------------------------------------- | :----------- | :---------- | :----------- | :---------- |
 |                                                            | Frecuencia   | Importancia | Frecuencia   | Importancia |
 | **Registrar señales corporales de estrés**                 | Media        | Media       | Alta         | Alta        |
