@@ -1675,7 +1675,7 @@ El diseño se basa en un modelo relacional, asegurando integridad referencial me
 - Tablas normalizadas para reducir redundancia.  
 - Claves primarias en cada entidad para asegurar unicidad.  
 - Claves foráneas que evidencian las relaciones entre entidades.  
-- Consistencia en la nomenclatura: `ID_TABLA`, `ATRIBUTO_TABLA`.  
+- Consistencia en la nomenclatura: ID_TABLA, ATRIBUTO_TABLA.  
 - Escalabilidad para soportar futuras ampliaciones (nuevos módulos o bounded contexts).  
 
 ---
