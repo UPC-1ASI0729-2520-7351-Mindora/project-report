@@ -1430,12 +1430,6 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
-### 5.3.2. Registro de Entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-
-## 5.4. Video About-the-Product
 # 6. Conclusiones
 
 ## 6.1. Conclusiones
