@@ -33,7 +33,19 @@
 ---
 
 ## Registro de Versiones del Informe
-> (Se completará al cierre con la línea de tiempo real de cambios.)
+
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto.  
+
+| *Versión* | *Fecha*   | *Autor*                           | *Descripción de modificación*                                                                 |
+|-------------|-------------|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| 1.0         | 2025-09-10  | Manuel Castro                       | Creación inicial del documento: carátula, índice preliminar y Student Outcome (TB1).            |
+| 1.1         | 2025-09-12  | Sebastián De Las Casas              | Se añadió Introducción: Startup Profile y Solution Profile (antecedentes, problemática, Lean UX).|
+| 1.2         | 2025-09-14  | Eduardo Chacaliaza                  | Se incorporó Segmentos Objetivos y análisis competitivo de competidores (Calm, Wysa, Equoo).   |
+| 1.3         | 2025-09-16  | Fabricio Quispe                     | Se agregó diseño y registro de entrevistas (segmentos 1 y 2) con sus respectivos resúmenes.    |
+| 1.4         | 2025-09-17  | Juan José Meza                      | Inclusión de Needfinding: User Personas, Journey Mapping y Empathy Map.                        |
+| 1.5         | 2025-09-18  | Equipo completo                     | Desarrollo de User Stories con Epics, criterios de aceptación y armado del Product Backlog.    |
+| 1.6         | 2025-09-19  | Manuel Castro & Eduardo Chacaliaza  | Se documentó el Big Picture Event Storming con capturas y explicación del proceso.             |
+| 1.7         | 2025-09-20  | Sebastián De Las Casas & Fabricio Quispe | Se añadió Style Guidelines (tipografía, colores, íconos) y primeras secciones de Product Design.|
 
 ## Project Report Collaboration Insights
 > (Se añadirán capturas y enlaces a contribuciones: commits, PRs, issues por integrante.)
