@@ -187,6 +187,107 @@ La problemática identificada es la falta de herramientas accesibles y efectivas
 
 El proyecto MinDora surge como respuesta a esta necesidad. La propuesta consiste en desarrollar un sistema de identificación y gestión del estrés laboral mediante la observación y registro de señales corporales visibles como postura, tensión muscular facial, cambios en la respiración, sudoración, temblores o rojeces en la piel. Estos datos se integran en una aplicación que permite a los usuarios auto-evaluar sus niveles de estrés, recibir recomendaciones personalizadas y acceder a estrategias prácticas de manejo, contribuyendo así a mejorar el bienestar de los trabajadores y la productividad organizacional.
 
+#### 1.2.1.1. What
+
+*¿Cuál es el problema?*
+
+El problema es el estrés laboral que afecta negativamente la salud física y mental de los trabajadores
+adultos, reduciendo su productividad, aumentando el ausentismo y deteriorando su calidad de vida.
+
+*¿Cuál es la relación con la persona en cuestión?*
+
+La relación es directa, ya que el sistema ayudará a los usuarios a identificar sus propios niveles de
+estrés mediante señales corporales observables o técnicas de respiración, permitiéndoles tomar
+medidas preventivas y correctivas oportunas.
+
+#### 1.2.1.2. Who
+
+*¿Quiénes están involucrados?*
+
+Están involucrados principalmente los trabajadores adultos de 20 a 50 años, así como las empresas u
+organizaciones interesadas en mejorar la salud ocupacional de sus empleados.
+
+*¿A quiénes le sucede el problema?*
+
+El problema afecta a profesionales en edad productiva que experimentan presión laboral,
+especialmente en sectores con altas exigencias, responsabilidades o ambientes competitivos.
+
+*¿Quién lo utilizará?*
+
+Lo utilizarán adultos profesionales de 20 a 50 años con acceso a dispositivos móviles, interesados en
+monitorear y gestionar su estrés laboral de manera proactiva
+
+#### 1.2.1.3. Where
+
+*¿Dónde está el cliente cuando usa el producto?*
+El cliente estará principalmente en su entorno laboral: oficina, teletrabajo desde casa, o cualquier
+espacio donde desarrolle su actividad profesional.
+
+*¿A dónde se dirige?*
+
+Se dirige hacia un mejor estado de autoconocimiento y manejo del estrés, buscando mejorar su
+bienestar laboral y calidad de vida.
+
+*¿Dónde surge el problema?*
+
+El problema surge en el entorno laboral, donde factores como la carga de trabajo, las relaciones
+interpersonales, el clima organizacional o las condiciones físicas generan situaciones de estrés.
+
+#### 1.2.1.4. When
+
+*¿Cuándo sucede el problema?*
+
+El problema del estrés laboral sucede principalmente durante la jornada laboral, en momentos de alta
+presión, plazos ajustados, conflictos interpersonales, sobrecarga de trabajo o cuando existe un
+desequilibrio entre las exigencias y los recursos disponibles.
+
+*¿Cuándo utiliza el cliente el producto?*
+
+El cliente utilizará la aplicación tanto durante su jornada laboral para detectar señales tempranas de
+estrés, como en momentos específicos de auto evaluación programados durante el día o cuando sienta
+síntomas de tensión.
+
+#### 1.2.1.5. Why
+
+*¿Cuál es la causa del problema?*
+
+Las causas incluyen: altas exigencias laborales, recursos insuficientes, inseguridad laboral, conflictos
+interpersonales, desequilibrio entre vida personal y profesional, falta de control sobre las tareas, y
+ausencia de herramientas efectivas para detectar y gestionar el estrés tempranamente.
+
+#### 1.2.1.6. How
+
+*¿En qué condiciones los clientes usan nuestro producto?*
+
+Los clientes usarán la aplicación en condiciones variadas: durante momentos de calma para establecer
+una línea base, en situaciones de tensión para recibir orientación inmediata, y como herramienta de
+seguimiento diario para monitorear patrones de estrés a lo largo del tiempo.
+
+*¿Cómo nos conocieron los compradores?*
+
+Los compradores conocerán el producto a través de campañas digitales enfocadas en bienestar laboral,
+recomendaciones de profesionales de salud ocupacional, programas corporativos de bienestar, y
+marketing dirigido en plataformas usadas por profesionales.
+
+*¿Cómo prefieren los lectores acceder a nuestro contenido?*
+
+Prefieren acceder al contenido mediante una aplicación móvil intuitiva, con notificaciones
+personalizadas, dashboard visual simple y recomendaciones prácticas que puedan implementar
+inmediatamente.
+
+*¿Qué llevó a la persona a llegar a esta situación?*
+
+Las personas llegan a situaciones de estrés por la combinación de factores externos (presiones
+laborales, clima organizacional) e internos (hábitos personales, estrategias de afrontamiento), sumado
+a la falta de herramientas efectivas para identificar y manejar el estrés de manera preventiva.
+
+#### 1.2.1.7. How much
+
+El impacto se puede cuantificar considerando que según un estudio en seis países de Latinoamérica,
+hasta el 63% de los trabajadores sufre estrés laboral, especialmente mujeres. Este problema impacta a
+las organizaciones por baja productividad, ausentismo y rotación, y a nivel personal, aumenta el riesgo
+de enfermedades físicas y mentales, generando altos costos en salud y calidad de vida (Mejía, 2019).
+
 #### 1.2.1.1. What  
 
 **¿Cuál es el problema?**  
