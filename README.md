@@ -1684,7 +1684,7 @@ El diseño se basa en un modelo relacional, asegurando integridad referencial me
 
 El siguiente diagrama muestra las entidades principales de la base de datos y sus relaciones:  
 
-📌 **Entidades clave**  
+**Entidades clave**  
 - **USUARIO**: tabla central, conecta con perfil, tests, actividades, suscripción e informes.  
 - **TEST_ESTRES, RESPUESTA, RESULTADO**: gestión de autoevaluaciones y niveles de estrés.  
 - **ACTIVIDAD y PLAN_ACTIVIDAD**: actividades recomendadas según resultados.  
@@ -1694,7 +1694,7 @@ El siguiente diagrama muestra las entidades principales de la base de datos y su
 
 ---
 
-### 📷 Diagrama ER  
+### Diagrama ER  
 
 <p align="center">
   <img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="700px" />
