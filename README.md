@@ -367,7 +367,6 @@ El análisis de competidores permite identificar las fortalezas, limitaciones y 
 **Conclusión:**  
 El análisis evidencia que, aunque existen aplicaciones exitosas en la gestión del estrés, cada una presenta limitaciones que abren oportunidades para MinDora. Calm destaca por su producción multimedia, pero carece de personalización biométrica; Wysa ofrece acompañamiento conversacional, pero con limitaciones técnicas y sin cobertura de crisis; Equoo innova con gamificación, aunque con un alcance restringido. MinDora busca diferenciarse al integrar detección biométrica, autoevaluaciones emocionales y acceso a especialistas, ofreciendo un enfoque más completo y adaptable a distintos contextos laborales, especialmente en Latinoamérica.
 
-
 ### 2.1.1. Análisis competitivo
 
 | Criterio                                          | Calm                                                                                                                                                                                                      | Wysa                                                                                                                                                                          | Equoo                                                                                                                             |
