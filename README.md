@@ -492,40 +492,45 @@ niveles variables de estrés debido a la naturaleza omnipresente de su trabajo.
 
 **Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
 
-Entrevista N°1
+## 📌 2.2.2. Registro de entrevistas  
 
-● Nombre: Xin Yu Shi Lin
+### Segmento 1: Personas activas en el ámbito laboral con jornadas extensas  
 
-● Sexo: Masculino
+**Entrevista N°1**  
 
-● Edad: 25
+- **Nombre:** Pedro Luis Medina Vera  
+- **Sexo:** Masculino  
+- **Edad:** 28  
+- **Estado Civil:** Soltero  
+- **Labor:** Ingeniero de Sistemas  
 
-● Estado Civil: Soltero
+**Detalles de la entrevista:**  
+Pedro Luis Medina Vera es un joven de 28 años que reside en Miraflores, Lima, desde hace tres años. Trabaja como ingeniero de sistemas en una empresa financiera, con jornadas que empiezan a las 9 a.m. y suelen extenderse hasta las 7 o 8 p.m. La mayor parte de su tiempo lo pasa frente a la computadora, revisando código, participando en reuniones virtuales y resolviendo incidencias técnicas. El tráfico urbano también suma a su desgaste, pues le quita más de una hora diaria en desplazamientos.  
 
-● Labor: Mesero
+Pedro identifica un impacto considerable del estrés laboral en su salud física y mental. Señala que padece insomnio, dolores de espalda, fatiga extrema e irritabilidad, lo que afecta su capacidad de concentración y su estado de ánimo. Como mecanismos para manejar la presión, acude al gimnasio en las noches o juega videojuegos con amigos, aunque reconoce que no siempre logra mantener estas rutinas por la carga de trabajo.  
 
-Detalles de la entrevista:
-Xin Yu Shi Lin es un joven de 25 años que vive en Lima, Perú, junto a su familia. Está soltero y ha sido diagnosticado con epilepsia desde hace varios años. A lo largo de su experiencia, ha recibido tratamiento médico y consultas con neurólogos, aunque no de forma continua ni digitalizada. Normalmente depende de apuntes en papeles o de su memoria para registrar información sobre sus crisis, lo que considera un método poco confiable. Además, conoce y valora la existencia de grupos de apoyo, como la Asociación Peruana de Epilepsia, donde los pacientes comparten experiencias y reciben información útil.
-Su rutina laboral está marcada por su empleo como mesero en un restaurante chifa, un trabajo físicamente exigente que requiere muchas horas de pie y trato directo con clientes. Una de sus mayores preocupaciones es sufrir una crisis en el trabajo y no poder avisar a nadie, lo cual también repercute en su familia, que vive con la angustia constante de que pueda ocurrirle algo en cualquier momento.
-En cuanto al control de su enfermedad, Xin Yu Shi enfrenta dificultades para recordar datos importantes de cada crisis, como la hora de inicio, la duración o los síntomas específicos. Aunque intenta anotarlos, con frecuencia pierde la información, lo que impide tener un historial confiable que pueda compartir con sus médicos. Por eso considera que contar con un sistema que envíe alertas tempranas sería de gran ayuda, ya que le otorgaría mayor seguridad personal y permitiría que su familia o compañeros pudieran reaccionar de inmediato.
-Respecto a sus competencias digitales, describe su nivel como básico en el uso de smartphones y medio en el manejo de laptops, aunque se desenvuelve con facilidad en aplicaciones de mensajería como WhatsApp y SMS. Generalmente se autentica en plataformas mediante su correo Gmail, mensajes SMS y WhatsApp. Su dispositivo principal es un celular Android, y también utiliza una laptop con Windows para actividades simples como navegar en internet o revisar correos electrónicos.
-Cuando piensa en una aplicación que pueda apoyarlo en el manejo de su enfermedad, le gustaría que incluyera un registro digital sencillo y confiable de sus crisis, con información sobre fechas, duración y síntomas. También considera importante disponer de gráficos que reflejen su evolución y recordatorios de medicación que le ayuden a mantener la constancia en el tratamiento.
-Está abierto al uso de dispositivos IoT como relojes inteligentes o sensores que puedan registrar información sobre su salud y compartirla con su médico. Ha escuchado sobre dispositivos como el Fitbit Ionic y cree que podrían ser útiles para mejorar el seguimiento de su condición. Sin embargo, expresa dos preocupaciones centrales: la posibilidad de que los dispositivos fallen en un momento crítico y la necesidad de que sus datos personales estén protegidos. Para él, la confianza y la seguridad son requisitos indispensables en cualquier tecnología que decida utilizar.
+En cuanto a competencias digitales, Pedro tiene un nivel avanzado. Maneja a diario herramientas como Outlook, Teams y Slack, y utiliza Spotify y YouTube como medios de distracción. Sin embargo, admite que la sobreconexión digital lo mantiene siempre pendiente del trabajo y le dificulta desconectarse en sus tiempos libres.  
 
-● Duración: 4 minutos con 23 segundos
+Respecto a soluciones digitales de salud mental, Pedro se muestra muy receptivo a una plataforma como **NeuroDora**. Considera que un sistema que ofrezca test rápidos, actividades prácticas de relajación y conexión directa con psicólogos sería muy útil para gestionar su estrés. Para él, factores como el costo accesible, la facilidad de uso y la seguridad de la información personal son determinantes para decidirse a suscribirse.  
 
-[● Link: https://drive.google.com/file/d/1ZJEtWCAmNASaxGq7_rgHlA0-Sl0VK9p4/view?usp=sharing](https://drive.google.com/file/d/1ZJEtWCAmNASaxGq7_rgHlA0-Sl0VK9p4/view?usp=sharing)
+Finalmente, opina que las empresas deben involucrarse más en la salud mental de sus empleados mediante subsidios a plataformas digitales, programas de bienestar y políticas de horarios más flexibles que permitan conciliar la vida laboral y personal.  
 
-Resumen de los puntos clave en la entrevista:
-- El entrevistado se llama Xin Yu Shi Lin, tiene 25 años, vive en Lima con su familia y está diagnosticado con epilepsia desde hace varios años.
-- Ha recibido tratamiento médico y consultas con neurólogos, aunque de manera intermitente y sin un registro digital confiable; suele depender de apuntes en papeles y conoce grupos de apoyo como la Asociación Peruana de Epilepsia.
-- Trabaja como mesero en un chifa, lo que le genera preocupación por sufrir una crisis en el trabajo sin poder avisar a nadie, mientras su familia vive con la constante inquietud de que algo le ocurra.
-- Sus principales dificultades para llevar un control de la enfermedad son recordar la hora, duración y síntomas de las crisis, ya que pierde la información fácilmente y carece de un historial confiable.
-- Considera que un sistema de alertas tempranas sobre crisis sería muy útil, ya que le daría mayor seguridad y permitiría a su familia o compañeros actuar de inmediato.
-- Su habilidad tecnológica es básica en smartphones y media en laptops, aunque maneja con soltura aplicaciones de mensajería como WhatsApp y SMS; suele autenticarse con correo Gmail, SMS y WhatsApp.
-- Le gustaría contar con una aplicación que registre de manera simple y confiable sus crisis, incluya un historial digital con fechas, duración y síntomas, gráficos para seguir su evolución y recordatorios de medicación.
-- Está dispuesto a usar dispositivos IoT como relojes inteligentes o sensores que registren datos y los compartan con su médico, y considera que eso le daría mayor tranquilidad.
-- Sus principales preocupaciones respecto a esta tecnología son la posibilidad de fallas en momentos críticos y la falta de protección de sus datos personales, por lo que necesita que sea confiable y segura.
+- **Duración:** 5 minutos con 10 segundos  
+
+---
+
+### 📌 Resumen de los puntos clave en la entrevista  
+
+- El entrevistado se llama **Pedro Luis Medina Vera**, tiene 28 años, vive en Lima y es ingeniero de sistemas en una empresa financiera.  
+- Suele trabajar más horas de las establecidas y pasar gran parte de la jornada frente a la computadora, lo que le genera dolores físicos y agotamiento mental.  
+- Sus principales dificultades son el **insomnio, la fatiga y la irritabilidad**, además de la falta de tiempo para actividades personales.  
+- Reconoce que el tráfico y las largas jornadas aumentan su nivel de estrés, reduciendo su calidad de vida.  
+- Considera que un **test interactivo** para medir su nivel de estrés sería muy útil, pues le permitiría identificar señales tempranas y prevenir un mayor desgaste.  
+- Tiene un **nivel avanzado en competencias digitales**, maneja herramientas de comunicación laboral (Outlook, Teams, Slack) y utiliza apps de entretenimiento como Spotify y YouTube.  
+- Le gustaría contar con una aplicación que combine test, actividades prácticas y acceso a psicólogos en línea, con reportes claros que le ayuden a monitorear su bienestar.  
+- Sus principales requisitos para usar una herramienta digital de salud mental son: **confidencialidad de datos, costo accesible y facilidad de uso**.  
+- Considera que las empresas deberían apoyar a los trabajadores con subsidios para acceder a estas herramientas y ofrecer **flexibilidad horaria** para reducir la sobrecarga.  
+
 
 Entrevista N°2
 
