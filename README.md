@@ -748,74 +748,93 @@ Respecto a una aplicación como **NeuroDora**, considera que sería muy benefici
 
 ## 2.2.3. Análisis de entrevistas
 
-**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+---
 
-Hallazgos:
+## Segmento 1: Trabajadores formales con jornadas extensas  
 
-● Los profesionales experimentan jornadas laborales extendidas de 10-12 horas diarias,
-sin límites claros entre vida laboral y personal.
+Las entrevistas realizadas a **Pedro Luis Medina Vera (28 años, ingeniero de sistemas)**, **Carlos Marín (27 años, analista contable)** y **Carlos Augusto Paredes Chávez (29 años, coordinador de marketing digital)** evidencian los retos que enfrentan los trabajadores formales con jornadas extensas en entornos corporativos.  
 
-● Enfrentan presión constante por resultados inmediatos ante cambios que requieren
-tiempo.
+Todos los entrevistados coinciden en que sus jornadas superan las 8 horas diarias y que la sobrecarga laboral repercute directamente en su salud física y mental. Se reportan síntomas frecuentes como dolores de cabeza, contracturas, insomnio, ansiedad, irritabilidad y cansancio extremo. Estos efectos afectan su productividad, su motivación y su calidad de vida.  
 
-● Presentan síntomas físicos y emocionales similares: fatiga mental, insomnio, tensión
-muscular, irritabilidad y dolores de cabeza.
+Los entrevistados también coinciden en que, a pesar de tener acceso a recursos digitales avanzados, la **dificultad para desconectarse** del trabajo es una constante, lo que agrava la sensación de agotamiento. Para afrontar el estrés, recurren a estrategias personales como hacer ejercicio, escuchar música, practicar meditación, ver series o jugar videojuegos, aunque reconocen que no siempre son suficientes.  
 
-● Las empresas ofrecen poco o nulo apoyo real para el manejo del estrés laboral.
+Respecto a las soluciones digitales, los tres manifestaron una clara disposición a usar una aplicación como **NeuroDora**, siempre que cumpla con tres condiciones clave: **precio accesible, facilidad de uso y seguridad/confidencialidad de datos personales**. Consideran especialmente útiles los **test interactivos de estrés**, actividades guiadas rápidas (como ejercicios de respiración) y la posibilidad de acceder a **psicólogos en línea**.  
 
-● Aunque intentan implementar técnicas de manejo del estrés, la carga laboral impide
-ser constantes.
+### 🔹 Sustento estadístico (basado en 3 entrevistas)  
 
-● Valoran soluciones digitales accesibles, rápidas y adaptables a sus horarios saturados.
+- **100%** indicó que el estrés laboral impacta negativamente en su salud física y mental.  
+- **100%** trabaja más horas de las establecidas, excediendo la jornada oficial.  
+- **66%** (Pedro y Carlos Augusto) reporta **insomnio y fatiga extrema** como síntomas principales.  
+- **66%** (Carlos Marín y Carlos Augusto) utiliza el **ejercicio físico** como principal método para manejar el estrés.  
+- **100%** usa intensivamente **herramientas digitales laborales** (Outlook, Excel, Teams, Slack, Analytics) y, a nivel personal, aplicaciones de entretenimiento como Spotify, Netflix, YouTube y WhatsApp.  
+- **100%** está dispuesto a usar una app como **NeuroDora**, con énfasis en test, psicólogos en línea y accesibilidad.  
 
-Conclusión:
+### 🔹 Desafíos comunes identificados  
 
-Los profesionales con jornadas extendidas constituyen un segmento vulnerable al estrés
-crónico debido a la combinación de largas horas de trabajo, disponibilidad permanente y
-presión por resultados inmediatos. Sus intentos individuales de manejar el estrés mediante
-técnicas convencionales resultan insuficientes ante la falta de límites laborales claros y apoyo
-institucional. Este grupo necesita soluciones tecnológicas personalizadas que se integren
-fácilmente a su rutina, ofrezcan intervenciones breves pero efectivas, y proporcionen tanto
-seguimiento automatizado como acceso a apoyo profesional cuando sea necesario. La
-aplicación debe enfocarse en crear micro hábitos de bienestar que puedan sostenerse incluso
-en entornos laborales exigentes, permitiéndoles recuperar el equilibrio sin comprometer su
-desempeño profesional.
+- **Sobrecarga laboral y plazos ajustados**, que generan agotamiento físico y mental.  
+- **Falta de tiempo personal y familiar**, debido a jornadas extendidas.  
+- **Dificultad para desconectarse digitalmente**, ya que las herramientas laborales los mantienen pendientes todo el tiempo.  
+- **Falta de reconocimiento empresarial**, lo que genera frustración y desmotivación.  
 
-**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+### 🔹 Propuestas y mejoras señaladas por los entrevistados  
 
-Hallazgos:
+- **Implementar horarios más flexibles** para evitar la sobrecarga laboral.  
+- **Fomentar pausas activas y capacitaciones en salud mental** dentro de la jornada.  
+- **Establecer convenios empresariales con plataformas como NeuroDora** para ofrecer apoyo psicológico accesible.  
 
-● Ausencia de límites trabajo-vida personal: Ambos experimentan una fusión entre su
-vida laboral y personal, con el teléfono móvil como vínculo constante al trabajo.
+### 🔹 Arquetipo – “El profesional exhausto pero resiliente”  
 
-● Horarios irregulares: Ninguno tiene un horario fijo, organizándose según demanda y
-necesidades económicas.
+- **Demografía:** Hombre joven (27–29 años), soltero, residente en Lima, con estudios universitarios, empleo estable en empresas corporativas.  
+- **Personalidad y habilidades:** Responsable, organizado, con alta concentración; busca estabilidad y reconocimiento profesional.  
+- **Objetivos:** Cumplir metas laborales, crecer profesionalmente y mantener estabilidad económica.  
+- **Frustraciones:** Exceso de trabajo, presión de clientes o jefes, falta de valoración del esfuerzo, poco tiempo personal.  
+- **Canales digitales:** Outlook, Teams, Slack, Excel (laborales); WhatsApp, Spotify, Netflix, YouTube (personales).  
+- **Necesidades:** Pausas activas, horarios flexibles, apoyo en salud mental mediante plataformas digitales confiables como **NeuroDora**.  
 
-● Principales factores de estrés: Comparten preocupaciones por la inestabilidad
-económica, las expectativas de disponibilidad constante y la dificultad para
-desconectar.
+---
 
-● Impacto en la salud: Ambos reportan efectos negativos como dolores físicos,
-cansancio e irritabilidad.
+## Segmento 2: Trabajadores informales o con horarios flexibles  
 
-● Estrategias de afrontamiento inconsistentes: Aunque intentan aplicar métodos para
-manejar el estrés (música, ejercicio, yoga), no logran mantenerlos de forma regular.
+Las entrevistas realizadas a **Jesús Antonio Manrique Meza (32 años, repartidor por apps)**, **Adrián Ramírez (24 años, vendedor ambulante de accesorios)** y **Diego Cacho (20 años, trabajador independiente joven)** reflejan las experiencias de los trabajadores informales o con horarios flexibles en entornos urbanos.  
 
-● Necesidad de herramientas adaptables: Los dos expresan interés en explorar
-soluciones que se ajusten a sus horarios variables.
+Este segmento se caracteriza por la **inestabilidad económica**, la **incertidumbre en los ingresos** y la necesidad de adaptarse a jornadas extensas que varían día a día. A diferencia de los trabajadores formales, no cuentan con horarios fijos ni beneficios laborales, lo que genera ansiedad, fatiga e irritabilidad.  
 
-Conclusión:
+Los entrevistados coinciden en que el estrés proviene principalmente de la **incertidumbre económica** y la presión por mantenerse siempre disponibles. Además, reportan dificultades para separar la vida personal de la laboral, ya que sus actividades laborales se mezclan con sus rutinas cotidianas.  
 
-Los testimonios de --- y Laura revelan una realidad laboral cada vez más común:
-trabajadores con horarios flexibles que enfrentan una constante disponibilidad laboral
-mediada por dispositivos móviles, generando una difuminación de límites entre trabajo y vida
-personal que impacta negativamente su bienestar. Esta situación crea un ciclo donde la
-inestabilidad económica los impulsa a aceptar más trabajo, intensificando el estrés y
-deteriorando su salud física y mental. Sus casos evidencian la necesidad urgente de
-desarrollar herramientas y estrategias específicamente diseñadas para trabajadores con
-horarios irregulares, que sean accesibles desde dispositivos móviles, requieran poco tiempo
-de implementación y ayuden efectivamente a establecer límites saludables sin comprometer
-su sustento económico.
+En lo digital, el **celular es la herramienta principal** para todos los entrevistados. Lo utilizan tanto para trabajar (apps de delivery, WhatsApp, redes sociales) como para distraerse. NeuroDora es percibida como una herramienta atractiva, siempre que sea **económica, ligera y práctica**, adaptada a su contexto.  
+
+### 🔹 Sustento estadístico (basado en 3 entrevistas)  
+
+- **100%** indicó que la **inestabilidad de ingresos** es su mayor fuente de estrés.  
+- **100%** reconoció que el estrés afecta su salud física y mental.  
+- **66%** (Jesús y Adrián) trabaja más de **10 horas al día**, extendiendo su jornada hasta la noche.  
+- **66%** (Adrián y Diego) señaló la **competencia laboral** como un factor de presión adicional.  
+- **100%** utiliza el **celular como herramienta central de trabajo y comunicación** (WhatsApp, apps de delivery, Facebook, redes sociales).  
+- **100%** mostró disposición a usar **NeuroDora**, con énfasis en accesibilidad, practicidad y seguridad.  
+- **33%** (Jesús) priorizó la necesidad de contar con **psicólogos en línea**; los otros dos valoraron más los **test rápidos y ejercicios prácticos**.  
+
+### 🔹 Patrones comunes identificados  
+
+- **Fuentes de estrés:** ingresos inestables, largas jornadas, competencia, incertidumbre económica.  
+- **Estrategias de afrontamiento:** escuchar música, hacer deporte ocasional, socializar con amigos, entretenimiento digital.  
+- **Frustraciones:** falta de seguridad laboral, ausencia de horarios definidos, dificultad para desconectarse del celular.  
+- **Necesidades:** apoyo rápido y accesible en el celular, actividades prácticas de relajación, acompañamiento psicológico remoto.  
+
+### 🔹 Propuestas y mejoras sugeridas por los entrevistados  
+
+- Un modelo de **suscripción económica y flexible**, adaptado a ingresos variables.  
+- Una **app móvil ligera**, optimizada para celulares con pocos recursos.  
+- **Soporte inmediato**, con psicólogos disponibles en línea o consejería rápida.  
+- **Actividades breves y efectivas**, como recordatorios, ejercicios de respiración y meditaciones cortas.  
+
+### 🔹 Arquetipo – “El trabajador independiente bajo presión económica”  
+
+- **Demografía:** Hombre joven-adulto (20–32 años), soltero, residente en Lima, ocupaciones independientes (delivery, comercio ambulante, oficios flexibles).  
+- **Personalidad y habilidades:** Adaptable, persistente, con alta dependencia de la tecnología móvil.  
+- **Objetivos:** Generar ingresos diarios suficientes, sostener estabilidad mínima, mantener motivación personal.  
+- **Frustraciones:** ingresos inestables, competencia constante, falta de respaldo institucional, mezcla entre vida laboral y personal.  
+- **Canales digitales:** Celular como herramienta central; WhatsApp, apps de delivery, Facebook, redes sociales.  
+- **Necesidades:** solución móvil accesible y confiable que permita detectar estrés, ofrecer recursos inmediatos y conectar con apoyo humano en situaciones de crisis.  
 
 ## 2.3. Needfinding
 
