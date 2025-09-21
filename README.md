@@ -1155,7 +1155,7 @@ Este apartado se divide en:
 
 ---
 
-### 4.1.1 General Style Guidelines  
+### 4.1.1 General Style Guidelines
 
 En esta sección se definen las bases visuales y de comunicación de *MinDora*. Se establecen los principios de **branding, tipografía, colores, spacing y tono de comunicación**, los cuales guiarán todo el diseño de la plataforma.  
 
@@ -1202,7 +1202,7 @@ Las dimensiones adoptadas en *MinDora* son:
 
 ---
 
-### 4.1.2 Web Style Guidelines  
+### 4.1.2 Web Style Guidelines
 
 Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares visuales e interactivos** en interfaces responsivas (desktop, tablet y móvil), asegurando coherencia y accesibilidad.  
 
@@ -1246,13 +1246,13 @@ Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares
 </p>  
 
 
-## 4.2. Information Architecture  
+## 4.2 Information Architecture
 
 En esta sección se detallan las decisiones de arquitectura de la información que guían la organización y presentación del contenido en la plataforma MinDora, considerando tanto la Landing Page como las páginas internas (Registro, Ingreso, Test interactivo y Directorio de psicólogos). El objetivo es garantizar que los usuarios encuentren de manera rápida y sencilla las funciones principales de la aplicación, facilitando la navegación y promoviendo una experiencia digital clara y accesible.  
 
 ---
 
-### 4.2.1. Organization Systems  
+### 4.2.1 Organization Systems
 
 La información en MinDora se organiza en un modelo jerárquico y secuencial:  
 - En la Landing Page se presenta de forma jerárquica la propuesta de valor, con secciones que destacan el propósito de la plataforma, beneficios y llamados a la acción (CTA) hacia el registro o inicio de sesión.  
@@ -1264,7 +1264,7 @@ Este enfoque combina jerarquía, secuencia y categorización, con el propósito 
 
 ---
 
-### 4.2.2. Labeling Systems  
+### 4.2.2 Labeling Systems
 
 Los sistemas de etiquetado en MinDora se enfocan en la simplicidad y la claridad para evitar ambigüedades. Los botones y menús utilizan términos directos y familiares para los usuarios:  
 - "Ingresar" y "Registrarse" en los formularios de autenticación.  
@@ -1280,7 +1280,7 @@ Las etiquetas de los campos en formularios (nombre, correo, contraseña) se mant
 
 ---
 
-### 4.2.3. SEO Tags and Meta Tags  
+### 4.2.3 SEO Tags and Meta Tags
 
 Para mejorar la visibilidad de la plataforma en buscadores y garantizar un correcto posicionamiento, se incluyen etiquetas SEO y metaetiquetas en la estructura del sitio:  
 
@@ -1295,7 +1295,7 @@ De esta manera, se asegura que tanto la Landing Page como las páginas internas 
 
 ---
 
-### 4.2.4. Searching Systems  
+### 4.2.4 Searching Systems
 
 El sistema de búsqueda de MinDora está diseñado para ser comprensible y práctico para los usuarios, ofreciendo una herramienta intuitiva que facilite el acceso a información relacionada con la gestión del estrés laboral. A continuación, se describen las principales funcionalidades contempladas:  
 
@@ -1309,7 +1309,7 @@ El sistema de búsqueda de MinDora está diseñado para ser comprensible y prác
 
 ---
 
-### 4.2.5. Navigation Systems  
+### 4.2.5 Navigation Systems
 
 La navegación en MinDora se basa en un sistema intuitivo y accesible, con elementos comunes en cada página para garantizar coherencia visual y facilidad de uso.  
 
@@ -1321,7 +1321,7 @@ La navegación en MinDora se basa en un sistema intuitivo y accesible, con eleme
 
 La arquitectura de navegación fue diseñada para garantizar que los usuarios logren sus objetivos (detección y gestión temprana del estrés) con el menor esfuerzo posible, mejorando así la experiencia global en la plataforma.  
 
-## 4.3. Landing Page UI Design
+## 4.3 Landing Page UI Design
 
 En esta sección se presenta la propuesta de interfaz de usuario (UI) para la *Landing Page* de MinDora. El diseño se elaboró siguiendo las decisiones tomadas en la Arquitectura de Información, priorizando la usabilidad, la claridad en la jerarquía visual y la experiencia del usuario.  
 
@@ -1329,7 +1329,7 @@ La UI traduce dichas decisiones en un diseño coherente que combina organizació
 
 ---
 
-### 4.3.1. Landing Page Wireframe
+### 4.3.1 Landing Page Wireframe
 
 Los *wireframes* representan la estructura base de la interfaz antes de aplicar colores, imágenes o tipografía. Estos prototipos se usaron para validar la distribución de los elementos clave:  
 
@@ -1345,7 +1345,7 @@ Los *wireframes* representan la estructura base de la interfaz antes de aplicar 
 
 ---
 
-### 4.3.2. Landing Page Mock-up
+### 4.3.2 Landing Page Mock-up
 
 Los *mockups* trasladan la estructura planteada en los *wireframes* a un diseño visual final, incorporando paleta de colores, tipografía, imágenes y estilo gráfico característico de MinDora.  
 
@@ -1363,13 +1363,13 @@ En estos diseños se buscó transmitir profesionalismo, confianza y bienestar, c
 
 La propuesta de UI refleja la aplicación de los principios de diseño centrado en el usuario, combinando claridad, accesibilidad y estética visual. La integración entre wireframes y mockups asegura que la plataforma cumpla con los objetivos de facilidad de uso, atractividad y funcionalidad.
 
-## 4.4. Web Applications UX/UI Design
+## 4.4 Web Applications UX/UI Design
 
 Esta sección incluye la propuesta visual y de interacción para las aplicaciones que conforman la experiencia de usuario en MinDora. Se presentan los **wireframes**, **wireflows**, **mock-ups** y **user flow diagrams**, mostrando cómo las decisiones de diseño, principios de usabilidad y arquitectura de información se integran en la solución.
 
 ---
 
-### 4.4.1. Web Applications Wireframes
+### 4.4.1 Web Applications Wireframes
 
 Los wireframes representan la estructura básica de las pantallas clave de la aplicación web, evidenciando la aplicación de principios de simplicidad, consistencia visual y accesibilidad.
 
@@ -1387,7 +1387,7 @@ Los wireframes representan la estructura básica de las pantallas clave de la ap
 
 ---
 
-### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.2 Web Applications Wireflow Diagrams
 
 Los wireflows ilustran cómo se enlazan los wireframes a través de interacciones típicas de los usuarios (User Goals). En este caso, el flujo refleja el proceso de **registro → inicio de sesión → acceso al landing page → exploración de profesionales**.
 
@@ -1397,7 +1397,7 @@ Los wireflows ilustran cómo se enlazan los wireframes a través de interaccione
 
 ---
 
-### 4.4.3. Web Applications Mock-ups
+### 4.4.3 Web Applications Mock-ups
 
 Los mock-ups muestran la versión visual detallada de las pantallas, aplicando la identidad visual de MinDora (colores, tipografías y estilos inclusivos). Aquí se evidencian las decisiones finales de diseño.
 
@@ -1415,8 +1415,7 @@ Los mock-ups muestran la versión visual detallada de las pantallas, aplicando l
 
 ---
 
-
-### 4.4.4. Web Applications User Flow Diagrams
+### 4.4.4 Web Applications User Flow Diagrams
 
 Los User Flow Diagrams representan los caminos que siguen los usuarios dentro de la aplicación para cumplir sus objetivos. Estos flujos integran los mock-ups y los wireflows, mostrando tanto la ruta esperada (happy path) como las rutas alternativas en caso de error (unhappy path).  
 
@@ -1472,8 +1471,7 @@ A continuación presentamos los principales User Goals identificados y sus respe
 
 ---
 
-
-## 4.5. Web Applications Prototyping  
+## 4.5 Web Applications Prototyping
 
 ### Introducción  
 En esta sección se presentan los prototipos interactivos de la aplicación MinDora, diseñados tanto para desktop como para mobile web browser. Estos prototipos simulan la navegación y los principales flujos de interacción, basados en los User Flow Diagrams previamente definidos.  
@@ -1523,7 +1521,7 @@ Los prototipos presentados corresponden directamente a los **User Flows** defini
 - Contacto con psicólogos.  
 
 
-## 4.6. Domain-Driven Software Architecture
+## 4.6 Domain-Driven Software Architecture
 
 ### Introducción
 A partir del Big Picture Event Storming se profundizó el dominio de MinDora con Domain-Driven Design (DDD) para identificar Bounded Contexts, Aggregates, Commands, Events y Queries.  
@@ -1531,7 +1529,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.1. Design-Level EventStorming
+### 4.6.1 Design-Level EventStorming
 
 **Objetivo de la sesión.** Estructurar el dominio en contextos claros, detallar el flujo principal (test de estrés → recomendaciones → contacto profesional) y los cruces entre contextos (suscripciones, notificaciones).
 
@@ -1564,7 +1562,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.2. Software Architecture Context Level Diagram
+### 4.6.2 Software Architecture Context Diagram
 
 **Descripción.** El sistema MinDora al centro y su relación con actores humanos y sistemas externos (pagos, correo, contenidos de ejercicios).  
 
@@ -1578,7 +1576,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.3. Software Architecture Container Level Diagram
+### 4.6.3 Software Architecture Container Diagrams
 
 **Descripción.** Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores.
 
@@ -1601,9 +1599,9 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-### 4.6.4. Software Architecture Component Level Diagrams
+### 4.6.4 Software Architecture Components Diagrams
 
-#### 4.6.4.1. Backend API (Node.js/Express)
+#### 4.6.4.1 Backend API (Node.js/Express)
 
 **Diagrama**  
 <img src="assets/md-images/c4-3.png" alt="C4 Level 3 - Backend Components" width="1000"/>
@@ -1626,7 +1624,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 
 ---
 
-#### 4.6.4.2. Frontend Web (SPA/MPA)
+#### 4.6.4.2 Frontend Web (SPA/MPA)
 
 **Diagrama**  
 <img src="assets/md-images/frontendc4-3.png" alt="C4 Level 3 - Frontend Components" width="1000"/>
@@ -1646,7 +1644,7 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 - Estado y persistencia ligera (Storage para token).
 - Rutas: `/`, `/login`, `/registro`, `/test`, `/actividades`, `/psicologos`, `/perfil`.
 
-## 4.7. Software Object-Oriented Design
+## 4.7 Software Object-Oriented Design
 
 En esta sección se presentan y explican los diagramas de clases que muestran un mayor nivel de detalle sobre la implementación de componentes para cada *bounded context*.  
 
@@ -1654,7 +1652,7 @@ La propuesta refleja las clases, interfaces, enumeraciones y sus relaciones, inc
 
 ---
 
-### 4.7.1. Class Diagrams
+### 4.7.1 Class Diagrams
 
 #### Identity & Access (IAM)
 
@@ -1717,7 +1715,7 @@ Incluye la clase `Perfil`, que se relaciona con `Preferencias`, junto a las enum
 
 <img src="assets/md-images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/>
 
-## 4.8. Database Design  
+## 4.8 Database Design
 
 En esta sección el equipo presenta y explica los **Database Diagrams** diseñados para la plataforma **MinDora**, los cuales permiten la persistencia de información para cada *bounded context*.  
 
@@ -1732,7 +1730,7 @@ El diseño se basa en un modelo relacional, asegurando integridad referencial me
 
 ---
 
-### 4.8.1. Database Diagram  
+### 4.8.1 Database Diagrams
 
 El siguiente diagrama muestra las entidades principales de la base de datos y sus relaciones:  
   
@@ -1753,7 +1751,9 @@ El siguiente diagrama muestra las entidades principales de la base de datos y su
 
 ---
 
-# 5. Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1 Software Configuration Management
 
 En esta sección se mencionan las decisiones y convenciones las cuales permitirán mantener una consistencia durante el desarrollo del proyecto. 
 
