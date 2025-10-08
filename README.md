@@ -2209,11 +2209,13 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ### 5.2.2. Sprint 2.
 
+#### 5.2.2.1. Sprint Planning 2.
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
 #### 5.2.2.1. Sprint Backlog 2.
 
-#### 5.2.2.2. Development Evidence for Sprint Review.
-
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
