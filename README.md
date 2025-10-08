@@ -162,7 +162,17 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
          5.2.1.5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
          5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
          5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
-         5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
+         5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) 
+		      5.2.2. [Sprint 2](#522-sprint-2)  
+      5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2)  
+         5.2.2.2. [Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)  
+         5.2.2.3. [Sprint Backlog 2](#5223-sprint-backlog-2)  
+         5.2.2.4. [Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
+         5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+         5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+         5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+         5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
    5.3. [Validation Interviews](#53-validation-interviews)  
       5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)  
       5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)  
@@ -2194,6 +2204,25 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
 ![team-collab-ins-sprint1](assets/md-images/Insight.png)
+
+---
+
+### 5.2.2. Sprint 2.
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 
 
 # 6. Conclusiones
