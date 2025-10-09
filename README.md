@@ -2011,154 +2011,57 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 La implementación de la página de inicio, los servicios y las aplicaciones es un paso fundamental en nuestro proceso de desarrollo. Nos permite materializar el diseño y la funcionalidad planificados, transformando los conceptos en productos tangibles y listos para su uso. Esta fase nos permite traducir las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
-### 5.2.1. Sprint 1
-El primer sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
-#### 5.2.1.1. Sprint Planning 1.
-El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
-<table  style="text-align: center;">
-    <tbody>
-        <tr>
-			<td colspan="1">Sprint #</td>
-            <td colspan="1"> Sprint 1  </td>
-		</tr>
-        <tr>
-			<td colspan="2">Sprint Planning Background </td>
-		</tr>
-        <tr>
-			<td colspan="1">Date</td>
-            <td colspan="1"> 2025-09-10 </td>
-		</tr>
-        <tr>
-			<td colspan="1">Time</td>
-            <td colspan="1"> 11:00 PM </td>
-		</tr>
-        <tr>
-			<td colspan="1">Location</td>
-            <td colspan="1">Microsoft Teams (Reunion virtual)</td>
-		</tr>
-        <tr>
-			<td colspan="1">Prepared By</td>
-            <td colspan="1"> Juan José Meza Huanacune </td>
-		</tr>
-        <tr>
-			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1"> Eduardo Fabian Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour </td>
-		</tr>
-         <tr>
-			<td colspan="2">Sprint Goal & User Stories </td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 Goal</td>
-            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Finalización de reporte y despliegue sin problemas de la Landing Page que se encuentran en nuestro repositorio. La métrica de cumplimiento se basará en el proceso de cómo nuestro "Board de Trello" luzca con el paso del tiempo, nuestro resultado final debe de mostrar todas las tareas en el lado derecho de la herramienta, ubicándolos en la columna "Terminado"</td>
-		</tr>
-        <tr>
-			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 5 User Stories que tienen 5 Story points cada uno.</td>
-		</tr>
-        <tr>
-			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">25</td>
-		</tr>
-</tbody>
-</table>
+## 5.2.1. Sprint 1
 
-#### 5.2.1.2. Sprint Backlog 1.
+### 5.2.1.1. Sprint Planning 1
 
-En este primer sprint, nos enfocamos en la implementación de las funcionalidades básicas de la Landing Page, incluyendo la estructura general, el diseño visual y la navegación básica, también se ha creado un reporte que muestra el ciclo de vida de todo nuestro proyecto de software. Estas características son fundamentales para establecer las bases de nuestro producto y proporcionar una experiencia de usuario sólida y coherente.
-A continuación el sprint backlog 1: 
+El primer sprint tuvo como objetivo construir y desplegar la **Landing Page de MinDora**, asegurando una estructura visual coherente, diseño adaptable y funcionalidades básicas de interacción.  
+Este entregable representa el primer punto de contacto del usuario con la plataforma, mostrando su propósito, beneficios y propuesta de valor.
 
-<table>
-	<tbody>
-		<tr>
-			<td>Sprint #</td>
-			<td colspan="7">Sprint 1</td>
-		</tr>
-		<tr>
-			<td colspan="2">User Story</td>
-			<td colspan="6">Work - Item / Task</td>
-		</tr>
-		<tr>
-			<td>Id</td>
-			<td>Title</td>
-			<td>Id</td>
-			<td>Title</td>
-			<td>Description</td>
-			<td>Estimation (Hours)</td>
-			<td>Assigned To</td>
-			<td>Status (To-do / In-Process / To-Review / Done)</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK001</td>
-			<td>Remote environment creation for Report and Landing Page</td>
-			<td>Organization, repositories and branch creation in GitHub</td>
-			<td>0</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK002</td>
-			<td>Conclude Chapter01</td>
-			<td>Finish all section and add the respective information in chapter01</td>
-			<td>5</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK003</td>
-			<td>Conclude Chapter02</td>
-			<td>Finish all section and add the respective information in chapter02</td>
-			<td>3</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK004</td>
-			<td>Conclude Chapter03</td>
-			<td>Finish all section and add the respective information in chapter03</td>
-			<td>5</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK005</td>
-			<td>Conclude Chapter04</td>
-			<td>Finish all section and add the respective information in chapter04</td>
-			<td>19</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td>TSK006</td>
-			<td>Conclude Chapter05</td>
-			<td>Finish all section and add the respective information in chapter05</td>
-			<td>3</td>
-			<td>All team members</td>
-			<td>Done</td>
-		</tr>
-    <tbody>
-</table>
+| **Sprint #** | **Sprint 1** |
+|---------------|--------------|
+| **Date** | 2025-10-07 |
+| **Time** | 8:00 PM |
+| **Location** | Microsoft Teams (Reunión virtual) |
+| **Prepared By** | Juan José Meza Huanacune |
+| **Attendees (to planning meeting)** | Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Juan José Meza Huanacune |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 1 Goal** | **Our focus is on** designing, developing, and deploying the public Landing Page of MinDora to introduce its mission and core features.<br>**We believe it delivers** a first functional version of the product, improving user visibility and brand identity.<br>**This will be confirmed when** the website is fully responsive, navigable, and deployed on GitHub Pages with all sections functional.<br><br>**Traducción:** Nuestro enfoque está en diseñar, desarrollar y desplegar la Landing Page pública de MinDora para presentar su misión y características principales. Creemos que esto brindará la primera versión funcional del producto, mejorando la visibilidad y la identidad de marca. Esto se confirmará cuando el sitio web sea completamente adaptable, navegable y esté desplegado en GitHub Pages con todas las secciones funcionales. |
+| **Sprint 1 Velocity** | Se trabajaron **5 historias de usuario**, con un total de **25 Story Points**. |
+| **Sum of Story Points** | 25 |
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
-En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
+---
 
-Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
+### 5.2.1.2. Sprint Backlog 1
 
-| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
-|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| /Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 10/9/2025           |
-| /Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 10/9/2025           |
+El *Sprint Backlog 1* se centró en la creación de la página principal del proyecto **MinDora**, estableciendo la base visual, de navegación y de contenido.  
+Cada tarea está asociada a las historias de usuario planificadas.
+
+| **Sprint #** | **Sprint 1** |
+|---------------|--------------|
+| **User Story** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
+| **US01** | Crear estructura principal (index.html) | Estructurar el HTML con todas las secciones base de la Landing Page. | 6 | Sebastián / Eduardo | Done |
+| **US02** | Diseño de header y navegación | Crear header fijo con logo, menú hamburguesa y botones dinámicos. | 4 | Juan / Sebastián | Done |
+| **US03** | Desarrollo de secciones de beneficios y galería | Implementar secciones interactivas con animaciones e imágenes. | 5 | Eduardo / Manuel | Done |
+| **US04** | Sección de psicólogos | Mostrar psicólogos dinámicamente usando `psicologos.js`. | 6 | Manuel / Fabricio | Done |
+| **US05** | Estilos y adaptabilidad | Aplicar `estilos.css` y media queries para asegurar compatibilidad móvil. | 4 | Fabricio / Sebastián | Done |
+
+---
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+Durante el Sprint 1, se completó la primera versión funcional del sitio web de **MinDora**, centrada en la **Landing Page**.  
+El trabajo colaborativo se gestionó mediante GitHub siguiendo la estrategia *GitFlow*, donde cada rama reflejó una parte del desarrollo.
+
+| **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
+|----------------|------------|----------------|--------------------|--------------------------|-------------------------|
+| /mindora-frontend | feature/landing-structure | 9f21eac | feat(index): creación de la estructura principal de la landing | Se agregó la estructura HTML base con secciones de header, beneficios, galería, expertos, psicólogos y footer. | 2025-10-07 |
+| /mindora-frontend | feature/styles | 3c41e72 | feat(css): agregado de estilos generales y paleta de colores | Se aplicó la paleta corporativa (turquesa, azul celeste, verde azulado) y estilos responsivos. | 2025-10-08 |
+| /mindora-frontend | feature/menu-lightbox | 1a89b7e | feat(js): implementación del menú hamburguesa y galería lightbox | Se añadieron scripts de interacción para navegación y visualización de imágenes. | 2025-10-09 |
+| /mindora-frontend | feature/psychologists | 7b32d14 | feat(js): generación dinámica de tarjetas de psicólogos | Se implementó `psicologos.js` para renderizar la sección de psicólogos de forma dinámica. | 2025-10-10 |
+| /mindora-frontend | fix/layout | 54aa9f9 | fix(css): ajustes de espaciado y alineación | Corrección de márgenes y paddings en vista móvil. | 2025-10-11 |
+
+---
 
 
 A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
