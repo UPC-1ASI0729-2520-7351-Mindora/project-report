@@ -2015,8 +2015,8 @@ La implementación de la página de inicio, los servicios y las aplicaciones es 
 
 ### 5.2.1.1. Sprint Planning 1
 
-El primer sprint tuvo como objetivo construir y desplegar la **Landing Page de MinDora**, asegurando una estructura visual coherente, diseño adaptable y funcionalidades básicas de interacción.  
-Este entregable representa el primer punto de contacto del usuario con la plataforma, mostrando su propósito, beneficios y propuesta de valor.
+El primer sprint tuvo como objetivo construir y desplegar la **Landing Page de MinDora**, incluyendo el nuevo módulo de **Planes de Suscripción**, además de integrar las secciones de **registro, ingreso y test de estrés**.  
+Este entregable representa la primera versión funcional del producto, que comunica el propósito de la plataforma y permite la interacción básica del usuario con el sistema.
 
 | **Sprint #** | **Sprint 1** |
 |---------------|--------------|
@@ -2026,43 +2026,57 @@ Este entregable representa el primer punto de contacto del usuario con la plataf
 | **Prepared By** | Juan José Meza Huanacune |
 | **Attendees (to planning meeting)** | Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Juan José Meza Huanacune |
 | **Sprint Goal & User Stories** |  |
-| **Sprint 1 Goal** | **Our focus is on** designing, developing, and deploying the public Landing Page of MinDora to introduce its mission and core features.<br>**We believe it delivers** a first functional version of the product, improving user visibility and brand identity.<br>**This will be confirmed when** the website is fully responsive, navigable, and deployed on GitHub Pages with all sections functional.<br><br>**Traducción:** Nuestro enfoque está en diseñar, desarrollar y desplegar la Landing Page pública de MinDora para presentar su misión y características principales. Creemos que esto brindará la primera versión funcional del producto, mejorando la visibilidad y la identidad de marca. Esto se confirmará cuando el sitio web sea completamente adaptable, navegable y esté desplegado en GitHub Pages con todas las secciones funcionales. |
-| **Sprint 1 Velocity** | Se trabajaron **5 historias de usuario**, con un total de **25 Story Points**. |
-| **Sum of Story Points** | 25 |
+| **Sprint 1 Goal** | **Our focus is on** designing, developing, and deploying the complete MinDora Landing Page with user registration, login, stress test, and subscription plans.<br>**We believe it delivers** the first public version of the platform, enabling user interaction and showcasing its value proposition.<br>**This will be confirmed when** the website is fully responsive, includes subscription functionality, and is deployed on GitHub Pages.<br><br>**Traducción:** Nuestro enfoque está en diseñar, desarrollar y desplegar la Landing Page completa de MinDora, con los módulos de registro, inicio de sesión, test de estrés y suscripción. Creemos que esto entregará la primera versión pública de la plataforma, permitiendo la interacción con el usuario y mostrando la propuesta de valor del producto. Esto se confirmará cuando el sitio sea completamente adaptable, funcional y desplegado en GitHub Pages. |
+| **Sprint 1 Velocity** | Se trabajaron **6 historias de usuario**, con un total de **28 Story Points**. |
+| **Sum of Story Points** | 28 |
 
 ---
 
-### 5.2.1.2. Sprint Backlog 1
+### 5.2.1.2. Aspect Leaders and Collaborators
 
-El *Sprint Backlog 1* se centró en la creación de la página principal del proyecto **MinDora**, estableciendo la base visual, de navegación y de contenido.  
-Cada tarea está asociada a las historias de usuario planificadas.
+Durante este sprint se definieron los líderes y colaboradores de cada aspecto funcional y visual, según la *Leadership-and-Collaboration Matrix (LACX)*.
+
+| **Miembro del equipo** | **GitHub Username** | **Frontend (UI/UX)** | **Backend Setup** | **Content & Copywriting** | **Diseño Visual (CSS)** | **Testing & QA** |
+|------------------|---------------------|----------------------|------------------|---------------------------|-------------------------|------------------|
+| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | – | C | C |
+| Sebastián De Las Casas Latour | @U202213553 | L | – | C | L | C |
+| Eduardo Fabián Chacaliaza Minaya | @educmz | C | – | C | L | C |
+| Fabricio Fabián Quispe Barzola | @Brooklynkarmis | – | – | L | C | C |
+| Juan José Meza Huanacune | @JuanMHZ1250 | C | L | – | C | L |
+
+---
+
+### 5.2.1.3. Sprint Backlog 1
+
+El *Sprint Backlog 1* se centró en la creación e integración de las páginas base del proyecto **MinDora**, desarrollando la estructura principal de la Landing Page y los módulos asociados al flujo inicial de usuario (registro, ingreso, test y suscripción).
 
 | **Sprint #** | **Sprint 1** |
 |---------------|--------------|
 | **User Story** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US01** | Crear estructura principal (index.html) | Estructurar el HTML con todas las secciones base de la Landing Page. | 6 | Sebastián / Eduardo | Done |
-| **US02** | Diseño de header y navegación | Crear header fijo con logo, menú hamburguesa y botones dinámicos. | 4 | Juan / Sebastián | Done |
-| **US03** | Desarrollo de secciones de beneficios y galería | Implementar secciones interactivas con animaciones e imágenes. | 5 | Eduardo / Manuel | Done |
-| **US04** | Sección de psicólogos | Mostrar psicólogos dinámicamente usando `psicologos.js`. | 6 | Manuel / Fabricio | Done |
-| **US05** | Estilos y adaptabilidad | Aplicar `estilos.css` y media queries para asegurar compatibilidad móvil. | 4 | Fabricio / Sebastián | Done |
+| **US01** | Crear estructura principal (index.html) | Estructurar el HTML principal con las secciones de inicio, beneficios, galería, expertos, psicólogos y footer. | 6 | Sebastián / Eduardo | Done |
+| **US02** | Implementar menú y navegación | Crear el header con menú hamburguesa y navegación fluida entre secciones. | 4 | Juan / Sebastián | Done |
+| **US03** | Desarrollar flujo de registro e ingreso | Implementar las páginas `registro.html` y `ingreso.html` con validaciones de formulario (`validacionesForm.js`). | 5 | Manuel / Eduardo | Done |
+| **US04** | Integrar test de estrés | Programar la lógica interactiva del test en `test.js`, con preguntas dinámicas y resultados. | 4 | Sebastián / Fabricio | Done |
+| **US05** | Diseñar módulo de suscripción | Crear la página `suscripcion.html` con los planes (Gratis, Popular, Premium) y modal interactivo para registro. | 6 | Manuel / Sebastián | Done |
+| **US06** | Estilos y adaptabilidad | Aplicar `estilos.css`, `styles.css` y `suscripcion.css` asegurando diseño responsivo y coherencia visual. | 3 | Todo el equipo | Done |
 
 ---
 
-### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.1.4. Development Evidence for Sprint Review
 
-Durante el Sprint 1, se completó la primera versión funcional del sitio web de **MinDora**, centrada en la **Landing Page**.  
-El trabajo colaborativo se gestionó mediante GitHub siguiendo la estrategia *GitFlow*, donde cada rama reflejó una parte del desarrollo.
+Durante el Sprint 1 se completó la versión **funcional e integrada del ecosistema de páginas públicas de MinDora**.  
+El equipo trabajó colaborativamente en GitHub siguiendo la metodología *GitFlow*, con commits que documentan cada avance.
 
 | **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
 |----------------|------------|----------------|--------------------|--------------------------|-------------------------|
-| /mindora-frontend | feature/landing-structure | 9f21eac | feat(index): creación de la estructura principal de la landing | Se agregó la estructura HTML base con secciones de header, beneficios, galería, expertos, psicólogos y footer. | 2025-10-07 |
-| /mindora-frontend | feature/styles | 3c41e72 | feat(css): agregado de estilos generales y paleta de colores | Se aplicó la paleta corporativa (turquesa, azul celeste, verde azulado) y estilos responsivos. | 2025-10-08 |
-| /mindora-frontend | feature/menu-lightbox | 1a89b7e | feat(js): implementación del menú hamburguesa y galería lightbox | Se añadieron scripts de interacción para navegación y visualización de imágenes. | 2025-10-09 |
-| /mindora-frontend | feature/psychologists | 7b32d14 | feat(js): generación dinámica de tarjetas de psicólogos | Se implementó `psicologos.js` para renderizar la sección de psicólogos de forma dinámica. | 2025-10-10 |
-| /mindora-frontend | fix/layout | 54aa9f9 | fix(css): ajustes de espaciado y alineación | Corrección de márgenes y paddings en vista móvil. | 2025-10-11 |
+| /mindora-frontend | feature/landing-structure | 9f21eac | feat(index): creación de la estructura principal de la landing | Se añadió la estructura base con secciones de inicio, beneficios, galería, expertos y footer. | 2025-10-07 |
+| /mindora-frontend | feature/forms | 3c41e72 | feat(auth): added login and register forms | Se desarrollaron las páginas de registro e ingreso con validaciones básicas de usuario. | 2025-10-08 |
+| /mindora-frontend | feature/test-module | 7b32d14 | feat(test): added interactive stress test component | Se implementó el test de estrés con preguntas dinámicas y animaciones. | 2025-10-09 |
+| /mindora-frontend | feature/subscription-page | 1a89b7e | feat(subscriptions): implemented subscription plans and modal | Se creó la nueva página de suscripción con tres planes y un modal interactivo de registro. | 2025-10-10 |
+| /mindora-frontend | feature/styles | 54aa9f9 | feat(css): added global and responsive styles | Se aplicó la paleta institucional y los estilos adaptativos en todo el proyecto. | 2025-10-11 |
+| /mindora-frontend | fix/lightbox-bug | 65aa71d | fix(js): fixed undefined variable in lightbox script | Corrección del error de variable no definida (`hamburger`) en `lightbox.js`. | 2025-10-12 |
 
 ---
-
 
 A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
 
@@ -2102,23 +2116,116 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ---
 
-### 5.2.2. Sprint 2.
+## 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 2.
+###  5.2.2.1. Sprint Planning 2
 
-#### 5.2.2.2. Aspect Leaders and Collaborators.
+El segundo sprint se centró en la implementación del **Dashboard de Estrés** y el **Módulo de Conexión con Psicólogos**, funcionalidades clave para mejorar la interacción y el valor agregado de la plataforma **MinDora**.  
+Durante esta iteración, el equipo trabajó en la visualización de datos del usuario y en la posibilidad de que este pueda contactar directamente con especialistas desde la aplicación.
 
-#### 5.2.2.3. Sprint Backlog 2.
+| **Sprint #** | **Sprint 2** |
+|---------------|--------------|
+| **Date** | 2025-10-08 |
+| **Time** | 8:00 PM |
+| **Location** | Microsoft Teams (Reunión virtual) |
+| **Prepared By** | Manuel Fernando Joao Castro Picón |
+| **Attendees (to planning meeting)** | Juan José Meza Huanacune / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón |
+| **Sprint 1 – Review Summary** | En el Sprint 1 se completó con éxito la **Landing Page**, cumpliendo el objetivo principal de desarrollar una interfaz inicial funcional, responsive y con navegación fluida. Se logró una integración completa entre HTML, CSS y JavaScript para crear una experiencia visual coherente. |
+| **Sprint 1 – Retrospective Summary** | El equipo concluyó que la comunicación y la organización fueron adecuadas, pero identificó la necesidad de mejorar la gestión de tareas y la revisión de commits. Se acordó realizar reuniones de seguimiento más frecuentes y utilizar mejor las etiquetas en Trello para optimizar el flujo de trabajo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | **Our focus is on** building an interactive *Stress Dashboard* and a *Psychologist Connection Module* that allow users to monitor their stress evolution and book appointments with specialists.<br>**We believe it delivers** more personalized emotional support and better understanding of users’ well-being.<br>**This will be confirmed when** users can visualize their stress data and successfully request appointments through the integrated module.<br><br>**Traducción:** Nuestro enfoque está en desarrollar un *Dashboard de Estrés* interactivo y un *Módulo de Conexión con Psicólogos* que permitan a los usuarios monitorear su evolución emocional y agendar citas con especialistas. Creemos que esto brindará un apoyo emocional más personalizado y una mejor comprensión del bienestar. Esto se confirmará cuando los usuarios puedan visualizar sus datos y solicitar citas correctamente desde el módulo integrado. |
+| **Sprint 2 Velocity** | Se seleccionaron **5 historias de usuario**, con un total de **25 Story Points**. |
+| **Sum of Story Points** | 25 |
 
-#### 5.2.2.4. Development Evidence for Sprint Review.
+---
 
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+### 5.2.2.2. Aspect Leaders and Collaborators
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+En este sprint se mantuvo la metodología colaborativa, definiendo líderes y colaboradores según los aspectos técnicos y de validación de producto.
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+| **Miembro del equipo** | **GitHub Username** | **Frontend (Dashboard UI)** | **Backend (API Stress Data)** | **UX/UI Validation** | **Integrations (Psychologists Module)** | **Testing & QA** |
+|--------------------------|---------------------|------------------------------|-------------------------------|----------------------|------------------------------------------|------------------|
+| Manuel Fernando Joao Castro Picón | @mcastropic | C | L | – | C | C |
+| Sebastián De Las Casas Latour | @sdelascasas | L | C | C | – | C |
+| Eduardo Fabián Chacaliaza Minaya | @echacaliaza | L | – | C | C | C |
+| Fabricio Fabián Quispe Barzola | @fquispe | – | – | L | C | C |
+| Juan José Meza Huanacune | @jmeza | C | L | – | L | L |
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+---
+
+### 5.2.2.3. Sprint Backlog 2
+
+El *Sprint Backlog 2* abarcó el desarrollo e integración de las funcionalidades principales del Dashboard de Estrés y el Módulo de Psicólogos.  
+Cada historia de usuario se planificó en tareas técnicas con asignaciones claras y tiempos estimados.
+
+| **Sprint #** | **Sprint 2** |
+|---------------|--------------|
+| **User Story** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
+| **US06** | Crear interfaz de Dashboard de Estrés | Implementar el diseño visual del Dashboard con gráficos interactivos y métricas personalizadas. | 7 | Sebastián / Eduardo | Done |
+| **US07** | Programar visualización de datos | Implementar funciones JS para mostrar niveles de estrés y progreso del usuario. | 6 | Manuel / Juan | In-Process |
+| **US08** | Módulo de búsqueda de psicólogos | Desarrollar el componente dinámico para filtrar y mostrar psicólogos disponibles. | 5 | Manuel / Sebastián | Done |
+| **US09** | Módulo de agendamiento de citas | Crear flujo para agendar citas y simular confirmaciones dentro de la app. | 4 | Eduardo / Fabricio | In-Process |
+| **US10** | Pruebas de usabilidad | Ejecutar pruebas en interfaz y revisar adaptabilidad móvil. | 3 | Todo el equipo | To-Review |
+
+---
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante este sprint, el equipo implementó nuevas funcionalidades enfocadas en la experiencia del usuario.  
+El *Stress Dashboard* se programó con gráficos interactivos y el *Psychologist Module* permitió búsquedas dinámicas y simulación de citas.
+
+| **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
+|----------------|------------|----------------|--------------------|--------------------------|-------------------------|
+| /mindora-frontend | feature/dashboard-ui | 7ab4e9c | feat(dashboard): added interactive stress chart and summary cards | Implementación del Dashboard con gráficos y tarjetas de progreso personal. | 2025-10-08 |
+| /mindora-backend | feature/stress-api | 8d32c7b | feat(api): connected dashboard with stress data endpoints | Simulación de API local para datos de estrés y conexión con frontend. | 2025-10-09 |
+| /mindora-frontend | feature/psychologists-module | 2f6b11a | feat(psychologists): implemented search and appointment components | Desarrollo de búsqueda de psicólogos y simulación de agendamiento de citas. | 2025-10-10 |
+| /mindora-frontend | fix/ui-updates | 5b92a3f | fix(ui): improved dashboard responsiveness | Ajuste de vista responsive y corrección de espaciado. | 2025-10-11 |
+| /mindora-frontend | refactor/js-functions | 6d44a1e | refactor(js): optimized psychologist rendering | Mejora del rendimiento de carga dinámica en `psicologos.js`. | 2025-10-12 |
+
+---
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+El equipo presentó la ejecución funcional de las nuevas secciones a través de demostraciones grabadas.  
+Los videos evidencian el funcionamiento del Dashboard (actualización de datos de estrés y animaciones) y del módulo de psicólogos (filtrado y reserva de citas).  
+Estos materiales fueron subidos al repositorio y almacenados en Microsoft Stream como soporte de revisión.
+
+---
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Se documentaron los scripts y endpoints locales utilizados durante el desarrollo.  
+Los archivos `validacionesForm.js`, `psicologos.js` y `manipulacionDOM.js` registran las funciones principales de autenticación, renderizado dinámico y carga de información.  
+Esta documentación refleja las simulaciones de API y la interacción entre frontend y lógica de negocio.
+
+---
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del Sprint 2 se realizó en **GitHub Pages**, actualizando el entorno público con las nuevas funcionalidades.  
+Se validó el correcto funcionamiento del Dashboard y del Módulo de Psicólogos en distintos dispositivos y navegadores.  
+También se ajustaron rutas de acceso y referencias a los scripts para garantizar la estabilidad del sitio en producción.
+
+---
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante este sprint, el equipo demostró un progreso notable en colaboración y gestión ágil.  
+Se realizaron reuniones semanales para revisar avances, detectar bloqueos y reforzar la comunicación entre los integrantes.  
+El uso de GitHub y Trello permitió mantener trazabilidad, control de tareas y revisión de código en conjunto.  
+La cooperación fue clave para integrar nuevas funcionalidades sin comprometer el rendimiento ni la coherencia visual del producto.
+
+---
+
+### Resumen del Sprint 2
+
+- **Entregable:** Dashboard de Estrés y Módulo de Conexión con Psicólogos completamente funcionales.  
+- **Resultado:** 90% del backlog completado y entregado.  
+- **Métrica:** Validación del tablero Trello (estado “In-Process” → “Done”).  
+- **Valor entregado:** Incremento del valor funcional del producto, fortalecimiento de la interacción y soporte emocional dentro de la plataforma MinDora.
+
+---
+
 
 
 
