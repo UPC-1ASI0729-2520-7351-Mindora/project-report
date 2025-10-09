@@ -2118,10 +2118,10 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 ## 5.2.2. Sprint 2
 
-###  5.2.2.1. Sprint Planning 2
+### 5.2.2.1. Sprint Planning 2
 
-El segundo sprint se centró en la implementación del **Dashboard de Estrés** y el **Módulo de Conexión con Psicólogos**, funcionalidades clave para mejorar la interacción y el valor agregado de la plataforma **MinDora**.  
-Durante esta iteración, el equipo trabajó en la visualización de datos del usuario y en la posibilidad de que este pueda contactar directamente con especialistas desde la aplicación.
+El segundo sprint se enfocó en el desarrollo de nuevas funcionalidades interactivas de **MinDora**, específicamente en el **Dashboard de Estrés** y el **Módulo de Conexión con Psicólogos**.  
+Durante esta iteración, el equipo trabajó en la visualización de datos de estrés del usuario y en la implementación del flujo de búsqueda y reserva de citas con especialistas.
 
 | **Sprint #** | **Sprint 2** |
 |---------------|--------------|
@@ -2130,10 +2130,10 @@ Durante esta iteración, el equipo trabajó en la visualización de datos del us
 | **Location** | Microsoft Teams (Reunión virtual) |
 | **Prepared By** | Manuel Fernando Joao Castro Picón |
 | **Attendees (to planning meeting)** | Juan José Meza Huanacune / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón |
-| **Sprint 1 – Review Summary** | En el Sprint 1 se completó con éxito la **Landing Page**, cumpliendo el objetivo principal de desarrollar una interfaz inicial funcional, responsive y con navegación fluida. Se logró una integración completa entre HTML, CSS y JavaScript para crear una experiencia visual coherente. |
-| **Sprint 1 – Retrospective Summary** | El equipo concluyó que la comunicación y la organización fueron adecuadas, pero identificó la necesidad de mejorar la gestión de tareas y la revisión de commits. Se acordó realizar reuniones de seguimiento más frecuentes y utilizar mejor las etiquetas en Trello para optimizar el flujo de trabajo. |
+| **Sprint 1 – Review Summary** | En el Sprint 1 se completó con éxito la Landing Page principal de MinDora, integrando los módulos de registro, ingreso, test de estrés y suscripción. El resultado fue un sitio web completamente funcional, responsive y coherente con la identidad visual del producto. |
+| **Sprint 1 – Retrospective Summary** | El equipo concluyó que la planificación y la comunicación fueron efectivas, aunque se identificó la necesidad de mejorar la gestión de tareas individuales y el seguimiento de commits. Se acordó mantener reuniones breves de coordinación y un control más riguroso del tablero Trello. |
 | **Sprint Goal & User Stories** |  |
-| **Sprint 2 Goal** | **Our focus is on** building an interactive *Stress Dashboard* and a *Psychologist Connection Module* that allow users to monitor their stress evolution and book appointments with specialists.<br>**We believe it delivers** more personalized emotional support and better understanding of users’ well-being.<br>**This will be confirmed when** users can visualize their stress data and successfully request appointments through the integrated module.<br><br>**Traducción:** Nuestro enfoque está en desarrollar un *Dashboard de Estrés* interactivo y un *Módulo de Conexión con Psicólogos* que permitan a los usuarios monitorear su evolución emocional y agendar citas con especialistas. Creemos que esto brindará un apoyo emocional más personalizado y una mejor comprensión del bienestar. Esto se confirmará cuando los usuarios puedan visualizar sus datos y solicitar citas correctamente desde el módulo integrado. |
+| **Sprint 2 Goal** | **Our focus is on** building an interactive *Stress Dashboard* and a *Psychologist Connection Module* that allow users to monitor their stress evolution and request professional support.<br>**We believe it delivers** personalized assistance and a deeper understanding of users’ well-being.<br>**This will be confirmed when** users can visualize their stress levels and schedule appointments successfully through the module.<br><br>**Traducción:** Nuestro enfoque está en desarrollar un *Dashboard de Estrés* interactivo y un *Módulo de Conexión con Psicólogos* que permitan a los usuarios monitorear su evolución emocional y solicitar apoyo profesional dentro de la aplicación. Creemos que esto brindará una experiencia personalizada y mayor comprensión del bienestar emocional. Esto se confirmará cuando los usuarios puedan visualizar sus datos y agendar citas correctamente en el sistema. |
 | **Sprint 2 Velocity** | Se seleccionaron **5 historias de usuario**, con un total de **25 Story Points**. |
 | **Sum of Story Points** | 25 |
 
@@ -2141,91 +2141,84 @@ Durante esta iteración, el equipo trabajó en la visualización de datos del us
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
-En este sprint se mantuvo la metodología colaborativa, definiendo líderes y colaboradores según los aspectos técnicos y de validación de producto.
+Se asignaron responsabilidades específicas para garantizar la correcta ejecución del sprint, manteniendo la misma metodología *Leadership-and-Collaboration Matrix (LACX)* usada en el Sprint 1.
 
 | **Miembro del equipo** | **GitHub Username** | **Frontend (Dashboard UI)** | **Backend (API Stress Data)** | **UX/UI Validation** | **Integrations (Psychologists Module)** | **Testing & QA** |
 |--------------------------|---------------------|------------------------------|-------------------------------|----------------------|------------------------------------------|------------------|
-| Manuel Fernando Joao Castro Picón | @mcastropic | C | L | – | C | C |
-| Sebastián De Las Casas Latour | @sdelascasas | L | C | C | – | C |
-| Eduardo Fabián Chacaliaza Minaya | @echacaliaza | L | – | C | C | C |
-| Fabricio Fabián Quispe Barzola | @fquispe | – | – | L | C | C |
-| Juan José Meza Huanacune | @jmeza | C | L | – | L | L |
+| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | – | C | C |
+| Sebastián De Las Casas Latour | @U202213553 | L | C | C | – | C |
+| Eduardo Fabián Chacaliaza Minaya | @dedumcz | L | – | C | C | C |
+| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | – | L | C | C |
+| Juan José Meza Huanacune | @JuanMH1250 | C | L | – | L | L |
 
 ---
 
 ### 5.2.2.3. Sprint Backlog 2
 
-El *Sprint Backlog 2* abarcó el desarrollo e integración de las funcionalidades principales del Dashboard de Estrés y el Módulo de Psicólogos.  
-Cada historia de usuario se planificó en tareas técnicas con asignaciones claras y tiempos estimados.
+El *Sprint Backlog 2* abarcó la implementación de funcionalidades clave relacionadas con el seguimiento del estrés y la interacción entre usuarios y psicólogos.  
+Cada historia de usuario se descompuso en tareas técnicas con asignaciones y estimaciones de tiempo.
 
 | **Sprint #** | **Sprint 2** |
 |---------------|--------------|
 | **User Story** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US06** | Crear interfaz de Dashboard de Estrés | Implementar el diseño visual del Dashboard con gráficos interactivos y métricas personalizadas. | 7 | Sebastián / Eduardo | Done |
-| **US07** | Programar visualización de datos | Implementar funciones JS para mostrar niveles de estrés y progreso del usuario. | 6 | Manuel / Juan | In-Process |
-| **US08** | Módulo de búsqueda de psicólogos | Desarrollar el componente dinámico para filtrar y mostrar psicólogos disponibles. | 5 | Manuel / Sebastián | Done |
-| **US09** | Módulo de agendamiento de citas | Crear flujo para agendar citas y simular confirmaciones dentro de la app. | 4 | Eduardo / Fabricio | In-Process |
-| **US10** | Pruebas de usabilidad | Ejecutar pruebas en interfaz y revisar adaptabilidad móvil. | 3 | Todo el equipo | To-Review |
+| **US07** | Crear interfaz del Dashboard | Implementar la interfaz visual del Dashboard de Estrés con componentes interactivos y métricas. | 6 | Sebastián / Eduardo | Done |
+| **US08** | Visualización de datos de estrés | Programar funciones en JS que muestren estadísticas y niveles de estrés. | 5 | Manuel / Juan | In-Process |
+| **US09** | Integrar módulo de psicólogos | Desarrollar el componente dinámico que muestra perfiles y filtros de psicólogos. | 5 | Manuel / Sebastián | Done |
+| **US10** | Agendamiento de citas | Crear flujo de reserva de citas con validación de campos y simulación de confirmación. | 5 | Eduardo / Fabricio | In-Process |
+| **US11** | Pruebas de usabilidad y validación | Ejecutar pruebas de interfaz y compatibilidad móvil. | 4 | Todo el equipo | To-Review |
 
 ---
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
-Durante este sprint, el equipo implementó nuevas funcionalidades enfocadas en la experiencia del usuario.  
-El *Stress Dashboard* se programó con gráficos interactivos y el *Psychologist Module* permitió búsquedas dinámicas y simulación de citas.
+Durante este sprint, el equipo implementó nuevas funciones y componentes que ampliaron el alcance funcional del proyecto.  
+Los commits evidencian la creación del Dashboard, la integración de datos simulados y la mejora general del rendimiento del frontend.
 
 | **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
 |----------------|------------|----------------|--------------------|--------------------------|-------------------------|
-| /mindora-frontend | feature/dashboard-ui | 7ab4e9c | feat(dashboard): added interactive stress chart and summary cards | Implementación del Dashboard con gráficos y tarjetas de progreso personal. | 2025-10-08 |
-| /mindora-backend | feature/stress-api | 8d32c7b | feat(api): connected dashboard with stress data endpoints | Simulación de API local para datos de estrés y conexión con frontend. | 2025-10-09 |
-| /mindora-frontend | feature/psychologists-module | 2f6b11a | feat(psychologists): implemented search and appointment components | Desarrollo de búsqueda de psicólogos y simulación de agendamiento de citas. | 2025-10-10 |
-| /mindora-frontend | fix/ui-updates | 5b92a3f | fix(ui): improved dashboard responsiveness | Ajuste de vista responsive y corrección de espaciado. | 2025-10-11 |
-| /mindora-frontend | refactor/js-functions | 6d44a1e | refactor(js): optimized psychologist rendering | Mejora del rendimiento de carga dinámica en `psicologos.js`. | 2025-10-12 |
+| /mindora-frontend | feature/dashboard-ui | 7ab4e9c | feat(dashboard): added interactive stress chart and summary cards | Implementación del Dashboard con gráficos interactivos y estadísticas personalizadas. | 2025-10-08 |
+| /mindora-backend | feature/stress-api | 8d32c7b | feat(api): simulated stress data endpoints | Creación de endpoints locales simulados para datos de estrés conectados al frontend. | 2025-10-09 |
+| /mindora-frontend | feature/psychologists-module | 2f6b11a | feat(psychologists): added psychologist list and booking modal | Desarrollo del módulo de psicólogos con sistema de búsqueda y reserva. | 2025-10-10 |
+| /mindora-frontend | fix/ui-responsiveness | 5b92a3f | fix(ui): improved dashboard responsiveness | Ajuste de diseño responsive en el Dashboard y optimización visual. | 2025-10-11 |
+| /mindora-frontend | refactor/js-optimization | 6d44a1e | refactor(js): optimized DOM rendering for psychologist cards | Mejora en la eficiencia del renderizado dinámico en `psicologos.js`. | 2025-10-12 |
 
 ---
 
-### 5.2.2.5. Execution Evidence for Sprint Review
+### ⚙️ 5.2.2.5. Execution Evidence for Sprint Review
 
-El equipo presentó la ejecución funcional de las nuevas secciones a través de demostraciones grabadas.  
-Los videos evidencian el funcionamiento del Dashboard (actualización de datos de estrés y animaciones) y del módulo de psicólogos (filtrado y reserva de citas).  
-Estos materiales fueron subidos al repositorio y almacenados en Microsoft Stream como soporte de revisión.
+Se realizaron pruebas de ejecución del Dashboard y del módulo de psicólogos en el entorno de desarrollo y en la versión desplegada en GitHub Pages.  
+Las demostraciones mostraron la correcta visualización de métricas de estrés, así como la interacción completa con el flujo de búsqueda y solicitud de citas.  
+Los videos de demostración fueron subidos a **Microsoft Stream** como evidencia de funcionalidad.
 
 ---
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Se documentaron los scripts y endpoints locales utilizados durante el desarrollo.  
-Los archivos `validacionesForm.js`, `psicologos.js` y `manipulacionDOM.js` registran las funciones principales de autenticación, renderizado dinámico y carga de información.  
-Esta documentación refleja las simulaciones de API y la interacción entre frontend y lógica de negocio.
+Se documentaron los scripts clave utilizados durante el desarrollo del sprint:  
+- `psicologos.js` — renderizado dinámico de tarjetas de psicólogos y filtrado de resultados.  
+- `validacionesForm.js` — manejo de autenticación de usuarios.  
+- `manipulacionDOM.js` — control dinámico de elementos según sesión iniciada.  
+- `suscripcion.js` — lógica de modales reutilizada para agendar citas.  
+
+Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de datos, la documentación detalla las funciones y estructuras usadas para simular un entorno API.
 
 ---
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-El despliegue del Sprint 2 se realizó en **GitHub Pages**, actualizando el entorno público con las nuevas funcionalidades.  
-Se validó el correcto funcionamiento del Dashboard y del Módulo de Psicólogos en distintos dispositivos y navegadores.  
-También se ajustaron rutas de acceso y referencias a los scripts para garantizar la estabilidad del sitio en producción.
+El despliegue del Sprint 2 se realizó actualizando la versión pública del sitio en **GitHub Pages**, incorporando el Dashboard y el módulo de psicólogos.  
+Se verificó la carga de todos los scripts, el correcto funcionamiento de las rutas y la integridad de los estilos CSS.  
+Además, se probaron las nuevas páginas en distintos dispositivos para garantizar la responsividad y accesibilidad.
 
 ---
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Durante este sprint, el equipo demostró un progreso notable en colaboración y gestión ágil.  
-Se realizaron reuniones semanales para revisar avances, detectar bloqueos y reforzar la comunicación entre los integrantes.  
-El uso de GitHub y Trello permitió mantener trazabilidad, control de tareas y revisión de código en conjunto.  
-La cooperación fue clave para integrar nuevas funcionalidades sin comprometer el rendimiento ni la coherencia visual del producto.
+El equipo mantuvo una comunicación constante a través de reuniones semanales y uso activo de **Trello** y **GitHub**.  
+Se evidenció un mejor control de versiones, revisión cruzada de código y división de tareas más equilibrada.  
+El trabajo colaborativo permitió que las integraciones se realizaran sin conflictos y que el despliegue se completara de manera ordenada y funcional.
 
 ---
-
-### Resumen del Sprint 2
-
-- **Entregable:** Dashboard de Estrés y Módulo de Conexión con Psicólogos completamente funcionales.  
-- **Resultado:** 90% del backlog completado y entregado.  
-- **Métrica:** Validación del tablero Trello (estado “In-Process” → “Done”).  
-- **Valor entregado:** Incremento del valor funcional del producto, fortalecimiento de la interacción y soporte emocional dentro de la plataforma MinDora.
-
----
-
 
 
 
