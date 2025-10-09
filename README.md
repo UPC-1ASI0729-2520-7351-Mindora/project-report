@@ -2013,9 +2013,11 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 La implementación de la página de inicio, los servicios y las aplicaciones es un paso fundamental en nuestro proceso de desarrollo. Nos permite materializar el diseño y la funcionalidad planificados, transformando los conceptos en productos tangibles y listos para su uso. Esta fase nos permite traducir las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
 ## 5.2.1. Sprint 1
 
+## 5.2.1. Sprint 1
+
 ### 5.2.1.1. Sprint Planning 1
 
-El primer sprint tuvo como objetivo construir y desplegar la **Landing Page de MinDora**, incluyendo el nuevo módulo de **Planes de Suscripción**, además de integrar las secciones de **registro, ingreso y test de estrés**.  
+El primer sprint tuvo como objetivo construir y desplegar la **Landing Page de MinDora**, integrando el flujo de registro, ingreso, test de estrés y suscripción de usuarios.  
 Este entregable representa la primera versión funcional del producto, que comunica el propósito de la plataforma y permite la interacción básica del usuario con el sistema.
 
 | **Sprint #** | **Sprint 1** |
@@ -2026,53 +2028,55 @@ Este entregable representa la primera versión funcional del producto, que comun
 | **Prepared By** | Juan José Meza Huanacune |
 | **Attendees (to planning meeting)** | Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Juan José Meza Huanacune |
 | **Sprint Goal & User Stories** |  |
-| **Sprint 1 Goal** | **Our focus is on** designing, developing, and deploying the complete MinDora Landing Page with user registration, login, stress test, and subscription plans.<br>**We believe it delivers** the first public version of the platform, enabling user interaction and showcasing its value proposition.<br>**This will be confirmed when** the website is fully responsive, includes subscription functionality, and is deployed on GitHub Pages.<br><br>**Traducción:** Nuestro enfoque está en diseñar, desarrollar y desplegar la Landing Page completa de MinDora, con los módulos de registro, inicio de sesión, test de estrés y suscripción. Creemos que esto entregará la primera versión pública de la plataforma, permitiendo la interacción con el usuario y mostrando la propuesta de valor del producto. Esto se confirmará cuando el sitio sea completamente adaptable, funcional y desplegado en GitHub Pages. |
-| **Sprint 1 Velocity** | Se trabajaron **6 historias de usuario**, con un total de **28 Story Points**. |
-| **Sum of Story Points** | 28 |
+| **Sprint 1 Goal** | **Our focus is on** designing, developing, and deploying the first functional version of *MinDora*, including modules for user registration, login, stress test, and subscription plans.<br>**We believe it delivers** the foundation of the platform, enabling user interaction and presenting the product’s value proposition.<br>**This will be confirmed when** the website is fully responsive, includes the complete registration and subscription flow, and is deployed on GitHub Pages.<br><br>**Traducción:** Nuestro enfoque está en diseñar, desarrollar y desplegar la primera versión funcional de *MinDora*, incluyendo los módulos de registro, ingreso, test de estrés y suscripción. Creemos que esto entregará la base del producto, permitiendo la interacción del usuario y mostrando la propuesta de valor. Esto se confirmará cuando el sitio sea completamente adaptable y desplegado en GitHub Pages. |
+| **Sprint 1 Velocity** | Se desarrollaron **7 historias de usuario**, con un total de **29 Story Points.** |
+| **Sum of Story Points** | 29 |
 
 ---
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
-Durante este sprint se definieron los líderes y colaboradores de cada aspecto funcional y visual, según la *Leadership-and-Collaboration Matrix (LACX)*.
+Durante este sprint se definieron los líderes y colaboradores de cada aspecto funcional y visual del proyecto, siguiendo la metodología *Leadership-and-Collaboration Matrix (LACX)*.
 
 | **Miembro del equipo** | **GitHub Username** | **Frontend (UI/UX)** | **Backend Setup** | **Content & Copywriting** | **Diseño Visual (CSS)** | **Testing & QA** |
-|------------------|---------------------|----------------------|------------------|---------------------------|-------------------------|------------------|
+|--------------------------|---------------------|----------------------|------------------|---------------------------|-------------------------|------------------|
 | Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | – | C | C |
 | Sebastián De Las Casas Latour | @U202213553 | L | – | C | L | C |
-| Eduardo Fabián Chacaliaza Minaya | @educmz | C | – | C | L | C |
-| Fabricio Fabián Quispe Barzola | @Brooklynkarmis | – | – | L | C | C |
-| Juan José Meza Huanacune | @JuanMHZ1250 | C | L | – | C | L |
+| Eduardo Fabián Chacaliaza Minaya | @dedumcz | C | – | C | L | C |
+| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | – | L | C | C |
+| Juan José Meza Huanacune | @JuanMH1250 | C | L | – | C | L |
 
 ---
 
 ### 5.2.1.3. Sprint Backlog 1
 
-El *Sprint Backlog 1* se centró en la creación e integración de las páginas base del proyecto **MinDora**, desarrollando la estructura principal de la Landing Page y los módulos asociados al flujo inicial de usuario (registro, ingreso, test y suscripción).
+El *Sprint Backlog 1* se centró en la creación e integración de las páginas base del proyecto **MinDora**, desarrollando las funcionalidades iniciales definidas en las épicas **EP01 (Registro y Configuración de Cuenta)**, **EP02 (Detección y Evaluación del Estrés)** y **EP05 (Conexión con Especialistas en Salud Mental)**.  
+Estas historias establecen la base de interacción del usuario con la plataforma, garantizando el flujo de registro, evaluación y suscripción.
 
 | **Sprint #** | **Sprint 1** |
 |---------------|--------------|
-| **User Story** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US01** | Crear estructura principal (index.html) | Estructurar el HTML principal con las secciones de inicio, beneficios, galería, expertos, psicólogos y footer. | 6 | Sebastián / Eduardo | Done |
-| **US02** | Implementar menú y navegación | Crear el header con menú hamburguesa y navegación fluida entre secciones. | 4 | Juan / Sebastián | Done |
-| **US03** | Desarrollar flujo de registro e ingreso | Implementar las páginas `registro.html` y `ingreso.html` con validaciones de formulario (`validacionesForm.js`). | 5 | Manuel / Eduardo | Done |
-| **US04** | Integrar test de estrés | Programar la lógica interactiva del test en `test.js`, con preguntas dinámicas y resultados. | 4 | Sebastián / Fabricio | Done |
-| **US05** | Diseñar módulo de suscripción | Crear la página `suscripcion.html` con los planes (Gratis, Popular, Premium) y modal interactivo para registro. | 6 | Manuel / Sebastián | Done |
-| **US06** | Estilos y adaptabilidad | Aplicar `estilos.css`, `styles.css` y `suscripcion.css` asegurando diseño responsivo y coherencia visual. | 3 | Todo el equipo | Done |
+| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
+| **US01** | Registrar cuenta de usuario | Implementar la página `registro.html` con validación de datos y simulación de almacenamiento de usuarios (`validacionesForm.js`). | 6 | Juan / Eduardo | Done |
+| **US02** | Configurar perfil biométrico | Diseñar campos iniciales del perfil del usuario dentro del flujo de registro. | 4 | Eduardo / Fabricio | Done |
+| **US03** | Completar cuestionario inicial de salud | Implementar el cuestionario básico en el flujo de registro, conectado al test de estrés. | 4 | Manuel / Sebastián | Done |
+| **US04** | Realizar test de autoevaluación de estrés | Crear la página `test.html` con preguntas dinámicas y resultado interactivo (`test.js`). | 5 | Sebastián / Fabricio | Done |
+| **US05** | Análisis biométrico de señales de estrés | Simular métricas de estrés al final del test con visualización de nivel de estrés. | 3 | Manuel / Sebastián | In-Process |
+| **US13** | Diseñar módulo de suscripción | Crear la página `suscripcion.html` con los planes (Gratis, Popular y Premium) y modal interactivo (`suscripcion.js`). | 4 | Juan / Manuel | Done |
+| **US06** | Estilos y adaptabilidad | Aplicar `estilos.css`, `styles.css` y `suscripcion.css` para garantizar diseño responsive y coherencia visual. | 3 | Todo el equipo | Done |
 
 ---
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
 Durante el Sprint 1 se completó la versión **funcional e integrada del ecosistema de páginas públicas de MinDora**.  
-El equipo trabajó colaborativamente en GitHub siguiendo la metodología *GitFlow*, con commits que documentan cada avance.
+El equipo trabajó colaborativamente en GitHub, siguiendo la metodología *GitFlow* con commits que documentan cada avance.
 
 | **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
-|----------------|------------|----------------|--------------------|--------------------------|-------------------------|
-| /mindora-frontend | feature/landing-structure | 9f21eac | feat(index): creación de la estructura principal de la landing | Se añadió la estructura base con secciones de inicio, beneficios, galería, expertos y footer. | 2025-10-07 |
+|------------------|------------------|----------------|--------------------|--------------------------|----------------|
+| /mindora-frontend | feature/landing-structure | 9f21eac | feat(index): creación de la estructura principal de la landing | Se añadió la estructura base (`index.html`) con secciones de inicio, beneficios, galería, expertos y footer. | 2025-10-07 |
 | /mindora-frontend | feature/forms | 3c41e72 | feat(auth): added login and register forms | Se desarrollaron las páginas de registro e ingreso con validaciones básicas de usuario. | 2025-10-08 |
-| /mindora-frontend | feature/test-module | 7b32d14 | feat(test): added interactive stress test component | Se implementó el test de estrés con preguntas dinámicas y animaciones. | 2025-10-09 |
-| /mindora-frontend | feature/subscription-page | 1a89b7e | feat(subscriptions): implemented subscription plans and modal | Se creó la nueva página de suscripción con tres planes y un modal interactivo de registro. | 2025-10-10 |
+| /mindora-frontend | feature/test-module | 7b32d14 | feat(test): added interactive stress test component | Se implementó el test de estrés (`test.js`) con preguntas dinámicas y animaciones. | 2025-10-09 |
+| /mindora-frontend | feature/subscription-page | 1a89b7e | feat(subscriptions): implemented subscription plans and modal | Se creó la nueva página de suscripción con tres planes y un modal interactivo. | 2025-10-10 |
 | /mindora-frontend | feature/styles | 54aa9f9 | feat(css): added global and responsive styles | Se aplicó la paleta institucional y los estilos adaptativos en todo el proyecto. | 2025-10-11 |
 | /mindora-frontend | fix/lightbox-bug | 65aa71d | fix(js): fixed undefined variable in lightbox script | Corrección del error de variable no definida (`hamburger`) en `lightbox.js`. | 2025-10-12 |
 
@@ -2088,7 +2092,7 @@ A continuación se presentan los commits más importantes para la Landing Page, 
 | Dev2/LandingPageMindora  | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743p | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 10/9/2025           |
 | Dev1/LandingPageMindora  | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea985 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 10/9/2025           |
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
