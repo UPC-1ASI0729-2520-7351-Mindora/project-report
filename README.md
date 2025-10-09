@@ -2045,14 +2045,6 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
             <td colspan="1"> Eduardo Fabian Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour </td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 1 – 1 Review Summary </td>
-            <td colspan="1">Se alcanzaron los objetivos del producto como la realización de todos los capítulos, el despliegue completo de la Landing Pague y la mayoría de información necesaria dentro del reporte, sin embargo, una de las tareas/objetivos más importantes que se debía alcanzar fue la presentación de un informa en formato pdf y word.</td>
-		</tr>
-         <tr>
-			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
-            <td colspan="1">El sprint 1 fue un poco menos productivo de lo esperado. El producto resultante no es perfecto, pero sí es funcional. Debemos realizar una mejor coordinación para los futuros trabajos.</td>
-		</tr>
-         <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
 		</tr>
          <tr>
