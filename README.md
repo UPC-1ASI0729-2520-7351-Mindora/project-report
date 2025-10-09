@@ -2228,11 +2228,57 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 ---
 
 
+## 6. Conclusiones
 
-# 6. Conclusiones
-No se presenta en este sprint.
-## 6.1. Conclusiones
-## 6.2. Recomendaciones
+El desarrollo del proyecto **MinDora** permitió aplicar de manera integral los conocimientos adquiridos en ingeniería de software, desde el análisis de requerimientos hasta la implementación de un producto funcional.  
+A través de la metodología **Scrum**, se alcanzó un proceso de desarrollo iterativo, ordenado y colaborativo, garantizando la entrega continua de valor y la mejora progresiva del sistema.
+
+### 6.1. Conclusiones
+
+1. **Cumplimiento de objetivos generales y específicos:**  
+   Se logró diseñar, desarrollar e implementar una plataforma web funcional que permite la evaluación, seguimiento y gestión del estrés de los usuarios. El sistema cumple con los objetivos planteados al inicio del proyecto, tanto a nivel técnico como metodológico.
+
+2. **Aplicación efectiva de la metodología ágil Scrum:**  
+   El uso de Scrum permitió una gestión eficiente del proyecto mediante la planificación por sprints, revisiones periódicas y retrospectivas. Esto fomentó la comunicación continua y la adaptación ante cambios, manteniendo un desarrollo ágil y controlado.
+
+3. **Estructura modular y escalable:**  
+   El producto final presenta una arquitectura modular, compuesta por una **Landing Page**, un **módulo de registro e ingreso**, un **test de estrés**, un **Dashboard de seguimiento** y un **módulo de psicólogos**, lo que facilita futuras integraciones y mantenibilidad del sistema.
+
+4. **Enfoque centrado en el usuario (UX/UI):**  
+   El diseño del sistema priorizó la experiencia del usuario, logrando una interfaz intuitiva, adaptable y coherente con los principios de accesibilidad y usabilidad. Esto asegura una interacción fluida con el sistema y una comunicación clara del propósito del producto.
+
+5. **Uso eficiente de herramientas tecnológicas:**  
+   Se emplearon tecnologías web modernas como **HTML5, CSS3 y JavaScript**, junto con herramientas de control de versiones (**GitHub**, **GitFlow**) y gestión colaborativa (**Trello**, **Microsoft Teams**), lo que permitió un desarrollo estructurado, colaborativo y con trazabilidad de los avances.
+
+6. **Impacto del producto:**  
+   MinDora ofrece una solución tecnológica enfocada en el bienestar emocional y la salud mental, facilitando el autodiagnóstico, la autoevaluación y la conexión con especialistas, lo que le otorga un alto valor social y potencial de implementación real.
+
+7. **Desarrollo de competencias profesionales:**  
+   El trabajo en equipo bajo roles definidos y responsabilidades compartidas fortaleció las habilidades técnicas, de comunicación y gestión, preparando al equipo para entornos reales de desarrollo ágil.
+
+---
+
+### 6.2. Recomendaciones
+
+1. **Ampliar las funcionalidades del sistema:**  
+   En futuras versiones, se recomienda desarrollar los módulos pendientes de **Comunidad y Soporte Social (EP06)** y **Entorno Laboral (EP07)**, con el fin de ofrecer una experiencia más completa de acompañamiento psicológico y social.
+
+2. **Implementar persistencia de datos:**  
+   Integrar una base de datos real (por ejemplo, **Firebase**, **MySQL** o **MongoDB Atlas**) para almacenar usuarios, resultados de test, métricas y citas, permitiendo el análisis continuo y seguimiento longitudinal.
+
+3. **Optimización del rendimiento y seguridad:**  
+   Se sugiere mejorar la optimización de carga, el uso de almacenamiento local y la protección de datos del usuario, aplicando buenas prácticas de seguridad web y cumplimiento de estándares de privacidad.
+
+4. **Validación con usuarios reales:**  
+   Realizar pruebas de validación con usuarios finales, empleando metodologías de evaluación UX y heurísticas de usabilidad, para obtener retroalimentación directa que permita refinar la interfaz y los flujos del sistema.
+
+5. **Despliegue en un entorno profesional:**  
+   Migrar la aplicación hacia un entorno en la nube (por ejemplo, **Vercel**, **Netlify** o **AWS**) para contar con un dominio personalizado y mayor accesibilidad, además de implementar CI/CD para automatizar el despliegue.
+
+6. **Evolución hacia un producto completo:**  
+   Convertir MinDora en una aplicación multiplataforma que integre análisis biométrico real, notificaciones personalizadas y conexión directa con profesionales verificados, orientando el producto hacia un modelo SaaS de salud emocional.
+
+---
 
 # 7. Bibliografía
 
