@@ -2157,20 +2157,23 @@ En este sprint se mantuvo la misma dinámica de liderazgo colaborativo, asignand
 
 ---
 
-### 5.2.2.3. Sprint Backlog 2
+### 5.2.2.3. Sprint Backlog 2 (Actualizado)
 
-El *Sprint Backlog 2* abordó las funcionalidades relacionadas con el seguimiento del progreso, la gestión de recomendaciones y la conexión con especialistas en salud mental, correspondientes a las épicas **EP03 (Recomendaciones y Gestión del Estrés)**, **EP04 (Seguimiento y Análisis del Progreso)** y **EP05 (Conexión con Especialistas en Salud Mental)**.
+El *Sprint Backlog 2* abordó las funcionalidades relacionadas con el seguimiento del progreso, la gestión de recomendaciones y la conexión con especialistas en salud mental.  
+Corresponde a las épicas **EP03 (Recomendaciones y Gestión del Estrés)**, **EP04 (Seguimiento y Análisis del Progreso)** y **EP05 (Conexión con Especialistas en Salud Mental)**.  
+
+Durante este sprint, se integraron las nuevas historias de usuario **US08 (Ejercicios guiados de respiración)**, **US13 (Búsqueda de psicólogos especializados)** y **US14 (Agendamiento de citas con psicólogos)**, ampliando la funcionalidad del sistema en el Dashboard y el módulo de especialistas.
 
 | **Sprint #** | **Sprint 2** |
 |---------------|--------------|
 | **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US07** | Recibir recomendaciones personalizadas | Implementar la lógica de recomendaciones dinámicas en el Dashboard según resultados del test. | 5 | Sebastián / Eduardo | Done |
-| **US08** | Realizar ejercicios de respiración guiados | Incluir un componente de ejercicios interactivos dentro del Dashboard. | 4 | Manuel / Sebastián | Done |
-| **US09** | Programar pausas activas laborales | Agregar funcionalidad para programar recordatorios o pausas dentro del sistema. | 3 | Fabricio / Juan | In-Process |
-| **US10** | Visualizar dashboard personal de estrés | Crear el Dashboard con métricas visuales y resumen del progreso emocional. | 6 | Sebastián / Eduardo | Done |
-| **US11** | Generar informes de progreso | Simular generación de reportes de estrés a partir de datos de evaluación. | 4 | Manuel / Eduardo | To-Review |
-| **US13** | Buscar psicólogos especializados | Integrar el módulo `psicologos.js` para búsqueda y visualización de psicólogos. | 4 | Manuel / Sebastián | Done |
-| **US14** | Agendar cita con psicólogo | Implementar un modal de agendamiento con datos simulados del especialista. | 4 | Juan / Fabricio | In-Process |
+| **US07** | Recibir recomendaciones personalizadas | Implementar lógica de recomendaciones dinámicas en el Dashboard según los resultados del test. | 5 | Sebastián / Eduardo | Done |
+| **US08** | Realizar ejercicios de respiración guiados | Desarrollar un modal con el ejercicio “Box Breathing 4-4-4-4”, incluyendo inicio, pausa, reinicio y persistencia local. | 4 | Manuel / Sebastián | Done |
+| **US09** | Programar pausas activas laborales | Agregar función de recordatorios de pausas dentro del Dashboard, con registro temporal en localStorage. | 3 | Fabricio / Juan | In-Process |
+| **US10** | Visualizar dashboard personal de estrés | Crear el Dashboard con métricas visuales y resumen del progreso emocional del usuario. | 6 | Sebastián / Eduardo | Done |
+| **US11** | Generar informes de progreso | Simular reportes de estrés y evolución en base a datos del test, con visualización en paneles. | 4 | Manuel / Eduardo | To-Review |
+| **US13** | Buscar psicólogos especializados | Implementar catálogo dinámico con tarjetas de especialistas, búsqueda por especialidad y filtros interactivos. | 4 | Manuel / Sebastián | Done |
+| **US14** | Agendar cita con psicólogo | Crear un modal de reserva con selección de fecha/hora, validación de conflictos y almacenamiento local. | 4 | Juan / Fabricio | In-Process |
 
 ---
 
