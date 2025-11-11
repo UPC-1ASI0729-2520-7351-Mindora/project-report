@@ -16,15 +16,42 @@
 
 ---
 
-## Team members:
+<h3 align="center">Relación de integrantes</h3>
 
-| **Nombre**                         | **Código** |
-| ---------------------------------- | ---------- |
-| Manuel Fernando, Joao Castro Picón | U20231G159 |
-| Sebastián De Las Casas Latour      | U202213553 |
-| Eduardo Fabián Chacaliaza Minaya   | U202324129 |
-| Fabricio Fabián Quispe Barzola     | U202320442 |
-| Juan Jose Meza Huanacune           | U202320574 |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Código</th>
+      <th>Apellidos y Nombres</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>U20231G159</td>
+      <td>Castro Picón, Manuel Fernando Joao</td>
+    </tr>
+    <tr>
+      <td>U202213553</td>
+      <td>De Las Casas Latour, Sebastián</td>
+    </tr>
+    <tr>
+      <td>U202324129</td>
+      <td>Chacaliaza Minaya, Eduardo Fabián</td>
+    </tr>
+    <tr>
+      <td>U202320442</td>
+      <td>Quispe Barzola, Fabricio Fabián</td>
+    </tr>
+    <tr>
+      <td>U202320574</td>
+      <td>Meza Huanacune, Juan José</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <div>
   
