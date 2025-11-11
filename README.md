@@ -2,13 +2,14 @@
 
 <div>
   <p align="center"><img src="assets/md-images/upc-logo.png" alt="Logo UPC" width="150px" /></p>
-  <p align="center"><b>Informe de Trabajo Final</b></p>
-  <p align="center">Facultad de Ingeniería</p>
   <p align="center">Universidad Peruana de Ciencias Aplicadas</p>
+  <p align="center">Facultad de Ingeniería</p>
   <p align="center">Carrera: Ingeniería de Software</p>
-  <p align="center">Desarrollo de Aplicaciones Open Source - 1ASI0729</p>
+  <p align="center"><b>Perido 202520 </b></p>
+  <p align="center">1ASI0729 - Desarrollo de Aplicaciones Open Source</p>
   <p align="center">NRC: 7351</p>
   <p align="center">Profesor: Rafael Oswaldo Castro Veramendi</p>
+  <p align="center"><b>Informe de Trabajo Final</b></p>
   <p align="center">Startup: NeuroDora</p>
   <p align="center">Producto: MinDora</p>
 </div>
@@ -26,7 +27,7 @@
 | Juan Jose Meza Huanacune           | U202320574 |
 
 <div>
-  <p align="center"><b>Perido 202520 </b></p>
+  
   <p align="center"><b>Septiembre 2025</b></p>
 </div>
 
