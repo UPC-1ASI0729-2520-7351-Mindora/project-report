@@ -5,7 +5,7 @@
   <p align="center"><b>Informe de Trabajo Final</b></p>
   <p align="center">Facultad de Ingeniería</p>
   <p align="center">Universidad Peruana de Ciencias Aplicadas</p>
-  <p align="center">Ingeniería de Software</p>
+  <p align="center">Carrera: Ingeniería de Software</p>
   <p align="center">Desarrollo de Aplicaciones Open Source - 1ASI0729</p>
   <p align="center">NRC: 7351</p>
   <p align="center">Profesor: Rafael Oswaldo Castro Veramendi</p>
@@ -26,7 +26,7 @@
 | Juan Jose Meza Huanacune           | U202320574 |
 
 <div>
-  <p align="center"><b>Ciclo 2025 - 2</b></p>
+  <p align="center"><b>Perido 202520 </b></p>
   <p align="center"><b>Septiembre 2025</b></p>
 </div>
 
