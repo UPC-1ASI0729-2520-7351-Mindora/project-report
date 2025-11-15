@@ -2438,13 +2438,17 @@ Las pruebas confirmaron:
 - Corrección de inconsistencias visuales identificadas en el Sprint 2.
 
 #### **Evidence Screenshots**
-> *(Insertar aquí imágenes de Dashboard actualizado, navegación entre módulos, tarjetas nuevas de recomendaciones, etc.)*
+![Evidencia1](assets/md-images/Dashboard.png)
+![Evidencia2](assets/md-images/plan.png)
+![Evidencia3](assets/md-images/inicio.png)
+![Evidencia4](assets/md-images/dashboard2.png)
+![Evidencia5](assets/md-images/coaching.png)
+![Evidencia6](assets/md-images/planes.png)
 
 #### **Execution Demo Video**
-> *(Si existe un video, colocar enlace. Si no, puedes añadir “Video demo will be included in final delivery.”)*
+- “Video demo will be included in final delivery.”
 
 ---
-
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
