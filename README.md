@@ -2358,25 +2358,31 @@ Resumen de los puntos clave en la entrevista:
 
 **Segmento 2: Trabajadores informales o con horarios flexibles**
 
-- Nombre: 
+- Nombre: Valeria
 
-- Sexo: 
+- Sexo: Femenino
 
-- Edad: 
+- Edad: 21
 
-- Estado Civil: 
+- Estado Civil: Soltera
 
-- Labor: 
+- Labor: Trabaja como diseñadora freelance, con horarios flexibles y proyectos por encargo
 
 Detalles de la entrevista:
 
-- Duración: 
+- Duración: 12:14 minutos
 
-- Link: []()
+- Link: [https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing](https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
 
-
+- Valeria considera que el diseño es visualmente atractivo y transmite calma, lo cual está alineado con el propósito de la app.  
+- Navegar por el menú fue sencillo, aunque sugiere que los íconos podrían tener etiquetas más claras.  
+- El contenido le pareció adecuado para personas con rutinas variables como ella.  
+- La sección de ejercicios le pareció interesante y estaría dispuesta a probarlos.  
+- Le gustó que se ofrezca contacto con profesionales, aunque recomienda que se explique mejor cómo funciona esa opción.  
+- Sugiere incluir una guía rápida para nuevos usuarios en la landing page.  
+- Las funciones de login, perfil y suscripciones le parecieron útiles, especialmente si se integran con recordatorios personalizados.
 
 ---
 
