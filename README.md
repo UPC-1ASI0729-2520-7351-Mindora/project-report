@@ -2456,7 +2456,7 @@ Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de d
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-El despliegue del Sprint 3, similaar al anterior, consistió en actualizar la versión pública del sitio en GitHub Pages, incorporando las mejoras visuales, de navegación y de integración entre los módulos principales.
+El despliegue del Sprint 3, similar al anterior, consistió en actualizar la versión pública del sitio en GitHub Pages, incorporando las mejoras visuales, de navegación y de integración entre los módulos principales.
 
 Durante el proceso de despliegue se verificó:
 
