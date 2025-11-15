@@ -2276,6 +2276,22 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 
 ### 5.2.3.3.Sprint Backlog 3.
 
+El *Sprint Backlog 3 abordó las funcionalidades relacionadas con el seguimiento del progreso, la gestión de recomendaciones y la conexión con especialistas en salud mental.  
+Corresponde a las épicas **EP ()**, **EP ()** y **EP ()**.  
+
+Durante este sprint, se integraron las nuevas historias de usuario **US ()**, **US ()** y **US ()**, ampliando la funcionalidad del sistema en el Dashboard y el módulo de especialistas.
+
+| **Sprint #** | **Sprint 2** |
+|---------------|--------------|
+| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
+| **US** |  |  |  |  | Done |
+| **US** |  |  |  |  | Done |
+| **US** |  |  |  |  |
+| **US** |  |  |  |  |
+| **US** |  |  |  | To-Review |
+| **US** |  |  |  |  |  |
+| **US** |  |  |  |  |  |
+
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
@@ -2285,6 +2301,10 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+El equipo mantuvo una comunicación constante a través de reuniones semanales y uso activo de **Trello** y **GitHub**.  
+Se evidenció un mejor control de versiones, revisión cruzada de código y división de tareas más equilibrada.  
+El trabajo colaborativo permitió que las integraciones se realizaran sin conflictos y que el despliegue se completara de manera ordenada y funcional.
 
 ---
 
