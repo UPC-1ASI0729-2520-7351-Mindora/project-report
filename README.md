@@ -2574,7 +2574,7 @@ Detalles de la entrevista:
 
 - Duración: 12:14 minutos
 
-- Link: [https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing](https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing)
+- Link: [Entrevista a Valeria](https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing)
 
 Resumen de los puntos clave en la entrevista:
 
