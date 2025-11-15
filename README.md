@@ -199,7 +199,17 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
          5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
          5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
          5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
-         5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+         5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)  
+      5.2.3. [Sprint 3](#523-sprint-3)  
+         5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-3)  
+         5.2.3.2. [Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)  
+         5.2.3.3. [Sprint Backlog 3](#5233-sprint-backlog-3)  
+         5.2.3.4. [Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)  
+         5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+         5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+         5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+         5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
 
    5.3. [Validation Interviews](#53-validation-interviews)  
       5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)  
@@ -2256,6 +2266,147 @@ El equipo mantuvo una comunicación constante a través de reuniones semanales y
 Se evidenció un mejor control de versiones, revisión cruzada de código y división de tareas más equilibrada.  
 El trabajo colaborativo permitió que las integraciones se realizaran sin conflictos y que el despliegue se completara de manera ordenada y funcional.
 
+---
+
+### 5.2.3. Sprint 3.
+
+### 5.2.3.1.Sprint Planning 3.
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+### 5.2.3.3.Sprint Backlog 3.
+
+### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+---
+
+## 5.3. Validation Interviews.
+
+## 5.3.1. Diseño de Entrevistas.
+
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**  
+
+Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas para 
+comprender cómo los residentes perciben la aplicación y si sienten que el diseño y contenido 
+de la página reflejan adecuadamente su objetivo que es apaciguar el estrés de las personas. 
+Además queremos saber si la página motiva a los usuarios a registrarse y a confiar en 
+Neurozen como una ayuda a su estrés.  
+
+Introducción:  
+Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos 
+desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés. 
+Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto, 
+y le agradecemos su tiempo para ayudarnos con esta entrevista.  
+
+Preguntas:  
+- ¿Qué te hizo sentir o pensar la página cuando la viste por primera vez?  
+- ¿Entendiste fácilmente para qué sirve la aplicación? ¿Qué crees que hace?  
+- ¿Qué te parece la parte donde puedes registrarte o iniciar sesión? ¿Te queda claro cómo hacerlo?  
+- ¿La página te da confianza sobre la seguridad de tus datos o privacidad? ¿Por qué?  
+- ¿Te parece que el diseño (colores, botones, distribución) es fácil de usar y moverse?  
+- ¿Qué cambiarías o mejorarías en esta página?  
+- ¿Qué opinas de las nuevas funciones de la aplicación como ver perfil, herramientas contra el estrés y suscripciones?  
+
+---
+
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+Para evaluar la efectividad del landing page de NeuroZen, hemos formulado preguntas 
+dirigidas a usuarios pertenecientes al segmento objetivo: adultos entre 20 y 50 años con 
+trabajo informal o sin horarios definidos. A continuación, presentamos una entrevista 
+realizada a Cristofer, uno de nuestros usuarios de prueba.  
+
+Introducción:  
+Buenos días soy [Tu Nombre], estudiante de la UPC, y junto a mi equipo estamos 
+desarrollando Neurozen, una aplicación para ayudar a las personas a reducir el estrés. 
+Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvil del proyecto, 
+y le agradecemos su tiempo para ayudarnos con esta entrevista.  
+
+Preguntas:  
+- ¿La estética de la página (colores, imágenes, diseño) te resulta atractiva o te causa alguna impresión en particular?  
+- ¿Te resultó fácil navegar por el menú y encontrar las secciones como “Beneficios” o “Ejercicios”?  
+- ¿Sentiste que el contenido se adapta a alguien como tú, con horarios poco estructurados o sin un trabajo fijo?  
+- ¿Qué opinas de la sección de “Ejercicios contra el estrés”? ¿Te llama la atención probarlos?  
+- ¿Te quedó claro que la plataforma también ofrece contacto con profesionales? ¿Te parecería útil esa opción?  
+- ¿Cambiarías algo del diseño o contenido para que sea más útil o claro para ti?  
+- ¿Qué opinas de las nuevas funciones de login, ver perfil y suscripciones dentro de la aplicación?  
+
+## 5.3.2. Registro de Entrevistas.
+
+**Segmento 1: Personas activas en el ámbito laboral con jornadas extendidas**
+
+- Nombre: 
+
+- Sexo: 
+
+- Edad: 
+
+- Estado Civil: 
+
+- Labor:
+
+Detalles de la entrevista:
+
+- Duración: 
+
+Link : []()
+
+Resumen de los puntos clave en la entrevista:
+
+
+
+**Segmento 2: Adultos entre 20 y 50 años con trabajo informal o sin horarios definidos**
+
+- Nombre: 
+
+- Sexo: 
+
+- Edad: 
+
+- Estado Civil: 
+
+- Labor: 
+
+Detalles de la entrevista:
+
+- Duración: 
+
+- Link: []()
+
+Resumen de los puntos clave en la entrevista:
+
+
+
+---
+
+## 5.3.3. Evaluaciones según heurísticas.
+
+**Evaluación heurística de la aplicación NeuroZen**
+
+Este análisis se basa en principios de usabilidad para evaluar la experiencia del usuario en la aplicación NeuroZen. Se identifican fortalezas, debilidades y recomendaciones de mejora.
+
+| **Heurística**                         | **Severidad** | **Descripción**                                                                                                                                     | **Recomendación**                                                                                                   |
+|---------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Visibilidad del estado del sistema    | 2             | La aplicación cuenta con una sección de “Tests” donde el usuario puede realizar un test dentro de la misma página web para ver su nivel de estrés. | La sección de test debe mejorar un poco el diseño en mostrar las preguntas más interactivas para el usuario.        |
+| Control y libertad del usuario        | 1             | El usuario puede eliminar, cancelar o rehacer cualquier actividad que esté haciendo en la aplicación, porque siempre tiene una opción para cancelar.| En esta sección no hay mejoras, ya que siempre se encuentra esta heurística.                                        |
+| Diseño estético y minimalista         | 1             | El diseño es limpio y tranquilo, lo cual va en línea con el objetivo del proyecto. No hay sobrecarga de información.                               | Mantener el estilo actual. Podría beneficiarse de sutiles animaciones o íconos explicativos para aumentar el atractivo. |
+| Reconocimiento en lugar de recuerdo   | 3             | La aplicación aún presenta algunos fallos en cuanto a guardar información cotidiana de la actividad del usuario.                                   | Se debe mejorar el análisis de la información que el usuario mantiene cotidianamente para disminuir la carga de memoria. |
+
+
+---
+
+## 5.4. Video About-the-Product.
+
+ Link : 
+ 
 ---
 
 
