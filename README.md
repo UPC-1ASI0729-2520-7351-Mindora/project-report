@@ -2287,9 +2287,109 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 
 ### 5.2.3. Sprint 3.
 
-### 5.2.3.1.Sprint Planning 3.
+### 5.2.3.1. Sprint Planning 3
 
-### 5.2.3.2. Aspect Leaders and Collaborators.
+El tercer sprint se enfocó en refinar y consolidar la experiencia completa del usuario dentro del ecosistema MinDora.  
+Durante este sprint, el equipo se centró en tres líneas principales de trabajo:
+
+1. **Optimización del Dashboard de Estrés**, mejorando la visualización de métricas, consistencia gráfica y claridad jerárquica.  
+2. **Integración fluida entre módulos**, asegurando que el flujo Test → Dashboard → Recomendaciones → Psicólogos sea intuitivo y continuo.  
+3. **Mejoras visuales globales**, aplicando el Style Guide definido en el Capítulo IV para lograr una interfaz más profesional, coherente y accesible.
+
+Estas prioridades fueron definidas en base al feedback obtenido del Sprint 2 y a la necesidad de preparar el ecosistema MinDora para futuras integraciones de funcionalidades más avanzadas.
+
+---
+
+| **Sprint #** | Sprint 3 |
+|-------------|-----------|
+| **Date** | 2025-10-15 |
+| **Time** | 8:00 PM |
+| **Location** | Microsoft Teams (Reunión virtual) |
+| **Prepared By** | Juan José Meza Huanacune |
+| **Attendees (to planning meeting)** | Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Juan José Meza Huanacune |
+
+---
+
+#### Sprint 2 – Review Summary
+
+En el Sprint 2 se completó:
+
+- El Dashboard de Estrés con métricas dinámicas.
+- El módulo de Recomendaciones y Gestión del Estrés.
+- El sistema de conexión con psicólogos y programación básica de citas.
+- La integración de resultados del Test de Estrés hacia el panel principal.
+- El despliegue actualizado en GitHub Pages.
+- Pruebas de ejecución en distintas resoluciones para validar responsividad.
+
+El sistema avanzó hacia una versión más completa y funcional, abarcando ya la interacción principal del usuario con la plataforma.
+
+---
+
+#### Sprint 2 – Retrospective Summary
+
+El equipo identificó los siguientes puntos:
+
+**Fortalezas:**
+
+- Buena organización en Trello.
+- Integraciones sin conflictos significativos en GitHub.
+- Mayor eficiencia en la división de tareas.
+
+**Oportunidades de mejora:**
+
+- Modularizar mejor el código JavaScript para mejorar mantenibilidad.
+- Unificar estilos visuales siguiendo estrictamente el Style Guide.
+- Incrementar la documentación interna para facilitar próximas iteraciones.
+
+Se definió reforzar estos aspectos en el Sprint 3 a través de tareas específicas de optimización y estandarización.
+
+---
+
+### Sprint Goal & User Stories
+
+| **Sprint 3 Goal** |
+|-------------------|
+| Our focus is on refining the full Mindora user experience by improving style consistency, optimizing data visualization in the Dashboard, and enhancing user flow between test results, recommendations, and psychologist connection.<br><br>We believe it delivers a more intuitive and polished experience, reduces navigation friction, and increases user clarity regarding their stress progress and next steps.<br><br>This will be confirmed when users can navigate seamlessly from their test results to personalized insights and appointment scheduling without inconsistencias visuales ni barreras de uso. |
+
+**Traducción:**  
+Nuestro enfoque está en refinar la experiencia completa del usuario en MinDora, mejorando la consistencia visual, optimizando la visualización del Dashboard y facilitando el flujo entre resultados del test, recomendaciones y módulo de psicólogos. Esto se confirmará cuando los usuarios puedan navegar sin fricción entre módulos con claridad y con un diseño final coherente y profesional.
+
+---
+
+### Sprint 3 Velocity
+
+| **Sprint 3 Velocity** | Se trabajaron 6 historias de usuario, con un total de 24 Story Points. |
+|----------------------|------------------------------------------------------------------------|
+| **Sum of Story Points** | 24 |
+
+---
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante este sprint se definieron los responsables de cada aspecto funcional, visual y de integración del proyecto.  
+La organización de líderes y colaboradores se realizó mediante la metodología LACX, asegurando claridad en la asignación de responsabilidades.
+
+---
+
+| **Miembro del equipo** | **GitHub Username** | **Integración de Flujos (UX Flow)** | **Optimización del Dashboard** | **Recomendaciones & Psicólogos (Lógica)** | **Diseño Visual (CSS3)** | **Testing & QA** |
+|------------------------|----------------------|--------------------------------------|--------------------------------|-------------------------------------------|---------------------------|-------------------|
+| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | C | C | C |
+| Sebastián De Las Casas Latour | @U202213553 | L | C | C | L | C |
+| Eduardo Fabián Chacaliaza Minaya | @dedumcz | C | C | L | C | C |
+| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | C | C | C | L |
+| Juan José Meza Huanacune | @JuanMH1250 | C | L | C | C | L |
+
+---
+
+#### Aspectos considerados en el Sprint 3
+
+- **Integración de Flujos UX:** refinamiento del flujo principal, asegurando claridad y eliminación de pasos innecesarios.  
+- **Optimización del Dashboard:** mejora en gráficos, colores, espaciado, jerarquía visual y mensajes informativos.  
+- **Módulo de Recomendaciones y Psicólogos:** actualización del contenido, estilos de tarjetas y accesibilidad.  
+- **Diseño Visual:** aplicación estricta del estilo definido en el Capítulo IV (paleta, tipografía, espaciado).  
+- **Testing & QA:** pruebas de navegación completas, revisión de rutas, pruebas de responsividad y validación en múltiples dispositivos.
+
+---
 
 ### 5.2.3.3.Sprint Backlog 3.
 
