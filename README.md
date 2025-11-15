@@ -2416,13 +2416,13 @@ Los siguientes commits reflejan los avances implementados en el repositorio prin
 
 | **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
 |------------------|------------------|----------------|--------------------|--------------------------|----------------|
-| /mindora-frontend | feature/dashboard-ui | 7ab4e9c | feat(dashboard): implemented stress dashboard with recommendations | Se desarrolló el Dashboard con gráficos interactivos y sección de recomendaciones personalizadas. | 2025-10-07 |
-| /mindora-frontend | feature/recommendations-module | 8d32c7b | feat(recommendations): added breathing and activity exercises | Se agregaron ejercicios de respiración guiada y pausas activas. | 2025-10-07 |
-| /mindora-frontend | feature/psychologists-module | 2f6b11a | feat(psychologists): integrated psychologist search and booking | Se implementó el módulo de psicólogos con agendamiento simulado. | 2025-10-08 |
-| /mindora-frontend | feature/progress-report | 5b92a3f | feat(reports): simulated progress report generation | Se añadió simulación de reportes visuales de progreso en el Dashboard. | 2025-10-08 |
-| /mindora-frontend | fix/ui-optimization | 6d44a1e | fix(ui): improved layout and DOM rendering performance | Se mejoró la carga dinámica del DOM y la disposición visual en el Dashboard. | 2025-10-08 |
-| /mindora-frontend | feature/styling-update | 79b3da2 | feat(css): updated global styles and dashboard theme | Se actualizó la hoja de estilos para unificar colores, tipografía y diseño del Dashboard y módulo de psicólogos. | 2025-10-09 |
-| /mindora-frontend | feature/doc-update | 8f47b2c | docs(readme): documented Sprint 2 development evidence | Se agregó la documentación del Sprint 2 en el README, incluyendo commits y descripción técnica del progreso. | 2025-10-09 |
+| /mindora-frontend | main | 6d0e76e | main: firebase hosting and change for the header, login and register idiom | firebase hosting and change for the header, login and register idiom | 2025-11-14 |
+| /mindora-frontend | feature/recommendations-module | 8d32c7b |  |  | 2025-10-07 |
+| /mindora-frontend | feature/psychologists-module | 2f6b11a |  |  | 2025-10-08 |
+| /mindora-frontend | feature/progress-report | 5b92a3f |  |  | 2025-10-08 |
+| /mindora-frontend | fix/ui-optimization | 6d44a1e |  |  | 2025-10-08 |
+| /mindora-frontend | feature/styling-update | 79b3da2 |  |  | 2025-10-09 |
+| /mindora-frontend | feature/doc-update | 8f47b2c |  |  | 2025-10-09 |
 
 ---
 
@@ -2436,7 +2436,7 @@ Los videos de demostración fueron subidos a **Microsoft Stream** como evidencia
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-Se documentaron los scripts clave utilizados durante el desarrollo del sprint:  
+Se documentaron los scripts clave utilizados durante el desarrollo del sprint, son similares al sprint anterior pues se actualizzaron y relizaron cambios:  
 - `psicologos.js` — renderizado dinámico de tarjetas de psicólogos y filtrado de resultados.  
 - `validacionesForm.js` — manejo de autenticación de usuarios.  
 - `manipulacionDOM.js` — control dinámico de elementos según sesión iniciada.  
