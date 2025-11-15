@@ -2431,8 +2431,8 @@ Los endpoints desarrollados pueden visualizarse mediante Swagger en la documenta
 
 ### **Evidence Screenshots**
 ![Evidencia1](assets/md-images/assesments.jpeg)
-![Evidencia1](assets/md-images/reports.jpeg)
-![Evidencia1](assets/md-images/controller.jpeg)
+![Evidencia2](assets/md-images/reports.jpeg)
+![Evidencia3](assets/md-images/appointment.jpeg)
 
 #### **Execution Demo Video**
 - “Video demo will be included in final delivery.”
