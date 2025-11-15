@@ -2411,11 +2411,48 @@ Durante este sprint, se integraron las nuevas historias de usuario **US ()**, **
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
+Durante este sprint, el equipo desarrolló los componentes de seguimiento y recomendación de estrés, además del módulo de conexión con especialistas.  
+Los siguientes commits reflejan los avances implementados en el repositorio principal.
+
+| **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
+|------------------|------------------|----------------|--------------------|--------------------------|----------------|
+| /mindora-frontend | feature/dashboard-ui | 7ab4e9c | feat(dashboard): implemented stress dashboard with recommendations | Se desarrolló el Dashboard con gráficos interactivos y sección de recomendaciones personalizadas. | 2025-10-07 |
+| /mindora-frontend | feature/recommendations-module | 8d32c7b | feat(recommendations): added breathing and activity exercises | Se agregaron ejercicios de respiración guiada y pausas activas. | 2025-10-07 |
+| /mindora-frontend | feature/psychologists-module | 2f6b11a | feat(psychologists): integrated psychologist search and booking | Se implementó el módulo de psicólogos con agendamiento simulado. | 2025-10-08 |
+| /mindora-frontend | feature/progress-report | 5b92a3f | feat(reports): simulated progress report generation | Se añadió simulación de reportes visuales de progreso en el Dashboard. | 2025-10-08 |
+| /mindora-frontend | fix/ui-optimization | 6d44a1e | fix(ui): improved layout and DOM rendering performance | Se mejoró la carga dinámica del DOM y la disposición visual en el Dashboard. | 2025-10-08 |
+| /mindora-frontend | feature/styling-update | 79b3da2 | feat(css): updated global styles and dashboard theme | Se actualizó la hoja de estilos para unificar colores, tipografía y diseño del Dashboard y módulo de psicólogos. | 2025-10-09 |
+| /mindora-frontend | feature/doc-update | 8f47b2c | docs(readme): documented Sprint 2 development evidence | Se agregó la documentación del Sprint 2 en el README, incluyendo commits y descripción técnica del progreso. | 2025-10-09 |
+
+---
+
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Se realizaron pruebas de ejecución del Dashboard y del módulo de psicólogos en el entorno de desarrollo y en la versión desplegada en GitHub Pages.  
+Las demostraciones mostraron la correcta visualización de métricas de estrés, así como la interacción completa con el flujo de búsqueda y solicitud de citas.  
+Los videos de demostración fueron subidos a **Microsoft Stream** como evidencia de funcionalidad.
+
+---
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+Se documentaron los scripts clave utilizados durante el desarrollo del sprint:  
+- `psicologos.js` — renderizado dinámico de tarjetas de psicólogos y filtrado de resultados.  
+- `validacionesForm.js` — manejo de autenticación de usuarios.  
+- `manipulacionDOM.js` — control dinámico de elementos según sesión iniciada.  
+- `suscripcion.js` — lógica de modales reutilizada para agendar citas.  
+
+Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de datos, la documentación detalla las funciones y estructuras usadas para simular un entorno API.
+
+---
+
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+El despliegue del Sprint 3 se realizó actualizando la versión pública del sitio en **GitHub Pages**, incorporando el Dashboard y el módulo de psicólogos.  
+Se verificó la carga de todos los scripts, el correcto funcionamiento de las rutas y la integridad de los estilos CSS.  
+Además, se probaron las nuevas páginas en distintos dispositivos para garantizar la responsividad y accesibilidad.
+
+---
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
