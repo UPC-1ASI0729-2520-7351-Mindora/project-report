@@ -2394,20 +2394,19 @@ La organización de líderes y colaboradores se realizó mediante la metodologí
 ### 5.2.3.3.Sprint Backlog 3.
 
 El *Sprint Backlog 3 abordó las funcionalidades relacionadas con el seguimiento del progreso, la gestión de recomendaciones y la conexión con especialistas en salud mental.  
-Corresponde a las épicas **EP ()**, **EP ()** y **EP ()**.  
+Corresponde a las épicas **EP05 (Conexión con Especialistas en Salud Mental)**, **EP06 (Comunidad y Soporte Social)** y **EP07 (Integración con Entorno Laboral )**.  
 
-Durante este sprint, se integraron las nuevas historias de usuario **US ()**, **US ()** y **US ()**, ampliando la funcionalidad del sistema en el Dashboard y el módulo de especialistas.
+Durante este sprint, se integraron las nuevas historias de usuario **US16 (Participar en grupos de apoyo )**, **US18 (Participar en desafíos antiestrés)** y **US20 (Recibir recordatorios de ergonomía)**, ampliando la funcionalidad del sistema en el Dashboard y el módulo de especialistas.
 
 | **Sprint #** | **Sprint 2** |
 |---------------|--------------|
 | **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US** |  |  |  |  | Done |
-| **US** |  |  |  |  | Done |
-| **US** |  |  |  |  |
-| **US** |  |  |  |  |
-| **US** |  |  |  | To-Review |
-| **US** |  |  |  |  |  |
-| **US** |  |  |  |  |  |
+| **US15** | Compartir informes con especialistas |  | 2 | Fabricio / Juan | Done |
+| **US16** | Participar en grupos de apoyo |  | 2 | Manuel / Sebastián | Done |
+| **US17** | Acceder a biblioteca de recursos |  | 2 | Manuel / Eduardo |  In-Process |
+| **US18** | Participar en desafíos antiestrés  |  | 3 | Juan / Fabricio  | Done |
+| **US19** |  Analizar carga laboral |  | 8 | Fabricio / Sebastián | To-do |
+| **US20** |  Recibir recordatorios de ergonomía |  | 2 | Manuel / Eduardo | Done |
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
@@ -2417,12 +2416,12 @@ Los siguientes commits reflejan los avances implementados en el repositorio prin
 | **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
 |------------------|------------------|----------------|--------------------|--------------------------|----------------|
 | /mindora-frontend | main | 6d0e76e | main: firebase hosting and change for the header, login and register idiom | firebase hosting and change for the header, login and register idiom | 2025-11-14 |
-| /mindora-frontend | feature/recommendations-module | 8d32c7b |  |  | 2025-10-07 |
-| /mindora-frontend | feature/psychologists-module | 2f6b11a |  |  | 2025-10-08 |
-| /mindora-frontend | feature/progress-report | 5b92a3f |  |  | 2025-10-08 |
-| /mindora-frontend | fix/ui-optimization | 6d44a1e |  |  | 2025-10-08 |
-| /mindora-frontend | feature/styling-update | 79b3da2 |  |  | 2025-10-09 |
-| /mindora-frontend | feature/doc-update | 8f47b2c |  |  | 2025-10-09 |
+| /mindora-frontend | feature/recommendations-module | 8d32c7b |  |  | 2025-11-07 |
+| /mindora-frontend | feature/psychologists-module | 2f6b11a |  |  | 2025-11-08 |
+| /mindora-frontend | feature/progress-report | 5b92a3f |  |  | 2025-11-08 |
+| /mindora-frontend | fix/ui-optimization | 6d44a1e |  |  | 2025-11-08 |
+| /mindora-frontend | feature/styling-update | 79b3da2 |  |  | 2025-11-09 |
+| /mindora-frontend | feature/doc-update | 8f47b2c |  |  | 2025-11-09 |
 
 ---
 
