@@ -2530,24 +2530,31 @@ Nos gustaría hacerle algunas preguntas sobre la página web y aplicación móvi
 
 **Segmento 1: Trabajadores formales con jornadas extensas**
 
-- Nombre: 
+- Nombre: Xin Yu Shi Lin
 
-- Sexo: 
+- Sexo: Masculino
 
-- Edad: 
+- Edad: 21
 
-- Estado Civil: 
+- Estado Civil: Soltero
 
-- Labor:
+- Labor: Trabajador de Chifería
 
 Detalles de la entrevista:
 
-- Duración: 
+- Duración: 9:40 minutos
 
-Link : []()
+Link : [Entrevista a Xin](https://upcedupe-my.sharepoint.com/personal/u202320574_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202320574_upc_edu_pe%2FDocuments%2FEntrevista%20segmento%201%20Open%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bda21dd-8efd-4a85-af80-8f034a3f0cc0&isDarkMode=true)
 
 Resumen de los puntos clave en la entrevista:
 
+- Xin considera que el diseño general de la página es claro, moderno y coherente con la temática de bienestar emocional.
+- Destacó que la navegación es sencilla e intuitiva, especialmente en la Landing Page, facilitando que el usuario identifique rápidamente las funcionalidades principales.
+- Mencionó que el Dashboard de Estrés le pareció visualmente ordenado y fácil de interpretar, con métricas que aportan información útil de manera directa.
+- Señaló que el módulo de psicólogos está bien presentado, pero sugirió añadir detalles adicionales sobre la experiencia o especialidad de cada profesional para mejorar la toma de decisiones del usuario.
+- Valoró positivamente la integración del flujo entre el test de estrés, las recomendaciones y la sección de especialistas.
+- Considera que la responsividad está bien lograda, ya que el contenido se adapta adecuadamente a pantallas pequeñas.
+- Sugirió incluir pequeñas animaciones o micro-interacciones para hacer la experiencia aún más dinámica y atractiva.
 
 ---
 
