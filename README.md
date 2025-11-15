@@ -2417,7 +2417,11 @@ Los siguientes commits reflejan los avances implementados en el repositorio prin
 |------------------|------------------|----------------|--------------------|--------------------------|----------------|
 | /mindora-frontend | main | 6d0e76e | main: firebase hosting and change for the header, login and register idiom | firebase hosting and change for the header, login and register idiom | 2025-11-14 |
 | /mindora-backend | main | 64c710a | chore: initialize Spring Boot project (Java 25) | chore: initialize Spring Boot project (Java 25) | 2025-11-14 |
-| /mindora-frontend | feature/doc-update | 8f47b2c | docs(readme): documented Sprint 3 development evidence | Se agregó la documentación del Sprint 3 en el README, incluyendo commits y descripción técnica del progreso. | 2025-11-09 |
+| /mindora-frontend | feature/dashboard-ui | 7a86c9d | feat(dashboard): implemented group | Se desarrolló la implementación del modulo de grupos de apoyo. | 2025-10-26 |
+| /mindora-frontend | feature/psychologists-module | 3e6b77a | feat(psychologists): integrated psychologist document sharing | Se implementó el módulo de compartir informes. | 2025-11-05 |
+| /mindora-frontend | fix/ui-optimization | 6c46a1b | fix(ui): improved layout and DOM rendering performance | Se mejoró la carga dinámica del DOM y la disposición visual en el Dashboard. | 2025-11-06 |
+| /mindora-frontend | feature/styling-update | 7d33da3 | feat(css): updated global styles and dashboard theme | Se actualizó la hoja de estilos para unificar colores, tipografía y diseño del Dashboard y módulo de psicólogos. | 2025-11-09 |
+| /mindora-frontend | feature/doc-update | 8b97b5c | docs(readme): documented Sprint 3 development evidence | Se agregó la documentación del Sprint 3 en el README, incluyendo commits y descripción técnica del progreso. | 2025-11-14 |
 
 ---
 
