@@ -2285,111 +2285,81 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 
 ---
 
-### 5.2.3. Sprint 3.
+## 5.2.3 Sprint 3
 
 ### 5.2.3.1. Sprint Planning 3
 
-El tercer sprint se enfocó en refinar y consolidar la experiencia completa del usuario dentro del ecosistema MinDora.  
-Durante este sprint, el equipo se centró en tres líneas principales de trabajo:
-
-1. **Optimización del Dashboard de Estrés**, mejorando la visualización de métricas, consistencia gráfica y claridad jerárquica.  
-2. **Integración fluida entre módulos**, asegurando que el flujo Test → Dashboard → Recomendaciones → Psicólogos sea intuitivo y continuo.  
-3. **Mejoras visuales globales**, aplicando el Style Guide definido en el Capítulo IV para lograr una interfaz más profesional, coherente y accesible.
-
-Estas prioridades fueron definidas en base al feedback obtenido del Sprint 2 y a la necesidad de preparar el ecosistema MinDora para futuras integraciones de funcionalidades más avanzadas.
-
----
-
+| **Campo** | **Descripción** |
+|----------|------------------|
 | **Sprint #** | Sprint 3 |
-|-------------|-----------|
+| **Sprint Planning Background** | En este Sprint se inicia el desarrollo del backend de Mindora utilizando Spring Boot. El objetivo principal es implementar la base del sistema de servicios, comenzando por los bounded contexts definidos en la arquitectura del proyecto y habilitar los primeros endpoints funcionales para integrar el frontend existente. |
 | **Date** | 2025-10-15 |
-| **Time** | 8:00 PM |
-| **Location** | Microsoft Teams (Reunión virtual) |
-| **Prepared By** | Juan José Meza Huanacune |
-| **Attendees (to planning meeting)** | Manuel Fernando Joao Castro Picón / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Juan José Meza Huanacune |
+| **Time** | 08:00 PM (GMT -5) |
+| **Location** | Reunión virtual por Microsoft Teams |
+| **Prepared By** | Equipo Mindora |
+| **Attendees (to planning meeting)** | Castro Picón Joao / De Las Casas Latour Sebastián / Chacaliaza Minaya Eduardo / Quispe Barzola Fabricio / Meza Huanacune Juan |
 
----
+| **Sprint 2 – 3 Review Summary** | Durante el Sprint 2 se completó el Dashboard de Estrés, el módulo de Recomendaciones y el Directorio de Psicólogos. El frontend alcanzó un nivel avanzado de desarrollo y quedó listo para integrarse con un backend real. Los objetivos propuestos fueron cumplidos dentro del tiempo estimado. |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-#### Sprint 2 – Review Summary
+| **Sprint 2 – 3 Retrospective Summary** | El equipo identificó la necesidad de escalar Mindora hacia un ecosistema más robusto mediante la implementación de un backend real. Como mejora clave, se acordó estandarizar modelos y servicios utilizando principios de Domain-Driven Design (DDD) y definir bounded contexts claros para evitar acoplamiento con el frontend. También se determinó crear endpoints REST bien documentados para soportar el flujo completo de test, recomendaciones y gestión de citas. |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-En el Sprint 2 se completó:
+| **Sprint Goal & User Stories** | |
+|-------------------------------|---|
 
-- El Dashboard de Estrés con métricas dinámicas.
-- El módulo de Recomendaciones y Gestión del Estrés.
-- El sistema de conexión con psicólogos y programación básica de citas.
-- La integración de resultados del Test de Estrés hacia el panel principal.
-- El despliegue actualizado en GitHub Pages.
-- Pruebas de ejecución en distintas resoluciones para validar responsividad.
-
-El sistema avanzó hacia una versión más completa y funcional, abarcando ya la interacción principal del usuario con la plataforma.
-
----
-
-#### Sprint 2 – Retrospective Summary
-
-El equipo identificó los siguientes puntos:
-
-**Fortalezas:**
-
-- Buena organización en Trello.
-- Integraciones sin conflictos significativos en GitHub.
-- Mayor eficiencia en la división de tareas.
-
-**Oportunidades de mejora:**
-
-- Modularizar mejor el código JavaScript para mejorar mantenibilidad.
-- Unificar estilos visuales siguiendo estrictamente el Style Guide.
-- Incrementar la documentación interna para facilitar próximas iteraciones.
-
-Se definió reforzar estos aspectos en el Sprint 3 a través de tareas específicas de optimización y estandarización.
-
----
-
-### Sprint Goal & User Stories
-
-| **Sprint 3 Goal** |
-|-------------------|
-| Our focus is on refining the full Mindora user experience by improving style consistency, optimizing data visualization in the Dashboard, and enhancing user flow between test results, recommendations, and psychologist connection.<br><br>We believe it delivers a more intuitive and polished experience, reduces navigation friction, and increases user clarity regarding their stress progress and next steps.<br><br>This will be confirmed when users can navigate seamlessly from their test results to personalized insights and appointment scheduling without inconsistencias visuales ni barreras de uso. |
-
-**Traducción:**  
-Nuestro enfoque está en refinar la experiencia completa del usuario en MinDora, mejorando la consistencia visual, optimizando la visualización del Dashboard y facilitando el flujo entre resultados del test, recomendaciones y módulo de psicólogos. Esto se confirmará cuando los usuarios puedan navegar sin fricción entre módulos con claridad y con un diseño final coherente y profesional.
-
----
-
-### Sprint 3 Velocity
-
-| **Sprint 3 Velocity** | Se trabajaron 6 historias de usuario, con un total de 24 Story Points. |
-|----------------------|------------------------------------------------------------------------|
+| **Sprint 3 Goal** | Desarrollar la primera versión funcional del backend de Mindora utilizando Spring Boot, implementando los bounded contexts de *Stress Tracking*, *Recommendations* y *Appointments*, aplicando principios de DDD para asegurar escalabilidad y mantenibilidad. Se espera entregar endpoints REST iniciales y documentación OpenAPI preliminar. |
+| **Sprint 3 Velocity** | 6 |
 | **Sum of Story Points** | 24 |
 
 ---
 
-### 5.2.3.2. Aspect Leaders and Collaborators
+### 5.2.3.2. Aspect Leaders and Collaborators.
 
-Durante este sprint se definieron los responsables de cada aspecto funcional, visual y de integración del proyecto.  
-La organización de líderes y colaboradores se realizó mediante la metodología LACX, asegurando claridad en la asignación de responsabilidades.
+En la tercera iteración (Sprint 3), el equipo se enfocó en el desarrollo del backend de Mindora utilizando Spring Boot y aplicando principios de Domain-Driven Design (DDD).  
+Este sprint estuvo asociado principalmente a los siguientes *epics* dentro de la arquitectura del proyecto:
+
+- **EP02 – Gestión del Test, Recomendaciones y Métricas de Estrés**  
+- **EP03 – Gestión de Citas y Conexión con Profesionales**  
+- **EP04 – Gestión de Usuarios y Autenticación**
+
+Durante este sprint se construyeron los primeros módulos funcionales del backend correspondientes a los bounded contexts definidos:  
+**Stress Test & Metrics**, **Recommendations**, **Appointments & Professional Support**, y **Identity & Access**.
+
+El desarrollo incluyó la creación de controladores REST, servicios de dominio, repositorios, modelos persistentes, entidades y un primer borrador de la documentación OpenAPI.  
+También se implementaron principios de diseño modular, separación por capas y consistencia entre aggregate roots.
+
+---
+
+## **Historias de Usuario Abordadas**
+
+| **ID** | **Título** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado** |
+|--------|------------|-----------------|------------------------|----------------|------------|
+
+| US20 | Registrar resultado de test de estrés | Como usuario, quiero que mis respuestas del Test de Estrés se registren en el backend para generar métricas y seguimiento. | 5 | Equipo | Done |
+
+| US21 | Obtener métricas de estrés | Como usuario, quiero consultar mis niveles de estrés procesados para visualizar mi progreso en el Dashboard. | 4 | Equipo | Done |
+
+| US22 | Generar recomendaciones automáticas | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis métricas de estrés. | 5 | Equipo | Done |
+
+| US23 | Listar psicólogos disponibles | Como usuario, quiero obtener desde el backend la lista de psicólogos para elegir con quién agendar una cita. | 4 | Equipo | Done |
+
+| US24 | Crear una cita con un psicólogo | Como usuario, quiero registrar una cita con un psicólogo mediante un endpoint del backend. | 6 | Equipo | Done |
+
+| US25 | Reprogramar una cita | Como usuario, quiero modificar la fecha y hora de una cita ya registrada. | 4 | Equipo | Done |
+
+| US26 | Cancelar una cita | Como usuario, quiero poder cancelar una cita desde el backend para liberar el horario. | 3 | Equipo | Done |
+
+| US27 | Consultar citas por usuario | Como usuario, quiero ver todas mis citas programadas para gestionar mi agenda. | 4 | Equipo | Done |
+
+| US28 | Autenticarse en la plataforma | Como usuario, quiero iniciar sesión utilizando un servicio de autenticación seguro. | 6 | Equipo | Done |
+
+| US29 | Registrar cuenta de usuario | Como visitante, quiero crear una cuenta para acceder a las funcionalidades principales de la plataforma. | 5 | Equipo | Done |
+
+| US30 | Obtener perfil de usuario | Como usuario autenticado, quiero recuperar mi información personal para visualizar y editar mis datos. | 4 | Equipo | Done |
 
 ---
 
-| **Miembro del equipo** | **GitHub Username** | **Integración de Flujos (UX Flow)** | **Optimización del Dashboard** | **Recomendaciones & Psicólogos (Lógica)** | **Diseño Visual (CSS3)** | **Testing & QA** |
-|------------------------|----------------------|--------------------------------------|--------------------------------|-------------------------------------------|---------------------------|-------------------|
-| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | C | C | C |
-| Sebastián De Las Casas Latour | @U202213553 | L | C | C | L | C |
-| Eduardo Fabián Chacaliaza Minaya | @dedumcz | C | C | L | C | C |
-| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | C | C | C | L |
-| Juan José Meza Huanacune | @JuanMH1250 | C | L | C | C | L |
-
----
-
-#### Aspectos considerados en el Sprint 3
-
-- **Integración de Flujos UX:** refinamiento del flujo principal, asegurando claridad y eliminación de pasos innecesarios.  
-- **Optimización del Dashboard:** mejora en gráficos, colores, espaciado, jerarquía visual y mensajes informativos.  
-- **Módulo de Recomendaciones y Psicólogos:** actualización del contenido, estilos de tarjetas y accesibilidad.  
-- **Diseño Visual:** aplicación estricta del estilo definido en el Capítulo IV (paleta, tipografía, espaciado).  
-- **Testing & QA:** pruebas de navegación completas, revisión de rutas, pruebas de responsividad y validación en múltiples dispositivos.
-
----
 
 ### 5.2.3.3.Sprint Backlog 3.
 
@@ -2425,42 +2395,80 @@ Los siguientes commits reflejan los avances implementados en el repositorio prin
 
 ---
 
-### 5.2.3.5. Execution Evidence for Sprint Review
+### 5.2.3.5. Execution Evidence for Sprint Review.
 
-Durante el Sprint 3 se realizaron pruebas de navegación, visualización y usabilidad para validar las mejoras realizadas en el Dashboard de Estrés, el flujo entre módulos y la consistencia visual general de Mindora.
+Después de finalizar el tercer sprint, se implementaron los primeros endpoints del backend de Mindora utilizando Spring Boot.  
+Estos servicios permiten conectar el Test de Estrés, el Dashboard, las Recomendaciones y la Gestión de Citas con un backend real.
 
-Las pruebas confirmaron:
+Los endpoints desarrollados pueden visualizarse mediante Swagger en la documentación generada automáticamente.
 
-- Navegación fluida entre Test → Dashboard → Recomendaciones → Psicólogos.
-- Mejoras visuales aplicadas correctamente en todos los módulos.
-- Reducción de fricción en la lectura de métricas del Dashboard.
-- Adecuada responsividad en dispositivos móviles y tablets.
-- Corrección de inconsistencias visuales identificadas en el Sprint 2.
+---
 
-#### **Evidence Screenshots**
-![Evidencia1](assets/md-images/Dashboard.png)
-![Evidencia2](assets/md-images/plan.png)
-![Evidencia3](assets/md-images/inicio.png)
-![Evidencia4](assets/md-images/dashboard2.png)
-![Evidencia5](assets/md-images/coaching.png)
-![Evidencia6](assets/md-images/planes.png)
+#### Mindora.API – Endpoints Implementados (Sprint 3)
+
+**Stress Test & Metrics**
+- `POST /api/v1/stress-tests` – Registrar respuestas del Test de Estrés  
+- `GET /api/v1/stress-tests/{userId}` – Obtener historial de tests de un usuario  
+- `GET /api/v1/stress-metrics/{userId}` – Obtener métricas procesadas para el Dashboard  
+
+**Recommendations**
+- `GET /api/v1/recommendations/{userId}` – Obtener recomendaciones basadas en métricas de estrés  
+- `POST /api/v1/recommendations/refresh/{userId}` – Regenerar recomendaciones  
+
+**Professionals & Appointments**
+- `GET /api/v1/professionals` – Listar psicólogos disponibles  
+- `POST /api/v1/appointments` – Crear una cita  
+- `PUT /api/v1/appointments/{id}` – Reprogramar una cita  
+- `DELETE /api/v1/appointments/{id}` – Cancelar una cita  
+- `GET /api/v1/appointments/user/{userId}` – Listar citas por usuario  
+
+**Identity & Access**
+- `POST /api/v1/auth/login` – Autenticación de usuario  
+- `POST /api/v1/auth/register` – Registro de nuevo usuario  
+- `GET /api/v1/users/{id}` – Obtener perfil de usuario  
+
+---
+
+### **Evidence Screenshots**
+![Evidencia1](assets/md-images/assesments.jpeg)
+![Evidencia1](assets/md-images/reports.jpeg)
+![Evidencia1](assets/md-images/controller.jpeg)
 
 #### **Execution Demo Video**
 - “Video demo will be included in final delivery.”
 
 ---
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Se documentaron los scripts clave utilizados durante el desarrollo del sprint, son similares al sprint anterior pues se actualizaron y relizaron cambios:  
-- `psicologos.js` — renderizado dinámico de tarjetas de psicólogos y filtrado de resultados.  
-- `validacionesForm.js` — manejo de autenticación de usuarios.  
-- `manipulacionDOM.js` — control dinámico de elementos según sesión iniciada.  
-- `suscripcion.js` — lógica de modales reutilizada para agendar citas.  
+Durante el Sprint 3, la documentación de servicios del backend de Mindora se centró en la definición, estandarización y exposición de endpoints RESTful construidos con Spring Boot, aplicando principios de Domain-Driven Design (DDD) dentro de los bounded contexts establecidos.
 
-Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de datos, la documentación detalla las funciones y estructuras usadas para simular un entorno API.
+Se registraron los siguientes entregables técnicos:
 
 ---
+
+### **Documentación formal del backend**
+
+- **Arquitectura Hexagonal (Ports & Adapters):** definición de capas de dominio, aplicación e infraestructura para escalabilidad y separación de responsabilidades.
+- **Bounded Contexts implementados:**  
+  - *Stress Test & Metrics*  
+  - *Recommendations*  
+  - *Appointments & Professional Support*  
+  - *Identity & Access*  
+- **Definición de Aggregate Roots y entidades principales:** StressTest, StressMetric, Recommendation, Professional, Appointment, User.
+- **Repositorios JPA y Servicios de Dominio:** implementados siguiendo patrones de diseño modular.
+- **Controladores REST:** expuestos bajo `/api/v1/*`, organizados por contexto.
+- **Documentación OpenAPI/Swagger:** generada automáticamente para visualización y prueba de endpoints.
+
+---
+
+### **Enlaces relevantes**
+
+- Link a Swagger: ![Swagger](http://localhost:8080/swagger)
+- Repositorio Backend: ![Backend](https://github.com/UPC-1ASI0729-2520-7351-Mindora/MinDora-Backend)
+
+---
+
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
