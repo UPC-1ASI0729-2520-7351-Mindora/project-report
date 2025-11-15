@@ -2426,13 +2426,26 @@ Los siguientes commits reflejan los avances implementados en el repositorio prin
 
 ---
 
-### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.5. Execution Evidence for Sprint Review
 
-Se realizaron pruebas de ejecución del Dashboard y del módulo de psicólogos en el entorno de desarrollo y en la versión desplegada en GitHub Pages.  
-Las demostraciones mostraron la correcta visualización de métricas de estrés, así como la interacción completa con el flujo de búsqueda y solicitud de citas.  
-Los videos de demostración fueron subidos a **Microsoft Stream** como evidencia de funcionalidad.
+Durante el Sprint 3 se realizaron pruebas de navegación, visualización y usabilidad para validar las mejoras realizadas en el Dashboard de Estrés, el flujo entre módulos y la consistencia visual general de Mindora.
+
+Las pruebas confirmaron:
+
+- Navegación fluida entre Test → Dashboard → Recomendaciones → Psicólogos.
+- Mejoras visuales aplicadas correctamente en todos los módulos.
+- Reducción de fricción en la lectura de métricas del Dashboard.
+- Adecuada responsividad en dispositivos móviles y tablets.
+- Corrección de inconsistencias visuales identificadas en el Sprint 2.
+
+#### **Evidence Screenshots**
+> *(Insertar aquí imágenes de Dashboard actualizado, navegación entre módulos, tarjetas nuevas de recomendaciones, etc.)*
+
+#### **Execution Demo Video**
+> *(Si existe un video, colocar enlace. Si no, puedes añadir “Video demo will be included in final delivery.”)*
 
 ---
+
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -2446,13 +2459,22 @@ Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de d
 
 ---
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-El despliegue del Sprint 3 se realizó actualizando la versión pública del sitio en **GitHub Pages**, incorporando el Dashboard y el módulo de psicólogos.  
-Se verificó la carga de todos los scripts, el correcto funcionamiento de las rutas y la integridad de los estilos CSS.  
-Además, se probaron las nuevas páginas en distintos dispositivos para garantizar la responsividad y accesibilidad.
+El despliegue del Sprint 3 consistió en actualizar la versión pública del sitio en GitHub Pages, incorporando las mejoras visuales, de navegación y de integración entre los módulos principales.
+
+Durante el proceso de despliegue se verificó:
+
+- Correcta carga y funcionamiento de todos los scripts optimizados.
+- Navegación fluida entre test, dashboard, recomendaciones y directorio de psicólogos.
+- Integridad de estilos aplicados según el Style Guide.
+- Compatibilidad del sitio en dispositivos móviles, tablets y pantallas de escritorio.
+- Ausencia de errores en consola relacionados al refactor de JavaScript.
+
+El despliegue se realizó en la rama `main`, asegurando que la versión actualizada esté disponible para validación funcional.
 
 ---
+
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
