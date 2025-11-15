@@ -2410,17 +2410,13 @@ Durante este sprint, se integraron las nuevas historias de usuario **US16 (Parti
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
-Durante este sprint, el equipo desarrolló los componentes de seguimiento y recomendación de estrés, además del módulo de conexión con especialistas.  
+Durante este sprint, el equipo actualizó los componentes de seguimiento y recomendación de estrés, además del módulo de conexión con especialistas.  
 Los siguientes commits reflejan los avances implementados en el repositorio principal.
 
 | **Repositorio** | **Rama (Branch)** | **Commit Id** | **Mensaje del Commit** | **Descripción del cambio (Commit Body)** | **Fecha** |
 |------------------|------------------|----------------|--------------------|--------------------------|----------------|
 | /mindora-frontend | main | 6d0e76e | main: firebase hosting and change for the header, login and register idiom | firebase hosting and change for the header, login and register idiom | 2025-11-14 |
-| /mindora-frontend | feature/recommendations-module | 8d32a6fd |  |  | 2025-11-07 |
-| /mindora-frontend | feature/psychologists-module | 2f6b11a |  |  | 2025-11-08 |
-| /mindora-frontend | feature/progress-report | 5b92a3f |  |  | 2025-11-08 |
-| /mindora-frontend | fix/ui-optimization | 6d44a1e |  |  | 2025-11-08 |
-| /mindora-frontend | feature/styling-update | 79b3da2 |  |  | 2025-11-09 |
+| /mindora-backend | main | 64c710a | chore: initialize Spring Boot project (Java 25) | chore: initialize Spring Boot project (Java 25) | 2025-11-14 |
 | /mindora-frontend | feature/doc-update | 8f47b2c | docs(readme): documented Sprint 3 development evidence | Se agregó la documentación del Sprint 3 en el README, incluyendo commits y descripción técnica del progreso. | 2025-11-09 |
 
 ---
@@ -2448,7 +2444,7 @@ Las pruebas confirmaron:
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-Se documentaron los scripts clave utilizados durante el desarrollo del sprint, son similares al sprint anterior pues se actualizzaron y relizaron cambios:  
+Se documentaron los scripts clave utilizados durante el desarrollo del sprint, son similares al sprint anterior pues se actualizaron y relizaron cambios:  
 - `psicologos.js` — renderizado dinámico de tarjetas de psicólogos y filtrado de resultados.  
 - `validacionesForm.js` — manejo de autenticación de usuarios.  
 - `manipulacionDOM.js` — control dinámico de elementos según sesión iniciada.  
@@ -2460,7 +2456,7 @@ Dado que el proyecto utiliza archivos locales (`usuarios.json`) como fuente de d
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-El despliegue del Sprint 3 consistió en actualizar la versión pública del sitio en GitHub Pages, incorporando las mejoras visuales, de navegación y de integración entre los módulos principales.
+El despliegue del Sprint 3, similaar al anterior, consistió en actualizar la versión pública del sitio en GitHub Pages, incorporando las mejoras visuales, de navegación y de integración entre los módulos principales.
 
 Durante el proceso de despliegue se verificó:
 
