@@ -243,6 +243,23 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- *Sebastián De Las Casa*: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- *Eduardo Chacaliaza*: Explicó el apartado de **Solution Profile** durante la exposición.<br>- *Fabricio Quispe*: Presentó la problemática y segmentos objetivos.<br>- *Juan Meza*: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redacción de la **carátula** y parte de la descripción del startup.<br>- *Sebastián De Las Casa*: Contribuyó en el **índice de contenidos** y organización del documento.<br>- *Eduardo Chacaliaza*: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- *Fabricio Quispe*: Redactó los apartados de antecedentes y problemática.<br>- *Juan Meza*: Revisó ortografía y estilo en el Student Outcome. | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
 
+---
+
+## Cuadro de Student Outcome 3 – Comunicación efectiva (TP1)
+
+| **Criterio específico** | **Acciones realizadas (TP1)** | **Conclusiones (TP1)** |
+|-------------------------|-------------------------------|------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Expuso el planteamiento del problema y objetivos iniciales del proyecto.<br>- *Sebastián De Las Casa*: Presentó la metodología aplicada y segmentación de usuarios.<br>- *Eduardo Chacaliaza*: Explicó las herramientas y técnicas utilizadas para la investigación.<br>- *Fabricio Quispe*: Detalló los hallazgos preliminares y evidencia recolectada.<br>- *Juan Meza*: Contribuyó aclarando dudas y complementando ejemplos prácticos. | El grupo logró comunicar oralmente los fundamentos del proyecto de manera clara y estructurada, adaptando el lenguaje a la audiencia académica y demostrando coordinación entre los integrantes. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redactó la introducción y planteamiento del problema.<br>- *Sebastián De Las Casa*: Elaboró la sección de objetivos y alcance.<br>- *Eduardo Chacaliaza*: Coordinó la documentación en Markdown y su conversión a PDF.<br>- *Fabricio Quispe*: Redactó la sección de metodología y segmentación de usuarios.<br>- *Juan Meza*: Revisó ortografía, formato y consistencia del documento. | Se logró un documento escrito coherente y claro, con evidencia de que todos los miembros pudieron comunicar ideas técnicas y de investigación de manera efectiva. |
+
+---
+
+## Cuadro de Student Outcome 3 – Comunicación efectiva (TB2)
+
+| **Criterio específico** | **Acciones realizadas (TB2)** | **Conclusiones (TB2)** |
+|-------------------------|-------------------------------|------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Presentó la solución propuesta y su justificación.<br>- *Sebastián De Las Casa*: Expuso la arquitectura de la solución y flujo de usuarios.<br>- *Eduardo Chacaliaza*: Demostró prototipos y herramientas utilizadas.<br>- *Fabricio Quispe*: Detalló casos de uso y ejemplos prácticos.<br>- *Juan Meza*: Coordinó la sesión de preguntas y respuestas, aclarando dudas de la audiencia. | El grupo consolidó la capacidad de exponer ideas complejas de manera comprensible, demostrando habilidades de comunicación oral profesional y coordinación efectiva entre miembros. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redactó la descripción de la solución y sus ventajas.<br>- *Sebastián De Las Casa*: Documentó diagramas, flujos y arquitectura.<br>- *Eduardo Chacaliaza*: Coordinó la integración del documento final y formateo en Markdown.<br>- *Fabricio Quispe*: Redactó ejemplos de casos de uso y recomendaciones.<br>- *Juan Meza*: Revisó ortografía, claridad y consistencia general. | La documentación final mostró una presentación escrita clara, organizada y profesional, evidenciando la capacidad del grupo para comunicar información técnica y conceptual a diferentes audiencias. |
 
 ---
 # 1. Capítulo I: Introducción
