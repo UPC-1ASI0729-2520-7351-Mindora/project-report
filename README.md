@@ -11,8 +11,8 @@
   <p align="center">NRC: 7351</p>
   <p align="center">Nombre del profesor: Rafael Oswaldo Castro Veramendi</p>
   <p align="center"><b>Informe de Trabajo Final</b></p>
-  <p align="center">Startup: NeuroDora</p>
-  <p align="center">Producto: MinDora</p>
+  <p align="center">Nombre del startup: NeuroDora</p>
+  <p align="center">Nombre del producto: MinDora</p>
 </div>
 
 ---
