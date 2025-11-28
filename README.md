@@ -9,7 +9,7 @@
   <p align="center">Codigo del curso: 1ASI0729 </p>
     <p align="center">Nombre del curso: Desarrollo de Aplicaciones Open Source</p>
   <p align="center">NRC: 7351</p>
-  <p align="center">Profesor: Rafael Oswaldo Castro Veramendi</p>
+  <p align="center">Nombre del profesor: Rafael Oswaldo Castro Veramendi</p>
   <p align="center"><b>Informe de Trabajo Final</b></p>
   <p align="center">Startup: NeuroDora</p>
   <p align="center">Producto: MinDora</p>
