@@ -1560,7 +1560,7 @@ Los prototipos de escritorio muestran los siguientes flujos clave:
 <img src="assets/md-images/desktopprototype.png" alt="Prototipo Desktop" width="500px"/>  
 
 **Enlace al video de simulación (Microsoft Stream):**  
-👉 [Video Prototipo Desktop](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/ESPUzlI83qlPntV3adTZ9f0BIte3WfUYWUaoJaWukbfJAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NTucih)  
+👉 [https://tinyurl.com/3ehp8d3k](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/ESPUzlI83qlPntV3adTZ9f0BIte3WfUYWUaoJaWukbfJAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NTucih)  
 
 ---
 
@@ -1575,7 +1575,7 @@ Los prototipos móviles priorizan la navegación simplificada en pantallas peque
 <img src="assets/md-images/mobileprototype.png" alt="Prototipo Mobile" width="250px"/>  
 
 **Enlace al video de simulación (Microsoft Stream):**  
-👉 [Video Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EfQkEwTtj7tFoolk12GlXqgBNozvOzO3vjmQwn9YERoZ_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cFfbEj)  
+👉 [https://tinyurl.com/3kyr7ywp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EfQkEwTtj7tFoolk12GlXqgBNozvOzO3vjmQwn9YERoZ_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cFfbEj)  
 
 ---
 
@@ -2067,7 +2067,6 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 La implementación de la página de inicio, los servicios y las aplicaciones es un paso fundamental en nuestro proceso de desarrollo. Nos permite materializar el diseño y la funcionalidad planificados, transformando los conceptos en productos tangibles y listos para su uso. Esta fase nos permite traducir las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
-## 5.2.1. Sprint 1
 
 ## 5.2.1. Sprint 1
 
@@ -2465,8 +2464,8 @@ Se registraron los siguientes entregables técnicos:
 
 ### **Enlaces relevantes**
 
-- Link a Swagger: ![Swagger](http://localhost:8080/swagger)
-- Repositorio Backend: ![Backend](https://github.com/UPC-1ASI0729-2520-7351-Mindora/MinDora-Backend)
+- Link a Swagger: ![http://localhost:8080/swagger]
+- Repositorio Backend: ![https://github.com/UPC-1ASI0729-2520-7351-Mindora/MinDora-Backend]
 
 ---
 
@@ -2557,7 +2556,7 @@ Detalles de la entrevista:
 
 - Duración: 9:40 minutos
 
-Link : [Entrevista a Xin](https://upcedupe-my.sharepoint.com/personal/u202320574_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202320574_upc_edu_pe%2FDocuments%2FEntrevista%20segmento%201%20Open%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bda21dd-8efd-4a85-af80-8f034a3f0cc0&isDarkMode=true)
+Link : [https://tinyurl.com/zrw6a3mr](https://upcedupe-my.sharepoint.com/personal/u202320574_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202320574_upc_edu_pe%2FDocuments%2FEntrevista%20segmento%201%20Open%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8bda21dd-8efd-4a85-af80-8f034a3f0cc0&isDarkMode=true)
 
 Resumen de los puntos clave en la entrevista:
 
@@ -2587,7 +2586,7 @@ Detalles de la entrevista:
 
 - Duración: 12:14 minutos
 
-- Link: [Entrevista a Valeria](https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing)
+- Link: [https://drive.google.com/file/d/16ovg4WC7yGEFXvyMTu4t7b5Q7PslxGmO/view?usp=sharing]
 
 Resumen de los puntos clave en la entrevista:
 
@@ -2619,7 +2618,7 @@ Este análisis se basa en principios de usabilidad para evaluar la experiencia d
 
 ## 5.4. Video About-the-Product.
 
- Link : [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213553_upc_edu_pe/IQC6INK7Mu2ySaPCJHEsmhNeAYdKLJHAdp_nqOew8S-GZQo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8h0Vd5)
+ Link : [https://tinyurl.com/nhbbwrzu](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213553_upc_edu_pe/IQC6INK7Mu2ySaPCJHEsmhNeAYdKLJHAdp_nqOew8S-GZQo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8h0Vd5)
 
  Link de nuestro Frontend: [https://mindora-host.web.app](https://mindora-host.web.app)
 ---
