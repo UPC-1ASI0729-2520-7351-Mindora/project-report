@@ -2894,27 +2894,51 @@ Resumen de los puntos clave en la entrevista:
 
   ---
 
-- **Nombre:** Eduardo Díaz Veliz  
-- **Sexo:** Masculino  
-- **Edad:** 23  
-- **Estado Civil:** Soltero  
-- **Labor:** Analista contable en una empresa corporativa de retail
+- **Nombre:** Mariana
+- **Sexo:** Femenino  
+- **Edad:** 27  
+- **Estado Civil:** Soltera  
+- **Labor:** Asistente administrativa en empresa corporativa  
 
 **Detalles de la entrevista:**
 
-- **Duración:** 3:30 minutos  
-- **Link:** https://tinyurl.com/mr2hkpmb
+- **Duración:** 11:03 minutos  
+- **Link:** https://tinyurl.com/mr2aye4r
 
 **Resumen de los puntos clave de la entrevista:**
 
-- Eduardo considera que la Landing Page tiene una presentación moderna y profesional, con una buena coherencia visual entre colores, tipografía y espaciado.
-- Mencionó que la navegación dentro de la página es fluida, permitiendo entender de inmediato qué ofrece la plataforma sin confusiones.
-- Destacó que la sección de Beneficios está bien explicada y apoyada por íconos claros, lo que refuerza la propuesta de valor.
-- Sobre los psicólogos, comentó que la presentación inspira confianza y que las tarjetas ofrecen información suficiente sin saturar.
-- Indicó que las pantallas de Login y Registro son intuitivas, destacando el diseño en estilo “glassmorphism” como moderno y agradable.
-- Señaló que el Test de Estrés es rápido, directo y fácil de usar, lo cual considera crucial para no generar estrés adicional al usuario.
-- Resaltó que la página de Suscripción es una de las más sólidas, con planes claramente diferenciados y un diseño elegante.
-- Considera que todo el frontend mantiene una coherencia visual fuerte, ofreciendo un flujo continuo y bien estructurado.
+- Mariana percibe la pantalla principal como clara y emocionalmente equilibrada; destacó que transmite tranquilidad desde el primer instante.
+- Considera que la sección de características principales está muy bien diseñada: cada tarjeta es breve, directa y está bien acompañada por íconos.
+- Señaló que el flujo “¿Cómo funciona MinDora?” es uno de los puntos más fuertes de la plataforma gracias a su simplicidad en tres pasos.
+- Manifestó que la diferenciación entre planes es muy clara y profesional; el Plan Popular está correctamente resaltado sin volverse invasivo.
+- Le gustó que el Plan Gratis sea funcional y no un simple gancho vacío, lo cual genera confianza en el producto.
+- Recalcó que el diseño general es consistente, profesional y adecuado para una plataforma de bienestar emocional.
+
+---
+
+- **Nombre:** Varómetro  
+- **Sexo:** Masculino  
+- **Edad:** 31  
+- **Estado Civil:** Soltero  
+- **Labor:** Trabajador independiente (freelancer de servicios varios)
+
+**Detalles de la entrevista:**
+
+- **Duración:** 11:06 minutos  
+- **Link:** https://tinyurl.com/msm82ttm
+
+**Resumen de los puntos clave de la entrevista:**
+
+- Varómetro afirmó que la pantalla principal comunica confianza y claridad desde el inicio, con un diseño ordenado y sin carga visual innecesaria.
+- Destacó que los beneficios están bien sintetizados y que los íconos facilitan el escaneo rápido, lo cual es ideal para usuarios con poco tiempo.
+- Consideró que el flujo en tres pasos es uno de los elementos mejor logrados por su simplicidad y efectividad para nuevos usuarios.
+- Percibió los planes como transparentes y bien diferenciados; destacó que el Plan Popular está resaltado de manera natural.
+- Opinó que la pantalla de suscripción presenta información clara y mantiene coherencia visual incluso para un plan gratuito.
+- Consideró que la sección de Coaching y Psicólogos luce completa y lista para usarse, con filtros y botones bien organizados.
+- La pestaña de Comunidad le pareció útil y realista, con foros y talleres que generan interacción y aprendizaje.
+- Valoró el Chat en Vivo como una herramienta esencial para personas que necesitan apoyo inmediato.
+- Sobre el Dashboard, opinó que los indicadores y gráficos ayudan a visualizar el estado emocional de manera clara y comprensible.
+- Definió su experiencia general como “equilibrada, profesional y muy útil para personas ocupadas o con rutinas cambiantes”.
   
 ---
 
@@ -2969,6 +2993,31 @@ Resumen de los puntos clave en la entrevista:
 - Comentó que la página de Suscripción está bien estructurada y que los diferentes planes destacan correctamente, especialmente el plan popular.
 - Describió el Test de Estrés como simple y rápido, con botones numéricos fáciles de usar y preguntas claras.
 - Considera que el frontend completo mantiene coherencia visual y funcional, haciendo que la navegación entre secciones sea natural y sin rupturas.
+---
+- **Nombre:** Braden  
+- **Sexo:** Masculino  
+- **Edad:** 29  
+- **Estado Civil:** Soltero  
+- **Labor:** Project Manager en empresa tecnológica  
+
+**Detalles de la entrevista:**
+
+- **Duración:** 8:47 minutos  
+- **Link:** https://tinyurl.com/4xyx9tcm
+
+**Resumen de los puntos clave de la entrevista:**
+
+- Braden resaltó que la pantalla inicial comunica propósito y claridad; destacó la ausencia de elementos distractores.
+- Apreció las tarjetas de beneficios por su estructura compacta, íconos claros y coherencia visual entre funciones.
+- Consideró que el flujo “Revisa, Obtén, Mejora” es ideal para un usuario nuevo porque no requiere explicación adicional.
+- Observó que la comparación de planes es muy clara, especialmente por el badge de “Más popular” en el plan intermedio.
+- Señaló que la página de suscripción del Plan Gratis es profesional, ordenada y consistente con los planes pagos.
+- Destacó que la sección de psicólogos se parece a un marketplace real, con filtros útiles y botones de acción bien ubicados.
+- Opinó que la Comunidad y el Chat en Vivo aportan valor emocional y social, complementando la parte técnica de la app.
+- Consideró el Dashboard como una de las secciones más potentes, especialmente por sus indicadores claros y gráficos intuitivos.
+- Valoró el historial de evaluaciones y los recordatorios como funciones críticas para mantener constancia en el seguimiento.
+- Concluyó que la app es profesional, coherente y extremadamente clara en su experiencia de usuario.
+
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
