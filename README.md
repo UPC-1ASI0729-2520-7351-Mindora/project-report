@@ -2731,6 +2731,27 @@ Resumen de los puntos clave en la entrevista:
 - Considera que la responsividad está bien lograda, ya que el contenido se adapta adecuadamente a pantallas pequeñas.
 - Sugirió incluir pequeñas animaciones o micro-interacciones para hacer la experiencia aún más dinámica y atractiva.
 
+- **Nombre:** Eduardo Díaz Veliz  
+- **Sexo:** Masculino  
+- **Edad:** 23  
+- **Estado Civil:** Soltero  
+- **Labor:** Analista contable en una empresa corporativa de retail
+
+**Detalles de la entrevista:**
+
+- **Duración:** 3:30 minutos  
+- **Link:** https://tinyurl.com/mr2hkpmb
+
+**Resumen de los puntos clave de la entrevista:**
+
+- Eduardo considera que la Landing Page tiene una presentación moderna y profesional, con una buena coherencia visual entre colores, tipografía y espaciado.
+- Mencionó que la navegación dentro de la página es fluida, permitiendo entender de inmediato qué ofrece la plataforma sin confusiones.
+- Destacó que la sección de Beneficios está bien explicada y apoyada por íconos claros, lo que refuerza la propuesta de valor.
+- Sobre los psicólogos, comentó que la presentación inspira confianza y que las tarjetas ofrecen información suficiente sin saturar.
+- Indicó que las pantallas de Login y Registro son intuitivas, destacando el diseño en estilo “glassmorphism” como moderno y agradable.
+- Señaló que el Test de Estrés es rápido, directo y fácil de usar, lo cual considera crucial para no generar estrés adicional al usuario.
+- Resaltó que la página de Suscripción es una de las más sólidas, con planes claramente diferenciados y un diseño elegante.
+- Considera que todo el frontend mantiene una coherencia visual fuerte, ofreciendo un flujo continuo y bien estructurado.
 ---
 
 **Segmento 2: Trabajadores informales o con horarios flexibles**
@@ -2761,6 +2782,27 @@ Resumen de los puntos clave en la entrevista:
 - Sugiere incluir una guía rápida para nuevos usuarios en la landing page.  
 - Las funciones de login, perfil y suscripciones le parecieron útiles, especialmente si se integran con recordatorios personalizados.
 
+- **Nombre:** Jesús Manrique  
+- **Sexo:** Masculino  
+- **Edad:** 24  
+- **Estado Civil:** Soltero  
+- **Labor:** Vendedor ambulante de accesorios para celulares
+
+**Detalles de la entrevista:**
+
+- **Duración:** 11:05 minutos  
+- **Link:** https://tinyurl.com/5am3tasn
+
+**Resumen de los puntos clave de la entrevista:**
+
+- Jesús destacó que la Landing Page le pareció clara, ordenada y fácil de entender desde el primer vistazo.
+- Señaló que la navegación es intuitiva y que los botones principales están bien ubicados, facilitando orientar al usuario desde el inicio.
+- Mencionó que la sección de ejercicios contra el estrés es una de las más atractivas por su interacción y claridad visual.
+- Sobre la sección de psicólogos, indicó que transmite confianza y profesionalismo, elementos clave para una plataforma enfocada en bienestar emocional.
+- Valoró que las pantallas de Login y Registro sean simples, modernas y con un diseño agradable gracias al efecto de vidrio difuminado.
+- Comentó que la página de Suscripción está bien estructurada y que los diferentes planes destacan correctamente, especialmente el plan popular.
+- Describió el Test de Estrés como simple y rápido, con botones numéricos fáciles de usar y preguntas claras.
+- Considera que el frontend completo mantiene coherencia visual y funcional, haciendo que la navegación entre secciones sea natural y sin rupturas.
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
