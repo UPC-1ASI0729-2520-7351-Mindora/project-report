@@ -2701,7 +2701,7 @@ En este sprint se mantuvo la lógica LACX, con un enfoque fuerte en integración
 
 ---
 
-## 5.2.4.3. Sprint Backlog 4 (Corregido y Validado)
+## 5.2.4.3. Sprint Backlog 4
 
 El Sprint Backlog 4 consolidó las funcionalidades pendientes de sprints anteriores y añadió las tareas necesarias para lograr la integración completa entre el frontend y el backend, así como el despliegue final del sistema MinDora.  
 Este sprint **no añadió nuevas historias de usuario**, ya que el backlog total definido para el proyecto está compuesto únicamente por las HU **US01–US20**.  
