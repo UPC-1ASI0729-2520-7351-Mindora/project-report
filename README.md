@@ -2375,7 +2375,7 @@ En este sprint se mantuvo la misma dinámica de liderazgo colaborativo, asignand
 
 ---
 
-### 5.2.2.3. Sprint Backlog 2 (Actualizado)
+### 5.2.2.3. Sprint Backlog 2
 
 El *Sprint Backlog 2* abordó las funcionalidades relacionadas con el seguimiento del progreso, la gestión de recomendaciones y la conexión con especialistas en salud mental.  
 Corresponde a las épicas **EP03 (Recomendaciones y Gestión del Estrés)**, **EP04 (Seguimiento y Análisis del Progreso)** y **EP05 (Conexión con Especialistas en Salud Mental)**.  
@@ -2494,52 +2494,57 @@ También se implementaron principios de diseño modular, separación por capas y
 
 ---
 
-## **Historias de Usuario Abordadas**
+## Historias de Usuario Abordadas
 
 | **ID** | **Título** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado** |
-|--------|------------|-----------------|------------------------|----------------|------------|
-
-| US20 | Registrar resultado de test de estrés | Como usuario, quiero que mis respuestas del Test de Estrés se registren en el backend para generar métricas y seguimiento. | 5 | Equipo | Done |
-
-| US21 | Obtener métricas de estrés | Como usuario, quiero consultar mis niveles de estrés procesados para visualizar mi progreso en el Dashboard. | 4 | Equipo | Done |
-
-| US22 | Generar recomendaciones automáticas | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis métricas de estrés. | 5 | Equipo | Done |
-
-| US23 | Listar psicólogos disponibles | Como usuario, quiero obtener desde el backend la lista de psicólogos para elegir con quién agendar una cita. | 4 | Equipo | Done |
-
-| US24 | Crear una cita con un psicólogo | Como usuario, quiero registrar una cita con un psicólogo mediante un endpoint del backend. | 6 | Equipo | Done |
-
-| US25 | Reprogramar una cita | Como usuario, quiero modificar la fecha y hora de una cita ya registrada. | 4 | Equipo | Done |
-
-| US26 | Cancelar una cita | Como usuario, quiero poder cancelar una cita desde el backend para liberar el horario. | 3 | Equipo | Done |
-
-| US27 | Consultar citas por usuario | Como usuario, quiero ver todas mis citas programadas para gestionar mi agenda. | 4 | Equipo | Done |
-
-| US28 | Autenticarse en la plataforma | Como usuario, quiero iniciar sesión utilizando un servicio de autenticación seguro. | 6 | Equipo | Done |
-
-| US29 | Registrar cuenta de usuario | Como visitante, quiero crear una cuenta para acceder a las funcionalidades principales de la plataforma. | 5 | Equipo | Done |
-
-| US30 | Obtener perfil de usuario | Como usuario autenticado, quiero recuperar mi información personal para visualizar y editar mis datos. | 4 | Equipo | Done |
+|--------|------------|-----------------|-------------------------|----------------|------------|
+| US01 | Registrar cuenta de usuario | Como visitante, quiero crear una cuenta para acceder a la plataforma con un perfil inicial. | 5 | Equipo | To Do |
+| US02 | Configurar perfil biométrico | Como usuario, quiero registrar mis datos biométricos para personalizar el análisis de estrés. | 5 | Equipo | To Do |
+| US03 | Completar cuestionario inicial | Como usuario nuevo, quiero completar un cuestionario de salud para generar mi plan inicial. | 4 | Equipo | To Do |
+| US04 | Realizar test de autoevaluación | Como usuario, quiero realizar un test de estrés para conocer mi nivel actual. | 5 | Equipo | Done |
+| US05 | Análisis biométrico de estrés | Como usuario, quiero que la app analice mis datos biométricos para detectar estrés automáticamente. | 6 | Equipo | Done |
+| US06 | Registro de síntomas físicos | Como usuario, quiero registrar manualmente mis síntomas para complementar el análisis. | 4 | Equipo | Done |
+| US07 | Recibir recomendaciones personalizadas | Como usuario, quiero recibir recomendaciones basadas en mi perfil de estrés. | 5 | Equipo | Done |
+| US08 | Realizar ejercicios guiados | Como usuario, quiero realizar ejercicios guiados para reducir estrés. | 4 | Equipo | Done |
+| US09 | Programar pausas activas | Como usuario, quiero programar pausas laborales para reducir el estrés. | 3 | Equipo | Done |
+| US10 | Visualizar dashboard personal | Como usuario, quiero ver mi estado actual de estrés en un dashboard. | 4 | Equipo | Done |
+| US11 | Generar informes de progreso | Como usuario, quiero generar informes de progreso para evaluar mis avances. | 4 | Equipo | Done |
+| US12 | Registrar desencadenantes | Como usuario, quiero registrar situaciones que detonan estrés para analizarlas. | 4 | Equipo | Done |
+| US13 | Buscar psicólogos especializados | Como usuario, quiero buscar psicólogos según especialidad para recibir apoyo. | 4 | Equipo | Done |
+| US14 | Agendar cita con psicólogo | Como usuario, quiero agendar una cita en línea con un especialista. | 6 | Equipo | Done |
+| US15 | Compartir informes con especialistas | Como usuario, quiero compartir mis informes de progreso con un psicólogo. | 4 | Equipo | Done |
+| US16 | Participar en grupos de apoyo | Como usuario, quiero unirme a grupos de apoyo para compartir experiencias. | 4 | Equipo | To Do |
+| US17 | Acceder a biblioteca de recursos | Como usuario, quiero acceder a artículos y videos sobre manejo del estrés. | 4 | Equipo | To Do |
+| US18 | Participar en desafíos antiestrés | Como usuario, quiero unirme a retos que me ayuden a mejorar mi salud mental. | 5 | Equipo | To Do |
+| US19 | Analizar carga laboral | Como trabajador, quiero analizar mi carga laboral para prevenir sobrecarga. | 4 | Equipo | To Do |
+| US20 | Recibir recordatorios de ergonomía | Como usuario, quiero recibir recordatorios de ergonomía para mejorar bienestar. | 3 | Equipo | To Do |
 
 ---
 
+## 5.2.3.3. Sprint Backlog 3
 
-### 5.2.3.3.Sprint Backlog 3.
+El Sprint Backlog 3 se centró en habilitar las funcionalidades necesarias para conectar el frontend existente con un backend real, implementado bajo Spring Boot y siguiendo principios de Domain-Driven Design (DDD).  
+Durante este sprint se desarrollaron módulos clave para procesar datos del Test de Estrés, generar recomendaciones, gestionar informes y habilitar la conexión con especialistas.
 
-El *Sprint Backlog 3 se centró más que nadad en afinar y optimizar lo realizado en el sprint 2, además de abordar las funcionalidades relacionadas con la conexión con la comunidad, participación en desafíos y la conexión con especialistas en salud mental.  
-Corresponde a las épicas **EP05 (Conexión con Especialistas en Salud Mental)**, **EP06 (Comunidad y Soporte Social)** y **EP07 (Integración con Entorno Laboral )**.  
+A continuación se presenta el Sprint Backlog 3, **únicamente con las historias de usuario reales del proyecto (US01–US20)**.
 
-Durante este sprint, se integraron las nuevas historias de usuario **US16 (Participar en grupos de apoyo )**, **US18 (Participar en desafíos antiestrés)** y **US20 (Recibir recordatorios de ergonomía)**, ampliando la funcionalidad del sistema en el Dashboard y el módulo de especialistas.
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **User Story ID** | **Work-Item / Task** |
+| US04 | Realizar test de autoevaluación de estrés |
+| US05 | Análisis biométrico de señales de estrés |
+| US06 | Registro de síntomas físicos |
+| US07 | Recibir recomendaciones personalizadas |
+| US08 | Realizar ejercicios de respiración guiados |
+| US09 | Programar pausas activas laborales |
+| US10 | Visualizar dashboard personal de estrés |
+| US11 | Generar informes de progreso |
+| US12 | Registrar desencadenantes de estrés |
+| US13 | Buscar psicólogos especializados |
+| US14 | Agendar cita con psicólogo |
+| US15 | Compartir informes con especialistas |
 
-| **Sprint #** | **Sprint 2** |
-|---------------|--------------|
-| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado (To-do / In-Process / To-Review / Done)** |
-| **US15** | Compartir informes con especialistas | Implementar funcionalidad para compartir informes con los especialistas | 2 | Fabricio / Juan | Done |
-| **US16** | Participar en grupos de apoyo | Implementar funcionalidad para permitir al usuario entrar y participar en grupos de apoyo con otros usuarios | 2 | Manuel / Sebastián | Done |
-| **US17** | Acceder a biblioteca de recursos | Implementar funcionalidad para permitir el acceso del usuario a los recursos proveidos por la plataforma | 2 | Manuel / Eduardo |  In-Process |
-| **US18** | Participar en desafíos antiestrés  | Implementar funcionalidad para que el usuario participe en desafíos antiestré desde la plataforma | 3 | Juan / Fabricio  | Done |
-| **US19** |  Analizar carga laboral | Implementar funcionalidad para analizar la carga laboral del usuario | 8 | Fabricio / Sebastián | To-do |
-| **US20** |  Recibir recordatorios de ergonomía | Implementar funcionalidad para que el usuario reciba recordatorios para no perder su ergonomía (buena postura, posición de manos y cabeza, etc) | 2 | Manuel / Eduardo | Done |
+---
 
 ### 5.2.2.4. Development Evidence for Sprint Review (Sprint 3)
 
@@ -2696,24 +2701,29 @@ En este sprint se mantuvo la lógica LACX, con un enfoque fuerte en integración
 
 ---
 
-### 5.2.4.3. Sprint Backlog 4
+## 5.2.4.3. Sprint Backlog 4 (Corregido y Validado)
 
-El *Sprint Backlog 4* consolidó las funcionalidades pendientes de sprints previos y añadió las tareas necesarias para la integración y el despliegue final del producto.
+El Sprint Backlog 4 consolidó las funcionalidades pendientes de sprints anteriores y añadió las tareas necesarias para lograr la integración completa entre el frontend y el backend, así como el despliegue final del sistema MinDora.  
+Este sprint **no añadió nuevas historias de usuario**, ya que el backlog total definido para el proyecto está compuesto únicamente por las HU **US01–US20**.  
+Por lo tanto, este sprint se enfocó en actividades técnicas, integración, optimización, pruebas y publicación.
 
-| **Sprint #** | **Sprint 4** |
-|---------------|--------------|
-| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado** |
-| **US05** | Completar análisis biométrico | Finalizar visualización y métricas finales del test. | 3 | Manuel / Sebastián | Done |
-| **US09** | Finalizar pausas activas | Completar recordatorios y persistencia local. | 3 | Fabricio / Juan | Done |
-| **US11** | Refinar informes de progreso | Ajustes de gráficos y cálculos reales. | 4 | Sebastián / Eduardo | Done |
-| **US14** | Integración real del agendamiento | Conectar creación/edición/cancelación de citas a la API. | 4 | Juan / Manuel | Done |
-| **US31** | Dashboard ↔ API Integration | Conectar métricas y recomendaciones desde backend. | 6 | Sebastián / Eduardo | Done |
-| **US32** | Login con JWT | Implementar autenticación real con Spring Boot. | 5 | Manuel / Juan | Done |
-| **US33** | Psicólogos ↔ API Integration | Sincronizar búsqueda y tarjetas con backend. | 4 | Sebastián / Manuel | Done |
-| **US34** | Módulo de citas ↔ API | Integrar reserva, reprogramación y cancelación. | 5 | Juan / Eduardo | Done |
-| **US35** | Refinamiento UI/UX | Responsividad, A11y, microinteracciones, estilo global. | 4 | Fabricio / Eduardo | Done |
-| **US36** | Pruebas E2E | Validación completa del flujo de usuario. | 6 | Todo el equipo | Done |
-| **US37** | Deployment final | Desplegar frontend y backend para producción. | 6 | Equipo | Done |
+### **Sprint Backlog 4 – Tareas Técnicas**
+
+| Sprint # | Sprint 4 |
+|----------|----------|
+| **Task ID** | **Work-Item / Task** |
+| T01 | Integración del Test de Estrés ↔ API (corresponde a US04, US05, US06) |
+| T02 | Integración del módulo de Recomendaciones ↔ API (US07, US08, US09) |
+| T03 | Integración del Dashboard e Informes ↔ API (US10, US11, US12) |
+| T04 | Integración del módulo de Psicólogos ↔ API (US13, US14, US15) |
+| T05 | Corrección de validaciones y manejo de errores del lado del frontend |
+| T06 | Mejoras UX/UI: estilos globales, paleta de colores y consistencia visual |
+| T07 | Optimización de carga del DOM y rendimiento en pantallas principales |
+| T08 | Pruebas funcionales completas (Testing de cada módulo conectado a API) |
+| T09 | Pruebas End-to-End (flujos completos de usuario) |
+| T10 | Configuración del despliegue del backend (Railway / Render) |
+| T11 | Configuración del despliegue del frontend (Firebase Hosting) |
+| T12 | Documentación del Sprint 4 y cierre de entregables (README + evidencias) |
 
 ---
 
