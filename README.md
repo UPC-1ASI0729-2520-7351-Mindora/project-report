@@ -2495,6 +2495,112 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 
 ---
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+El cuarto sprint se centró en **integrar completamente el Frontend con el Backend**, finalizar todas las funcionalidades pendientes del sistema MinDora, mejorar la experiencia de usuario y realizar el despliegue final del producto.  
+Durante esta iteración se completó la conexión real entre la aplicación web y la API en Spring Boot, se cerraron historias pendientes y se validó el funcionamiento completo del sistema con pruebas end-to-end.
+
+| **Sprint #** | **Sprint 4** |
+|---------------|--------------|
+| **Date** | 2025-10-22 |
+| **Time** | 8:00 PM |
+| **Location** | Microsoft Teams (Reunión virtual) |
+| **Prepared By** | Sebastián De Las Casas Latour |
+| **Attendees (to planning meeting)** | Juan José Meza Huanacune / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón |
+| **Sprint 3 – Review Summary** | En el Sprint 3 se implementó el backend con Spring Boot, incluyendo endpoints de test de estrés, métricas, recomendaciones, psicólogos, citas y autenticación. El backend quedó listo para ser integrado con la Web App. |
+| **Sprint 3 – Retrospective Summary** | El equipo identificó la necesidad de mejorar la integración frontend-backend, estandarizar el consumo de servicios y optimizar la comunicación del equipo para el cierre del proyecto. Se acordó reforzar pruebas E2E y mejorar la calidad del código antes del despliegue final. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 4 Goal** | **Our focus is on** integrating the Frontend with the Backend, finalizing pending features, improving UI/UX, and deploying MinDora as a fully functional product.<br>**We believe it delivers** a production-ready emotional wellness system with real metrics, recommendations, psychologist searches, and appointment management.<br>**This will be confirmed when** the platform runs smoothly with real API data, the deployment is completed, and all features pass E2E testing.<br><br>**Traducción:** Nuestro enfoque está en integrar el Frontend con el Backend, finalizar las funcionalidades pendientes, mejorar UI/UX y desplegar MinDora como un producto completamente funcional. Esto se confirmará cuando la plataforma funcione de manera fluida con datos reales y el despliegue sea exitoso. |
+| **Sprint 4 Velocity** | Se completaron **11 historias de usuario**, con un total de **~46 Story Points.** |
+| **Sum of Story Points** | 46 |
+
+---
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este sprint se mantuvo la lógica LACX, con un enfoque fuerte en integración y despliegue.
+
+| **Miembro del equipo** | **GitHub Username** | **Frontend (Angular/UI)** | **Backend (Spring Boot)** | **API Integration** | **Testing & QA** | **Deployment** |
+|--------------------------|---------------------|------------------------------|-------------------------------|----------------------|-------------------|----------------|
+| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | C | L | C |
+| Sebastián De Las Casas Latour | @U202213553 | L | C | L | C | C |
+| Eduardo Fabián Chacaliaza Minaya | @dedumcz | L | – | C | C | L |
+| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | – | – | L | C |
+| Juan José Meza Huanacune | @JuanMH1250 | C | L | L | C | L |
+
+---
+
+### 5.2.4.3. Sprint Backlog 4
+
+El *Sprint Backlog 4* consolidó las funcionalidades pendientes de sprints previos y añadió las tareas necesarias para la integración y el despliegue final del producto.
+
+| **Sprint #** | **Sprint 4** |
+|---------------|--------------|
+| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado** |
+| **US05** | Completar análisis biométrico | Finalizar visualización y métricas finales del test. | 3 | Manuel / Sebastián | Done |
+| **US09** | Finalizar pausas activas | Completar recordatorios y persistencia local. | 3 | Fabricio / Juan | Done |
+| **US11** | Refinar informes de progreso | Ajustes de gráficos y cálculos reales. | 4 | Sebastián / Eduardo | Done |
+| **US14** | Integración real del agendamiento | Conectar creación/edición/cancelación de citas a la API. | 4 | Juan / Manuel | Done |
+| **US31** | Dashboard ↔ API Integration | Conectar métricas y recomendaciones desde backend. | 6 | Sebastián / Eduardo | Done |
+| **US32** | Login con JWT | Implementar autenticación real con Spring Boot. | 5 | Manuel / Juan | Done |
+| **US33** | Psicólogos ↔ API Integration | Sincronizar búsqueda y tarjetas con backend. | 4 | Sebastián / Manuel | Done |
+| **US34** | Módulo de citas ↔ API | Integrar reserva, reprogramación y cancelación. | 5 | Juan / Eduardo | Done |
+| **US35** | Refinamiento UI/UX | Responsividad, A11y, microinteracciones, estilo global. | 4 | Fabricio / Eduardo | Done |
+| **US36** | Pruebas E2E | Validación completa del flujo de usuario. | 6 | Todo el equipo | Done |
+| **US37** | Deployment final | Desplegar frontend y backend para producción. | 6 | Equipo | Done |
+
+---
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+Durante este sprint se desarrolló la integración completa con la API y se preparó el producto para su despliegue final.
+
+| **Repositorio** | **Branch** | **Commit Id** | **Mensaje del Commit** | **Descripción** | **Fecha** |
+|------------------|------------|----------------|--------------------------|------------------|------------|
+| /mindora-frontend | feature/angular-integration | c91f2ab | feat(api): connected dashboard to spring services | Conexión del Dashboard a las métricas y recomendaciones reales. | 2025-10-22 |
+| /mindora-frontend | feature/auth-jwt | 1b2ca77 | feat(auth): implemented JWT login flow | Autenticación real usando Spring Boot y JWT. | 2025-10-22 |
+| /mindora-frontend | feature/appointments-sync | f51a9e3 | feat(appointments): wired booking module to API | Integración real del módulo de citas. | 2025-10-23 |
+| /mindora-backend | feature/swagger-update | 5fe17af | docs(api): updated swagger endpoints | Actualización final de documentación OpenAPI. | 2025-10-23 |
+| /mindora-backend | feature/final-fixes | 8dcebe1 | fix(services): improved metrics engine | Ajustes finales en servicios del backend. | 2025-10-24 |
+| /mindora-frontend | main | 9f812e2 | chore(deploy): final build and firebase deploy | Despliegue final del frontend. | 2025-10-25 |
+| /mindora-backend | main | af92cd7 | chore(deploy): backend deployment on Render | Deploy final del backend. | 2025-10-25 |
+
+---
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+Se realizaron pruebas de funcionamiento completo en la versión integrada del sistema, validando:
+
+- Inicio de sesión con JWT  
+- Registro conectado a backend  
+- Test de estrés funcional  
+- Dashboard con métricas reales  
+- Recomendaciones dinámicas  
+- Búsqueda de psicólogos conectada a la API  
+- Módulo de citas completamente operativo  
+- Navegación fluida y responsiva  
+- Comprobación en múltiples dispositivos  
+
+> *(Insertar capturas reales aquí: Dashboard, JWT Login, Psicólogos, Citas, Swagger)*
+
+---
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Los servicios documentados en este sprint incluyen:
+
+#### Scripts del Frontend (Angular Services)
+- `auth.service.ts`  
+- `stress.service.ts`  
+- `metrics.service.ts`  
+- `recommendations.service.ts`  
+- `professionals.service.ts`  
+- `appointments.service.ts`
+
+#### Endpoints consumidos del Backend:
+
 ## 5.3. Validation Interviews.
 
 # 5.3.1. Diseño de Entrevistas
