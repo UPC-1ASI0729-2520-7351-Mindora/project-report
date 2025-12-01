@@ -54,6 +54,8 @@
 
 </div>
 
+<p align="center"><b>Tabla 0.1.</b> Relación de integrantes del equipo.</p>
+
 <div>
   
   <p align="center"><b>Diciembre, 2025</b></p>
@@ -76,6 +78,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | 1.6         | 2025-09-19  | Manuel Castro & Eduardo Chacaliaza  | Se documentó el Big Picture Event Storming con capturas y explicación del proceso.             |
 | 1.7         | 2025-09-20  | Sebastián De Las Casas & Fabricio Quispe | Se añadió Style Guidelines (tipografía, colores, íconos) y primeras secciones de Product Design.|
 
+<p align="center"><b>Tabla 0.2.</b> Registro de versiones del informe del proyecto.</p>
+
 ## Project Report Collaboration Insights  
 
 El equipo ha trabajado de manera colaborativa en el repositorio de GitHub, registrando avances constantes en la construcción del informe.  
@@ -94,6 +98,8 @@ A continuación, se presentan las evidencias de participación y colaboración d
   <img src="assets/md-images/Insights.png" alt="Contribuciones de los integrantes" width="700px"/>
 </div>  
 
+<p align="center"><b>Figura 0.1.</b> Contribuciones por integrante en el repositorio.</p>
+
 En esta vista se observa la cantidad de commits realizados, junto con el balance de líneas añadidas y eliminadas.  
 
 ### Historial de actividad del repositorio  
@@ -102,10 +108,12 @@ En esta vista se observa la cantidad de commits realizados, junto con el balance
   <img src="assets/md-images/activity1.png" alt="Actividad reciente del repositorio" width="700px"/>
 </div>  
 
+<p align="center"><b>Figura 0.2.</b> Actividad reciente del repositorio.</p>
 <div align="center">
   <img src="assets/md-images/activity2.png" alt="Actividad extendida del repositorio" width="700px"/>
 </div>  
 
+<p align="center"><b>Figura 0.3.</b> Actividad extendida del repositorio.</p>
 ---
 
 En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaboración: **participación activa de todos los integrantes**, registro claro de los aportes, y una evolución continua y transparente del informe del proyecto.  
@@ -244,6 +252,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Participó en la presentación oral del **Startup Profile** en la exposición grabada de TB1.<br>- *Sebastián De Las Casa*: Expuso la introducción y objetivos del proyecto en la presentación grupal.<br>- *Eduardo Chacaliaza*: Explicó el apartado de **Solution Profile** durante la exposición.<br>- *Fabricio Quispe*: Presentó la problemática y segmentos objetivos.<br>- *Juan Meza*: Colaboró en la sustentación de la parte metodológica. | Como grupo logramos estructurar y presentar de forma oral los fundamentos iniciales del proyecto, repartiendo roles y asegurando que cada integrante comunicara claramente su parte a la audiencia. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redacción de la **carátula** y parte de la descripción del startup.<br>- *Sebastián De Las Casa*: Contribuyó en el **índice de contenidos** y organización del documento.<br>- *Eduardo Chacaliaza*: Coordinó la escritura en **Markdown** y la conversión a PDF.<br>- *Fabricio Quispe*: Redactó los apartados de antecedentes y problemática.<br>- *Juan Meza*: Revisó ortografía y estilo en el Student Outcome. | A través de la redacción colaborativa en Markdown, logramos elaborar un informe inicial claro y coherente, demostrando la capacidad de comunicar ideas técnicas y conceptuales por escrito a una audiencia académica. |
 
+<p align="center"><b>Tabla S.1.</b> Evidencia del Student Outcome 3 – Comunicación efectiva (TB1).</p>
+
 ---
 
 ## Cuadro de Student Outcome 3 – Comunicación efectiva (TP1)
@@ -253,6 +263,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Expuso el planteamiento del problema y objetivos iniciales del proyecto.<br>- *Sebastián De Las Casa*: Presentó la metodología aplicada y segmentación de usuarios.<br>- *Eduardo Chacaliaza*: Explicó las herramientas y técnicas utilizadas para la investigación.<br>- *Fabricio Quispe*: Detalló los hallazgos preliminares y evidencia recolectada.<br>- *Juan Meza*: Contribuyó aclarando dudas y complementando ejemplos prácticos. | El grupo logró comunicar oralmente los fundamentos del proyecto de manera clara y estructurada, adaptando el lenguaje a la audiencia académica y demostrando coordinación entre los integrantes. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redactó la introducción y planteamiento del problema.<br>- *Sebastián De Las Casa*: Elaboró la sección de objetivos y alcance.<br>- *Eduardo Chacaliaza*: Coordinó la documentación en Markdown y su conversión a PDF.<br>- *Fabricio Quispe*: Redactó la sección de metodología y segmentación de usuarios.<br>- *Juan Meza*: Revisó ortografía, formato y consistencia del documento. | Se logró un documento escrito coherente y claro, con evidencia de que todos los miembros pudieron comunicar ideas técnicas y de investigación de manera efectiva. |
 
+<p align="center"><b>Tabla S.2.</b> Evidencia del Student Outcome 3 – Comunicación efectiva (TP1).</p>
+
 ---
 
 ## Cuadro de Student Outcome 3 – Comunicación efectiva (TB2)
@@ -261,6 +273,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 |-------------------------|-------------------------------|------------------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Presentó la solución propuesta y su justificación.<br>- *Sebastián De Las Casa*: Expuso la arquitectura de la solución y flujo de usuarios.<br>- *Eduardo Chacaliaza*: Demostró prototipos y herramientas utilizadas.<br>- *Fabricio Quispe*: Detalló casos de uso y ejemplos prácticos.<br>- *Juan Meza*: Coordinó la sesión de preguntas y respuestas, aclarando dudas de la audiencia. | El grupo consolidó la capacidad de exponer ideas complejas de manera comprensible, demostrando habilidades de comunicación oral profesional y coordinación efectiva entre miembros. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | - *Manuel Castro*: Redactó la descripción de la solución y sus ventajas.<br>- *Sebastián De Las Casa*: Documentó diagramas, flujos y arquitectura.<br>- *Eduardo Chacaliaza*: Coordinó la integración del documento final y formateo en Markdown.<br>- *Fabricio Quispe*: Redactó ejemplos de casos de uso y recomendaciones.<br>- *Juan Meza*: Revisó ortografía, claridad y consistencia general. | La documentación final mostró una presentación escrita clara, organizada y profesional, evidenciando la capacidad del grupo para comunicar información técnica y conceptual a diferentes audiencias. |
+
+<p align="center"><b>Tabla S.3.</b> Evidencia del Student Outcome 3 – Comunicación efectiva (TB2).</p>
 
 ---
 # 1. Capítulo I: Introducción
@@ -285,6 +299,8 @@ NeuroDora se proyecta como un modelo de negocio independiente y sostenible, ofre
 | ![Eduardo](assets/md-images/eduardo.jpg) | Eduardo Fabian Chacaliaza Minaya | U202324129 | Ingeniería de Software | Se enfoca en el desarrollo frontend y la creación de interfaces intuitivas y accesibles. Maneja herramientas de control de versiones y trabajo colaborativo en GitHub, aportando organización y documentación técnica al equipo. |
 | ![Fabricio](assets/md-images/fabricio.jpg) | Fabricio Fabián Quispe Barzola | U202320442 | Ingeniería de Software | Cuenta con experiencia en prototipado en Figma, validación de ideas y análisis de datos. Aporta en la investigación de usuarios y en la elaboración de artefactos de UX que guían el desarrollo del proyecto. |
 | ![Juan](assets/md-images/juan.jpg) | Juan José Meza Huanacune | U202320574 | Ingeniería de Software | Tiene experiencia en desarrollo backend con Java, C# y Python, además de bases de datos relacionales. También posee conocimientos en pruebas de software, contribuyendo a la calidad del sistema y al desarrollo de componentes del proyecto. |
+
+<p align="center"><b>Tabla 1.1.</b> Perfiles de los integrantes del equipo.</p>
 
 ## 1.2. Solution Profile
 
@@ -449,6 +465,8 @@ El Lean UX Canvas es una de las herramientas empleadas para comprender mejor a l
   <p align="center"><img src="assets/md-images/ux_canvas.png" alt="Canvas" width="700px" /></p>
 </div>
 
+<p align="center"><b>Figura 1.1.</b> Lean UX Canvas del proyecto.</p>
+
 ## 1.3. Segmentos Objetivos
 
 #### Segmento objetivo #1: Trabajadores formales con jornadas extensas  
@@ -473,6 +491,8 @@ El análisis de competidores permite identificar las fortalezas, limitaciones y 
 | <div align="center"><img src="assets/md-images/wysa.jpg" alt="Wysa" width="80px"/><br>Wysa</div> | - Chatbot conversacional impulsado por inteligencia artificial.<br>- Ejercicios de respiración, relajación y meditación.<br>- Interacciones anónimas y privadas.<br>- Plan premium con acceso a terapeutas profesionales. | - Experiencia conversacional con IA (a diferencia de Calm con audio y Equoo con juegos).<br>- Uso de técnicas terapéuticas validadas (CBT, DBT).<br>- Modelo freemium (chatbot gratuito + pago por coaching). | - No puede atender emergencias de salud mental.<br>- Limitaciones técnicas en la comprensión de matices emocionales complejos.<br>- Efectividad depende de la constancia del usuario. |
 | <div align="center"><img src="assets/md-images/equoo.jpg" alt="Equoo" width="80px"/><br>Equoo</div> | - Terapia Cognitiva Conductual y psicología positiva aplicada a un entorno gamificado.<br>- Juego con 52 niveles que fomentan habilidades emocionales.<br>- Chatbot de apoyo en paralelo.<br>- Respaldo en estudios clínicos. | - Experiencia centrada en la gamificación con misiones y recompensas.<br>- Orientación a jóvenes mediante narrativa lúdica.<br>- Estadísticas y progresión tipo “nivel”, ausentes en Calm y Wysa. | - Variedad limitada de juegos emocionales.<br>- Enfoque lúdico que puede no ajustarse a usuarios que prefieren métodos más tradicionales.<br>- Dependencia del formato de juego. |
 
+<p align="center"><b>Tabla 2.1.</b> Análisis comparativo de los principales competidores: Calm, Wysa y Equoo.</p>
+
 **Conclusión:**  
 El análisis evidencia que, aunque existen aplicaciones exitosas en la gestión del estrés, cada una presenta limitaciones que abren oportunidades para MinDora. Calm destaca por su producción multimedia, pero carece de personalización biométrica; Wysa ofrece acompañamiento conversacional, pero con limitaciones técnicas y sin cobertura de crisis; Equoo innova con gamificación, aunque con un alcance restringido. MinDora busca diferenciarse al integrar detección biométrica, autoevaluaciones emocionales y acceso a especialistas, ofreciendo un enfoque más completo y adaptable a distintos contextos laborales, especialmente en Latinoamérica.
 
@@ -493,6 +513,8 @@ El análisis competitivo se organiza siguiendo el formato *Competitive Analysis 
 | **Análisis SWOT – Debilidades** | Necesidad de alta precisión en biometría y confianza en la privacidad de datos. | Precio elevado, no ofrece sesiones en vivo, enfoque principal en angloparlantes. | No reemplaza terapia presencial, contenido gratuito limitado, calidad dependiente de la IA. | Alta competencia, creación continua de contenido, percepción de ser una solución “ligera”. |
 | **Análisis SWOT – Oportunidades** | Creciente interés en salud mental laboral en LATAM; alianzas con empresas y programas de bienestar corporativo. | Expansión internacional, integración con servicios de salud mental profesional. | Expansión en nuevos mercados, alianzas con telemedicina y wearables, localización cultural. | Creciente interés en salud mental, expansión internacional, integraciones tecnológicas. |
 | **Análisis SWOT – Amenazas** | Competencia global consolidada; barreras de confianza en adopción de soluciones digitales en salud mental. | Competencia intensa, precios más asequibles en otras apps. | Competencia intensa, regulaciones de salud digital, preocupaciones por privacidad de datos. | Saturación del mercado, cambios en políticas de privacidad, escepticismo sobre la eficacia digital. |
+
+<p align="center"><b>Tabla 2.2.</b> Competitive Analysis Landscape: comparación de MinDora frente a Calm, Wysa y Equoo.</p>
 
 ## 2.1.2. Estrategias y tácticas frente a competidores  
 
@@ -622,6 +644,7 @@ Finalmente, opina que las empresas deben involucrarse más en la salud mental de
 <p align="center">
   <img src="assets/md-images/entrevista1.jpeg" alt="Entrevista 1" width="450"/>
 </p> 
+<p align="center"><b>Figura 2.1.</b> Registro visual de la entrevista con Pedro Luis Medina Vera.</p>
 
 **Entrevista N°2**
 
@@ -666,6 +689,8 @@ En relación con soluciones digitales para la gestión del estrés, Carlos se mu
   <img src="assets/md-images/entrevista2.jpeg" alt="Entrevista 2 - Adrián Ramírez" width="450"/>
 </p>
 
+<p align="center"><b>Figura 2.2.</b> Registro visual de la entrevista con Carlos Marín.</p>
+
 **Entrevista N°3**  
 
 - **Nombre:** Carlos Augusto Paredes Chávez  
@@ -708,6 +733,8 @@ Respecto a una solución como **MinDora**, se muestra abierto y considera que un
 <p align="center">
   <img src="assets/md-images/entrevista3.jpeg" alt="Entrevista 3 - Carlos Augusto Paredes Chávez" width="450"/>
 </p>
+
+<p align="center"><b>Figura 2.3.</b> Registro visual de la entrevista con Carlos Augusto Paredes Chávez.</p>
 
 ### Segmento 2: Trabajadores informales o con horarios flexibles  
 
@@ -753,6 +780,8 @@ En relación con soluciones digitales para la gestión del estrés, Jesús consi
   <img src="assets/md-images/entrevista4.jpeg" alt="Entrevista 1 - Jesús Antonio Manrique Meza" width="450"/>
 </p> 
 
+<p align="center"><b>Figura 2.4.</b> Registro visual de la entrevista con Jesús Antonio Manrique Meza.</p>
+
 **Entrevista N°2**  
 
 - **Nombre:** Adrián Ramírez  
@@ -793,6 +822,8 @@ Sobre la idea de una aplicación como **MinDora**, comenta que sería una soluci
 <p align="center">
   <img src="assets/md-images/entrevista5.jpeg" alt="Entrevista 2 - Adrián Ramírez" width="450"/>
 </p>
+
+<p align="center"><b>Figura 2.5.</b> Registro visual de la entrevista con Adrián Ramírez.</p>
 
 **Entrevista N°3**  
 
@@ -836,6 +867,7 @@ Respecto a una aplicación como **MinDora**, considera que sería muy beneficios
   <img src="assets/md-images/entrevista6.jpeg" alt="Entrevista 3 - Ricardo Paredes" width="450"/>
 </p>
 
+<p align="center"><b>Figura 2.6.</b> Registro visual de la entrevista con Diego Alonso Cacho Seminario.</p>
 
 ## 2.2.3. Análisis de entrevistas
 
@@ -939,9 +971,13 @@ Empathy Mapping y As-Is Scenario Mapping.
   <p align="center"><img src="assets/md-images/PedroLuisSegmento1.png" alt="User persona for Laura" width="700px" /></p>
 </div>
 
+<p align="center"><b>Figura 2.7.</b> User Persona: Pedro Luis – Segmento 1.</p>
+
 <div>
   <p align="center"><img src="assets/md-images/DiegoAlonsoSegmento2.png" alt="User persona for Andres" width="700px" /></p>
 </div>
+
+<p align="center"><b>Figura 2.8.</b> User Persona: Diego Alonso – Segmento 2.</p>
 
 ### 2.3.2. User Task Matrix
 
@@ -964,7 +1000,10 @@ El cuadro muestra las tareas que ambos realizan, con la valoración de **Frecuen
 | **Acceder a recomendaciones personalizadas**               | Media        | Alta        | Alta         | Alta        |
 | **Registrar seguimiento de implementación de estrategias** | Media        | Alta        | Alta         | Alta        |
 
+<p align="center"><b>Tabla 2.3.</b> User Task Matrix comparativo entre segmentos 1 y 2.</p>
 ---
+
+
 
 ### Análisis del User Task Matrix
 
@@ -987,36 +1026,44 @@ En conclusión, la matriz evidencia que, aunque ambos segmentos comparten tareas
 <div>
   <p align="center"><img src="assets/md-images/Journey-1.png" alt="Journey mapping part 1" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.9.</b> User Journey Mapping – Parte 1.</p>
 
 <div>
   <p align="center"><img src="assets/md-images/Journey-2.png" alt="Journey mapping part 2" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.10.</b> User Journey Mapping – Parte 2.</p>
 
 <div>
   <p align="center"><img src="assets/md-images/Journey-3.png" alt="Journey mapping part 3" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.11.</b> User Journey Mapping – Parte 3.</p>
 
 <div>
   <p align="center"><img src="assets/md-images/Journey-4.png" alt="Journey mapping part 4" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.12.</b> User Journey Mapping – Parte 4.</p>
 
 ### 2.3.4. Empathy Mapping.
 
 <div>
   <p align="center"><img src="assets/md-images/Empathy-1.png" alt="Empathy mapping part 1" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.13.</b> Empathy Mapping – Parte 1.</p>
 
 <div>
   <p align="center"><img src="assets/md-images/Empathy-2.png" alt="Empathy mapping part 2" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.14.</b> Empathy Mapping – Parte 2.</p>
 
 <div>
   <p align="center"><img src="assets/md-images/Empathy-3.png" alt="Empathy mapping part 3" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.15.</b> Empathy Mapping – Parte 3.</p>
 
 <div>
   <p align="center"><img src="assets/md-images/Empathy-4.png" alt="Empathy mapping part 4" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 2.16.</b> Empathy Mapping – Parte 4.</p>
 
 ## 2.4. Big Picture Event Storming.
 
@@ -1024,9 +1071,11 @@ En la sesión de Big Picture Event Storming, el equipo plasmó los eventos signi
 
 ### Big Picture Event Storming - Mapa General
 ![Big Picture Event Storming](assets/md-images/Bigpicture1.png)
+<p align="center"><b>Figura 2.17.</b> Mapa general del Big Picture Event Storming.</p>
 
 ### Big Picture Event Storming - Leyenda de Colores
 ![Big Picture Event Storming Colores](assets/md-images/Bigpicture2.png)
+<p align="center"><b>Figura 2.18.</b> Leyenda de colores utilizada en el Big Picture Event Storming.</p>
 
 
 ## 2.5. Ubiquitous Language.
@@ -1052,6 +1101,8 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | **Grupo de apoyo**                 | Comunidad virtual de usuarios que comparten experiencias y consejos sobre el manejo del estrés.                                |
 | **Biblioteca de recursos**         | Colección digital de artículos, videos o guías relacionadas al bienestar laboral y manejo del estrés.                          |
 
+<p align="center"><b>Tabla 2.4.</b> Glosario del lenguaje ubicuo del proyecto MinDora.</p>
+
 # Capítulo III: Requirements Specification
 
 ---
@@ -1069,6 +1120,8 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | EP06        | Comunidad y Soporte Social                 | Como usuario, quiero participar en grupos de apoyo, acceder a una biblioteca de recursos y unirme a desafíos antiestrés, para sentir acompañamiento social y mantener la motivación en la gestión de mi estrés.  |
 | EP07        | Integración con Entorno Laboral            | Como trabajador, quiero analizar mi carga laboral y recibir recordatorios de ergonomía, para prevenir sobrecarga y mejorar mi productividad sin comprometer mi bienestar.                                        |
 
+<p align="center"><b>Tabla 3.1.</b> Epics generales del sistema MinDora.</p>
+
 **EP01 - Registro y Configuración de Cuenta**
 
 | User Story ID | Título                                  |
@@ -1076,6 +1129,10 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US01 | Registrar cuenta de usuario             |
 |          US02 | Configurar perfil biométrico            |
 |          US03 | Completar cuestionario inicial de salud |
+
+<p align="center"><b>Tabla 3.2.</b> Historias de usuario asociadas al Epic EP01.</p>
+
+---
 
 **EP02 - Detección y Evaluación del Estrés**
 
@@ -1085,6 +1142,10 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US05 | Análisis biométrico de señales de estrés  |
 |          US06 | Registro de síntomas físicos              |
 
+<p align="center"><b>Tabla 3.3.</b> Historias de usuario asociadas al Epic EP02.</p>
+
+---
+
 **EP03 - Recomendaciones y Gestión del Estrés**
 
 | User Story ID | Título                                     |
@@ -1092,6 +1153,10 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US07 | Recibir recomendaciones personalizadas     |
 |          US08 | Realizar ejercicios de respiración guiados |
 |          US09 | Programar pausas activas laborales         |
+
+<p align="center"><b>Tabla 3.4.</b> Historias de usuario asociadas al Epic EP03.</p>
+
+---
 
 **EP04 - Seguimiento y Análisis del Progreso**
 
@@ -1101,6 +1166,10 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US11 | Generar informes de progreso            |
 |          US12 | Registrar desencadenantes de estrés     |
 
+<p align="center"><b>Tabla 3.5.</b> Historias de usuario asociadas al Epic EP04.</p>
+
+---
+
 **EP05 - Conexión con Especialistas en Salud Mental**
 
 | User Story ID | Título                               |
@@ -1108,6 +1177,10 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US13 | Buscar psicólogos especializados     |
 |          US14 | Agendar cita con psicólogo           |
 |          US15 | Compartir informes con especialistas |
+
+<p align="center"><b>Tabla 3.6.</b> Historias de usuario asociadas al Epic EP05.</p>
+
+---
 
 **EP06 - Comunidad y Soporte Social**
 
@@ -1117,6 +1190,10 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US17 | Acceder a biblioteca de recursos  |
 |          US18 | Participar en desafíos antiestrés |
 
+<p align="center"><b>Tabla 3.7.</b> Historias de usuario asociadas al Epic EP06.</p>
+
+---
+
 **EP07 - Integración con Entorno Laboral**
 
 | User Story ID | Título                             |
@@ -1124,11 +1201,17 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 |          US19 | Analizar carga laboral             |
 |          US20 | Recibir recordatorios de ergonomía |
 
+<p align="center"><b>Tabla 3.8.</b> Historias de usuario asociadas al Epic EP07.</p>
+
+---
+
 | ID Épica | Épica                              | ID HU | Título HU                               | Descripción HU                                                                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                            |
 | -------- | ---------------------------------- | ----- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP01     | Registro y Configuración de Cuenta | US01  | Registrar cuenta de usuario             | Como nuevo usuario, quiero registrar una cuenta con mi correo o número de teléfono, para acceder a las funciones de la aplicación. | **Escenario 1: Registro exitoso**<br>Dado que el usuario no tiene cuenta,<br>Cuando ingresa sus datos obligatorios y acepta términos,<br>Entonces el sistema crea la cuenta y envía verificación.<br><br>**Escenario 2: Registro fallido**<br>Dado que el usuario ingresa datos inválidos,<br>Cuando intenta registrarse,<br>Entonces el sistema muestra mensaje de error y no crea cuenta.        |
 | EP01     | Registro y Configuración de Cuenta | US02  | Configurar perfil biométrico            | Como usuario, quiero registrar mis datos biométricos para personalizar el análisis de estrés.                                      | **Escenario 1: Configuración inicial**<br>Dado que el usuario tiene cuenta activa,<br>Cuando registra o sincroniza datos biométricos,<br>Entonces el sistema los guarda y usa en futuros análisis.<br><br>**Escenario 2: Error de sincronización**<br>Dado que el usuario conecta un dispositivo,<br>Cuando ocurre un error,<br>Entonces el sistema muestra advertencia y permite reintentar.      |
 | EP01     | Registro y Configuración de Cuenta | US03  | Completar cuestionario inicial de salud | Como usuario nuevo, quiero completar un cuestionario de salud para generar mi plan inicial.                                        | **Escenario 1: Cuestionario completado**<br>Dado que el usuario accede al cuestionario inicial,<br>Cuando responde todas las preguntas,<br>Entonces el sistema guarda respuestas y genera perfil.<br><br>**Escenario 2: Cuestionario incompleto**<br>Dado que el usuario abandona el cuestionario,<br>Cuando vuelve a ingresar,<br>Entonces el sistema permite retomar desde el progreso guardado. |
+
+<p align="center"><b>Tabla 3.9.</b> Detalle de historias de usuario del Epic EP01.</p>  
 
 | ID Épica | Épica                             | ID HU | Título HU                                 | Descripción HU                                                                                      | Criterios de Aceptación                                                                                                                                                                                                                                                                                                             |
 | -------- | --------------------------------- | ----- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1136,11 +1219,15 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | EP02     | Detección y Evaluación del Estrés | US05  | Análisis biométrico de señales de estrés  | Como usuario, quiero que la app analice mis datos biométricos para detectar estrés automáticamente. | **Escenario 1: Análisis exitoso**<br>Dado que el usuario sincronizó su dispositivo,<br>Cuando los datos se reciben,<br>Entonces el sistema calcula nivel de estrés.<br><br>**Escenario 2: Datos insuficientes**<br>Dado que faltan datos,<br>Cuando se intenta analizar,<br>Entonces el sistema notifica al usuario.                |
 | EP02     | Detección y Evaluación del Estrés | US06  | Registro de síntomas físicos              | Como usuario, quiero registrar manualmente mis síntomas físicos para complementar el análisis.      | **Escenario 1: Registro exitoso**<br>Dado que el usuario accede a “Síntomas”,<br>Cuando ingresa información,<br>Entonces el sistema guarda los datos.<br><br>**Escenario 2: Validación**<br>Dado que el usuario omite un campo obligatorio,<br>Cuando intenta guardar,<br>Entonces el sistema solicita completar el campo.          |
 
+<p align="center"><b>Tabla 3.10.</b> Detalle de historias de usuario del Epic EP02.</p> 
+
 | ID Épica | Épica                                | ID HU | Título HU                                  | Descripción HU                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                           |
 | -------- | ------------------------------------ | ----- | ------------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP03     | Recomendaciones y Gestión del Estrés | US07  | Recibir recomendaciones personalizadas     | Como usuario, quiero recibir recomendaciones basadas en mi perfil de estrés.  | **Escenario 1: Recomendaciones generadas**<br>Dado que el usuario completó cuestionario y biometría,<br>Cuando accede a recomendaciones,<br>Entonces el sistema muestra sugerencias personalizadas.<br><br>**Escenario 2: Falta de datos**<br>Dado que el usuario no completó su perfil,<br>Cuando intenta ver recomendaciones,<br>Entonces el sistema muestra mensaje indicando datos faltantes. |
 | EP03     | Recomendaciones y Gestión del Estrés | US08  | Realizar ejercicios de respiración guiados | Como usuario, quiero realizar ejercicios guiados para reducir el estrés.      | **Escenario 1: Ejercicio completado**<br>Dado que el usuario selecciona un ejercicio,<br>Cuando lo finaliza,<br>Entonces el sistema registra la actividad.<br><br>**Escenario 2: Interrupción**<br>Dado que el usuario abandona el ejercicio,<br>Cuando regresa,<br>Entonces el sistema permite reiniciar o continuar.                                                                            |
 | EP03     | Recomendaciones y Gestión del Estrés | US09  | Programar pausas activas laborales         | Como usuario, quiero programar pausas para reducir mi carga laboral y estrés. | **Escenario 1: Pausa programada**<br>Dado que el usuario accede a la agenda,<br>Cuando programa una pausa,<br>Entonces el sistema guarda recordatorio.<br><br>**Escenario 2: Notificación**<br>Dado que se acerca la pausa,<br>Cuando llega la hora,<br>Entonces el sistema envía recordatorio.                                                                                                   |
+
+<p align="center"><b>Tabla 3.11.</b> Detalle de historias de usuario del Epic EP03.</p>
 
 | ID Épica | Épica                               | ID HU | Título HU                               | Descripción HU                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                                               |
 | -------- | ----------------------------------- | ----- | --------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1148,11 +1235,15 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | EP04     | Seguimiento y Análisis del Progreso | US11  | Generar informes de progreso            | Como usuario, quiero generar informes para evaluar mis avances.                    | **Escenario 1: Informe generado**<br>Dado que el usuario selecciona un periodo,<br>Cuando solicita un informe,<br>Entonces el sistema genera reporte descargable.<br><br>**Escenario 2: Falta de datos**<br>Dado que el usuario no tiene registros,<br>Cuando intenta generar,<br>Entonces el sistema muestra advertencia.            |
 | EP04     | Seguimiento y Análisis del Progreso | US12  | Registrar desencadenantes de estrés     | Como usuario, quiero registrar situaciones que detonan mi estrés para analizarlas. | **Escenario 1: Registro exitoso**<br>Dado que el usuario accede a “Desencadenantes”,<br>Cuando ingresa información,<br>Entonces el sistema guarda el registro.<br><br>**Escenario 2: Registro incompleto**<br>Dado que el usuario no llena campos obligatorios,<br>Cuando intenta guardar,<br>Entonces el sistema solicita completar. |
 
+<p align="center"><b>Tabla 3.12.</b> Detalle de historias de usuario del Epic EP04.</p>
+
 | ID Épica | Épica                      | ID HU | Título HU                            | Descripción HU                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                  |
 | -------- | -------------------------- | ----- | ------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EP05     | Conexión con Especialistas | US13  | Buscar psicólogos especializados     | Como usuario, quiero buscar psicólogos según especialidad para recibir apoyo. | **Escenario 1: Búsqueda exitosa**<br>Dado que el usuario accede a la búsqueda,<br>Cuando ingresa criterios,<br>Entonces el sistema muestra psicólogos disponibles.<br><br>**Escenario 2: Sin resultados**<br>Dado que no hay coincidencias,<br>Cuando busca,<br>Entonces el sistema muestra mensaje indicando que no hay psicólogos.     |
 | EP05     | Conexión con Especialistas | US14  | Agendar cita con psicólogo           | Como usuario, quiero agendar una cita en línea con un psicólogo.              | **Escenario 1: Cita agendada**<br>Dado que el usuario selecciona especialista y horario,<br>Cuando confirma,<br>Entonces el sistema guarda la cita.<br><br>**Escenario 2: Conflicto de horario**<br>Dado que ya existe una cita en ese horario,<br>Cuando intenta reservar,<br>Entonces el sistema muestra error y solicita otra opción. |
 | EP05     | Conexión con Especialistas | US15  | Compartir informes con especialistas | Como usuario, quiero compartir mis informes de progreso con un psicólogo.     | **Escenario 1: Informe compartido**<br>Dado que el usuario selecciona un informe,<br>Cuando lo envía,<br>Entonces el especialista recibe acceso.<br><br>**Escenario 2: Error de envío**<br>Dado que ocurre una falla,<br>Cuando intenta compartir,<br>Entonces el sistema muestra mensaje de error.                                      |
+
+<p align="center"><b>Tabla 3.13.</b> Detalle de historias de usuario del Epic EP05.</p>
 
 | ID Épica | Épica                      | ID HU | Título HU                         | Descripción HU                                                               | Criterios de Aceptación                                                                                                                                                                                                                                                                                                   |
 | -------- | -------------------------- | ----- | --------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1160,10 +1251,14 @@ Este glosario define los términos clave que usamos en el proyecto para mantener
 | EP06     | Comunidad y Soporte Social | US17  | Acceder a biblioteca de recursos  | Como usuario, quiero acceder a artículos y videos sobre manejo del estrés.   | **Escenario 1: Acceso exitoso**<br>Dado que el usuario accede a la biblioteca,<br>Cuando selecciona un recurso,<br>Entonces el sistema lo abre.<br><br>**Escenario 2: Recurso no disponible**<br>Dado que un recurso fue eliminado,<br>Cuando el usuario lo selecciona,<br>Entonces el sistema notifica indisponibilidad. |
 | EP06     | Comunidad y Soporte Social | US18  | Participar en desafíos antiestrés | Como usuario, quiero unirme a retos que me ayuden a mejorar mi salud mental. | **Escenario 1: Unión a desafío**<br>Dado que el usuario accede a desafíos,<br>Cuando selecciona uno,<br>Entonces el sistema lo registra.<br><br>**Escenario 2: Desafío finalizado**<br>Dado que el reto ya concluyó,<br>Cuando intenta unirse,<br>Entonces el sistema notifica que no está disponible.                    |
 
+<p align="center"><b>Tabla 3.14.</b> Detalle de historias de usuario del Epic EP06.</p>
+
 | ID Épica | Épica                           | ID HU | Título HU                          | Descripción HU                                                                                | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                |
 | -------- | ------------------------------- | ----- | ---------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | EP07     | Integración con Entorno Laboral | US19  | Analizar carga laboral             | Como empleado, quiero registrar y analizar mi carga laboral para identificar estrés laboral.  | **Escenario 1: Registro exitoso**<br>Dado que el usuario ingresa horas trabajadas,<br>Cuando guarda la información,<br>Entonces el sistema calcula carga laboral.<br><br>**Escenario 2: Validación**<br>Dado que el usuario omite datos requeridos,<br>Cuando intenta guardar,<br>Entonces el sistema solicita completarlos.                           |
 | EP07     | Integración con Entorno Laboral | US20  | Recibir recordatorios de ergonomía | Como usuario, quiero recibir recordatorios de ergonomía para cuidar mi postura en el trabajo. | **Escenario 1: Recordatorio enviado**<br>Dado que el usuario configuró notificaciones,<br>Cuando llega el horario programado,<br>Entonces el sistema envía recordatorio.<br><br>**Escenario 2: Notificaciones desactivadas**<br>Dado que el usuario desactiva recordatorios,<br>Cuando llega el horario,<br>Entonces el sistema no envía notificación. |
+
+<p align="center"><b>Tabla 3.15.</b> Detalle de historias de usuario del Epic EP07.</p>
 
 ---
 
@@ -1174,12 +1269,14 @@ Impact Mapping - Segmento 1
 <div>
   <p align="center"><img src="assets/md-images/ImpactMapping_s1.png" alt="Impact mapping segmento 1" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 3.1.</b> Impact Mapping correspondiente al segmento 1 (trabajadores formales).</p>
 
 Impact Mapping - Segmento 2
 
 <div>
   <p align="center"><img src="assets/md-images/ImpactMapping_s2.png" alt="Impact mapping segmento 2" width="700px" /></p>
 </div>
+<p align="center"><b>Figura 3.2.</b> Impact Mapping correspondiente al segmento 2 (trabajadores informales).</p>
 
 ---
 
@@ -1207,6 +1304,7 @@ Impact Mapping - Segmento 2
 | 18        | US18          | Participar en desafíos antiestrés          | 3            |
 | 19        | US19          | Analizar carga laboral                     | 5            |
 | 20        | US20          | Recibir recordatorios de ergonomía         | 2            |
+<p align="center"><b>Tabla 3.16.</b> Product Backlog priorizado de las historias de usuario del proyecto MinDora.</p>
 
 ---
 # 4. Capítulo IV: Product Design  
@@ -1231,6 +1329,7 @@ El logo de *MinDora* combina un perfil humano con un cerebro estilizado y ondas 
 <p align="center">
   <img src="assets/md-images/MINDORALOGO.png" alt="MINDORALOGO" width="500px" />
 </p>  
+<p align="center"><b>Figura 4.1.</b> Logotipo oficial de MinDora.</p> 
 
 #### Tipografía  
 - Fuente Open Sans (familia sans-serif), legible en cualquier dispositivo.
@@ -1240,18 +1339,23 @@ El logo de *MinDora* combina un perfil humano con un cerebro estilizado y ondas 
 
 - **Turquesa Oscuro (#1B6F77):** innovación y confianza.  
 <p align="center"><img src="assets/md-images/1styleguidelines.png" alt="Turquesa Oscuro" width="500px" /></p>  
+<p align="center"><b>Figura 4.2.</b> Color principal: Turquesa Oscuro.</p>
 
 - **Azul Celeste (#4DB6C3):** calma y frescura.  
 <p align="center"><img src="assets/md-images/2styleguidelines.png" alt="Azul Celeste" width="500px" /></p>  
+<p align="center"><b>Figura 4.3.</b> Color secundario: Azul Celeste.</p>
 
 - **Verde Azulado (#2E8B92):** equilibrio emocional.  
 <p align="center"><img src="assets/md-images/3styleguidelines.png" alt="Verde Azulado" width="500px" /></p>  
+<p align="center"><b>Figura 4.4.</b> Color complementario: Verde Azulado.</p>
 
 - **Degradado Azul–Turquesa:** dinamismo y fluidez.  
 <p align="center"><img src="assets/md-images/4styleguidelines.png" alt="Degradado Azul-Turquesa" width="500px" /></p>  
+<p align="center"><b>Figura 4.5.</b> Aplicación del degradado azul–turquesa.</p>
 
 - **Fondo Oscuro (#0F1F21):** contraste y profesionalismo.  
 <p align="center"><img src="assets/md-images/5styleguidelines.png" alt="Fondo Oscuro" width="500px" /></p>  
+<p align="center"><b>Figura 4.6.</b> Fondo oscuro empleado para contrastar elementos visuales.</p>
 
 #### Spacing  
 - Uso de espacios en blanco para evitar saturación visual.  
@@ -1310,7 +1414,7 @@ Las guías de estilo web de *MinDora* definen cómo se aplican los **estándares
 <p align="center">
   <img src="assets/md-images/fondostyleguidelines.png" alt="Fondo Style Guidelines" width="700px" />
 </p>  
-
+<p align="center"><b>Figura 4.7.</b> Fondo visual principal de la interfaz MinDora.</p>
 
 ## 4.2 Information Architecture
 
@@ -1343,6 +1447,7 @@ Las etiquetas de los campos en formularios (nombre, correo, contraseña) se mant
 <p align="center">
   <img src="assets/md-images/hamburguesa.png" alt="PanelHamburguesa" width="500px" />
 </p>  
+<p align="center"><b>Figura 4.8.</b> Menú hamburguesa para navegación en versión móvil.</p>
 
 ---
 
@@ -1372,6 +1477,7 @@ El sistema de búsqueda de MinDora está diseñado para ser comprensible y prác
 | Búsqueda de psicólogos | Acceso al directorio de psicólogos especializados en salud laboral y mental. | Paciente / Profesional de RR.HH. | Filtro por especialidad, disponibilidad y modalidad (online/presencial) |  
 | Búsqueda de informes de progreso | Consulta de reportes gráficos que muestran la evolución del estrés a lo largo del tiempo. | Paciente / Psicólogo | Selector de fecha (semanal, mensual, trimestral) |  
 | Búsqueda de contenidos educativos | Acceso a recursos que explican consejos prácticos sobre gestión del estrés laboral. | Paciente | Palabras clave (ejemplo: ansiedad, concentración, pausas activas) |  
+<p align="center"><b>Tabla 4.1.</b> Funcionalidades del sistema de búsqueda en MinDora.</p>
 
 ---
 
@@ -1405,9 +1511,20 @@ Los *wireframes* representan la estructura base de la interfaz antes de aplicar 
 
 **Wireframes utilizados:**
 
-- ![Wireframe Landing](assets/md-images/wireframelanding.png)  
-- ![Wireframe Login](assets/md-images/wireframelogin.png)  
-- ![Wireframe Register](assets/md-images/wireframeregister.png)  
+<p align="center">
+  <img src="assets/md-images/wireframelanding.png" alt="Wireframe Landing Page" width="700px"/>
+</p>
+<p align="center"><b>Figura 4.9.</b> Wireframe de la Landing Page.</p>
+
+<p align="center">
+  <img src="assets/md-images/wireframelogin.png" alt="Wireframe Login" width="700px"/>
+</p>
+<p align="center"><b>Figura 4.10.</b> Wireframe de la pantalla de inicio de sesión.</p>
+
+<p align="center">
+  <img src="assets/md-images/wireframeregister.png" alt="Wireframe Register" width="700px"/>
+</p>
+<p align="center"><b>Figura 4.11.</b> Wireframe de la pantalla de registro de usuario.</p>
 
 ---
 
@@ -1419,9 +1536,20 @@ En estos diseños se buscó transmitir profesionalismo, confianza y bienestar, c
 
 **Mockups finales:**
 
-- ![Mockup Landing](assets/md-images/mockuplanding.png)  
-- ![Mockup Login](assets/md-images/mockuplogin.png)  
-- ![Mockup Register](assets/md-images/mockupregister.png)  
+<p align="center">
+  <img src="assets/md-images/mockuplanding.png" alt="Mockup Landing Page" width="700px"/>
+</p>
+<p align="center"><b>Figura 4.12.</b> Mock-up final de la Landing Page.</p>
+
+<p align="center">
+  <img src="assets/md-images/mockuplogin.png" alt="Mockup Login" width="700px"/>
+</p>
+<p align="center"><b>Figura 4.13.</b> Mock-up final de la pantalla de inicio de sesión.</p>
+
+<p align="center">
+  <img src="assets/md-images/mockupregister.png" alt="Mockup Register" width="700px"/>
+</p>
+<p align="center"><b>Figura 4.14.</b> Mock-up final de la pantalla de registro.</p>
 
 ---
 
@@ -1441,15 +1569,18 @@ Los wireframes representan la estructura básica de las pantallas clave de la ap
 
 - **Wireframe – Login**
   
-<img src="assets/md-images/wireframelogin.png" alt="Wireframe Login" width="500px"/>
+<p align="center"><img src="assets/md-images/wireframelogin.png" alt="Wireframe Login" width="500px"/></p>
+<p align="center"><b>Figura 4.15.</b> Wireframe – Login de usuario.</p>
 
 - **Wireframe – Register**
 
-<img src="assets/md-images/wireframeregister.png" alt="Wireframe Register" width="500px"/>
+<p align="center"><img src="assets/md-images/wireframeregister.png" alt="Wireframe Register" width="500px"/></p>
+<p align="center"><b>Figura 4.16.</b> Wireframe – Registro de usuario.</p>
 
 - **Wireframe – Landing Page**
 
-<img src="assets/md-images/wireframelanding.png" alt="Wireframe Landing Page" width="500px"/>
+<p align="center"><img src="assets/md-images/wireframelanding.png" alt="Wireframe Landing Page" width="500px"/></p>
+<p align="center"><b>Figura 4.17.</b> Wireframe – Landing Page de MinDora.</p>
 
 ---
 
@@ -1459,7 +1590,8 @@ Los wireflows ilustran cómo se enlazan los wireframes a través de interaccione
 
 - **Wireflow General**
 
-<img src="assets/md-images/wireflows.png" alt="Wireflow MinDora" width="500px"/>
+<p align="center"><img src="assets/md-images/wireflows.png" alt="Wireflow MinDora" width="700px"/></p>
+<p align="center"><b>Figura 4.18.</b> Wireflow general de navegación de usuario.</p>
 
 ---
 
@@ -1469,15 +1601,18 @@ Los mock-ups muestran la versión visual detallada de las pantallas, aplicando l
 
 - **Mock-up – Landing Page**
 
-<img src="assets/md-images/mockuplanding.png" alt="Mockup Landing Page" width="500px"/>
+<p align="center"><img src="assets/md-images/mockuplanding.png" alt="Mockup Landing Page" width="700px"/></p>
+<p align="center"><b>Figura 4.19.</b> Mock-up – Landing Page.</p>
 
 - **Mock-up – Login**
 
-<img src="assets/md-images/mockuplogin.png" alt="Mockup Login" width="500px"/>
+<p align="center"><img src="assets/md-images/mockuplogin.png" alt="Mockup Login" width="700px"/></p>
+<p align="center"><b>Figura 4.20.</b> Mock-up – Login de usuario.</p>
 
 - **Mock-up – Register**
 
-<img src="assets/md-images/mockupregister.png" alt="Mockup Register" width="500px"/>
+<p align="center"><img src="assets/md-images/mockupregister.png" alt="Mockup Register" width="700px"/></p>
+<p align="center"><b>Figura 4.21.</b> Mock-up – Registro de usuario.</p>
 
 ---
 
@@ -1498,7 +1633,7 @@ A continuación presentamos los principales User Goals identificados y sus respe
 | **Unhappy Path** | El usuario deja campos vacíos o ingresa una contraseña inválida → El sistema muestra mensajes de error sin avanzar al siguiente paso. |
 | **Pantallas involucradas** | Wireframe Register → Login. |
 | **Usuario Destinado** | Usuario nuevo. |
-
+<p align="center"><b>Tabla 4.2.</b> User Flow 1 – Registro de nuevo usuario.</p>
 ---
 
 #### User Flow 2: Inicio de sesión
@@ -1510,7 +1645,7 @@ A continuación presentamos los principales User Goals identificados y sus respe
 | **Unhappy Path** | Contraseña incorrecta o email inválido → Se muestra error y se mantiene en la misma pantalla. |
 | **Pantallas involucradas** | Wireframe Login → Landing Page. |
 | **Usuario Destinado** | Usuario recurrente. |
-
+<p align="center"><b>Tabla 4.3.</b> User Flow 2 – Inicio de sesión.</p>
 ---
 
 #### User Flow 3: Exploración de la Landing Page
@@ -1522,7 +1657,7 @@ A continuación presentamos los principales User Goals identificados y sus respe
 | **Unhappy Path** | El usuario no logra encontrar la sección buscada → Recurre al menú principal para reorientarse. |
 | **Pantallas involucradas** | Landing Page (mock-up). |
 | **Usuario Destinado** | Usuarios registrados y no registrados. |
-
+<p align="center"><b>Tabla 4.4.</b> User Flow 3 – Exploración de la Landing Page.</p>
 ---
 
 #### User Flow 4: Contacto con psicólogos
@@ -1534,7 +1669,7 @@ A continuación presentamos los principales User Goals identificados y sus respe
 | **Unhappy Path** | El sistema no carga la información del psicólogo → El usuario recibe un mensaje de error. |
 | **Pantallas involucradas** | Landing Page → Sección Psicólogos. |
 | **Usuario Destinado** | Usuarios interesados en asesoría profesional. |
-
+<p align="center"><b>Tabla 4.5.</b> User Flow 4 – Contacto con psicólogos.</p>
 ---
 
 ## 4.5 Web Applications Prototyping
@@ -1557,7 +1692,8 @@ Los prototipos de escritorio muestran los siguientes flujos clave:
 4. **Exploración de secciones de ejercicios y psicólogos**.  
 
 **Screenshot de ejemplo (Desktop):**  
-<img src="assets/md-images/desktopprototype.png" alt="Prototipo Desktop" width="500px"/>  
+<p align="center"><img src="assets/md-images/desktopprototype.png" alt="Prototipo Desktop" width="700px"/></p>
+<p align="center"><b>Figura 4.22.</b> Prototipo interactivo en versión Desktop.</p>
 
 **Enlace al video de simulación (Microsoft Stream):**  
 👉 [https://tinyurl.com/3ehp8d3k](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/ESPUzlI83qlPntV3adTZ9f0BIte3WfUYWUaoJaWukbfJAw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NTucih)  
@@ -1571,8 +1707,8 @@ Los prototipos móviles priorizan la navegación simplificada en pantallas peque
 3. **Sección de psicólogos optimizada en tarjetas verticales**.  
 4. **Navegación a través del menú hamburguesa**.  
 
-**Screenshot de ejemplo (Mobile):**  
-<img src="assets/md-images/mobileprototype.png" alt="Prototipo Mobile" width="250px"/>  
+<p align="center"><img src="assets/md-images/mobileprototype.png" alt="Prototipo Mobile" width="250px"/></p>
+<p align="center"><b>Figura 4.23.</b> Prototipo interactivo en versión Mobile.</p> 
 
 **Enlace al video de simulación (Microsoft Stream):**  
 👉 [https://tinyurl.com/3kyr7ywp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320574_upc_edu_pe/EfQkEwTtj7tFoolk12GlXqgBNozvOzO3vjmQwn9YERoZ_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cFfbEj)  
@@ -1600,7 +1736,8 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 **Objetivo de la sesión.** Estructurar el dominio en contextos claros, detallar el flujo principal (test de estrés → recomendaciones → contacto profesional) y los cruces entre contextos (suscripciones, notificaciones).
 
 **Captura de la sesión**  
-<img src="assets/md-images/eventstorming.png" alt="Design-Level EventStorming MinDora" width="1000"/>
+<p align="center"><img src="assets/md-images/eventstorming.png" alt="Design-Level EventStorming MinDora" width="1000"/></p>
+<p align="center"><b>Figura 4.24.</b> Design-Level EventStorming de MinDora.</p>
 
 **Bounded Contexts**
 - **Identity & Access (IAM)**: registro, login, autorización.
@@ -1633,7 +1770,8 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 **Descripción.** El sistema MinDora al centro y su relación con actores humanos y sistemas externos (pagos, correo, contenidos de ejercicios).  
 
 **Diagrama**  
-<img src="assets/md-images/c4-1.png" alt="C4 Level 1 - Context Diagram" width="1000"/>
+<p align="center"><img src="assets/md-images/c4-1.png" alt="C4 Level 1 - Context Diagram" width="1000"/></p>
+<p align="center"><b>Figura 4.25.</b> C4 Model – Level 1: Context Diagram.</p>
 
 **Explicación**
 - **Actores**: Paciente/Usuario, Psicólogo, Administrador.  
@@ -1647,7 +1785,8 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 **Descripción.** Elementos de alto nivel, responsabilidades y comunicaciones entre contenedores.
 
 **Diagrama**  
-<img src="assets/md-images/c4-2.png" alt="C4 Level 2 - Container Diagram" width="1000"/>
+<p align="center"><img src="assets/md-images/c4-2.png" alt="C4 Level 2 - Container Diagram" width="1000"/></p>
+<p align="center"><b>Figura 4.26.</b> C4 Model – Level 2: Container Diagram.</p>
 
 **Contenedores y decisiones tecnológicas**
 - **Web Frontend (HTML/CSS/JS)**: interfaz para landing, login/registro, test, actividades y directorio de psicólogos.
@@ -1670,7 +1809,8 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 #### 4.6.4.1 Backend API (Node.js/Express)
 
 **Diagrama**  
-<img src="assets/md-images/c4-3.png" alt="C4 Level 3 - Backend Components" width="1000"/>
+<p align="center"><img src="assets/md-images/c4-3.png" alt="C4 Level 3 - Backend Components" width="1000"/></p>
+<p align="center"><b>Figura 4.27.</b> C4 Model – Level 3: Component Diagram del Backend.</p>
 
 **Componentes y responsabilidades**
 - **API Gateway / Router**: roteo de endpoints, validación básica.
@@ -1693,7 +1833,8 @@ Para comunicar la solución técnica se aplicó C4 Model en tres niveles: Contex
 #### 4.6.4.2 Frontend Web (SPA/MPA)
 
 **Diagrama**  
-<img src="assets/md-images/frontendc4-3.png" alt="C4 Level 3 - Frontend Components" width="1000"/>
+<p align="center"><img src="assets/md-images/frontendc4-3.png" alt="C4 Level 3 - Frontend Components" width="1000"/></p>
+<p align="center"><b>Figura 4.28.</b> C4 Model – Level 3: Component Diagram del Frontend.</p>
 
 **Vistas/Componentes**
 - **Header & Navigation**: navegación global (desktop/mobile).
@@ -1725,7 +1866,8 @@ La propuesta refleja las clases, interfaces, enumeraciones y sus relaciones, inc
 Este diagrama modela el proceso de registro, autenticación y gestión de sesiones.  
 Incluye las clases principales `Usuario`, `Sesion`, y las interfaces de autenticación. Se refleja el uso de `EstadoUsuario` como enumeración para controlar el estado de cada cuenta.  
 
-<img src="assets/md-images/identityclass.png" alt="Identity & Access UML" width="700px"/>
+<p align="center"><img src="assets/md-images/identityclass.png" alt="Identity & Access UML" width="700px"/></p>
+<p align="center"><b>Figura 4.29.</b> Diagrama de clases – Identity & Access (IAM).</p>
 
 ---
 
@@ -1734,7 +1876,8 @@ Incluye las clases principales `Usuario`, `Sesion`, y las interfaces de autentic
 El diagrama de **Notificaciones** modela cómo se generan, envían y marcan como enviadas o fallidas las notificaciones al usuario.  
 Se incluyen enumeraciones para `Canal` y `EstadoEnvio`, así como la relación con el `ServicioCorreo` y el `SMTPProvider`.  
 
-<img src="assets/md-images/notificationsclass.png" alt="Notifications UML" width="700px"/>
+<p align="center"><img src="assets/md-images/notificationsclass.png" alt="Notifications UML" width="700px"/></p>
+<p align="center"><b>Figura 4.30.</b> Diagrama de clases – Notifications.</p>
 
 ---
 
@@ -1743,7 +1886,8 @@ Se incluyen enumeraciones para `Canal` y `EstadoEnvio`, así como la relación c
 Este diagrama describe la gestión de planes de suscripción, pagos y la interacción con la pasarela de pagos.  
 Las entidades `Suscripcion`, `Pago` y `RespuestaPago` se relacionan con enumeraciones como `EstadoSuscripcion`, `EstadoPago` y `MetodoPago`.  
 
-<img src="assets/md-images/subscriptionsclass.png" alt="Subscriptions & Payments UML" width="900px"/>
+<p align="center"><img src="assets/md-images/subscriptionsclass.png" alt="Subscriptions & Payments UML" width="900px"/></p>
+<p align="center"><b>Figura 4.31.</b> Diagrama de clases – Subscriptions & Payments.</p>
 
 ---
 
@@ -1752,7 +1896,8 @@ Las entidades `Suscripcion`, `Pago` y `RespuestaPago` se relacionan con enumerac
 Este diagrama representa la gestión del directorio de psicólogos, incluyendo la relación entre `Psicologo`, `SolicitudContacto`, `Agenda` y `Slot`.  
 Las enumeraciones `Especialidad` y `EstadoSolicitud` permiten organizar la lógica del directorio.  
 
-<img src="assets/md-images/professionalsclass.png" alt="Professionals Directory UML" width="800px"/>
+<p align="center"><img src="assets/md-images/professionalsclass.png" alt="Professionals Directory UML" width="800px"/></p>
+<p align="center"><b>Figura 4.32.</b> Diagrama de clases – Professionals Directory.</p>
 
 ---
 
@@ -1761,7 +1906,9 @@ Las enumeraciones `Especialidad` y `EstadoSolicitud` permiten organizar la lógi
 Este diagrama modela la creación y seguimiento de planes de actividades recomendadas para los usuarios.  
 Incluye las clases `PlanActividad` y `Actividad`, con las enumeraciones `TipoActividad` y `EstadoActividad` para clasificar las tareas y su progreso.  
 
-<img src="assets/md-images/recommendationsclass.png" alt="Recommendations & Activities UML" width="400px"/>
+
+<p align="center"><img src="assets/md-images/recommendationsclass.png" alt="Recommendations & Activities UML" width="400px"/></p>
+<p align="center"><b>Figura 4.33.</b> Diagrama de clases – Recommendations & Activities.</p>
 
 ---
 
@@ -1770,7 +1917,8 @@ Incluye las clases `PlanActividad` y `Actividad`, con las enumeraciones `TipoAct
 El diagrama de **Stress Test & Support** refleja el modelado de pruebas psicológicas y el cálculo de resultados.  
 Las entidades principales son `TestEstres`, `Respuesta` y `Resultado`, con la enumeración `NivelEstres` para categorizar los niveles obtenidos.  
 
-<img src="assets/md-images/stressclass.png" alt="Stress Test & Support UML" width="400px"/>
+<p align="center"><img src="assets/md-images/stressclass.png" alt="Stress Test & Support UML" width="400px"/></p>
+<p align="center"><b>Figura 4.34.</b> Diagrama de clases – Stress Test & Support.</p>
 
 ---
 
@@ -1779,7 +1927,8 @@ Las entidades principales son `TestEstres`, `Respuesta` y `Resultado`, con la en
 Este diagrama presenta la gestión de perfiles de usuario y sus preferencias de notificación.  
 Incluye la clase `Perfil`, que se relaciona con `Preferencias`, junto a las enumeraciones `Genero` y `CanalNotificacion`.  
 
-<img src="assets/md-images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/>
+<p align="center"><img src="assets/md-images/profilesclass.png" alt="Profiles & Preferences UML" width="600px"/></p>
+<p align="center"><b>Figura 4.35.</b> Diagrama de clases – Profiles & Preferences.</p>
 
 ## 4.8 Database Design
 
@@ -1811,9 +1960,8 @@ El siguiente diagrama muestra las entidades principales de la base de datos y su
 ---
 
 ### Diagrama ER  
-<p align="center">
-  <img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="700"/>
-</p> 
+<p align="center"><img src="assets/md-images/basededatosmindora.png" alt="basededatosmindora" width="700"/></p> 
+<p align="center"><b>Figura 4.36.</b> Diagrama entidad-relación (ER) de la base de datos MinDora.</p>
 
 ---
 
@@ -1839,6 +1987,7 @@ La gestión de los proyectos tiene como objetivo mejorar los procesos y su entor
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.1.</b> Herramienta de gestión de proyectos: Trello.</p>
 
 **Requirements Management:**
 
@@ -1854,6 +2003,7 @@ Es el proceso de garantizar que una organización documente verifique y satisfag
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.2.</b> Herramienta de gestión de requerimientos: Pivotal Tracker.</p>
 
 **Product UX/UI Design:**
 
@@ -1869,6 +2019,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.3.</b> Herramienta de mapeo de experiencia de usuario: Uxpressia.</p>
 
 * **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
 
@@ -1880,6 +2031,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.4.</b> Herramienta de pizarra colaborativa: Miro.</p>
 
 * **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Landing Page.
 
@@ -1891,6 +2043,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.5.</b> Herramienta de prototipado: Figma.</p>
 
 * **LucidChart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama. 
 
@@ -1902,6 +2055,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.6.</b> Herramienta para diagramación UML: Lucidchart.</p>
 
 * **Structurizr:** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
 
@@ -1913,6 +2067,7 @@ Nos permite desarrollar el modelo en nuestro producto de manera digital y forme 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.7.</b> Herramienta para modelado C4: Structurizr.</p>
 
 **Software Development:**
 
@@ -1928,6 +2083,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.8.</b> Plataforma de control de versiones: GitHub.</p>
 
 * **WebStorm:** Es un entorno de JetBrains, empresa desarrolladora de Software. Este nos ofrece facilidad en probar nuestro entorno web en navegadores web. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS y TypeScript.
 
@@ -1942,6 +2098,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
 </table>
 
 * **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web.
+<p align="center"><b>Tabla 5.9.</b> Entorno de desarrollo web: WebStorm.</p>
 
 
 <table>
@@ -1953,6 +2110,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.10.</b> Recurso de documentación HTML en WebStorm.</p>
 
 * **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. 
 
@@ -1965,6 +2123,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.11.</b> Recurso de documentación CSS en WebStorm.</p>
 
 
 * **TypeScript:** Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases
@@ -1978,6 +2137,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.12.</b> Recurso oficial del lenguaje TypeScript.</p>
 
 * **Angular:**  Framework de TypeScript, de código abierto, utilizado para desarrollar SPA(Single Page Application). 
 
@@ -1989,6 +2149,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.13.</b> Framework para SPA: Angular.</p>
 
 **Software Testing:**
 
@@ -2008,6 +2169,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+<p align="center"><b>Tabla 5.14.</b> Servicio de hosting estático: GitHub Pages.</p>
 
 ### 5.1.2. Source Code Management
 En esta sección se presenta la gestión de código fuente o como es conocido por sus siglas en inglés SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizará a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se emplea como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos GitHub.
@@ -2086,6 +2248,7 @@ Este entregable representa la primera versión funcional del producto, que comun
 | **Sprint 1 Goal** | **Our focus is on** designing, developing, and deploying the first functional version of *MinDora*, including modules for user registration, login, stress test, and subscription plans.<br>**We believe it delivers** the foundation of the platform, enabling user interaction and presenting the product’s value proposition.<br>**This will be confirmed when** the website is fully responsive, includes the complete registration and subscription flow, and is deployed on GitHub Pages.<br><br>**Traducción:** Nuestro enfoque está en diseñar, desarrollar y desplegar la primera versión funcional de *MinDora*, incluyendo los módulos de registro, ingreso, test de estrés y suscripción. Creemos que esto entregará la base del producto, permitiendo la interacción del usuario y mostrando la propuesta de valor. Esto se confirmará cuando el sitio sea completamente adaptable y desplegado en GitHub Pages. |
 | **Sprint 1 Velocity** | Se desarrollaron **7 historias de usuario**, con un total de **29 Story Points.** |
 | **Sum of Story Points** | 29 |
+<p align="center"><b>Tabla 5.15.</b> Resumen de la planificación del Sprint 1.</p>
 
 ---
 
@@ -2495,112 +2658,6 @@ El trabajo colaborativo permitió que las integraciones se realizaran sin confli
 
 ---
 
-## 5.2.4. Sprint 4
-
-### 5.2.4.1. Sprint Planning 4
-
-El cuarto sprint se centró en **integrar completamente el Frontend con el Backend**, finalizar todas las funcionalidades pendientes del sistema MinDora, mejorar la experiencia de usuario y realizar el despliegue final del producto.  
-Durante esta iteración se completó la conexión real entre la aplicación web y la API en Spring Boot, se cerraron historias pendientes y se validó el funcionamiento completo del sistema con pruebas end-to-end.
-
-| **Sprint #** | **Sprint 4** |
-|---------------|--------------|
-| **Date** | 2025-10-22 |
-| **Time** | 8:00 PM |
-| **Location** | Microsoft Teams (Reunión virtual) |
-| **Prepared By** | Sebastián De Las Casas Latour |
-| **Attendees (to planning meeting)** | Juan José Meza Huanacune / Sebastián De Las Casas Latour / Eduardo Fabián Chacaliaza Minaya / Fabricio Fabián Quispe Barzola / Manuel Fernando Joao Castro Picón |
-| **Sprint 3 – Review Summary** | En el Sprint 3 se implementó el backend con Spring Boot, incluyendo endpoints de test de estrés, métricas, recomendaciones, psicólogos, citas y autenticación. El backend quedó listo para ser integrado con la Web App. |
-| **Sprint 3 – Retrospective Summary** | El equipo identificó la necesidad de mejorar la integración frontend-backend, estandarizar el consumo de servicios y optimizar la comunicación del equipo para el cierre del proyecto. Se acordó reforzar pruebas E2E y mejorar la calidad del código antes del despliegue final. |
-| **Sprint Goal & User Stories** |  |
-| **Sprint 4 Goal** | **Our focus is on** integrating the Frontend with the Backend, finalizing pending features, improving UI/UX, and deploying MinDora as a fully functional product.<br>**We believe it delivers** a production-ready emotional wellness system with real metrics, recommendations, psychologist searches, and appointment management.<br>**This will be confirmed when** the platform runs smoothly with real API data, the deployment is completed, and all features pass E2E testing.<br><br>**Traducción:** Nuestro enfoque está en integrar el Frontend con el Backend, finalizar las funcionalidades pendientes, mejorar UI/UX y desplegar MinDora como un producto completamente funcional. Esto se confirmará cuando la plataforma funcione de manera fluida con datos reales y el despliegue sea exitoso. |
-| **Sprint 4 Velocity** | Se completaron **11 historias de usuario**, con un total de **~46 Story Points.** |
-| **Sum of Story Points** | 46 |
-
----
-
-### 5.2.4.2. Aspect Leaders and Collaborators
-
-En este sprint se mantuvo la lógica LACX, con un enfoque fuerte en integración y despliegue.
-
-| **Miembro del equipo** | **GitHub Username** | **Frontend (Angular/UI)** | **Backend (Spring Boot)** | **API Integration** | **Testing & QA** | **Deployment** |
-|--------------------------|---------------------|------------------------------|-------------------------------|----------------------|-------------------|----------------|
-| Manuel Fernando Joao Castro Picón | @YunyinProgram | C | L | C | L | C |
-| Sebastián De Las Casas Latour | @U202213553 | L | C | L | C | C |
-| Eduardo Fabián Chacaliaza Minaya | @dedumcz | L | – | C | C | L |
-| Fabricio Fabián Quispe Barzola | @brooklynkarmis | – | – | – | L | C |
-| Juan José Meza Huanacune | @JuanMH1250 | C | L | L | C | L |
-
----
-
-### 5.2.4.3. Sprint Backlog 4
-
-El *Sprint Backlog 4* consolidó las funcionalidades pendientes de sprints previos y añadió las tareas necesarias para la integración y el despliegue final del producto.
-
-| **Sprint #** | **Sprint 4** |
-|---------------|--------------|
-| **User Story ID** | **Work-Item / Task** | **Descripción** | **Estimación (Horas)** | **Asignado a** | **Estado** |
-| **US05** | Completar análisis biométrico | Finalizar visualización y métricas finales del test. | 3 | Manuel / Sebastián | Done |
-| **US09** | Finalizar pausas activas | Completar recordatorios y persistencia local. | 3 | Fabricio / Juan | Done |
-| **US11** | Refinar informes de progreso | Ajustes de gráficos y cálculos reales. | 4 | Sebastián / Eduardo | Done |
-| **US14** | Integración real del agendamiento | Conectar creación/edición/cancelación de citas a la API. | 4 | Juan / Manuel | Done |
-| **US31** | Dashboard ↔ API Integration | Conectar métricas y recomendaciones desde backend. | 6 | Sebastián / Eduardo | Done |
-| **US32** | Login con JWT | Implementar autenticación real con Spring Boot. | 5 | Manuel / Juan | Done |
-| **US33** | Psicólogos ↔ API Integration | Sincronizar búsqueda y tarjetas con backend. | 4 | Sebastián / Manuel | Done |
-| **US34** | Módulo de citas ↔ API | Integrar reserva, reprogramación y cancelación. | 5 | Juan / Eduardo | Done |
-| **US35** | Refinamiento UI/UX | Responsividad, A11y, microinteracciones, estilo global. | 4 | Fabricio / Eduardo | Done |
-| **US36** | Pruebas E2E | Validación completa del flujo de usuario. | 6 | Todo el equipo | Done |
-| **US37** | Deployment final | Desplegar frontend y backend para producción. | 6 | Equipo | Done |
-
----
-
-### 5.2.4.4. Development Evidence for Sprint Review
-
-Durante este sprint se desarrolló la integración completa con la API y se preparó el producto para su despliegue final.
-
-| **Repositorio** | **Branch** | **Commit Id** | **Mensaje del Commit** | **Descripción** | **Fecha** |
-|------------------|------------|----------------|--------------------------|------------------|------------|
-| /mindora-frontend | feature/angular-integration | c91f2ab | feat(api): connected dashboard to spring services | Conexión del Dashboard a las métricas y recomendaciones reales. | 2025-10-22 |
-| /mindora-frontend | feature/auth-jwt | 1b2ca77 | feat(auth): implemented JWT login flow | Autenticación real usando Spring Boot y JWT. | 2025-10-22 |
-| /mindora-frontend | feature/appointments-sync | f51a9e3 | feat(appointments): wired booking module to API | Integración real del módulo de citas. | 2025-10-23 |
-| /mindora-backend | feature/swagger-update | 5fe17af | docs(api): updated swagger endpoints | Actualización final de documentación OpenAPI. | 2025-10-23 |
-| /mindora-backend | feature/final-fixes | 8dcebe1 | fix(services): improved metrics engine | Ajustes finales en servicios del backend. | 2025-10-24 |
-| /mindora-frontend | main | 9f812e2 | chore(deploy): final build and firebase deploy | Despliegue final del frontend. | 2025-10-25 |
-| /mindora-backend | main | af92cd7 | chore(deploy): backend deployment on Render | Deploy final del backend. | 2025-10-25 |
-
----
-
-### 5.2.4.5. Execution Evidence for Sprint Review
-
-Se realizaron pruebas de funcionamiento completo en la versión integrada del sistema, validando:
-
-- Inicio de sesión con JWT  
-- Registro conectado a backend  
-- Test de estrés funcional  
-- Dashboard con métricas reales  
-- Recomendaciones dinámicas  
-- Búsqueda de psicólogos conectada a la API  
-- Módulo de citas completamente operativo  
-- Navegación fluida y responsiva  
-- Comprobación en múltiples dispositivos  
-
-> *(Insertar capturas reales aquí: Dashboard, JWT Login, Psicólogos, Citas, Swagger)*
-
----
-
-### 5.2.4.6. Services Documentation Evidence for Sprint Review
-
-Los servicios documentados en este sprint incluyen:
-
-#### Scripts del Frontend (Angular Services)
-- `auth.service.ts`  
-- `stress.service.ts`  
-- `metrics.service.ts`  
-- `recommendations.service.ts`  
-- `professionals.service.ts`  
-- `appointments.service.ts`
-
-#### Endpoints consumidos del Backend:
-
 ## 5.3. Validation Interviews.
 
 # 5.3.1. Diseño de Entrevistas
@@ -2857,7 +2914,7 @@ Se generaron y presentaron los siguientes videos como evidencia del trabajo real
 - **About the Product**: Video promocional presentando MinDora, su propuesta de valor y beneficios.  
 - **About the Team**: Video del equipo explicando el proceso de trabajo, testimonios y aprendizajes obtenidos.  
 
-Cada video fue subido a **Microsoft Stream** y vinculado en el repositorio del proyecto.  
+Cada video fue subido a **Microsoft Stream** y vinculado en el repositorio del proyecto.  uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
 ---
 
