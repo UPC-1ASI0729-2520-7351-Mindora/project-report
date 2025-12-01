@@ -2731,6 +2731,8 @@ Resumen de los puntos clave en la entrevista:
 - Considera que la responsividad está bien lograda, ya que el contenido se adapta adecuadamente a pantallas pequeñas.
 - Sugirió incluir pequeñas animaciones o micro-interacciones para hacer la experiencia aún más dinámica y atractiva.
 
+  ---
+
 - **Nombre:** Eduardo Díaz Veliz  
 - **Sexo:** Masculino  
 - **Edad:** 23  
@@ -2752,6 +2754,7 @@ Resumen de los puntos clave en la entrevista:
 - Señaló que el Test de Estrés es rápido, directo y fácil de usar, lo cual considera crucial para no generar estrés adicional al usuario.
 - Resaltó que la página de Suscripción es una de las más sólidas, con planes claramente diferenciados y un diseño elegante.
 - Considera que todo el frontend mantiene una coherencia visual fuerte, ofreciendo un flujo continuo y bien estructurado.
+  
 ---
 
 **Segmento 2: Trabajadores informales o con horarios flexibles**
@@ -2782,6 +2785,8 @@ Resumen de los puntos clave en la entrevista:
 - Sugiere incluir una guía rápida para nuevos usuarios en la landing page.  
 - Las funciones de login, perfil y suscripciones le parecieron útiles, especialmente si se integran con recordatorios personalizados.
 
+---
+
 - **Nombre:** Jesús Manrique  
 - **Sexo:** Masculino  
 - **Edad:** 24  
@@ -2790,7 +2795,7 @@ Resumen de los puntos clave en la entrevista:
 
 **Detalles de la entrevista:**
 
-- **Duración:** 11:05 minutos  
+- **Duración:** 4:50 minutos  
 - **Link:** https://tinyurl.com/5am3tasn
 
 **Resumen de los puntos clave de la entrevista:**
