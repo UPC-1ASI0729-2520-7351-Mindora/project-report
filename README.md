@@ -2926,7 +2926,7 @@ Resumen de los puntos clave en la entrevista:
 
 ---
 
-- **Nombre:** Varómetro  
+- **Nombre:** Óscar
 - **Sexo:** Masculino  
 - **Edad:** 31  
 - **Estado Civil:** Soltero  
