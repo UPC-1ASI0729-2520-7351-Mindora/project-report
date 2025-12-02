@@ -217,7 +217,16 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
          5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
          5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
          5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
-         5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+         5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)  
+      5.2.3. [Sprint 4](#524-sprint-4)  
+         5.2.3.1. [Sprint Planning 4](#5241-sprint-planning-4)  
+         5.2.3.2. [Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)  
+         5.2.3.3. [Sprint Backlog 4](#5243-sprint-backlog-4)  
+         5.2.3.4. [Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)  
+         5.2.3.5. [Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+         5.2.3.6. [Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+         5.2.3.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+         5.2.3.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
 
    5.3. [Validation Interviews](#53-validation-interviews)  
@@ -226,13 +235,13 @@ En conjunto, las capturas reflejan el cumplimiento de los objetivos de colaborac
       5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
    5.4. [Video About-the-Product](#54-video-about-the-product)
 
-6. [Conclusiones](#6-conclusiones)  
+7. [Conclusiones](#6-conclusiones)  
    6.1. [Conclusiones](#61-conclusiones)  
    6.2. [Recomendaciones](#62-recomendaciones)
 
-7. [Bibliografía](#7-bibliografía)
+8. [Bibliografía](#7-bibliografía)
 
-8. [Anexos](#8-anexos)
+9. [Anexos](#8-anexos)
 
 ---
 # Student Outcome
